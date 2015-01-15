@@ -1,0 +1,58 @@
+#!/usr/bin/python
+import pgn
+from itertools import izip
+import re
+import math
+import sys
+import json
+
+def extractPawnValue(txt):
+    re1='(\\{)' # Any Single Character 1
+    re2='(\\d+)'    # Integer Number 1
+    re3='(:)'   # Any Single Character 2
+    re4='([+-]?\\d*\\.\\d+)(?![-+0-9\\.])'  # Float 1
+    re5='(\\})' # Any Single Character 3
+
+    rg = re.compile(re1+re2+re3+re4+re5,re.IGNORECASE|re.DOTALL)
+    m = rg.search(txt)
+    if m:
+        return float(m.group(4))
+    else:
+        print txt
+        raise "Failed to find pawn value"
+
+def pairwise(iterable):
+    "s -> (s0,s1), (s2,s3), (s4, s5), ..."
+    a = iter(iterable)
+    return izip(a, a)
+
+def bucket(rating):
+    if rating == '?':
+        return -1
+    if int(rating) < 2000:
+        return 0
+    else:
+        return (int(rating) - 2000) / 25
+
+game = pgn.loads(open(sys.argv[1]).read())[0]
+
+moves = game.moves[3:-1]
+
+while True:
+    opens =  [i for i, x in enumerate(moves) if isinstance(x ,basestring) and "(" in x]
+    closes =  [i for i, x in enumerate(moves) if isinstance(x ,basestring) and ")" in x]
+
+    if not opens:
+        break
+
+    moves[opens[0]:closes[1] + 1] = [math.fabs(extractPawnValue(moves[opens[0] + 1]) - extractPawnValue(moves[opens[1] + 1]))]
+
+res = [{"elo" : int(game.whiteelo), "date": game.date, "blunders" : [0 for i in range(10)]},
+       {"elo" : int(game.blackelo), "date": game.date, "blunders" : [0 for i in range(10)]}]
+
+for i, move in enumerate(moves):
+    score = 0 if isinstance(move, basestring) else int(math.floor(move))
+    if score < 10:
+        res[i%2]["blunders"][score] += 1
+
+print json.dumps(res)
