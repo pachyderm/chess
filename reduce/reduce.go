@@ -5,6 +5,7 @@ import (
 	"io"
 	"log"
 	"net/http"
+	"strconv"
 )
 
 type Game struct {
@@ -13,10 +14,10 @@ type Game struct {
 	Blunders []int  `json:"blunders"`
 }
 
-var blundersByRating map[int][10]int = make(map[int][10]int)
+var blundersByRating map[string][10]int = make(map[string][10]int)
 
-func bucket(rating int) int {
-	return (rating / 25) * 25
+func bucket(rating int) string {
+	return strconv.Itoa((rating / 25) * 25)
 }
 
 func handler(w http.ResponseWriter, r *http.Request) {
@@ -28,6 +29,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 			break
 		} else if err != nil {
 			http.Error(w, err.Error(), 500)
+			return
 		}
 		blunders := blundersByRating[bucket(g.Elo)]
 		for i, value := range g.Blunders {

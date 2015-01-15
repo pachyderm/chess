@@ -8,8 +8,9 @@ RUN apt-get update && apt-get install -y crafty crafty-books-medium && rm -rf /v
 RUN cp /usr/share/doc/crafty/setup_crafty.sh . && chmod +x setup_crafty.sh && ./setup_crafty.sh && rm setup_crafty.sh
 RUN pip install pgnparser
 
-ADD map /bin/map
-ADD crafty-to-json /bin/crafty-to-json
+ADD map/map /bin/map
+ADD map/crafty-to-json /bin/crafty-to-json
+ADD reduce/reduce /bin/reduce
 
 EXPOSE 80
 CMD /bin/crafty-server
