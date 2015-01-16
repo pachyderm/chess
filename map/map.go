@@ -17,14 +17,17 @@ func runCrafty(game string, out io.Writer) error {
 		c := exec.Command("/usr/games/crafty")
 		stdin, err := c.StdinPipe()
 		if err != nil {
+			log.Print(err)
 			return err
 		}
 		stderr, err := c.StderrPipe()
 		if err != nil {
+			log.Print(err)
 			return err
 		}
 		err = c.Start()
 		if err != nil {
+			log.Print(err)
 			return err
 		}
 		fmt.Fprintf(stdin, "annotate %s wb 1-999 1 2\r\n", game)
@@ -39,6 +42,7 @@ func runCrafty(game string, out io.Writer) error {
 		log.Print("Waiting for crafty...")
 		err = c.Wait()
 		if err != nil {
+			log.Print(err)
 			return err
 		}
 		log.Print("Done")
@@ -48,19 +52,23 @@ func runCrafty(game string, out io.Writer) error {
 		c := exec.Command("/bin/crafty-to-json", game+".can")
 		stdout, err := c.StdoutPipe()
 		if err != nil {
+			log.Print(err)
 			return err
 		}
 		stderr, err := c.StderrPipe()
 		if err != nil {
+			log.Print(err)
 			return err
 		}
 		err = c.Start()
 		if err != nil {
+			log.Print(err)
 			return err
 		}
 
 		_, err = io.Copy(out, stdout)
 		if err != nil {
+			log.Print(err)
 			return err
 		}
 
@@ -73,6 +81,7 @@ func runCrafty(game string, out io.Writer) error {
 		log.Print("Waiting for crafty...")
 		err = c.Wait()
 		if err != nil {
+			log.Print(err)
 			return err
 		}
 		log.Print("Done")
@@ -85,6 +94,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 	log.Print("Start")
 	f, err := ioutil.TempFile("", "game")
 	if err != nil {
+		log.Print(err)
 		http.Error(w, err.Error(), 500)
 		return
 	}
@@ -92,12 +102,14 @@ func handler(w http.ResponseWriter, r *http.Request) {
 	//defer os.Remove(f.Name())
 	_, err = io.Copy(f, r.Body)
 	if err != nil {
+		log.Print(err)
 		http.Error(w, err.Error(), 500)
 		return
 	}
 
 	err = runCrafty(f.Name(), w)
 	if err != nil {
+		log.Print(err)
 		http.Error(w, err.Error(), 500)
 		return
 	}

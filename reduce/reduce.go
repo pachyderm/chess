@@ -28,6 +28,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 		if err := dec.Decode(&g); err == io.EOF {
 			break
 		} else if err != nil {
+			log.Print(err)
 			http.Error(w, err.Error(), 500)
 			return
 		}
@@ -39,7 +40,9 @@ func handler(w http.ResponseWriter, r *http.Request) {
 	}
 	err := json.NewEncoder(w).Encode(blundersByRating)
 	if err != nil {
+		log.Print(err)
 		http.Error(w, err.Error(), 500)
+		return
 	}
 }
 
