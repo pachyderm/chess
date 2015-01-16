@@ -1,4 +1,5 @@
 #!/usr/bin/python
+from __future__ import print_function
 import pgn
 from itertools import izip
 import re
@@ -7,7 +8,6 @@ import sys
 import json
 
 def extractPawnValue(txt):
-    print "Extracting from: ", txt
     re1='(\\{)' # Any Single Character 1
     re2='(\\d+)'    # Integer Number 1
     re3='(:)'   # Any Single Character 2
@@ -19,7 +19,7 @@ def extractPawnValue(txt):
     if m:
         return float(m.group(4))
     else:
-        print txt
+        print("Extrating from:" , txt, file=sys.stderr)
         raise "Failed to find pawn value"
 
 game = pgn.loads(open(sys.argv[1]).read())[0]
@@ -35,11 +35,8 @@ while True:
 
     moves[opens[0]:closes[1] + 1] = [math.fabs(extractPawnValue(moves[opens[0] + 1]) - extractPawnValue(moves[opens[1] + 1]))]
 
-res = []
-if game.whiteelo != '?':
-    res.append({"elo" : int(game.whiteelo), "date": game.date, "blunders" : [0 for i in range(10)]})
-if game.blackelo != '?':
-    res.append({"elo" : int(game.blackelo), "date": game.date, "blunders" : [0 for i in range(10)]})
+res = [{"elo" : game.whiteelo, "date": game.date, "blunders" : [0 for i in range(10)]},
+       {"elo" : game.blackelo, "date": game.date, "blunders" : [0 for i in range(10)]}]
 
 for i, move in enumerate(moves):
     score = 0 if isinstance(move, basestring) else int(math.floor(move))
@@ -47,4 +44,6 @@ for i, move in enumerate(moves):
         res[i%2]["blunders"][score] += 1
 
 for v in res:
-    print json.dumps(v)
+    if v["elo"] != '?':
+        v["elo"] = int(v["elo"])
+        print(json.dumps(v))
