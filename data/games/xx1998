@@ -1,0 +1,31 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.05"]
+[EventDate "2014.03.04"]
+[Round "3.61"]
+[Result "0-1"]
+[White "Johan-Sebastian Christiansen"]
+[Black "Tyler Longo"]
+[ECO "A13"]
+[WhiteElo "2209"]
+[BlackElo "1961"]
+[PlyCount "176"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 dxc4 5. Qa4+ c6 6. Qxc4 b5
+7. Qc2 Bb7 8. Nc3 Nbd7 9. a4 a6 10. O-O Be7 11. Re1 O-O 12. d3
+Rc8 13. h3 Qb6 14. e4 e5 15. Bg5 h6 16. Be3 c5 17. Nh4 Rfd8
+18. Nf5 Bf8 19. Qb3 Bc6 20. Kh2 bxa4 21. Qc2 Rb8 22. Re2 Qb3
+23. Qc1 Nb6 24. Rd2 Rd7 25. Bf1 c4 26. Bxb6 Qxb6 27. Ne3 cxd3
+28. Bg2 Bc5 29. Nc4 Qc7 30. Nxa4 Bb4 31. Nc3 Bxc3 32. Qxc3
+Nxe4 33. Bxe4 Bxe4 34. Nxe5 Qxc3 35. bxc3 Rd6 36. f3 Bh7
+37. Rad1 Re8 38. Ng4 Rc8 39. Ne3 Rxc3 40. Kg2 Kf8 41. Kf2 Rdc6
+42. Rb1 Rc1 43. Rb8+ Rc8 44. Rdb2 a5 45. Rxc8+ Rxc8 46. Ke1
+Rc5 47. Rb7 g5 48. Kd2 h5 49. Rb6 Bg6 50. h4 Ke7 51. Ra6 Kd7
+52. hxg5 Rxg5 53. Ra7+ Ke6 54. f4 Rc5 55. Ra6+ Ke7 56. Rb6 Be4
+57. Ra6 Rb5 58. Nc4 Rb4 59. Ne3 Rb2+ 60. Kc3 Re2 61. Nd1 Rc2+
+62. Kd4 f5 63. Ne3 Ra2 64. Ra7+ Kd8 65. Ra6 Kc7 66. Kc3 d2
+67. Rf6 a4 68. Rf7+ Kc6 69. Rf8 Bf3 70. Rd8 d1=Q 71. Nxd1 Bxd1
+72. Rxd1 Ra3+ 73. Kd4 Rxg3 74. Ke5 h4 75. Kxf5 h3 76. Rh1 a3
+77. Rh2 Kd5 78. Kf6 Ke4 79. f5 Kf4 80. Rf2+ Rf3 81. Ra2 Kg3
+82. Kg7 h2 83. Ra1 Kg2 84. Ra2+ Rf2 85. Rxf2+ Kxf2 86. f6 h1=Q
+87. f7 Qf3 88. Kh8 a2 0-1

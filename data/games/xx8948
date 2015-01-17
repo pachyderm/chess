@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.72"]
+[Result "0-1"]
+[White "Paul Wojciechowski"]
+[Black "Fred A Hamperl"]
+[ECO "B30"]
+[WhiteElo "2056"]
+[BlackElo "2119"]
+[PlyCount "56"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 Nf6 6. O-O O-O
+7. g3 d6 8. Nh4 Bh3 9. Ng2 Nd4 10. f3 Qd7 11. Rf2 b5 12. Bd5
+Rac8 13. Ne3 Be6 14. Ne2 Bxd5 15. exd5 Bd8 16. c4 bxc4
+17. dxc4 Re8 18. b3 e4 19. Nxd4 cxd4 20. Qxd4 Bb6 21. Qc3 exf3
+22. Rxf3 Nxd5 23. Qd3 Nb4 24. Qc3 Qb7 25. Kg2 Bxe3 26. Bxe3
+Nd5 27. Qd4 Nxe3+ 28. Kf2 Nc2 0-1

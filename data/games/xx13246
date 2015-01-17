@@ -1,0 +1,17 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.04"]
+[EventDate "2014.03.04"]
+[Round "1.76"]
+[Result "0-1"]
+[White "Svante Norlander"]
+[Black "Michael Wunnink"]
+[ECO "C29"]
+[WhiteElo "1754"]
+[BlackElo "2251"]
+[PlyCount "40"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. d3 Nc6 5. Nf3 dxe4 6. Nxe5 Bf5
+7. Nxc6 bxc6 8. d4 Bb4 9. a3 Ba5 10. Ba6 Nd5 11. Bb7 Nxc3
+12. Qd2 O-O 13. Bxc6 e3 14. Qxe3 Nd5+ 15. c3 Nxe3 16. Bxe3 Rb8
+17. b4 Bb6 18. O-O Qf6 19. Bf3 Rfe8 20. Bd2 Bxd4+ 0-1

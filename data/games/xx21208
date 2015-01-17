@@ -1,0 +1,21 @@
+[Event "Bundesliga"]
+[Site "Viernheim GER"]
+[Date "2014.03.15"]
+[EventDate "2013.10.12"]
+[Round "11"]
+[Result "1-0"]
+[White "Sebastian Bogner"]
+[Black "Sebastien Maze"]
+[ECO "E38"]
+[WhiteElo "2552"]
+[BlackElo "2550"]
+[PlyCount "73"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. a3
+Bxc3+ 7. Qxc3 Nxc5 8. b4 Nce4 9. Qd4 d5 10. c5 h6 11. f3 Ng5
+12. h4 Ngh7 13. g4 O-O 14. g5 Nh5 15. gxh6 Re8 16. f4 Qf6
+17. Qxf6 gxf6 18. Nf3 Nf8 19. e3 Kh7 20. Bb2 Ng6 21. Kf2 Kxh6
+22. Bd3 Bd7 23. Rag1 Rg8 24. Rh2 a6 25. Rhg2 Raf8 26. Be2 Bc8
+27. a4 Bd7 28. Bd1 Bc8 29. Ba1 Bd7 30. Bb2 Bc8 31. Ng5 d4
+32. Bxh5 dxe3+ 33. Kxe3 e5 34. Bxg6 exf4+ 35. Kxf4 fxg5+
+36. hxg5+ Kxg6 37. Rh2 1-0

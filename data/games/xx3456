@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.1"]
+[Result "0-1"]
+[White "Laurent Fressinet"]
+[Black "Yangyi Yu"]
+[ECO "A37"]
+[WhiteElo "2708"]
+[BlackElo "2668"]
+[PlyCount "74"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 g6 4. g3 Bg7 5. Bg2 e6 6. d4 cxd4
+7. Nb5 d5 8. cxd5 exd5 9. O-O Nge7 10. Nbxd4 O-O 11. Be3 Re8
+12. Rc1 Nf5 13. Nxc6 bxc6 14. Bd4 Nxd4 15. Nxd4 Qb6 16. e3
+Bxd4 17. Qxd4 Qxd4 18. exd4 Re2 19. b4 Be6 20. Rxc6 Rxa2
+21. Rd6 Rb8 22. Bxd5 Bxd5 23. Rxd5 Rxb4 24. Rd8+ Kg7 25. d5
+Rd2 26. d6 h5 27. h4 Rbb2 28. Kg2 Ra2 29. d7 Rab2 30. Ra1
+Rxf2+ 31. Kg1 Rg2+ 32. Kh1 Rh2+ 33. Kg1 Rbg2+ 34. Kf1 Rd2
+35. Kg1 Rhg2+ 36. Kf1 Rxg3 37. Ke1 Rxd7 0-1

@@ -1,0 +1,30 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.04"]
+[EventDate "2014.03.04"]
+[Round "1.103"]
+[Result "1-0"]
+[White "Marcel Marentini"]
+[Black "Hjalmar Sigurvaldason"]
+[ECO "A20"]
+[WhiteElo "2155"]
+[BlackElo "1512"]
+[PlyCount "167"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 c6 4. d4 exd4 5. Qxd4 d5 6. Nc3 Bb4
+7. cxd5 Bxc3+ 8. bxc3 cxd5 9. Ba3 Nc6 10. Qe3+ Be6 11. Nh3 Qd7
+12. Nf4 Ne7 13. O-O O-O 14. Bxe7 Qxe7 15. Nxd5 Nxd5 16. Bxd5
+Rfe8 17. Bf3 a6 18. a4 Rad8 19. Rfb1 Bd5 20. Qb6 Bxf3 21. exf3
+Rd7 22. Rb4 h6 23. Rab1 Qe2 24. Kg2 Rd3 25. Qxb7 Rxc3 26. Rf4
+Rf8 27. Qd5 Rc2 28. Qd4 Rd2 29. Qa7 Qd3 30. Re1 Re2 31. Rxe2
+Qxe2 32. Re4 Qd3 33. Rd4 Qg6 34. Rb4 Qc6 35. Rb6 Qxa4 36. Rxa6
+Qc4 37. Ra4 Qe6 38. Re4 Qd5 39. Rd4 Qb3 40. Rd7 Re8 41. h4 h5
+42. Qd4 g6 43. g4 hxg4 44. fxg4 Qe6 45. Kg3 Qe1 46. Kg2 Qe6
+47. Rd5 Qc6 48. Kg3 Qc7+ 49. Qf4 Qc3+ 50. Qf3 Qc7+ 51. Kg2 Rd8
+52. Rg5 Qe7 53. Qf4 Rd7 54. h5 Kh7 55. hxg6+ fxg6 56. Re5 Qf7
+57. Qe3 Ra7 58. g5 Qb7+ 59. Kh2 Qc7 60. Qg3 Ra5 61. Qh3+ Kg7
+62. Qh6+ Kg8 63. Qxg6+ Kf8 64. Qf6+ Kg8 65. Qe6+ Kf8 66. Qe8+
+Kg7 67. Qe7+ Qxe7 68. Rxe7+ Kg6 69. f4 Ra3 70. Re6+ Kg7
+71. Kg2 Rc3 72. Kf2 Kf7 73. Re3 Rc6 74. Kf3 Kg6 75. Kg4 Rc4
+76. Re6+ Kf7 77. Ra6 Rb4 78. g6+ Kg7 79. Kg5 Rb5+ 80. f5 Rb8
+81. Ra7+ Kg8 82. Kh6 Rf8 83. f6 Rb8 84. f7+ 1-0

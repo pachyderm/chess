@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.6"]
+[Result "0-1"]
+[White "Saad Belouadah"]
+[Black "Richard Rapport"]
+[ECO "A40"]
+[WhiteElo "2320"]
+[BlackElo "2704"]
+[PlyCount "100"]
+
+1. d4 g6 2. Nf3 Bg7 3. Bf4 d6 4. e3 Nd7 5. h3 e5 6. Bh2 Nh6
+7. dxe5 dxe5 8. Nc3 O-O 9. Bc4 c6 10. O-O Qe7 11. a4 Nf5
+12. Qe2 a5 13. Rad1 Nc5 14. Rd2 Nd6 15. e4 Nxc4 16. Qxc4 Bh6
+17. Rd5 Nd7 18. Rdd1 Bg7 19. Qa2 Nb6 20. b3 f6 21. Ne1 f5
+22. Nd3 f4 23. f3 Be6 24. Kh1 Nd7 25. Nb1 Rfe8 26. Bg1 Qh4
+27. c4 g5 28. Qf2 Qh5 29. Qe2 Nf6 30. Nf2 Qh4 31. Ng4 Nh5
+32. Bf2 Ng3+ 33. Bxg3 Qxg3 34. Rd3 Qh4 35. Rfd1 Qh5 36. Nd2
+Qf7 37. Nf1 h5 38. Nf2 Bf8 39. g4 Bc5 40. gxh5 Qxh5 41. Nh2
+Kf7 42. Nfg4 Bd4 43. c5 Qxh3 44. Rxd4 exd4 45. Ne5+ Kf6
+46. Nc4 Bxc4 47. Qxc4 Rad8 48. Rxd4 Rh8 49. Rd2 Rxd2 50. Qc3+
+Kg6 0-1

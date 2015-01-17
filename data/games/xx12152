@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.67"]
+[Result "1-0"]
+[White "Arthur Ssegwanyi"]
+[Black "Reece Creswell"]
+[ECO "C02"]
+[WhiteElo "2299"]
+[BlackElo "1645"]
+[PlyCount "37"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. a3 Bb5
+7. c4 Bxc4 8. Bxc4 dxc4 9. d5 exd5 10. Qxd5 Ne7 11. Qxc4 Nd7
+12. O-O Ng6 13. Nc3 Be7 14. Nd5 Qc6 15. Re1 O-O 16. e6 fxe6
+17. Rxe6 Qxe6 18. Nxe7+ Kf7 19. Ng5+ 1-0

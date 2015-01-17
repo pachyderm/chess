@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.16"]
+[Result "0-1"]
+[White "Alexander Ipatov"]
+[Black "Toms Kantans"]
+[ECO "A45"]
+[WhiteElo "2614"]
+[BlackElo "2496"]
+[PlyCount "114"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 Bf5 4. f3 e6 5. g4 Bg6 6. h4 h5
+7. g5 Nfd7 8. e3 a6 9. Bd3 Bxd3 10. Qxd3 c5 11. g6 f6 12. Nge2
+Nc6 13. a3 Qb6 14. Bh2 O-O-O 15. O-O-O Na5 16. Na4 Qc6
+17. Nxc5 Bxc5 18. dxc5 Nxc5 19. Qc3 e5 20. b3 d4 21. exd4 exd4
+22. Nxd4 Ncxb3+ 23. Kb2 Nxd4 24. Rxd4 Rxd4 25. Qxd4 Nc4+
+26. Ka1 Re8 27. Qa7 Re3 28. Qb8+ Kd7 29. Rd1+ Ke6 30. Rd3 Rxd3
+31. cxd3 Nd2 32. Kb2 Nxf3 33. Qg8+ Kf5 34. Qxg7 Nd4 35. Qc7
+Qg2+ 36. Kb1 Kxg6 37. Qg3+ Qxg3 38. Bxg3 Kf5 39. Bf2 Ke5
+40. Kb2 Kd5 41. Kc3 Nc6 42. Kd2 b5 43. Ke3 Nd4 44. Kd2 a5
+45. Kc3 Nc6 46. Bb6 f5 47. Be3 Ke5 48. Kd2 f4 49. Bb6 Kf5
+50. Ke2 b4 51. axb4 axb4 52. Kd2 Ne7 53. Bc5 Nd5 54. Kc2 Kg4
+55. Kb3 f3 56. Kc4 Kg3 57. Kxd5 b3 0-1

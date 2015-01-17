@@ -1,0 +1,21 @@
+[Event "15th Poikovsky Karpov Tournament"]
+[Site "Poikovsky RUS"]
+[Date "2014.05.14"]
+[EventDate "2014.05.11"]
+[Round "4"]
+[Result "0-1"]
+[White "Viktor Bologan"]
+[Black "Ian Nepomniachtchi"]
+[ECO "A80"]
+[WhiteElo "2655"]
+[BlackElo "2735"]
+[PlyCount "78"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. c3 a5
+7. Nbd2 Nc6 8. Re1 d5 9. Nb3 Ne4 10. a4 e6 11. Bf4 g5 12. Be5
+Bh6 13. Rf1 g4 14. Ne1 Nxe5 15. dxe5 c5 16. Bxe4 dxe4 17. Nxc5
+Qb6 18. b4 Rd8 19. Qb3 Rd5 20. Qc4 Qc7 21. Nc2 b6 22. Nd4 Rxe5
+23. Nb5 Qe7 24. Nb3 e3 25. Qd4 exf2+ 26. Rxf2 Re4 27. Qxb6
+axb4 28. cxb4 Be3 29. N3d4 Bb7 30. Rd1 Ra6 31. Qc5 Qxc5
+32. bxc5 Re5 33. Nd6 Ba8 34. Nc4 Bxf2+ 35. Kxf2 Rxc5 36. Ne3
+Kf7 37. Nb3 Rc3 38. Nc1 Be4 39. Na2 Ra3 0-1

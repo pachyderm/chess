@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.4"]
+[Result "1-0"]
+[White "Laurent Fressinet"]
+[Black "Daniel Jere"]
+[ECO "D11"]
+[WhiteElo "2708"]
+[BlackElo "2405"]
+[PlyCount "95"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 e6 5. Bd3 Nbd7 6. O-O Bd6
+7. Nc3 O-O 8. e4 dxc4 9. Bxc4 e5 10. Be3 Qe7 11. Bb3 exd4
+12. Bxd4 Ne5 13. Nxe5 Bxe5 14. Bxe5 Qxe5 15. f4 Qc5+ 16. Kh1
+Bg4 17. Qe1 Be6 18. e5 Ng4 19. Ne4 Qe3 20. h3 Qxe1 21. Rfxe1
+Nh6 22. g4 Rfe8 23. Rad1 Re7 24. Rd4 Rae8 25. Nd6 Rd8 26. g5
+Bd5+ 27. Rxd5 cxd5 28. Rg1 Nf5 29. Nxf5 Rc7 30. Nd6 d4 31. Rd1
+Kf8 32. Rxd4 f6 33. Rd1 fxe5 34. fxe5 g6 35. Kg2 Re7 36. Rd5
+Rdd7 37. Kf3 b6 38. Ke4 Rc7 39. Nc4 Re8 40. Ne3 Kg7 41. Rd6 b5
+42. Nd5 Rb7 43. e6 h6 44. Nf6 Rh8 45. Rd7+ Rxd7 46. exd7 Rd8
+47. Ke5 hxg5 48. Ke6 1-0

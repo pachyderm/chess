@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.14"]
+[Result "1-0"]
+[White "Asghar Golizadeh"]
+[Black "Vlastimil Babula"]
+[ECO "B30"]
+[WhiteElo "2490"]
+[BlackElo "2549"]
+[PlyCount "45"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. d3 Ne7 6. h4 f6
+7. Be3 d6 8. h5 e5 9. h6 g5 10. Nbd2 Ng6 11. c3 Be7 12. d4
+cxd4 13. cxd4 O-O 14. O-O Kh8 15. Qc2 Bd7 16. Rfd1 Nf4 17. Nc4
+Qe8 18. dxe5 dxe5 19. Nh2 Be6 20. Nd6 Qh5 21. Qxc6 g4 22. Qc7
+Ng6 23. Nf1 1-0

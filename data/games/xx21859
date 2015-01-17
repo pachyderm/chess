@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.33"]
+[Result "1-0"]
+[White "Nils Grandelius"]
+[Black "Prasanna Kurukulasuriya"]
+[ECO "E63"]
+[WhiteElo "2571"]
+[BlackElo "2063"]
+[PlyCount "69"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6
+7. d4 a6 8. d5 Na5 9. b3 c5 10. dxc6 Nxc6 11. Bb2 Nd7 12. Qc1
+Nc5 13. Rd1 Bf5 14. Nd5 Bxb2 15. Qxb2 Be4 16. Rac1 a5 17. h4
+Ra6 18. h5 Qd7 19. Ng5 Bxg2 20. Kxg2 Qf5 21. Nf3 g5 22. Nc7 g4
+23. Nh4 Qxh5 24. Rd5 Ne5 25. Nxa6 bxa6 26. Qd4 Ne6 27. Qe3 f5
+28. Rxe5 dxe5 29. Qxe5 Rf6 30. c5 Qh6 31. e3 Kf7 32. c6 Ng5
+33. c7 Nf3 34. Qd5+ Kg7 35. c8=Q 1-0

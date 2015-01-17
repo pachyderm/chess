@@ -1,0 +1,24 @@
+[Event "Bundesliga"]
+[Site "Viernheim GER"]
+[Date "2014.02.23"]
+[EventDate "2013.10.12"]
+[Round "10"]
+[Result "0-1"]
+[White "Andreas Mandel"]
+[Black "Alexander Rustemov"]
+[ECO "A89"]
+[WhiteElo "2408"]
+[BlackElo "2538"]
+[PlyCount "110"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O d6 6. c4 O-O
+7. Nc3 Nc6 8. b3 Ne4 9. Bb2 Nxc3 10. Bxc3 e5 11. dxe5 dxe5
+12. Qd5+ Kh8 13. Qxd8 Rxd8 14. Ng5 Re8 15. Bxc6 bxc6 16. Rad1
+h6 17. Nf7+ Kg8 18. Nd8 f4 19. Nxc6 Bh3 20. Rfe1 g5 21. f3 Re6
+22. Nb4 a5 23. Nd5 Ra7 24. e3 fxg3 25. hxg3 c6 26. Kh2 g4
+27. Nb6 Rf7 28. f4 exf4 29. exf4 Rxe1 30. Bxe1 Re7 31. Nd7
+Re2+ 32. Kg1 Rg2+ 33. Kh1 Rxa2 34. Bd2 h5 35. Ne5 Kh7 36. Bc3
+Rc2 37. Bxa5 h4 38. Rd2 Rc1+ 39. Kh2 Rb1 40. gxh4 Rxb3 41. Bd8
+Bxe5 42. fxe5 Bf1 43. Kg1 Bxc4 44. Bg5 g3 45. Rc2 Bd5 46. e6
+Rb4 47. Rc3 Rb1+ 48. Rc1 Rb2 49. e7 Re2 50. Bf4 g2 51. h5 Rxe7
+52. h6 Re4 53. Bd2 Re2 54. Bf4 Kg6 55. Kh2 Rf2 0-1

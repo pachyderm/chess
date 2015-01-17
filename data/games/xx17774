@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.32"]
+[Result "0-1"]
+[White "Zuhao Luke Li"]
+[Black "Nico Georgiadis"]
+[ECO "D30"]
+[WhiteElo "2365"]
+[BlackElo "2448"]
+[PlyCount "52"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. g3 Nc6 6. Bg2 Nf6
+7. O-O Be7 8. dxc5 Bxc5 9. a3 Ne4 10. b4 Be7 11. Bb2 Bf6
+12. Bxf6 Qxf6 13. Ra2 O-O 14. Rc2 Be6 15. b5 Ne5 16. Nd4 Rac8
+17. Nxe6 fxe6 18. Bxe4 dxe4 19. Rxc8 Rxc8 20. Qa4 Qf5 21. Qxa7
+h5 22. Qxb7 Rc2 23. Qa8+ Kh7 24. b6 Rxe2 25. b7 Nf3+ 26. Kg2
+Ne1+ 0-1

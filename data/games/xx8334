@@ -1,0 +1,18 @@
+[Event "Simultaneous Exhibition"]
+[Site "NZ National Chess Centre, Dev"]
+[Date "2014.03.02"]
+[EventDate "2014.??.??"]
+[Round "1.24"]
+[Result "1-0"]
+[White "Nigel Short"]
+[Black "Rosa Ryu"]
+[ECO "B23"]
+[WhiteElo "2674"]
+[BlackElo "599"]
+[PlyCount "41"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. Nf3 Nc6 5. Bb5 Nge7 6. dxc5 Bd7
+7. exd5 exd5 8. O-O Be6 9. Re1 b6 10. Nd4 Qd7 11. cxb6 axb6
+12. Bg5 O-O-O 13. Bxe7 Re8 14. Bxf8 Rhxf8 15. Bxc6 Qc7
+16. Nxd5 Bxd5 17. Bxd5 h5 18. Qd3 Rd8 19. Qa6+ Kd7 20. Bc6+
+Kd6 21. Qa3# 1-0

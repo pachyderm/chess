@@ -1,0 +1,27 @@
+[Event "Bundesliga"]
+[Site "Emsdetten GER"]
+[Date "2014.02.08"]
+[EventDate "2013.10.12"]
+[Round "7"]
+[Result "0-1"]
+[White "Nils Grandelius"]
+[Black "Sebastian Bogner"]
+[ECO "B90"]
+[WhiteElo "2547"]
+[BlackElo "2552"]
+[PlyCount "136"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bc4 e6
+7. Bb3 Nbd7 8. O-O Nc5 9. Bg5 Be7 10. Re1 O-O 11. f4 h6
+12. Bh4 Bd7 13. Qf3 b5 14. e5 dxe5 15. fxe5 Nh7 16. Bxe7 Qxe7
+17. Ne4 Ng5 18. Nxg5 Qxg5 19. c3 Rad8 20. Bc2 Bc8 21. Re3 Bb7
+22. Qe2 b4 23. Rg3 Qe7 24. Rf1 bxc3 25. bxc3 Nd7 26. Qg4 Qg5
+27. Qh3 Qd2 28. Qh4 Nxe5 29. Qe7 Bd5 30. Qc7 Ng6 31. h3 Rc8
+32. Qa7 Rxc3 33. Rd1 Qxd1+ 34. Bxd1 Rxg3 35. Bf3 Bxf3 36. Nxf3
+Nf4 37. Qc7 Rxg2+ 38. Kf1 g5 39. Ne5 Rxa2 40. Nd7 Ra1+ 41. Kf2
+Ra2+ 42. Kf3 Ra3+ 43. Kf2 Nd5 44. Qc5 Ra2+ 45. Kf3 Rd8 46. h4
+g4+ 47. Kg3 Rxd7 48. Qc8+ Kg7 49. Qxd7 Ra3+ 50. Kh2 Rh3+
+51. Kg2 Rf3 52. h5 Nf4+ 53. Kg1 Nxh5 54. Qa4 Nf6 55. Qxa6 h5
+56. Qa5 Kg6 57. Qd2 e5 58. Qe2 e4 59. Qe1 Rh3 60. Qf1 h4
+61. Qf2 Rg3+ 62. Kh1 Rf3 63. Qc2 g3 64. Qc8 Rf1+ 65. Kg2 Rf2+
+66. Kg1 e3 67. Qc4 e2 68. Qd3+ Kg7 0-1

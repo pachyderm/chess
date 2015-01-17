@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.61"]
+[Result "0-1"]
+[White "Jo-Kai Liao"]
+[Black "Colm Daly"]
+[ECO "B49"]
+[WhiteElo "1606"]
+[BlackElo "2323"]
+[PlyCount "44"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 Nc6
+7. Be3 b5 8. Nxc6 Qxc6 9. e5 Bb7 10. Bf3 Qc7 11. Bxb7 Qxb7
+12. O-O Rc8 13. Rc1 Ne7 14. Re1 Nf5 15. Bf4 Bb4 16. Bd2 Rc4
+17. a3 Bc5 18. g3 h5 19. Be3 Nxe3 20. fxe3 h4 21. g4 h3
+22. Qe2 Rh4 0-1

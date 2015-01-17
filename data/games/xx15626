@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.10"]
+[Result "1-0"]
+[White "Emil Sutovsky"]
+[Black "Suhrob Khamdamov"]
+[ECO "C91"]
+[WhiteElo "2624"]
+[BlackElo "2301"]
+[PlyCount "57"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 d6 8. c3 O-O 9. d4 Bg4 10. Be3 exd4 11. cxd4 Na5
+12. Bc2 c5 13. h3 Bh5 14. Nc3 Nc4 15. dxc5 dxc5 16. e5 Qxd1
+17. Raxd1 Bxf3 18. exf6 Bxd1 19. fxe7 Bxc2 20. exf8=Q+ Rxf8
+21. Bxc5 Rd8 22. b3 Nb2 23. Re2 Nd3 24. Bb6 Rc8 25. Nd5 Kh8
+26. Ne7 Bd1 27. Rd2 Rc1 28. Kh2 Bc2 29. Be3 1-0

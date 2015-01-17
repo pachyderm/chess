@@ -1,0 +1,27 @@
+[Event "TCEC - Season 6 - Stage 4"]
+[Site "http://tcec.chessdom.com"]
+[Date "2014.05.05"]
+[EventDate "2014.05.01"]
+[Round "10"]
+[Result "1-0"]
+[White "Stockfish (Computer)"]
+[Black "Critter (Computer)"]
+[ECO "B40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "138"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 d6
+7. Nc3 Nxc3 8. bxc3 Nc6 9. exd6 Bxd6 10. Bd3 Qc7 11. O-O O-O
+12. g3 h6 13. Nh4 a6 14. Re1 b5 15. Qh5 Ne7 16. Bxh6 gxh6
+17. Qxh6 f5 18. Nf3 Nc6 19. Qg6+ Kh8 20. d5 exd5 21. Qh6+ Kg8
+22. Bc2 Ne5 23. Nxe5 Bxe5 24. Bb3 Bb7 25. Qe6+ Kg7 26. Qxe5+
+Qxe5 27. Rxe5 Rac8 28. Bxd5 Bxd5 29. Rxd5 Rxc3 30. Rad1 Rc2
+31. R1d2 Rxd2 32. Rxd2 Rf6 33. Rd3 Rb6 34. Ra3 Rc6 35. Kg2 Kg6
+36. h4 Kh5 37. Kh3 Kg6 38. f3 Kf6 39. g4 fxg4+ 40. fxg4 b4
+41. Ra5 Rc3+ 42. Kg2 Rc2+ 43. Kg3 Rc3+ 44. Kf2 Rc4 45. g5+ Kg6
+46. Rxa6+ Kf5 47. Rf6+ Kg4 48. g6 Kh5 49. g7 Rg4 50. Rb6 Rxg7
+51. Rxb4 Ra7 52. a4 Kg6 53. Kg3 Ra5 54. Rg4+ Kf6 55. Rf4+ Kg6
+56. Kf3 Kh7 57. Rg4 Kh6 58. Ke3 Ra6 59. Kd3 Kh5 60. Rf4 Ra5
+61. Kc3 Ra8 62. Kb4 Rb8+ 63. Kc5 Ra8 64. Kb6 Rb8+ 65. Kc7 Rb3
+66. a5 Rc3+ 67. Kb6 Rb3+ 68. Kc5 Ra3 69. Kb5 Rb3+ 1-0

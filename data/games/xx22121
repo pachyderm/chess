@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.24"]
+[Result "1-0"]
+[White "Hannes Stefansson"]
+[Black "Helgi Dam Ziska"]
+[ECO "E73"]
+[WhiteElo "2536"]
+[BlackElo "2507"]
+[PlyCount "49"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 Na6
+7. f4 c6 8. Qd2 Nc7 9. Bf3 Ne6 10. Bh4 c5 11. dxc5 Nxc5
+12. Rd1 Be6 13. b3 Qc8 14. Nge2 Bg4 15. e5 dxe5 16. fxe5 Bxf3
+17. exf6 Qg4 18. fxg7 Rfd8 19. Qxd8+ Rxd8 20. Rxd8+ Kxg7
+21. Bxe7 Bxg2 22. Bf8+ Kf6 23. Nd5+ Kg5 24. h4+ Kh5 25. Nf6#
+1-0

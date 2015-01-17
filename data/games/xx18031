@@ -1,0 +1,24 @@
+[Event "Riga Technical University Open"]
+[Site "Riga LAT"]
+[Date "2014.08.16"]
+[EventDate "2014.08.16"]
+[Round "1.6"]
+[Result "1-0"]
+[White "Daniel Fridman"]
+[Black "Mats Persson"]
+[ECO "D34"]
+[WhiteElo "2639"]
+[BlackElo "2263"]
+[PlyCount "105"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. g3 Nc6 6. Bg2 Nf6
+7. O-O Be7 8. Nc3 O-O 9. dxc5 Bxc5 10. Na4 Be7 11. Be3 Bg4
+12. Rc1 Rc8 13. h3 Be6 14. Nc5 b6 15. Nxe6 fxe6 16. Qa4 Qd7
+17. Rc2 Nb4 18. Qxd7 Nxd7 19. Rxc8 Rxc8 20. a3 Nc6 21. Rc1 Bf6
+22. Nd4 Bxd4 23. Bxd4 Nf6 24. e3 Kf7 25. Bf1 Ne7 26. Rd1 Ng6
+27. Bd3 Nf8 28. g4 h6 29. f4 N8d7 30. g5 Ng8 31. e4 hxg5
+32. fxg5 e5 33. Bb5 exd4 34. Bxd7 Rd8 35. Bc6 dxe4 36. Bxe4
+Ne7 37. h4 Ke6 38. Re1 Nf5 39. Bd3+ Ne3 40. Kf2 Ke5 41. Kg3
+Rf8 42. h5 Rf4 43. h6 Rg4+ 44. Kf3 Rxg5 45. h7 Rh5 46. Rg1 Kf6
+47. Rg6+ Kf7 48. Rd6 Rh3+ 49. Kf4 g6 50. Bxg6+ Kg7 51. Bb1 Rh5
+52. Rd7+ Kf6 53. Rd8 1-0

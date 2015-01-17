@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.10"]
+[Result "0-1"]
+[White "Thomas Kett"]
+[Black "Nigel Short"]
+[ECO "B67"]
+[WhiteElo "2244"]
+[BlackElo "2665"]
+[PlyCount "130"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nc6
+7. Qd2 e6 8. O-O-O Bd7 9. f4 h6 10. Bxf6 Qxf6 11. Nxc6 Bxc6
+12. g3 Qd8 13. Bg2 Qb6 14. Ne2 Be7 15. Nd4 O-O 16. h4 Rfd8
+17. g4 Bf6 18. c3 Bxd4 19. cxd4 d5 20. e5 Ba4 21. b3 Bd7
+22. Kb2 a5 23. a3 Rac8 24. Rh3 Rc7 25. h5 Rdc8 26. g5 Qc6
+27. gxh6 Qc2+ 28. Ka1 gxh6 29. Rg3+ Kf8 30. f5 Qxd2 31. Rxd2
+Rc3 32. Rxc3 Rxc3 33. Kb2 Rg3 34. f6 Bb5 35. Rf2 Bd3 36. Bf1
+Be4 37. a4 Rf3 38. Rxf3 Bxf3 39. b4 b6 40. bxa5 bxa5 41. Kc1
+Bxh5 42. Bd3 Bg4 43. Kd2 h5 44. Ke3 h4 45. Kf4 Bd1 46. Bb5 Kg8
+47. Be8 Bh5 48. Bb5 Kh7 49. Bd3+ Kh6 50. Bf1 Bd1 51. Bb5 Kh5
+52. Be8 Kg6 53. Bd7 h3 54. Kg3 Kf5 55. Kxh3 Bh5 56. Kh4 Bg6
+57. Be8 Ke4 58. Kg5 Kxd4 59. Kh6 Kxe5 60. Kg7 d4 61. Bxf7 Bxf7
+62. Kxf7 d3 63. Kg7 d2 64. f7 d1=Q 65. f8=Q Qg4+ 0-1

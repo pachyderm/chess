@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.73"]
+[Result "0-1"]
+[White "Koffi Botsoe"]
+[Black "Brian Wong"]
+[ECO "A40"]
+[WhiteElo "?"]
+[BlackElo "1878"]
+[PlyCount "100"]
+
+1. d4 b6 2. c4 Bb7 3. Bf4 e6 4. a3 Nf6 5. Nc3 d5 6. e3 a6
+7. Nf3 Nbd7 8. cxd5 Nxd5 9. Bg3 Bd6 10. Ne4 Bxg3 11. Nxg3 b5
+12. Rc1 Rc8 13. Be2 O-O 14. O-O c5 15. dxc5 Nxc5 16. b4 Na4
+17. Qd4 Ndc3 18. Qg4 Nxe2+ 19. Nxe2 Qd3 20. Nf4 Qxa3 21. Nh5
+Qb2 22. Rb1 Bxf3 23. gxf3 Qe5 24. f4 Rc4 25. Kh1 f5 26. Qg5
+Qc7 27. Rg1 Qb7+ 28. Rg2 Rc7 29. Rg1 Kh8 30. h4 Nc3 31. Qg3
+Ne2 32. Qh3 Nxg1 33. Kxg1 Rd8 34. Kh2 Rc1 35. Qg3 Rdd1 36. Qg5
+Rh1+ 37. Kg3 Qxg2+ 38. Kxg2 Rcg1+ 39. Kf3 Rxg5 40. fxg5 Rxh4
+41. Ng3 Rxb4 42. Ne2 a5 43. Nd4 a4 44. Kf4 a3 45. Ke5 Rxd4
+46. exd4 a2 47. Kxe6 a1=Q 48. d5 Qa2 49. f4 Qc4 50. Kd6 Qxf4+
+0-1

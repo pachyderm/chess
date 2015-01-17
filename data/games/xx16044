@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.1"]
+[Result "1-0"]
+[White "Sergey Karjakin"]
+[Black "Husein Aziz Nezad"]
+[ECO "D02"]
+[WhiteElo "2786"]
+[BlackElo "2365"]
+[PlyCount "119"]
+
+1. d4 d5 2. Nf3 c6 3. Bf4 Bf5 4. e3 Qb6 5. Qc1 Nd7 6. c4 e6
+7. Nc3 Ngf6 8. h3 h6 9. c5 Qd8 10. b4 Be7 11. Be2 O-O 12. O-O
+Ne4 13. Na4 Bf6 14. Nb2 Ng5 15. Nd2 e5 16. dxe5 Nxe5 17. Bxe5
+Bxe5 18. f4 Bxb2 19. Qxb2 Ne4 20. Nf3 Re8 21. Kh2 Qc7 22. Nd4
+Bh7 23. Rac1 Re7 24. Rf3 Rae8 25. Bd3 Kh8 26. Kg1 Qd7 27. b5
+Nf6 28. f5 Rxe3 29. Rxe3 Rxe3 30. bxc6 bxc6 31. Qb8+ Bg8
+32. Bf1 Re4 33. Rd1 h5 34. Qd6 Qb7 35. Qxc6 Qb2 36. Qa4 Re3
+37. c6 Rc3 38. Qxa7 Ne4 39. Ne2 Rxc6 40. Rxd5 Rc2 41. Qe3 Nf6
+42. Ra5 Rc8 43. Qd4 Qb1 44. Nc3 Qe1 45. Rc5 Rxc5 46. Qxc5 h4
+47. Ne2 Ne4 48. Qd4 Nd2 49. Qf2 Qxf2+ 50. Kxf2 f6 51. a4 Bc4
+52. g4 hxg3+ 53. Nxg3 Nxf1 54. Nxf1 g6 55. Ne3 Bd3 56. fxg6
+Bxg6 57. Nd5 Kg7 58. Ke3 Be8 59. a5 Kg6 60. a6 1-0

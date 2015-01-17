@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.7"]
+[Result "0-1"]
+[White "Mathias Allan Ssonko"]
+[Black "Samuel Shankland"]
+[ECO "B25"]
+[WhiteElo "2138"]
+[BlackElo "2624"]
+[PlyCount "66"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Bc4 e6 5. Nge2 Nf6 6. O-O a6
+7. a4 d5 8. exd5 exd5 9. Ba2 Bd6 10. d3 O-O 11. Nxd4 cxd4
+12. Nxd5 Nxd5 13. Bxd5 Bxh2+ 14. Kxh2 Qxd5 15. Re1 Bd7 16. c4
+dxc3 17. bxc3 Bc6 18. f3 Qh5+ 19. Kg1 Qc5+ 20. d4 Qxc3 21. Ba3
+Rfe8 22. Be7 Qa5 23. Qc1 Rac8 24. Qf4 f6 25. Qg3 Kf7 26. Qd6
+Qf5 27. a5 Bd5 28. Re2 Be6 29. g4 Qd5 30. Rae1 Rc6 31. Qxd5
+Bxd5 32. f4 Rc3 33. g5 Rh3 0-1

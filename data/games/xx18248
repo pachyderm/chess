@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.2"]
+[Result "1-0"]
+[White "Vladimir Kramnik"]
+[Black "Veselin Topalov"]
+[ECO "D37"]
+[WhiteElo "2760"]
+[BlackElo "2772"]
+[PlyCount "97"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. g3 O-O 6. Bg2 Nbd7
+7. Qd3 Nb6 8. c5 Nbd7 9. O-O c6 10. b4 b6 11. Bf4 a5 12. a3
+Ba6 13. Qc2 Nh5 14. Bd2 Nhf6 15. Bf4 Nh5 16. Bd2 Nhf6 17. Rfe1
+Bc4 18. Bf4 Nh5 19. Be3 Nhf6 20. Bf4 Nh5 21. Be3 Nhf6 22. h3
+h6 23. Nd2 Ba6 24. f4 bxc5 25. bxc5 Nxc5 26. dxc5 d4 27. Bf2
+dxc3 28. Qxc3 Nd5 29. Qc2 Bf6 30. e4 Bxa1 31. exd5 Qf6 32. d6
+Qc3 33. Qd1 Bb2 34. Bxc6 Rad8 35. Nb1 Qf6 36. Qd2 Rb8 37. Be4
+e5 38. Nc3 Qe6 39. Nd5 Qxh3 40. Bg2 Qh5 41. d7 exf4 42. Qxf4
+Bxa3 43. Qxb8 Rxb8 44. Re8+ Kh7 45. Rxb8 Qd1+ 46. Kh2 Qh5+
+47. Bh3 Qf3 48. d8=Q Qxf2+ 49. Bg2 1-0

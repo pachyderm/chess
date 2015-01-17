@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.31"]
+[Result "1-0"]
+[White "Vlad-Cristian Jianu"]
+[Black "Patrick Zerafa"]
+[ECO "E76"]
+[WhiteElo "2579"]
+[BlackElo "2079"]
+[PlyCount "79"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 Na6
+7. Bd3 e5 8. fxe5 dxe5 9. d5 Nh5 10. O-O Qe7 11. Be3 f5
+12. Rc1 Nc5 13. Bb1 f4 14. Bf2 a5 15. a3 Bg4 16. b4 Na6 17. c5
+axb4 18. axb4 Kh8 19. d6 cxd6 20. cxd6 Qd8 21. Nd5 Rc8
+22. Rxc8 Qxc8 23. Qd3 Rd8 24. Ng5 Rf8 25. h3 Bd7 26. Nb6 Qe8
+27. Nxd7 Qxd7 28. b5 Nb8 29. Rc1 h6 30. Rc7 Qe8 31. Re7 Qc8
+32. Nf7+ Kh7 33. Nxe5 Qc1+ 34. Qf1 Qa3 35. Qd1 Rc8 36. Rc7 Rd8
+37. Nc4 Qc3 38. e5 Ng3 39. Qc2 Qxc2 40. Bxc2 1-0

@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.37"]
+[Result "1-0"]
+[White "Basher Iyti"]
+[Black "John Rodgaard"]
+[ECO "D02"]
+[WhiteElo "2263"]
+[BlackElo "2361"]
+[PlyCount "137"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. e3 Be7 5. Nbd2 O-O 6. Bd3 b6
+7. O-O Bb7 8. b3 Nbd7 9. Qc2 c5 10. Bb2 Rc8 11. e4 dxe4
+12. Nxe4 b5 13. dxc5 bxc4 14. bxc4 Bxe4 15. Bxe4 Nxe4 16. Qxe4
+Bf6 17. Bxf6 Nxf6 18. Qe3 Qa5 19. Nd2 Qxc5 20. Qxc5 Rxc5
+21. Rfc1 Rfc8 22. Rab1 g5 23. Rc2 Nd5 24. Kf1 Kg7 25. g3 Nb6
+26. Rbc1 f5 27. Ke2 Kf6 28. Kd3 Rd8+ 29. Kc3 Rdc8 30. Kd3 Rd8+
+31. Kc3 a5 32. a3 g4 33. Kb2 Rdc8 34. Kb3 e5 35. Ka2 e4
+36. Kb3 Ke5 37. Ka2 h5 38. Kb3 h4 39. gxh4 Kf4 40. Rc3 Rh8
+41. h3 Rxh4 42. hxg4 Rxg4 43. Rh3 Nd7 44. Rf1 Rg2 45. Kc3 Rc6
+46. Rh4+ Ke5 47. Nb3 Rd6 48. Nxa5 Rd3+ 49. Kb4 Rd2 50. f4+ Ke6
+51. Rh6+ Nf6 52. Nb3 Rb2 53. Ka4 Rbf2 54. Nd4+ Kf7 55. Rb1 Rb2
+56. Rxb2 Rxb2 57. Nxf5 Nd7 58. Rc6 Re2 59. Rc7 Ke8 60. Kb5 Kd8
+61. Ra7 e3 62. Kc6 Nb8+ 63. Kc5 Re1 64. Nd4 e2 65. Rh7 Nd7+
+66. Kd6 Kc8 67. Nxe2 Nb6 68. Kc6 Nxc4 69. Rh8# 1-0

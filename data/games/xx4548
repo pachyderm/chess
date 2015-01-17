@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.46"]
+[Result "0-1"]
+[White "Fred Berend"]
+[Black "Pedro Filipe Rego"]
+[ECO "A46"]
+[WhiteElo "2380"]
+[BlackElo "2273"]
+[PlyCount "84"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. Nbd2 Be7 5. e3 b6 6. Ne5 O-O
+7. Bd3 Nfd7 8. Bf4 Nxe5 9. dxe5 Ba6 10. c4 Bb4 11. Rc1 Bxc4
+12. Bxc4 dxc4 13. Rxc4 c5 14. a3 Bxd2+ 15. Qxd2 Qd5 16. Qxd5
+exd5 17. Rc2 Nc6 18. b4 c4 19. b5 Ne7 20. Ke2 a6 21. Rb1 Rfc8
+22. bxa6 Rc6 23. Rd1 Rxa6 24. Bg5 f6 25. Bh4 Rxa3 26. e4 dxe4
+27. Rd6 b5 28. Bg3 Rd3 29. Ra2 fxe5 30. Rxc6 Nxc6 31. Ra6 Nd4+
+32. Ke1 c3 33. f4 c2 34. Ra1 Nb3 35. Ra8+ Kf7 36. Ra7+ Ke6
+37. Rc7 c1=Q+ 38. Rxc1 Nxc1 39. fxe5 b4 40. Bf4 e3 41. g4 b3
+42. Bg3 b2 0-1

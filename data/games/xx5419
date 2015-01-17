@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.33"]
+[Result "1-0"]
+[White "Julio Catalino Sadorra"]
+[Black "Oswaldo Zambrana"]
+[ECO "A67"]
+[WhiteElo "2590"]
+[BlackElo "2472"]
+[PlyCount "61"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6
+7. f4 Bg7 8. Bb5+ Nfd7 9. Nf3 O-O 10. O-O a6 11. Bd3 b5
+12. Kh1 Re8 13. a3 Ra7 14. Be3 Rb7 15. Qd2 b4 16. axb4 Rxb4
+17. f5 Ne5 18. Bg5 Qb6 19. Nxe5 Rxe5 20. Qf2 Qc7 21. Bf4 Re8
+22. fxg6 hxg6 23. Bxd6 Qb7 24. Bxb8 Rxb2 25. Qf3 Bxc3 26. e5
+Bd4 27. Bxa6 Qd7 28. Bxc8 Rxc8 29. e6 fxe6 30. Ra7 Rf2
+31. Rxf2 1-0

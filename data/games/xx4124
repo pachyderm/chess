@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.5"]
+[Result "1-0"]
+[White "Richard Rapport"]
+[Black "Emil Sutovsky"]
+[ECO "A45"]
+[WhiteElo "2704"]
+[BlackElo "2624"]
+[PlyCount "87"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 c5 4. e3 cxd4 5. exd4 a6 6. Nf3 Bg4
+7. h3 Bxf3 8. Qxf3 Nc6 9. O-O-O e6 10. g4 Bb4 11. Ne2 Qa5
+12. Kb1 Ne4 13. Nc1 Bd6 14. Nb3 Qc7 15. Be3 O-O 16. Rg1 b5
+17. Bd3 f5 18. gxf5 exf5 19. Bh6 Rf7 20. Bxg7 Rxg7 21. Qxf5
+Kh8 22. Rxg7 Qxg7 23. Qxd5 Nxf2 24. Qxc6 Rf8 25. Rc1 Nxd3
+26. cxd3 Qg3 27. a3 Bf4 28. Rd1 Qxh3 29. Nc5 Be3 30. Qe4 Qf3
+31. Qe5+ Kg8 32. Re1 Bf2 33. Re4 Qf5 34. Qc7 Kh8 35. Ne6 Rg8
+36. d5 Bh4 37. Qc5 Bf6 38. Ka2 h5 39. Rf4 Qg6 40. d6 Bg7
+41. Qf5 Kh7 42. d7 Qxf5 43. Rxf5 Kg6 44. Rf8 1-0

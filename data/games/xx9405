@@ -1,0 +1,45 @@
+[Event "TCEC - Season 6 - Stage 2"]
+[Site "http://tcec.chessdom.com"]
+[Date "2014.03.24"]
+[EventDate "2014.03.16"]
+[Round "5"]
+[Result "1-0"]
+[White "Komodo (Computer)"]
+[Black "Houdini (Computer)"]
+[ECO "B35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "303"]
+
+1. Nf3 g6 2. e4 c5 3. d4 cxd4 4. Nxd4 Bg7 5. Nc3 Nc6 6. Be3
+Nf6 7. Bc4 d6 8. f3 Qb6 9. Nf5 Qxb2 10. Nxg7+ Kf8 11. Nd5 Nxd5
+12. Bxd5 Kxg7 13. O-O Qc3 14. Qc1 Rd8 15. Rb1 Nd4 16. Qe1 Kg8
+17. Qf2 Nc6 18. Rb3 Qg7 19. Qd2 a5 20. Rb6 a4 21. c4 h5 22. a3
+Kh7 23. f4 e6 24. Bxc6 bxc6 25. Bd4 Qf8 26. Bf6 Rd7 27. f5 Bb7
+28. c5 d5 29. Bd4 Qe7 30. fxg6+ fxg6 31. e5 Ba6 32. Rf6 Bb5
+33. Qg5 Rg8 34. h3 Kh8 35. Kh2 Qe8 36. Qh6+ Rh7 37. Qd2 Ra7
+38. Be3 Rf8 39. Bh6 Rxf6 40. exf6 e5 41. Qe1 Kg8 42. Bf4 Rd7
+43. Bxe5 Kf7 44. Rb8 Rd8 45. Rb7+ Rd7 46. Rb6 d4 47. Rb8 Rd8
+48. Rxd8 Qxd8 49. Bxd4 Qb8+ 50. Kg1 Qe8 51. Qg3 Qd8 52. Qf4
+Bc4 53. Bc3 Bb3 54. Qb4 Qc7 55. Qb6 Qd7 56. Qb8 Bd5 57. Kh2 g5
+58. Qb1 Qe8 59. Qf5 Qg8 60. Qe5 Be6 61. Bd4 Bd5 62. Bb2 Kg6
+63. Bc1 g4 64. h4 Kf7 65. Bf4 Qg6 66. Qe7+ Kg8 67. Qd7 Kh8
+68. Bb8 Qf7 69. Qf5 Qh7 70. Qg5 Qf7 71. Bf4 Kh7 72. Qh6+ Kg8
+73. Be5 Be4 74. Qe3 Bd5 75. Qf4 Bb3 76. Qg5+ Kf8 77. Bd6+ Ke8
+78. Qf5 Kd8 79. Be7+ Kc7 80. Kg3 Qd5 81. Bd6+ Kd8 82. Qh7 Qf7
+83. Qd3 Qc4 84. Qg6 Qf7 85. Qg5 Kd7 86. Bf4 Be6 87. Qe5 Bd5
+88. Kh2 Kd8 89. Kg1 Kd7 90. Qd6+ Ke8 91. Qb8+ Kd7 92. Qe5 g3
+93. Qc7+ Ke6 94. Qd6+ Kf5 95. Qe5+ Kg6 96. Qg5+ Kh7 97. Qh6+
+Kg8 98. Bd6 Be4 99. Bxg3 Qh7 100. Qf4 Kf7 101. Qc7+ Kg6
+102. Qe5 Bd5 103. Bf4 Qh8 104. Qg5+ Kf7 105. Kh2 Be6 106. Qe5
+Qxf6 107. Qxh5+ Qg6 108. Qh8 Qf6 109. Qh7+ Qg7 110. Qd3 Qg6
+111. Qe3 Qg4 112. Bg5 Kg7 113. Qe5+ Kg8 114. Qb8+ Kf7
+115. Qc7+ Bd7 116. Qd6 Qf5 117. Qe7+ Kg8 118. Bh6 Qg4
+119. Qf8+ Kh7 120. Bg5 Qf5 121. Qh6+ Kg8 122. Bf6 Qg4 123. Be5
+Bf5 124. Qh8+ Kf7 125. Qf6+ Kg8 126. Qe7 Be6 127. Bb2 Bd7
+128. Kg1 Qd1+ 129. Kf2 Qc2+ 130. Ke3 Qb3+ 131. Kf4 Qc4+
+132. Kg3 Qg4+ 133. Kh2 Qf4+ 134. Kg1 Qf7 135. Qd8+ Be8
+136. Qd4 Qh7 137. Qe5 Kf8 138. Qf6+ Kg8 139. Kh2 Qc7+ 140. Be5
+Qh7 141. Qe6+ Qf7 142. Qg4+ Qg6 143. Qxa4 Bd7 144. Bg3 Qf5
+145. Qb4 Qg4 146. Qb8+ Kh7 147. Qc7 Qg7 148. a4 Be6 149. Qb8
+Bc4 150. a5 Ba6 151. Qe8 Qg6 152. Qa8 1-0

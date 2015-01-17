@@ -1,0 +1,18 @@
+[Event "Bundesliga"]
+[Site "Hamburg GER"]
+[Date "2014.02.23"]
+[EventDate "2013.10.12"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Laurent Fressinet"]
+[Black "Anish Giri"]
+[ECO "C67"]
+[WhiteElo "2710"]
+[BlackElo "2749"]
+[PlyCount "41"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6
+dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Ne2
+Be7 12. Re1 Be6 13. Ned4 Nxd4 14. Nxd4 Bc8 15. Bf4 c5 16. Nb5
+Bd8 17. e6 Bxe6 18. Rad1 Ke7 19. Nxc7 Bxc7 20. Bxc7 Rac8
+21. Bd6+ 1/2-1/2

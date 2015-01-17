@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.58"]
+[Result "0-1"]
+[White "John Agbor Ebot"]
+[Black "Thomas Kett"]
+[ECO "E60"]
+[WhiteElo "1931"]
+[BlackElo "2244"]
+[PlyCount "74"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. Bf4 d6 6. e3 Nbd7
+7. Be2 c6 8. O-O Qe8 9. Bg3 e5 10. Re1 Qe7 11. Qc2 Re8
+12. Rad1 h6 13. c5 dxc5 14. Bxe5 Nxe5 15. Nxe5 cxd4 16. exd4
+Bf5 17. Qb3 Be6 18. Bc4 Bxc4 19. Qxc4 Rad8 20. Re2 Qe6 21. Qa4
+Nd5 22. Rde1 Qf5 23. Nxd5 Rxd5 24. Qxa7 c5 25. Qa4 Re6
+26. Qa8+ Kh7 27. Qxb7 Rxd4 28. Nf3 Rxe2 29. Rxe2 Rb4 30. Qe7
+Rxb2 31. h3 c4 32. Nh4 Rxe2 33. Qxe2 Qb1+ 34. Kh2 c3 35. Qc4
+c2 36. Nf3 c1=Q 37. Qxf7 Qf5 0-1

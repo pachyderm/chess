@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.28"]
+[Result "1-0"]
+[White "Emanuel Berg"]
+[Black "Alex Averbukh"]
+[ECO "B00"]
+[WhiteElo "2554"]
+[BlackElo "2183"]
+[PlyCount "67"]
+
+1. e4 b6 2. d4 e6 3. Bd3 Bb7 4. Ne2 Nf6 5. Nd2 c5 6. c3 d5
+7. e5 Nfd7 8. O-O Nc6 9. a3 c4 10. Bc2 b5 11. Nf4 Qe7 12. Qg4
+O-O-O 13. b3 h5 14. Qe2 g5 15. Nxh5 f5 16. exf6 Nxf6 17. Ng3
+Nd7 18. bxc4 bxc4 19. Nf3 g4 20. Ng5 Bh6 21. Qxg4 Rdg8 22. h4
+e5 23. Re1 Kb8 24. Nf5 Qf8 25. dxe5 Ka8 26. Bf4 Bg7 27. Qg3
+Nc5 28. Nd6 Nd3 29. Bxd3 cxd3 30. Nxb7 Kxb7 31. Qxd3 Qc5
+32. Rab1+ Ka8 33. Qa6 Nd8 34. e6 1-0

@@ -1,0 +1,29 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.47"]
+[Result "1/2-1/2"]
+[White "Yoel Estarling Polanco Nunez"]
+[Black "Roman Ezov"]
+[ECO "A61"]
+[WhiteElo "2157"]
+[BlackElo "2239"]
+[PlyCount "149"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6
+7. Nd2 Nbd7 8. e4 Bg7 9. Be2 O-O 10. O-O Re8 11. Re1 Ne5
+12. h3 g5 13. Nf3 Nxf3+ 14. Bxf3 h6 15. a4 Nd7 16. Ra3 Ne5
+17. Be2 f5 18. exf5 Bxf5 19. f4 gxf4 20. Bxf4 Ng6 21. Bg3 Qg5
+22. Bg4 Bxg4 23. Qxg4 Bd4+ 24. Kh2 Rxe1 25. Qxg5 Bg1+ 26. Kh1
+Bf2+ 27. Kh2 hxg5 28. Bxf2 Re7 29. Nb5 Nf4 30. Rg3 Re2
+31. Rxg5+ Kh7 32. Bg3 Nxg2 33. Bxd6 Ne1+ 34. Kg3 Rg2+ 35. Kf4
+Nd3+ 36. Kf5 Rxg5+ 37. Kxg5 Rd8 38. Kf6 Nb4 39. Ke7 Rg8
+40. Bxc5 Nxd5+ 41. Kd7 a6 42. Nd4 Rg7+ 43. Kd6 Nf4 44. Ba3
+Nxh3 45. Ne6 Rg6 46. Kd7 Rg4 47. Kc7 b5 48. axb5 axb5 49. Bc5
+b4 50. Kc6 b3 51. Nd4 Rg2 52. Ba3 Nf4 53. Nxb3 Nd3 54. Nc5
+Nxb2 55. Bxb2 Rxb2 56. Nd3 Rd2 57. Nc5 Kg6 58. Nb3 Rd3 59. Nc5
+Rd1 60. Nb7 Kf5 61. Nc5 Ke5 62. Nd7+ Kd4 63. Nb6 Rc1+ 64. Kd6
+Rb1 65. Kc6 Rc1+ 66. Kd6 Rc5 67. Nd7 Rh5 68. Ke6 Ra5 69. Nf6
+Ra6+ 70. Kf5 Rd6 71. Ng4 Rd5+ 72. Kf4 Rd8 73. Nf6 Rf8 74. Kf5
+Rxf6+ 75. Kxf6 1/2-1/2

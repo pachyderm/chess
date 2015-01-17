@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.14"]
+[Result "1/2-1/2"]
+[White "Tanguy Ringoir"]
+[Black "Daniel Fridman"]
+[ECO "E36"]
+[WhiteElo "2508"]
+[BlackElo "2639"]
+[PlyCount "38"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3
+O-O 7. Nf3 dxc4 8. Qxc4 b6 9. Bg5 Bb7 10. e3 Nbd7 11. Be2 c5
+12. O-O h6 13. Bh4 Rc8 14. Rfd1 Bd5 15. Qa4 Bc6 16. Qb3 Bd5
+17. Qa4 Bc6 18. Qb3 Bd5 19. Qa4 Bc6 1/2-1/2

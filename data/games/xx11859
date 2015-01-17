@@ -1,0 +1,16 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.82"]
+[Result "1-0"]
+[White "Enrico Grassi"]
+[Black "Eliman Lemon"]
+[ECO "C00"]
+[WhiteElo "2020"]
+[BlackElo "1884"]
+[PlyCount "31"]
+
+1. e4 c5 2. d4 e6 3. Nf3 Nf6 4. e5 Nd5 5. c4 Ne7 6. d5 exd5
+7. cxd5 d6 8. Bb5+ Bd7 9. Bxd7+ Qxd7 10. Nc3 Ng6 11. O-O Be7
+12. exd6 Qxd6 13. Ne4 Qb6 14. d6 Bf8 15. Re1 Nd7 16. Nf6+ 1-0

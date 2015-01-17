@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.50"]
+[Result "1-0"]
+[White "Oliver Kurmann"]
+[Black "Garry Forbes"]
+[ECO "B06"]
+[WhiteElo "2423"]
+[BlackElo "1917"]
+[PlyCount "59"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. h4 h6 6. Qd2 Nd7
+7. O-O-O b5 8. f3 Bb7 9. Kb1 Rc8 10. Nh3 c5 11. dxc5 Nxc5
+12. Nd5 Bxd5 13. exd5 Nf6 14. g4 h5 15. g5 Nfd7 16. Bd4 O-O
+17. Bxg7 Kxg7 18. f4 Qc7 19. Rh2 Na4 20. Qd4+ Kh7 21. Bd3 Nac5
+22. Re2 Nxd3 23. Rxd3 Nc5 24. Rde3 Qd7 25. Nf2 e6 26. b4 Na4
+27. Ne4 f5 28. Nf6+ Rxf6 29. Qxf6 Qc7 30. Rxe6 1-0

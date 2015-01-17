@@ -1,0 +1,23 @@
+[Event "Bundesliga"]
+[Site "Viernheim GER"]
+[Date "2014.03.16"]
+[EventDate "2013.10.12"]
+[Round "12"]
+[Result "1-0"]
+[White "Thomas Reich"]
+[Black "Volker Jacob"]
+[ECO "A61"]
+[WhiteElo "2386"]
+[BlackElo "2276"]
+[PlyCount "97"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6
+7. Bg5 Bg7 8. e3 h6 9. Bh4 O-O 10. Nd2 Na6 11. Nc4 Nc7 12. a4
+b6 13. Be2 Ba6 14. O-O Qd7 15. b3 Nh7 16. Rc1 f5 17. Bg3 Bxc4
+18. bxc4 Ng5 19. Bd3 Rae8 20. Qb3 Nf7 21. Rce1 Na6 22. f4 Nb4
+23. Bb1 Qd8 24. Re2 h5 25. Nd1 Nh6 26. Be1 a5 27. Bc3 Re7
+28. Nf2 Bd4 29. Rfe1 Rfe8 30. Bd2 h4 31. Kf1 Bf6 32. Bc3 Rg7
+33. e4 Bd4 34. Qb2 Bxc3 35. Qxc3 fxe4 36. Nxe4 Rf8 37. Kg1 Nf5
+38. Ng5 Nd4 39. Re6 Qd7 40. Bxg6 Qxa4 41. Rxd6 Qa2 42. Qe3
+Nbc2 43. Qe8 Nxe1 44. Bh7+ Rxh7 45. Rg6+ Rg7 46. Rxg7+ Kxg7
+47. Qe7+ Kg6 48. Qh7+ Kf6 49. Ne4# 1-0

@@ -1,0 +1,29 @@
+[Event "TCEC - Season 6 - Stage 4"]
+[Site "http://tcec.chessdom.com"]
+[Date "2014.05.13"]
+[EventDate "2014.05.01"]
+[Round "31"]
+[Result "1/2-1/2"]
+[White "Houdini (Computer)"]
+[Black "Komodo (Computer)"]
+[ECO "A81"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "153"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. c3 Bg7 5. Qb3 Nc6 6. Nh3 d5
+7. Nf4 e6 8. Nd2 O-O 9. O-O Na5 10. Qc2 c5 11. dxc5 e5 12. Nh3
+Nc6 13. b4 h6 14. b5 Na5 15. c4 g5 16. cxd5 g4 17. Ng5 hxg5
+18. e4 f4 19. Re1 b6 20. c6 Ne8 21. Bb2 Qe7 22. Bc3 Rf6
+23. Qa4 Rh6 24. Bxa5 bxa5 25. Qxa5 Rb8 26. a4 f3 27. Bh1 Rh3
+28. Rab1 Nd6 29. Qc3 Qc7 30. Nf1 Kf7 31. Rb4 Kf6 32. Nd2 Kg6
+33. Reb1 Bf6 34. Qa3 Qh7 35. Nf1 Be7 36. Qc3 Kf6 37. Bxf3 gxf3
+38. Qxf3+ Kg6 39. a5 g4 40. Qd1 Qh5 41. R1b3 Kh7 42. Qd2 Kg7
+43. Qb2 Nf7 44. Rc4 Ra8 45. c7 Nd6 46. Rc2 Bd7 47. c8=R Bxc8
+48. Rc7 Qg5 49. Rbc3 Rh8 50. h4 Qf6 51. b6 axb6 52. axb6 Rb8
+53. Ne3 Rd8 54. b7 Bd7 55. R3c6 Kf8 56. Ra6 Qf3 57. Qxe5 Qxe4
+58. Qb2 Kf7 59. Rb6 Qh7 60. Qb4 Qg6 61. h5 Qh6 62. Ra6 Rxb7
+63. Qxb7 Qxe3 64. fxe3 Nxb7 65. Rxb7 Bc8 66. Rxe7+ Kxe7
+67. Rc6 Bd7 68. Rh6 Re8 69. e4 Kd8 70. Rg6 Rxe4 71. h6 Re7
+72. Kf2 Bf5 73. Rg5 Be4 74. Rxg4 Bxd5 75. h7 Rxh7 76. Rd4 Rh1
+77. Rxd5+ 1/2-1/2

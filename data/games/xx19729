@@ -1,0 +1,18 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.11"]
+[EventDate "2014.03.04"]
+[Round "9.8"]
+[Result "0-1"]
+[White "Frode Elsness"]
+[Black "Eduardas Rozentalis"]
+[ECO "E00"]
+[WhiteElo "2479"]
+[BlackElo "2623"]
+[PlyCount "44"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 a5 5. Bg2 d5 6. Nf3 Nc6
+7. O-O O-O 8. Qc2 Ne4 9. Bf4 Bd6 10. Bxd6 Qxd6 11. Nc3 Nxc3
+12. bxc3 h6 13. cxd5 exd5 14. c4 Nb4 15. Qc3 dxc4 16. a3 Be6
+17. e4 c6 18. Rab1 Na2 19. Qa1 c3 20. d5 cxd5 21. e5 Qxa3
+22. Rfc1 Bf5 0-1

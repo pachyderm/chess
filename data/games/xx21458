@@ -1,0 +1,28 @@
+[Event "Latvian Railway Rapid"]
+[Site "Riga LAT"]
+[Date "2014.03.29"]
+[EventDate "2014.03.28"]
+[Round "5.5"]
+[Result "0-1"]
+[White "Nikita Meskovs"]
+[Black "Loek van Wely"]
+[ECO "E53"]
+[WhiteElo "2438"]
+[BlackElo "2684"]
+[PlyCount "144"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5
+7. O-O cxd4 8. exd4 dxc4 9. Bxc4 b6 10. Re1 Bb7 11. a3 Bxc3
+12. bxc3 Qc7 13. Qe2 Nbd7 14. Nd2 Bd5 15. Bb2 Bxc4 16. Nxc4
+Nd5 17. Rac1 b5 18. Nd2 Rab8 19. c4 bxc4 20. Nxc4 Qb7 21. Rc2
+Nf4 22. Qg4 Nd3 23. Rd1 Nxb2 24. Rxb2 Qa6 25. Rxb8 Rxb8 26. d5
+h5 27. Qd4 exd5 28. Qxd5 Nf6 29. Qd6 Qxd6 30. Nxd6 Rb3 31. Ra1
+Rd3 32. Nc4 Rc3 33. Nd6 Rd3 34. Nf5 g6 35. Ne7+ Kf8 36. Nc6 a6
+37. a4 Ne4 38. f3 Nc3 39. Nb4 Rd6 40. a5 Ke7 41. Kf2 Nd5
+42. Nd3 Rc6 43. Ra2 Kd6 44. Ke1 Rc4 45. Ra3 Rc2 46. Nf2 f5
+47. g3 Kc5 48. h4 Kd4 49. Rd3+ Kc4 50. Ra3 Rc3 51. Rxc3+ Kxc3
+52. Ke2 Kb4 53. Kd3 Kxa5 54. Kd4 Nb4 55. g4 Ka4 56. Kc4 a5
+57. gxh5 gxh5 58. Nh3 Nc6 59. Kd5 Kb5 60. Nf4 a4 61. Ne2 a3
+62. Nc1 Nb4+ 63. Kd4 Ka4 64. Kc4 Nc6 65. f4 Nb4 66. Kc3 Nd5+
+67. Kc4 Nxf4 68. Na2 Ne2 69. Nb4 f4 70. Nd3 a2 71. Nc5+ Ka3
+72. Nb3 Kb2 0-1

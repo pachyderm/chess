@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.12"]
+[Result "1-0"]
+[White "Igor Kovalenko"]
+[Black "David Anton Guijarro"]
+[ECO "A50"]
+[WhiteElo "2650"]
+[BlackElo "2624"]
+[PlyCount "75"]
+
+1. d4 Nf6 2. c4 b6 3. Nf3 Bb7 4. g3 c5 5. d5 b5 6. Bg2 bxc4
+7. Nc3 d6 8. Bg5 Nbd7 9. Qa4 Nxd5 10. Nxd5 Bxd5 11. O-O-O h6
+12. Rxd5 hxg5 13. Ne5 Rc8 14. Rd2 Rh6 15. Rhd1 Rc7 16. Bc6 Qc8
+17. Bxd7+ Rxd7 18. Qxc4 e6 19. Nxd7 d5 20. Rxd5 exd5 21. Rxd5
+Be7 22. Ne5 Re6 23. Qa4+ Kf8 24. Qxa7 Kg8 25. e3 g4 26. Nc4
+Bf8 27. Qa5 Ra6 28. Qd8 Qe6 29. Rxc5 Rxa2 30. Rc8 Ra1+ 31. Kd2
+Kh7 32. Qxf8 Qd5+ 33. Kc2 Qe4+ 34. Kb3 Qb7+ 35. Kc3 Qd5
+36. Qe7 Qf5 37. Rc5 Rc1+ 38. Kb4 1-0

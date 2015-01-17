@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.1"]
+[Result "1-0"]
+[White "Ian Nepomniachtchi"]
+[Black "Farhan Mohannad"]
+[ECO "A49"]
+[WhiteElo "2714"]
+[BlackElo "2321"]
+[PlyCount "95"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d6 6. a4 Nc6
+7. a5 a6 8. Nc3 e5 9. dxe5 dxe5 10. Be3 Qxd1 11. Rfxd1 Bf5
+12. Ne1 e4 13. Bf4 Rac8 14. h3 h5 15. Kh2 Rfe8 16. Bh1 Bf8
+17. Ng2 Bb4 18. Ne3 Bxa5 19. Ncd5 Kg7 20. Nxf6 Kxf6 21. g4
+hxg4 22. hxg4 Be6 23. g5+ Kg7 24. Bxe4 Bb6 25. Bxc6 bxc6
+26. Kg3 f6 27. Rxa6 fxg5 28. Bxg5 Rh8 29. Ng4 Rcf8 30. f3 Rh5
+31. Be7 Re8 32. Bf6+ Kf7 33. Ra3 Bc5 34. Ra6 Bxg4 35. fxg4
+Re3+ 36. Kf4 Rh2 37. Rxc6 Rf2+ 38. Kg5 Bd6 39. Rdxd6 cxd6
+40. Rc7+ Kf8 41. Bd4 Rexe2 42. Bxf2 Rxf2 43. Kxg6 Rg2 44. g5
+Rf2 45. b4 d5 46. b5 Rf4 47. b6 Rb4 48. b7 1-0

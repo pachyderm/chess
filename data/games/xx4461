@@ -1,0 +1,19 @@
+[Event "Casino Graz"]
+[Site "Graz AUT"]
+[Date "2014.02.14"]
+[EventDate "2014.02.14"]
+[Round "1.8"]
+[Result "0-1"]
+[White "Heimo Loebler"]
+[Black "Emre Can"]
+[ECO "A46"]
+[WhiteElo "2130"]
+[BlackElo "2520"]
+[PlyCount "56"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. Nbd2 d5 6. O-O Nbd7
+7. c3 Ne4 8. Qe2 Bd6 9. Ba6 Bxa6 10. Qxa6 f5 11. a4 O-O 12. a5
+g5 13. axb6 cxb6 14. Qb7 g4 15. Nxe4 fxe4 16. Ne1 a5 17. b3
+Rb8 18. Qc6 Qe7 19. c4 Rbc8 20. Qb5 dxc4 21. bxc4 Rf5 22. Qa6
+Bxh2+ 23. Kxh2 Qh4+ 24. Kg1 Rh5 25. Qxc8+ Nf8 26. f3 g3
+27. Qxf8+ Kxf8 28. fxe4+ Kg7 0-1

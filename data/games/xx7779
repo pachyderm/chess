@@ -1,0 +1,17 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.07"]
+[EventDate "2014.03.04"]
+[Round "5.94"]
+[Result "0-1"]
+[White "Haukur Halldorsson"]
+[Black "Hallgerdur Thorsteinsdottir"]
+[ECO "B18"]
+[WhiteElo "1669"]
+[BlackElo "1967"]
+[PlyCount "36"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3
+Nd7 7. Bd3 e6 8. Bxg6 hxg6 9. O-O Bd6 10. Ne4 Bxh2+ 11. Nxh2
+Qh4 12. Bf4 Qxf4 13. Ng3 Ngf6 14. c3 Qh6 15. Nf3 Ne4 16. Re1
+Ndf6 17. Kf1 Nxg3+ 18. fxg3 Ng4 0-1

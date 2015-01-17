@@ -1,0 +1,16 @@
+[Event "Company Sports Blitz Chess Championship Hamburg 2014"]
+[Site "Hamburg, Germany"]
+[Date "2014.06.02"]
+[EventDate "?"]
+[Round "3"]
+[Result "1-0"]
+[White "Rene Gralla"]
+[Black "Stefan Wolff"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "31"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 e6 6.Be3 d6 7.Qd2
+Nge7 8.Bh6 O-O 9.h4 Nd4 10.O-O-O b5 11.h5 b4 12.hxg6 bxc3
+13.gxh7+ Kh8 14.Bxg7+ Kxg7 15.Qh6+ Kh8 16.Qf6# 1-0

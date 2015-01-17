@@ -1,0 +1,18 @@
+[Event "European Individual Championships"]
+[Site "Yerevan ARM"]
+[Date "2014.03.12"]
+[EventDate "2014.03.03"]
+[Round "9.85"]
+[Result "1-0"]
+[White "David Shahinyan"]
+[Black "Vilka Sipila"]
+[ECO "A07"]
+[WhiteElo "2356"]
+[BlackElo "2457"]
+[PlyCount "45"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 Nf6 4. Bg2 e6 5. d3 Be7 6. Nge2 d5
+7. exd5 exd5 8. Bg5 d4 9. Bxf6 Bxf6 10. Nd5 Be5 11. O-O O-O
+12. c4 dxc3 13. bxc3 Qa5 14. f4 Bd6 15. f5 Re8 16. g4 Qd8
+17. Nef4 Qh4 18. h3 Bd7 19. Qd2 Rab8 20. Nh5 Kh8 21. f6 g6
+22. Qh6 gxh5 23. Qg7# 1-0

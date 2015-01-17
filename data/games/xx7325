@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.10"]
+[Result "1-0"]
+[White "Ian Nepomniachtchi"]
+[Black "Vlatko Bogdanovski"]
+[ECO "B12"]
+[WhiteElo "2714"]
+[BlackElo "2426"]
+[PlyCount "95"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O Ne7
+7. Nbd2 Bg6 8. Nh4 c5 9. c3 Nf5 10. Nxg6 hxg6 11. Nf3 Nb8
+12. b4 c4 13. a4 Be7 14. g3 Nd7 15. Re1 Qc7 16. Bf4 Nf8 17. a5
+Nh7 18. Qc1 O-O-O 19. Bd1 Rdg8 20. Kg2 Qd8 21. h4 Kb8 22. Ba4
+Qc8 23. Qd2 Ka8 24. Rh1 Bd8 25. Rh3 Ne7 26. Rah1 f6 27. Re1
+Nf8 28. Rhh1 Rh7 29. Re2 Rgh8 30. Rhe1 Nf5 31. Ra1 Be7 32. a6
+b6 33. Ree1 Bd8 34. Bb5 Rh5 35. Rh1 Ne7 36. Rae1 R5h7 37. Nh2
+Nf5 38. Ng4 Rh5 39. Qd1 g5 40. hxg5 fxg5 41. Rxh5 Rxh5 42. Bd2
+Qc7 43. Be8 Rh7 44. Rh1 Nh6 45. Qf3 Qe7 46. Bc6+ Kb8 47. Bxg5
+Qxg5 48. Qxf8 1-0

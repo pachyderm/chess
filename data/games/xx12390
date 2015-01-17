@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.32"]
+[Result "1-0"]
+[White "Denis Kadric"]
+[Black "Luis Esquivel Golcher"]
+[ECO "C05"]
+[WhiteElo "2473"]
+[BlackElo "2173"]
+[PlyCount "65"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 b6
+7. Ngf3 Ba6 8. c4 cxd4 9. cxd5 Bxf1 10. Nxf1 Bb4+ 11. Bd2 Na6
+12. Nxd4 Ndc5 13. d6 Qh4+ 14. g3 Qh3 15. Qe2 O-O 16. O-O-O
+Rac8 17. Kb1 Bxd2 18. Nxd2 Nb4 19. Ne4 Nxe4 20. Qxe4 Rc4
+21. Rc1 Rxd4 22. Qxd4 Qf5+ 23. Ka1 Nc2+ 24. Rxc2 Qxc2 25. Qc3
+Qxc3 26. bxc3 Rc8 27. Kb2 Kf8 28. Rd1 Rb8 29. Rd4 b5 30. Rb4
+a5 31. Rb3 Ke8 32. Kc2 Kd7 33. a4 1-0

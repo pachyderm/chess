@@ -1,0 +1,18 @@
+[Event "Riga Technical University Open"]
+[Site "Riga LAT"]
+[Date "2014.08.17"]
+[EventDate "2014.08.16"]
+[Round "2.10"]
+[Result "0-1"]
+[White "Bernhard Tabernig"]
+[Black "Daniel Naroditsky"]
+[ECO "E91"]
+[WhiteElo "2369"]
+[BlackElo "2587"]
+[PlyCount "52"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 c5
+7. d5 e6 8. Bg5 exd5 9. cxd5 h6 10. Bh4 g5 11. Bg3 Nh5 12. Nd2
+Nxg3 13. hxg3 f5 14. Qc2 Na6 15. a3 Nc7 16. Bd3 Qe7 17. O-O-O
+b5 18. exf5 c4 19. Be4 a5 20. Rhe1 Qf6 21. g4 b4 22. Ncb1 Nb5
+23. Nxc4 Bd7 24. Rd2 Rfc8 25. Bd3 Nd4 26. Qd1 a4 0-1

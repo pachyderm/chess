@@ -1,0 +1,20 @@
+[Event "Zurich Chess Challenge (Blitz)"]
+[Site "Zurich SUI"]
+[Date "2014.01.29"]
+[EventDate "2014.01.29"]
+[Round "2.2"]
+[Result "1-0"]
+[White "Hikaru Nakamura"]
+[Black "Levon Aronian"]
+[ECO "D51"]
+[WhiteElo "2789"]
+[BlackElo "2812"]
+[PlyCount "65"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 Nbd7 4. c4 e6 5. Nc3 h6 6. Bh4 Bb4
+7. cxd5 exd5 8. a3 Bxc3+ 9. bxc3 c5 10. Bd3 Qa5 11. Ne2 cxd4
+12. O-O dxe3 13. fxe3 O-O 14. Nd4 Ne4 15. Be7 Re8 16. Bb4 Qd8
+17. a4 a5 18. Ba3 Ndf6 19. c4 Be6 20. c5 Bd7 21. h3 Qc7
+22. Rf3 Nxc5 23. Rc1 b6 24. Bf5 Nfe4 25. Bb2 Rad8 26. Rf4 f6
+27. Bg6 Re7 28. Nf5 Bxf5 29. Bxf5 Nd6 30. Qxd5+ Kh8 31. Bb1
+Rxe3 32. Rxf6 Nde4 33. Rxh6# 1-0

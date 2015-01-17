@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.45"]
+[Result "0-1"]
+[White "Ghassan M Ali Ajmed Al-Khattab"]
+[Black "Rachid Hifad"]
+[ECO "B95"]
+[WhiteElo "2140"]
+[BlackElo "2311"]
+[PlyCount "54"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6
+7. Be2 Be7 8. Qd2 Qc7 9. O-O O-O 10. f4 Nbd7 11. f5 e5 12. Nb3
+b5 13. a3 Bb7 14. Bf3 Rac8 15. Be3 Rfe8 16. g4 h6 17. h4 d5
+18. exd5 e4 19. Bf4 Bd6 20. Bd1 Bxf4 21. Qxf4 Ne5 22. g5 hxg5
+23. hxg5 Nxd5 24. Nxd5 Bxd5 25. Qe3 Nf3+ 26. Bxf3 Qg3+ 27. Kh1
+exf3 0-1

@@ -1,0 +1,21 @@
+[Event "15th Poikovsky Karpov Tournament"]
+[Site "Poikovsky RUS"]
+[Date "2014.05.16"]
+[EventDate "2014.05.11"]
+[Round "5"]
+[Result "0-1"]
+[White "Ian Nepomniachtchi"]
+[Black "Alexander Motylev"]
+[ECO "B12"]
+[WhiteElo "2735"]
+[BlackElo "2687"]
+[PlyCount "74"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6
+7. Bg5 Qb6 8. Nd2 Qa6 9. c4 Bb4 10. b3 c5 11. Nf3 Nc6 12. dxc5
+Bxc5 13. O-O Nge7 14. a3 Ng6 15. b4 Ncxe5 16. Nxe5 Nxe5
+17. Qc3 Bd6 18. f4 Nxc4 19. Nxc4 Qxc4 20. Qxg7 Rf8 21. Rac1
+Qe4 22. Qb2 Kd7 23. Rfe1 Qf5 24. Qe2 a6 25. b5 a5 26. b6 Rfc8
+27. Qb5+ Rc6 28. Rxc6 bxc6 29. Qb2 f6 30. Rf1 Ke7 31. Qc3 fxg5
+32. Qxc6 Rb8 33. hxg5 Qe4 34. f5 Qd4+ 35. Rf2 Qd1+ 36. Rf1
+Qd4+ 37. Rf2 exf5 0-1

@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.80"]
+[Result "0-1"]
+[White "Michael Webb"]
+[Black "Geoffrey Mwanyika"]
+[ECO "D50"]
+[WhiteElo "?"]
+[BlackElo "1922"]
+[PlyCount "72"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Bb4 5. e3 h6 6. Bh4 g5
+7. Bg3 Ne4 8. Qc2 Nc6 9. Bd3 Bxc3+ 10. bxc3 Nxg3 11. hxg3 Bd7
+12. Ne2 Qe7 13. cxd5 exd5 14. Qb3 O-O-O 15. Rb1 b6 16. Qxd5
+Qf6 17. a4 Nb8 18. Qb3 Rhe8 19. a5 Bc6 20. O-O Be4 21. Bxe4
+Rxe4 22. axb6 axb6 23. Ra1 h5 24. Ra8 Qc6 25. Rfa1 f5 26. Qf7
+Qe6 27. Qxh5 Qf6 28. R1a7 Rh8 29. Qf3 g4 30. Qf4 Rxf4 31. Nxf4
+Qh6 32. Kf1 Qc6 33. Ra3 Qc4+ 34. Ke1 Rh1+ 35. Kd2 Qf1 36. R8a7
+Qd1# 0-1

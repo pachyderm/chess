@@ -1,0 +1,24 @@
+[Event "Sinquefield Cup"]
+[Site "Saint Louis USA"]
+[Date "2014.09.03"]
+[EventDate "2014.08.27"]
+[Round "7"]
+[Result "1-0"]
+[White "Magnus Carlsen"]
+[Black "Hikaru Nakamura"]
+[ECO "D10"]
+[WhiteElo "2877"]
+[BlackElo "2787"]
+[PlyCount "103"]
+
+1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e3 b5 5. a4 b4 6. Ne4 Qd5
+7. Nd2 c3 8. bxc3 bxc3 9. Nb1 Qa5 10. Qc2 e5 11. Nf3 Na6
+12. Nxe5 Nb4 13. Qb3 Be6 14. Bc4 c2 15. Bxe6 Nd3+ 16. Ke2 Nxe5
+17. dxe5 fxe6 18. Qxe6+ Ne7 19. Nd2 Qd5 20. Qxd5 Nxd5 21. Ne4
+Rb8 22. Bd2 Bb4 23. Rhc1 Bxd2 24. Nxd2 Nb4 25. Nf3 Ke7 26. Ne1
+Rhd8 27. f4 c5 28. Nxc2 Nd3 29. Rcb1 Nb2 30. Ra2 Nxa4 31. Rxb8
+Nc3+ 32. Kf3 Nxa2 33. Rb5 Nb4 34. Nxb4 cxb4 35. Rxb4 Ra8
+36. Ke4 a5 37. Ra4 Kf7 38. g4 Ke7 39. f5 h6 40. h4 Kf7 41. e6+
+Kf6 42. Rd4 Ke7 43. Rd7+ Kf8 44. e7+ Ke8 45. Rd8+ Rxd8
+46. exd8=Q+ Kxd8 47. Kd5 Ke7 48. g5 a4 49. Kc4 hxg5 50. hxg5
+Kd6 51. e4 Ke5 52. Kb4 1-0

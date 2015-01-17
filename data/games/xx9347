@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.51"]
+[Result "1-0"]
+[White "Adrian Fuentes"]
+[Black "Jose Ribera Bazan"]
+[ECO "B33"]
+[WhiteElo "2105"]
+[BlackElo "2117"]
+[PlyCount "65"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5
+d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O
+12. Nc2 Bg5 13. a4 bxa4 14. Rxa4 a5 15. Bc4 Rb8 16. Ra2 Kh8
+17. Nce3 g6 18. h4 Bxh4 19. g3 Bg5 20. f4 exf4 21. gxf4 Bh4+
+22. Kf1 f5 23. b4 Bf6 24. b5 Na7 25. Rah2 Rb7 26. Nxf6 Qxf6
+27. Nd5 Qg7 28. Rxh7+ Qxh7 29. Qd4+ Rg7 30. Rxh7+ Kxh7
+31. Nf6+ Kh6 32. Qxd6 Rh8 33. b6 1-0

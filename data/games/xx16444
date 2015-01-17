@@ -1,0 +1,17 @@
+[Event "Politiken Cup"]
+[Site "Helsingor DEN"]
+[Date "2014.07.24"]
+[EventDate "2014.07.21"]
+[Round "5.102"]
+[Result "1-0"]
+[White "Martin Saltvedt"]
+[Black "Simon Marder"]
+[ECO "D06"]
+[WhiteElo "1779"]
+[BlackElo "2082"]
+[PlyCount "35"]
+
+1. d4 Nc6 2. Nf3 d5 3. c4 e5 4. dxe5 Bb4+ 5. Bd2 dxc4 6. a3
+Bxd2+ 7. Nbxd2 Be6 8. e3 b5 9. Rc1 Na5 10. Nd4 a6 11. Ne4 Bd5
+12. Qg4 Kf8 13. Rd1 Ne7 14. Nc5 Qc8 15. e6 f6 16. Nd7+ Ke8
+17. Qxg7 Rf8 18. Qxf8# 1-0

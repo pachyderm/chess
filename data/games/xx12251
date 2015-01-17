@@ -1,0 +1,22 @@
+[Event "Bundesliga"]
+[Site "Berlin GER"]
+[Date "2014.02.23"]
+[EventDate "2013.10.12"]
+[Round "10"]
+[Result "1-0"]
+[White "Aleksander Mista"]
+[Black "Christoph Renner"]
+[ECO "C03"]
+[WhiteElo "2584"]
+[BlackElo "2389"]
+[PlyCount "81"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 4. Bd3 c5 5. dxc5 Nf6 6. Qe2 O-O
+7. Ngf3 a5 8. h4 e5 9. exd5 Bxc5 10. Ng5 Qxd5 11. Nde4 Nbd7
+12. Be3 Bxe3 13. fxe3 h6 14. c4 Qc6 15. O-O-O Nc5 16. Nxf6+
+gxf6 17. Bc2 e4 18. Nh3 Nd3+ 19. Rxd3 exd3 20. Qxd3 f5 21. Nf4
+Be6 22. Nd5 Bxd5 23. cxd5 Qg6 24. Rf1 Rac8 25. Rxf5 Rfe8
+26. Kb1 Qxg2 27. Rf4 Rxc2 28. Qxc2 Qh1+ 29. Qc1 Qxc1+ 30. Kxc1
+Rxe3 31. Rf5 Kf8 32. Kd2 Re4 33. Rh5 Kg7 34. Kd3 Re1 35. Kd4
+Re2 36. d6 Rxb2 37. Rxa5 Kf6 38. Rd5 Rd2+ 39. Kc5 Rc2+ 40. Kb6
+Rb2+ 41. Kc7 1-0

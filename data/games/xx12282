@@ -1,0 +1,24 @@
+[Event "Casino Graz"]
+[Site "Graz AUT"]
+[Date "2014.02.16"]
+[EventDate "2014.02.14"]
+[Round "4.14"]
+[Result "0-1"]
+[White "Werner Schweitzer"]
+[Black "Robert Perhinig"]
+[ECO "C03"]
+[WhiteElo "2055"]
+[BlackElo "2273"]
+[PlyCount "108"]
+
+1. e4 e6 2. d4 d5 3. Nd2 a6 4. Ngf3 Nf6 5. e5 Nfd7 6. Bd3 c5
+7. c3 Nc6 8. O-O Be7 9. Re1 g5 10. dxc5 g4 11. Nd4 Ncxe5
+12. N2b3 Nxd3 13. Qxd3 Qc7 14. Bh6 Nf6 15. Bg7 Rg8 16. Bxf6
+Bxf6 17. Nf5 Kf8 18. Nd6 Rg6 19. c4 dxc4 20. Nxc4 Bd7 21. Rab1
+Bc6 22. Qd6+ Qxd6 23. Nxd6 Be7 24. Nc4 Rg5 25. Re5 Rxe5
+26. Nxe5 Bd5 27. Rc1 Rd8 28. Nxg4 Bxb3 29. axb3 Bxc5 30. Kf1
+b6 31. Ke2 Rd5 32. Ne3 Re5 33. Kd3 Bxe3 34. fxe3 Rd5+ 35. Ke2
+Ke7 36. Rc4 Kd6 37. Rf4 f5 38. Rb4 Rb5 39. Rxb5 axb5 40. b4
+Kd5 41. Kd3 Ke5 42. g3 h6 43. h3 h5 44. h4 Kd5 45. b3 Ke5
+46. Kd2 Ke4 47. Ke2 e5 48. Kf2 f4 49. exf4 exf4 50. Kg2 Ke3
+51. Kh2 f3 52. Kg1 Ke2 53. Kh1 f2 54. Kh2 f1=Q 0-1

@@ -1,0 +1,21 @@
+[Event "Zurich Chess Challenge (Blitz)"]
+[Site "Zurich SUI"]
+[Date "2014.01.29"]
+[EventDate "2014.01.29"]
+[Round "1.1"]
+[Result "0-1"]
+[White "Magnus Carlsen"]
+[Black "Fabiano Caruana"]
+[ECO "B42"]
+[WhiteElo "2872"]
+[BlackElo "2782"]
+[PlyCount "70"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. c3 d6
+7. Nd2 Nf6 8. O-O O-O 9. a4 e5 10. N4b3 Ba7 11. Nc4 Be6
+12. Qe2 Nc6 13. Bg5 h6 14. Bh4 g5 15. Bg3 Ne7 16. Nbd2 Ng6
+17. Rfe1 h5 18. h3 h4 19. Bh2 g4 20. Kh1 gxh3 21. gxh3 Bxh3
+22. Rg1 Kg7 23. Ne3 Bxe3 24. Qxe3 Ng4 25. Qf3 Qf6 26. Rxg4
+Qxf3+ 27. Nxf3 Bxg4 28. Nxh4 Nxh4 29. Rg1 Nf3 30. Rxg4+ Kf6
+31. Rg3 Nxh2 32. Kxh2 Rh8+ 33. Kg2 Rag8 34. Bc4 Rxg3+ 35. fxg3
+a5 0-1

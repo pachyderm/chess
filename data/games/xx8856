@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.22"]
+[Result "1-0"]
+[White "Arturs Neiksans"]
+[Black "Ricardo Garcia"]
+[ECO "B30"]
+[WhiteElo "2572"]
+[BlackElo "2215"]
+[PlyCount "79"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. d4 cxd4 6. Nxd4
+g6 7. Nxc6 Nxc6 8. Nc3 Bg7 9. Be3 O-O 10. Qd2 Qa5 11. Bh6 a6
+12. Bxg7 Kxg7 13. Ba4 Qc5 14. Rfd1 b5 15. Bb3 Rd8 16. Qd6 Qxd6
+17. Rxd6 Kf8 18. Rad1 Ke7 19. f4 Bb7 20. a3 Rac8 21. Kf2 Na5
+22. Ba2 Nc4 23. Bxc4 Rxc4 24. Ke3 Rc6 25. e5 Rxd6 26. Rxd6 Rc8
+27. Rb6 Rc7 28. g4 Kd8 29. g5 Kc8 30. Rd6 Rc5 31. Kd3 Kc7
+32. Nd1 Rc4 33. Rd4 Bf3 34. Nc3 Rc5 35. Rd6 a5 36. b4 axb4
+37. axb4 Rd5+ 38. Nxd5+ Bxd5 39. Kd4 Bc4 40. Ke4 1-0

@@ -1,0 +1,33 @@
+[Event "Casino Graz"]
+[Site "Graz AUT"]
+[Date "2014.02.20"]
+[EventDate "2014.02.14"]
+[Round "8.32"]
+[Result "0-1"]
+[White "Tingjie Lei"]
+[Black "Hrant Melkumyan"]
+[ECO "E06"]
+[WhiteElo "2346"]
+[BlackElo "2589"]
+[PlyCount "194"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. Qc2 dxc4
+7. Qxc4 a6 8. Qc2 Nc6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Qxc7 Nd5
+12. Bxd5 Bd8 13. Qc4 Qxd5 14. Qxd5 exd5 15. Rd1 Bf6 16. Nc3
+Bxc3 17. bxc3 Be6 18. Be3 Rfc8 19. Bd4 b5 20. a4 bxa4 21. Rxa4
+Bd7 22. Ra5 Bb5 23. Rd2 Rab8 24. Kg2 Bc4 25. Bc5 Rb1 26. Kf3
+Re8 27. Bd4 h5 28. h4 f6 29. Be3 Re5 30. Bd4 Re8 31. Be3 Kf7
+32. Bf4 Rb3 33. Rc2 Kg6 34. Rc5 Rb1 35. Rc7 a5 36. Ra7 a4
+37. Rd2 d4 38. Rxd4 Bxe2+ 39. Kg2 Bb5 40. g4 hxg4 41. Bh2 Be2
+42. Rdd7 Bf3+ 43. Kg3 Rg8 44. Rxa4 Rb5 45. Rc7 Rf5 46. Rf4 Rh5
+47. Rd4 Rgh8 48. Kf4 Rxh4 49. Bg3 R4h7 50. Ke3 Re8+ 51. Kd3
+Rh1 52. Kc4 Rd1 53. Rxd1 Bxd1 54. Kd5 Bf3+ 55. Kd6 Re2 56. c4
+Kh6 57. c5 g5 58. c6 f5 59. Be5 f4 60. Bd4 g3 61. fxg3 fxg3
+62. Rf7 Bg4 63. Bc5 g2 64. c7 Re6+ 65. Kd5 Re1 66. Rf8 g1=Q
+67. Bxg1 Rxg1 68. Rh8+ Kg6 69. Rg8+ Kf7 70. c8=Q Rd1+ 71. Ke5
+Re1+ 72. Kd4 Bxc8 73. Rxg5 Ke6 74. Rb5 Bd7 75. Rh5 Ra1
+76. Rh6+ Kf5 77. Rh8 Ra4+ 78. Kc3 Ke5 79. Rh5+ Bf5 80. Rh8
+Ra3+ 81. Kb2 Rg3 82. Rd8 Be4 83. Rd7 Bd5 84. Rd8 Ke4 85. Rd7
+Rg2+ 86. Kc1 Ra2 87. Kb1 Rd2 88. Kc1 Ke3 89. Re7+ Kd3 90. Rh7
+Rc2+ 91. Kb1 Ba2+ 92. Ka1 Bc4 93. Rd7+ Kc3 94. Kb1 Rb2+
+95. Kc1 Ra2 96. Kb1 Ra8 97. Rc7 Rf8 0-1

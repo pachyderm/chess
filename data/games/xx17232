@@ -1,0 +1,18 @@
+[Event "British Chess Championships"]
+[Site "Aberystwyth WLS"]
+[Date "2014.07.19"]
+[EventDate "2014.07.19"]
+[Round "1.4"]
+[Result "1-0"]
+[White "Jonathan Hawkins"]
+[Black "Thomas Brown"]
+[ECO "D15"]
+[WhiteElo "2516"]
+[BlackElo "2104"]
+[PlyCount "45"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e4 b5 6. e5 Nd5
+7. a4 b4 8. Ne4 Bf5 9. Ng3 Bg4 10. Bxc4 e6 11. O-O a5 12. h3
+Bxf3 13. Qxf3 h5 14. Nxh5 Qh4 15. Nf4 Nd7 16. Be3 Be7 17. Nxd5
+cxd5 18. Bb5 Ra7 19. Rac1 O-O 20. Bd3 f6 21. exf6 Bxf6 22. Qg4
+Qxg4 23. hxg4 1-0

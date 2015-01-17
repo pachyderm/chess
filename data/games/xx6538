@@ -1,0 +1,18 @@
+[Event "Chess Olympiad (Women)"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.50"]
+[Result "0-1"]
+[White "Nikola Konkolova"]
+[Black "Margarita Voiska"]
+[ECO "B06"]
+[WhiteElo "1481"]
+[BlackElo "2279"]
+[PlyCount "42"]
+
+1. e4 g6 2. d4 Bg7 3. c3 d6 4. Bc4 Nf6 5. Qd3 O-O 6. Be3 d5
+7. exd5 Bf5 8. Qd1 Nxd5 9. Bxd5 Qxd5 10. Nf3 Nc6 11. Nbd2 e5
+12. Qb3 Qxb3 13. Nxb3 a5 14. a4 Bc2 15. Nfd2 exd4 16. cxd4 f5
+17. O-O f4 18. d5 fxe3 19. dxc6 exd2 20. Nxd2 bxc6 21. Rac1
+Bxa4 0-1

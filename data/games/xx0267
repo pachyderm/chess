@@ -1,0 +1,34 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.71"]
+[Result "0-1"]
+[White "Momodou Lamin Bittaye"]
+[Black "Daniel Jose Queralto"]
+[ECO "A01"]
+[WhiteElo "?"]
+[BlackElo "2122"]
+[PlyCount "202"]
+
+1. b3 d5 2. Bb2 c5 3. e3 Nc6 4. f4 Nf6 5. Nf3 e6 6. Be2 Bd6
+7. O-O O-O 8. Qe1 Nd7 9. Qg3 f6 10. Nh4 Qe7 11. Qh3 Qf7
+12. Nc3 Re8 13. Rf3 f5 14. Rg3 Nf6 15. Nf3 Qh5 16. Nh4 Qh6
+17. Nb5 Bb8 18. Rf1 a6 19. Na3 Rf8 20. Rg5 Bd7 21. Rf3 Be8
+22. Rfg3 Rf7 23. Nxf5 Qxh3 24. gxh3 exf5 25. Bxf6 Rxf6
+26. Rxg7+ Kf8 27. Rxh7 Bf7 28. Rh8+ Ke7 29. Rg7 Rg6+ 30. Rxg6
+Bxg6 31. Nb1 Kf7 32. Nc3 Kg7 33. Rc8 Bf7 34. Na4 Be6 35. Nb6
+Bxc8 36. Nxa8 b5 37. c4 dxc4 38. bxc4 b4 39. Nb6 Be6 40. d3
+Ba7 41. Na4 Na5 42. Kf1 Nb7 43. Bf3 Nd6 44. Be2 Bd7 45. Nb2
+Nc8 46. Ke1 Bb8 47. Kd2 Bd6 48. Bd1 Nb6 49. Bc2 a5 50. Kc1 Kg6
+51. Bd1 Bc6 52. Kd2 a4 53. Bc2 Kh5 54. Nd1 Kh4 55. Nf2 Bg2
+56. Kc1 Bxh3 57. Nxh3 Kxh3 58. d4 cxd4 59. Bxf5+ Kxh2 60. exd4
+Nxc4 61. Be6 Bxf4+ 62. Kc2 Nb6 63. Kb2 Be3 64. a3 Bxd4+
+65. Ka2 b3+ 66. Bxb3 axb3+ 67. Kxb3 Nc8 68. Kc4 Bg1 69. a4 Kg3
+70. a5 Kf4 71. Kd5 Na7 72. a6 Bf2 73. Kd6 Ke4 74. Kc7 Kd5
+75. Kb7 Kc4 76. Kc7 Kb5 77. Kb7 Be3 78. Kc7 Kxa6 79. Kd6 Kb6
+80. Kd5 Bc5 81. Ke5 Nb5 82. Kd5 Nc7+ 83. Kc4 Kc6 84. Kd3 Kd5
+85. Kc3 Nb5+ 86. Kd3 Bd4 87. Ke2 Ke4 88. Kd2 Na3 89. Ke2 Nc4
+90. Kd1 Kd3 91. Ke1 Nd2 92. Kd1 Bf2 93. Kc1 Nc4 94. Kd1 Nb2+
+95. Kc1 Kc3 96. Kb1 Kb3 97. Ka1 Be3 98. Kb1 Nc4 99. Ka1 Bg5
+100. Kb1 Na3+ 101. Ka1 Bf6# 0-1

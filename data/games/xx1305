@@ -1,0 +1,20 @@
+[Event "Norway Chess Tournament (Blitz)"]
+[Site "Flor & Fjaere NOR"]
+[Date "2014.06.02"]
+[EventDate "2014.06.02"]
+[Round "6.1"]
+[Result "0-1"]
+[White "Veselin Topalov"]
+[Black "Levon Aronian"]
+[ECO "A07"]
+[WhiteElo "2772"]
+[BlackElo "2815"]
+[PlyCount "60"]
+
+1. e4 e5 2. Nf3 Nc6 3. g3 Bc5 4. Bg2 d6 5. c3 Nf6 6. d3 O-O
+7. O-O a6 8. Re1 Re8 9. h3 h6 10. Nbd2 Be6 11. Kh2 Bxf2
+12. Rf1 Ba7 13. Nh4 Nh7 14. Nf5 Ne7 15. Qg4 Ng6 16. Nc4 Nf6
+17. Qe2 d5 18. exd5 Bxd5 19. Bxd5 Qxd5 20. Nxh6+ Kf8 21. Bg5
+e4 22. Bxf6 exd3 23. Qf3 Qxf3 24. Rxf3 Re2+ 25. Kh1 gxf6
+26. Rxd3 b5 27. Rd7 bxc4 28. Rxf7+ Ke8 29. Rxf6 Ne5 30. Raf1
+Rd8 0-1

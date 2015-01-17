@@ -1,0 +1,27 @@
+[Event "Bundesliga"]
+[Site "Berlin GER"]
+[Date "2014.02.23"]
+[EventDate "2013.10.12"]
+[Round "10"]
+[Result "0-1"]
+[White "Michael Richter"]
+[Black "Peter Acs"]
+[ECO "D14"]
+[WhiteElo "2473"]
+[BlackElo "2570"]
+[PlyCount "134"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nf3 Nf6 5. Nc3 Nc6 6. Bf4
+Bf5 7. e3 e6 8. Qb3 Bb4 9. Ne5 Bxc3+ 10. bxc3 O-O 11. Nxc6
+bxc6 12. Be2 Re8 13. h3 Ne4 14. Qa3 Qh4 15. g3 Qe7 16. Qxe7
+Rxe7 17. g4 Bg6 18. Rc1 f6 19. Bh2 e5 20. O-O Rb8 21. c4 Rb2
+22. cxd5 cxd5 23. Bf3 exd4 24. exd4 h6 25. Rc8+ Kh7 26. Bxe4
+Bxe4 27. a3 Rb3 28. Bg3 Rxa3 29. Kh2 Rb7 30. Rfc1 Rab3
+31. R8c7 Rxc7 32. Rxc7 Rb1 33. Bd6 Rh1+ 34. Kg3 Rg1+ 35. Kf4
+Kg8 36. Rxa7 g5+ 37. Ke3 Rh1 38. Ra8+ Kf7 39. Ra7+ Ke6 40. Bc5
+Rxh3+ 41. Kd2 f5 42. Ra6+ Kf7 43. Ra7+ Ke8 44. gxf5 Bxf5
+45. Re7+ Kd8 46. Rg7 g4 47. Be7+ Ke8 48. Bf6 h5 49. Be5 h4
+50. Rg5 Rf3 51. Ke1 Kd7 52. Rh5 h3 53. Rh6 Be4 54. Ke2 Rb3
+55. Kd2 Bf3 56. Bg3 Ke8 57. Kc2 Ra3 58. Kd2 Kf7 59. Rh7+ Kg8
+60. Rc7 Be4 61. Rc3 Ra6 62. Be5 Rh6 63. Bh2 Rf6 64. Ke1 Ra6
+65. Rc1 Ra3 66. Kf1 Rd3 67. Be5 g3 0-1

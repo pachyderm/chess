@@ -1,0 +1,18 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.05"]
+[EventDate "2014.03.04"]
+[Round "2.88"]
+[Result "0-1"]
+[White "Kristofer Gautason"]
+[Black "Orn Leo Johannsson"]
+[ECO "C02"]
+[WhiteElo "1677"]
+[BlackElo "1999"]
+[PlyCount "42"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 Nge7
+7. O-O cxd4 8. cxd4 Nf5 9. b3 Qb6 10. Bb2 Be7 11. g4 Nh4
+12. Nxh4 Bxh4 13. Na3 O-O 14. Qd2 f6 15. exf6 Rxf6 16. f4 Raf8
+17. Kg2 g5 18. fxg5 Rf2+ 19. Rxf2 Rxf2+ 20. Kh3 Qc7 21. Rh1
+Rxh2+ 0-1

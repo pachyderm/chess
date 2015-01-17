@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.34"]
+[Result "1-0"]
+[White "Daniel Mieles Palau"]
+[Black "Spencer Masango"]
+[ECO "D48"]
+[WhiteElo "2374"]
+[BlackElo "2155"]
+[PlyCount "47"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 c6 5. e3 Nbd7 6. Bd3 dxc4
+7. Bxc4 b5 8. Bd3 a6 9. O-O Bb7 10. Qe2 Bd6 11. e4 e5 12. Bg5
+h6 13. Bh4 O-O 14. dxe5 Bxe5 15. Nxe5 Nxe5 16. Rad1 Qe7 17. f4
+Nxd3 18. Rxd3 b4 19. e5 bxc3 20. Bxf6 Qc5+ 21. Kh1 c2 22. Rg3
+Rfd8 23. Rxg7+ Kf8 24. Qg4 1-0

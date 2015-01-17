@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.47"]
+[Result "1-0"]
+[White "Pedro Filipe Rego"]
+[Black "Adel Choukri"]
+[ECO "D11"]
+[WhiteElo "2273"]
+[BlackElo "2177"]
+[PlyCount "75"]
+
+1. Nf3 d5 2. d4 c6 3. c4 Nf6 4. e3 e6 5. b3 Nbd7 6. Bd3 dxc4
+7. bxc4 e5 8. dxe5 Nxe5 9. Nxe5 Qa5+ 10. Bd2 Qxe5 11. Bc3 Bb4
+12. Bxb4 Qxa1 13. O-O Qe5 14. Bc2 Bd7 15. Bd6 Qa5 16. Nd2
+O-O-O 17. Nb3 Qc3 18. Nc5 Bg4 19. Qxg4+ Nxg4 20. Bf5+ Rd7
+21. Bxd7+ Kd8 22. Bxg4 b6 23. Rd1 Qc2 24. Nb7+ Ke8 25. c5 f5
+26. Bf3 Kf7 27. cxb6 axb6 28. Be5 Ra8 29. Nd8+ Kf8 30. Nxc6
+Rxa2 31. Rd8+ Kf7 32. Bd5+ Kg6 33. Rd6+ Kg5 34. Bf4+ Kg4
+35. Ne5+ Kh5 36. Bf3+ Kh4 37. g3+ Kh3 38. Bg2# 1-0

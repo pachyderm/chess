@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.24"]
+[Result "0-1"]
+[White "Yehuda Gruenfeld"]
+[Black "Neuris Delgado Ramirez"]
+[ECO "B94"]
+[WhiteElo "2448"]
+[BlackElo "2602"]
+[PlyCount "58"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5
+Nbd7 7. Qe2 Qa5 8. h4 h6 9. Bd2 Qc7 10. O-O-O g6 11. g4 e5
+12. Nb3 b5 13. a3 Nb6 14. g5 hxg5 15. Bxg5 Be7 16. Bh3 Nh5
+17. Bxc8 Bxg5+ 18. hxg5 Rxc8 19. Kb1 Ke7 20. Qd2 Nf4 21. Rxh8
+Rxh8 22. Na5 Rh2 23. Na2 Qc5 24. Nb7 Nc4 25. Nxc5 Nxd2+
+26. Rxd2 Rh1+ 27. Nc1 dxc5 28. c3 Re1 29. Kc2 c4 0-1

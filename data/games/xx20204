@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.13"]
+[Result "1-0"]
+[White "Nguyen Huynh Minh Huy"]
+[Black "Matias Latorre"]
+[ECO "E11"]
+[WhiteElo "2507"]
+[BlackElo "2277"]
+[PlyCount "103"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. e4 d5
+7. Bd3 c5 8. dxc5 dxe4 9. Nxe4 Nxe4 10. Bxe4 Qxd1+ 11. Kxd1
+Bxc5 12. Ke2 f5 13. Bc2 e5 14. b4 e4 15. bxc5 exf3+ 16. Kxf3
+Bd7 17. Bf4 Rf6 18. Rhd1 Bc6+ 19. Ke2 Nd7 20. Bd6 Re8+ 21. Kf1
+g6 22. Re1 Rfe6 23. Rxe6 Rxe6 24. Rd1 Kf7 25. Rd4 Nf6 26. f3
+h5 27. Kf2 Re8 28. h3 Re6 29. Rd1 Nd7 30. Rd2 Re8 31. Rd4 Nf6
+32. Bf4 Nd7 33. Rd6 Re6 34. Be3 Rxd6 35. cxd6 b6 36. Kg3 Ke6
+37. Kf4 Ne5 38. c5 Nc4 39. cxb6 g5+ 40. Kxg5 Nxe3 41. Ba4 Bb7
+42. d7 Ke7 43. bxa7 Nxg2 44. f4 h4 45. Kxf5 Ne3+ 46. Kg5 Nd5
+47. f5 Ba8 48. Kxh4 Nf6 49. Kg5 Nxd7 50. Bxd7 Kxd7 51. Kg6 Be4
+52. Kg7 1-0

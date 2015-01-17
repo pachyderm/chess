@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.10"]
+[Result "1/2-1/2"]
+[White "Andrey Zhigalko"]
+[Black "Viktor Laznicka"]
+[ECO "B13"]
+[WhiteElo "2580"]
+[BlackElo "2676"]
+[PlyCount "136"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5
+dxc4 7. Bxc4 h6 8. Bf4 e6 9. Nf3 Bd6 10. Ne5 O-O 11. O-O Qe7
+12. Nxc6 bxc6 13. Be5 c5 14. Nb5 Bxe5 15. dxe5 Nd7 16. f4 Nb6
+17. b3 Nxc4 18. bxc4 Bb7 19. Nd6 Rab8 20. Qd2 Ba8 21. Rf2 Rb6
+22. Qe3 Qc7 23. Nb5 Qe7 24. h3 a6 25. Nd6 Qc7 26. Rd1 Rfb8
+27. Rdd2 f5 28. Kh2 Rb1 29. Qg3 Kh7 30. h4 g6 31. h5 gxh5
+32. Qh3 Qg7 33. Qxh5 Qg6 34. Qh3 Bc6 35. Rd3 Ra1 36. Rg3 Rbb1
+37. Rxg6 Rh1+ 38. Kg3 Rxh3+ 39. Kxh3 Kxg6 40. Rb2 Rf1 41. Rb6
+Be4 42. Kg3 h5 43. Rxa6 h4+ 44. Kxh4 Rxf4+ 45. Kh3 Bd3 46. Ra3
+Bf1 47. Kg3 Rd4 48. Kf2 Bxc4 49. Nxc4 Rf4+ 50. Kg3 Rxc4
+51. Ra6 f4+ 52. Kg4 f3+ 53. Kxf3 Kf5 54. a4 Rc3+ 55. Ke2 Kxe5
+56. a5 Ra3 57. Ra8 Ke4 58. a6 Ra2+ 59. Kd1 Rxg2 60. Re8 Ra2
+61. Rxe6+ Kd3 62. Kc1 c4 63. Rh6 Kc3 64. Kb1 Ra5 65. Rh3+ Kb4
+66. Rh6 Kb5 67. Kb2 Rxa6 68. Rxa6 Kxa6 1/2-1/2

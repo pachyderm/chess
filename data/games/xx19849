@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.4"]
+[Result "1-0"]
+[White "Ivan Cheparinov"]
+[Black "Ruslan Ponomariov"]
+[ECO "E04"]
+[WhiteElo "2681"]
+[BlackElo "2717"]
+[PlyCount "73"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6
+7. dxc5 Qxd1 8. Rxd1 Bxc5 9. Nbd2 c3 10. bxc3 O-O 11. Nb3 Be7
+12. c4 Bd7 13. Bb2 Rfd8 14. Nfd4 Rac8 15. Nb5 b6 16. Nd6 Rc7
+17. Ba3 Kf8 18. c5 Nb8 19. Nb5 Rcc8 20. Nxa7 Rc7 21. cxb6 Rc2
+22. Nd4 Rc4 23. Rac1 Rxc1 24. Bxe7+ Kxe7 25. Rxc1 Kd6
+26. Ndb5+ Bxb5 27. Nxb5+ Ke7 28. a4 Rd2 29. Nc3 Nfd7 30. a5
+Rb2 31. Ra1 Rc2 32. Ra3 Rc1+ 33. Bf1 Nc6 34. Nb5 Nce5 35. b7
+Nc4 36. a6 Nxa3 37. Nxa3 1-0

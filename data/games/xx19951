@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.33"]
+[Result "0-1"]
+[White "Mario Merritt"]
+[Black "Emilis Pileckis"]
+[ECO "E06"]
+[WhiteElo "2078"]
+[BlackElo "2447"]
+[PlyCount "84"]
+
+1. c4 Nf6 2. g3 e6 3. Nf3 d5 4. Bg2 Be7 5. d4 O-O 6. O-O dxc4
+7. Qc2 a6 8. Qxc4 b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 b4 12. Bg5
+Nbd7 13. Nbd2 Bd5 14. Re1 Rc8 15. e4 Ba8 16. e5 Nd5 17. Ne4
+Bxg5 18. Nfxg5 h6 19. Nf3 c5 20. Qd2 c4 21. Nd6 c3 22. Qc2
+cxb2 23. Qxb2 Rc3 24. a3 a5 25. axb4 axb4 26. Nb5 Rc8 27. Nd2
+N7b6 28. Ne4 Nc4 29. Qb3 Qb6 30. Bf1 Qxb5 31. Nd6 Nxd6
+32. Bxb5 Nxb5 33. Rec1 Nxd4 34. Qd3 Rxc1+ 35. Rxc1 Nc3 36. Kf1
+Nf3 37. Qe3 Bd5 38. h4 Ra8 39. Qb6 Nd2+ 40. Ke1 Ra2 41. Qxb4
+Nf3+ 42. Kf1 Ne4 0-1

@@ -1,0 +1,35 @@
+[Event "Tata Steel"]
+[Site "Rijksmuseum, Amsterdam NED"]
+[Date "2014.01.15"]
+[EventDate "2014.01.11"]
+[Round "4.3"]
+[Result "1-0"]
+[White "Leinier Dominguez Perez"]
+[Black "Fabiano Caruana"]
+[ECO "C78"]
+[WhiteElo "2754"]
+[BlackElo "2782"]
+[PlyCount "215"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5
+7. Bb3 d6 8. a3 O-O 9. Nc3 Be6 10. Be3 Qd7 11. Nd5 Bd8 12. Bg5
+Bxd5 13. exd5 Nd4 14. Nxd4 exd4 15. a4 Qf5 16. Bd2 Rb8
+17. axb5 axb5 18. h3 h5 19. Ra7 h4 20. Qf3 Qxf3 21. gxf3 Re8
+22. f4 Nd7 23. Bb4 Nb6 24. Kg2 Na4 25. Ba3 Nb6 26. Bb4 Na4
+27. Rb1 Re7 28. Ra6 Re8 29. Kf3 Rb7 30. Ra8 Kf8 31. Ra1 Nc5
+32. R1a7 Rxa7 33. Rxa7 Nxb3 34. cxb3 Ke7 35. Rb7 Kd7 36. Rxb5
+Rh8 37. Bd2 Rh5 38. Ra5 g6 39. Ke4 Rh8 40. Ra8 f5+ 41. Kf3 Bf6
+42. Ra1 Rb8 43. b4 Re8 44. Ra7 Rb8 45. Ke2 Kc8 46. Kd1 Rb5
+47. Ra5 Rb8 48. Kc2 Kd7 49. Ra1 Rb5 50. Ra5 Rb8 51. b5 Kc8
+52. Kb3 Kb7 53. Ra1 Re8 54. Re1 Rxe1 55. Bxe1 Kb6 56. Kc4 Be7
+57. f3 Bf6 58. Kb4 Bd8 59. Bf2 Bf6 60. b3 Kb7 61. Ka5 Bd8
+62. Kb4 Bf6 63. Ka5 Bd8 64. b6 cxb6+ 65. Kb5 Bf6 66. b4 Be7
+67. Bxd4 Bd8 68. Bc3 Be7 69. Bg7 Bd8 70. Bd4 Be7 71. Bxb6 Bf6
+72. Bf2 Bc3 73. Bxh4 Bd2 74. Bf2 Bxf4 75. Ka4 Ka6 76. b5+ Kb7
+77. Kb3 Kc7 78. Kc2 Kb7 79. Bd4 Bg3 80. Be3 Be5 81. Kb3 Kc7
+82. Ka4 Kb7 83. Kb4 Bg3 84. Kc4 Be5 85. Kb3 Bg3 86. Kc2 Be5
+87. Kd2 Bg3 88. Ke2 Bh4 89. Kf1 Bg3 90. Kg2 Bh4 91. Bf2 Bf6
+92. Be3 Bh4 93. Bf2 Bf6 94. h4 Kc7 95. Kh3 Kb7 96. h5 gxh5
+97. Bh4 Bd4 98. Be7 Be5 99. Bd8 Kc8 100. Bg5 Kb7 101. Kh4 Kb6
+102. Be3+ Kxb5 103. f4 Bb2 104. Kxh5 Kb4 105. Kg5 Kc3
+106. Kxf5 Kxd3 107. Bg1 Bc1 108. Bh2 1-0

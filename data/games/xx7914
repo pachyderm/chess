@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.77"]
+[Result "1-0"]
+[White "Henry Robert Steel"]
+[Black "Maurice Lettsome"]
+[ECO "B20"]
+[WhiteElo "2399"]
+[BlackElo "1783"]
+[PlyCount "43"]
+
+1. e4 c5 2. b3 Nc6 3. Bb2 d6 4. f4 Nf6 5. Nc3 e6 6. Nf3 a6
+7. d4 cxd4 8. Nxd4 Bd7 9. Nxc6 Bxc6 10. Bd3 Be7 11. O-O O-O
+12. Kh1 b5 13. Qf3 Qc7 14. Rae1 Rfd8 15. Qh3 h6 16. e5 Nh7
+17. f5 Ng5 18. Qg4 dxe5 19. fxe6 Nxe6 20. Ne4 Bxe4 21. Bxe4
+Rac8 22. Bxe5 1-0

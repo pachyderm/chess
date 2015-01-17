@@ -1,0 +1,26 @@
+[Event "Bundesliga"]
+[Site "Hockenheim GER"]
+[Date "2014.03.15"]
+[EventDate "2013.10.12"]
+[Round "11"]
+[Result "1-0"]
+[White "Jan Gustafsson"]
+[Black "Jonas Lampert"]
+[ECO "D10"]
+[WhiteElo "2628"]
+[BlackElo "2376"]
+[PlyCount "121"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. cxd5 cxd5 5. Bf4 Nc6 6. e3 a6
+7. Bd3 Bg4 8. Nge2 e6 9. O-O Bd6 10. f3 Bh5 11. Rc1 Bg6
+12. Na4 O-O 13. Nc5 Bxd3 14. Qxd3 Bxf4 15. Nxf4 Qe7 16. Rc3
+Na5 17. b3 Nd7 18. Rfc1 Nxc5 19. Rxc5 Nc6 20. Qc3 Qd6 21. b4
+h6 22. Nd3 Rab8 23. a4 Ne7 24. Qe1 Rfc8 25. Qg3 Qxg3 26. hxg3
+Kf8 27. a5 Ke8 28. Kf2 Rxc5 29. Nxc5 Nf5 30. g4 Nd6 31. e4
+dxe4 32. fxe4 Ke7 33. Ke3 Ne8 34. Rb1 Nc7 35. Rf1 f6 36. Rc1
+Kd6 37. Na4 Nb5 38. Rc4 Na7 39. Kd3 Nc6 40. Kc3 Ne7 41. Rc5
+Nc8 42. b5 axb5 43. Rxb5 Kc6 44. Rc5+ Kd7 45. Rb5 Kc6 46. Kb4
+b6 47. d5+ exd5 48. exd5+ Kc7 49. d6+ Kc6 50. d7 Kxd7
+51. Nxb6+ Nxb6 52. Rxb6 Re8 53. a6 Kc7 54. Rb7+ Kc6 55. Rxg7
+Kb6 56. a7 Rc8 57. Rf7 Ka6 58. Rc7 Rg8 59. Kc5 Rd8 60. Rd7 Rg8
+61. Kd6 1-0

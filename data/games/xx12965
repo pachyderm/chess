@@ -1,0 +1,20 @@
+[Event "Bundesliga"]
+[Site "Baden-Baden GER"]
+[Date "2014.02.09"]
+[EventDate "2013.10.12"]
+[Round "8"]
+[Result "1-0"]
+[White "David Baramidze"]
+[Black "Matthias Dann"]
+[ECO "C16"]
+[WhiteElo "2613"]
+[BlackElo "2450"]
+[PlyCount "67"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 b6
+7. Nf3 Ba6 8. Bxa6 Nxa6 9. Qd3 Nb8 10. Ng5 h6 11. Nh3 Nbc6
+12. Nf4 g6 13. h4 Qd7 14. a4 Na5 15. h5 g5 16. Ne2 O-O-O
+17. O-O Kb7 18. g4 Rdf8 19. f4 gxf4 20. Rxf4 Rhg8 21. Kh2 Rg5
+22. Ba3 Rfg8 23. Rg1 Nf5 24. Bc1 Qxa4 25. Kh3 Nc6 26. Qd1 Qc4
+27. Rff1 Nxe5 28. Bxg5 Rxg5 29. gxf5 Rxh5+ 30. Kg3 Rg5+
+31. Kh4 Rxg1 32. Nxg1 exf5 33. Ne2 f4 34. dxe5 1-0

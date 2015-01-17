@@ -1,0 +1,17 @@
+[Event "Chess Olympiad (Women)"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.22"]
+[Result "1-0"]
+[White "Giedre Vanagaite"]
+[Black "Layla Timergazi"]
+[ECO "D48"]
+[WhiteElo "2032"]
+[BlackElo "1874"]
+[PlyCount "39"]
+
+1. d4 d5 2. Nf3 c6 3. c4 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4
+7. Bxc4 b5 8. Bd3 a6 9. e4 b4 10. Na4 c5 11. e5 Nd5 12. dxc5
+Nxc5 13. Nxc5 Bxc5 14. O-O h6 15. Qe2 O-O 16. Qe4 f5 17. exf6
+Qxf6 18. Qh7+ Kf7 19. Bg6+ Ke7 20. Bxh6 1-0

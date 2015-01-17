@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.11"]
+[Result "1-0"]
+[White "Matthew Sadler"]
+[Black "Jingyao Tin"]
+[ECO "A07"]
+[WhiteElo "2653"]
+[BlackElo "2251"]
+[PlyCount "67"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 d5 5. Nbd2 Nf6 6. Bg2 Be7
+7. O-O O-O 8. Re1 b5 9. e5 Nd7 10. Nf1 Qc7 11. Bf4 Bb7 12. h4
+d4 13. N1d2 Rfd8 14. g4 Nb4 15. a3 Nd5 16. Bg3 Rac8 17. Ne4
+Qb6 18. Qd2 b4 19. g5 bxa3 20. bxa3 Qc6 21. h5 N7b6 22. Nd6
+Bxd6 23. exd6 Rxd6 24. Ne5 Qe8 25. Nxf7 Qxf7 26. Bxd6 Nc3
+27. Bxb7 Qxb7 28. Qf4 Qf7 29. Qg4 Kh8 30. g6 Qf5 31. Qxf5 exf5
+32. Re6 Nd7 33. Rae1 Nf6 34. Bxc5 1-0

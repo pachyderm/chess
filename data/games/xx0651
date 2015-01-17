@@ -1,0 +1,26 @@
+[Event "Riga Technical University Open"]
+[Site "Riga LAT"]
+[Date "2014.08.16"]
+[EventDate "2014.08.16"]
+[Round "1.13"]
+[Result "0-1"]
+[White "Bob Beeke"]
+[Black "Benjamin Bok"]
+[ECO "A04"]
+[WhiteElo "2243"]
+[BlackElo "2587"]
+[PlyCount "128"]
+
+1. Nf3 g6 2. c4 Bg7 3. Nc3 c5 4. e3 Nf6 5. d4 cxd4 6. exd4 d5
+7. Be2 O-O 8. O-O Nc6 9. h3 b6 10. Re1 Bb7 11. Ne5 dxc4
+12. Nxc6 Bxc6 13. Bxc4 e6 14. Bg5 Qd7 15. Qb3 Nd5 16. Bxd5
+exd5 17. Qd1 h6 18. Bf4 Rfe8 19. Qd2 g5 20. Bg3 Rxe1+ 21. Rxe1
+Re8 22. Rxe8+ Qxe8 23. Qe3 Qd7 24. Be5 f6 25. Bb8 Kf7 26. Qd3
+Qc8 27. Bg3 a6 28. Qe2 Qb7 29. Qh5+ Kf8 30. Qg6 Qd7 31. Kh2 a5
+32. Nd1 Qe6 33. Ne3 Bd7 34. Bc7 a4 35. g4 Qc6 36. Bb8 b5
+37. Kg2 Qb6 38. Bg3 Qxd4 39. Bd6+ Kg8 40. Kg3 Qe4 41. Qxe4
+dxe4 42. b3 Kf7 43. Bc5 Kg6 44. h4 h5 45. bxa4 bxa4 46. hxg5
+fxg5 47. gxh5+ Kxh5 48. f3 Be5+ 49. Kf2 exf3 50. Kxf3 Bc6+
+51. Ke2 g4 52. Kd3 g3 53. Kc4 Kh4 54. Bd4 Bxd4 55. Nf5+ Kg4
+56. Nxg3 Bf6 57. Ne2 Be7 58. Nd4 Be8 59. Nc2 Kf4 60. Nb4 Ke4
+61. a3 Bf8 62. Kc3 Bf7 63. Kb2 Bg7+ 64. Kb1 Kd4 0-1

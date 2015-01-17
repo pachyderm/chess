@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.74"]
+[Result "0-1"]
+[White "John Agbor Ebot"]
+[Black "Robert Michael Yang"]
+[ECO "E11"]
+[WhiteElo "1931"]
+[BlackElo "1945"]
+[PlyCount "116"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 Qe7 5. Nc3 b6 6. Bg5 Ba6
+7. e3 h6 8. Bxf6 Qxf6 9. Be2 Bxc3+ 10. bxc3 Nc6 11. O-O O-O
+12. Nd2 Na5 13. f4 d5 14. c5 Bxe2 15. Qxe2 Rfb8 16. Rab1 Qf5
+17. e4 dxe4 18. Nxe4 bxc5 19. g4 Qg6 20. Rxb8+ Rxb8 21. Nxc5
+h5 22. g5 Qf5 23. Nd7 Rb1 24. Ne5 Rxf1+ 25. Qxf1 f6 26. gxf6
+gxf6 27. Qg2+ Kh7 28. Nd7 Nc4 29. Qe4 Qg6+ 30. Kf2 Kh6
+31. Qxg6+ Kxg6 32. Nc5 Kf5 33. Kf3 Nd2+ 34. Ke2 Ne4 35. Kf3
+Nxc5 36. dxc5 h4 37. h3 e5 38. fxe5 fxe5 39. c6 e4+ 40. Ke3
+Ke5 41. a3 Kf5 42. a4 Ke5 43. a5 Kf5 44. a6 Ke5 45. Ke2 Kf4
+46. Kf2 e3+ 47. Ke2 Ke4 48. c4 Kf4 49. c5 Ke4 50. Ke1 Kf3
+51. Kf1 Kg3 52. Ke2 Kxh3 53. Kxe3 Kg2 54. Ke4 h3 55. Ke5 h2
+56. Ke6 h1=Q 57. Kd7 Qh7+ 58. Kc8 Qe7 0-1

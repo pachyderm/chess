@@ -1,0 +1,25 @@
+[Event "Latvian Railway Rapid"]
+[Site "Riga LAT"]
+[Date "2014.03.29"]
+[EventDate "2014.03.28"]
+[Round "5.4"]
+[Result "1-0"]
+[White "Alexey Shirov"]
+[Black "Normunds Miezis"]
+[ECO "B41"]
+[WhiteElo "2713"]
+[BlackElo "2548"]
+[PlyCount "115"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4
+7. Qd3 Nc6 8. Nxc6 dxc6 9. e5 Nd7 10. f4 f5 11. Bd2 b5
+12. O-O-O O-O 13. g4 Nc5 14. Qc2 Qe7 15. Be3 Bb7 16. gxf5 exf5
+17. a3 Bxc3 18. Qxc3 Ne4 19. Qb3 Qe6 20. Kc2 c5 21. Be2 Rfc8
+22. Rhg1 Kh8 23. Kb1 Rab8 24. Ka2 Ba8 25. h4 Rb6 26. Qd3 Qg8
+27. h5 Rcb8 28. Ka1 bxc4 29. Qxc4 Rxb2 30. Qxg8+ Kxg8 31. Bc4+
+Kh8 32. Rd7 Nc3 33. Rd8+ Rxd8 34. Kxb2 Nd1+ 35. Rxd1 Rxd1
+36. e6 Bc6 37. Bxc5 Be8 38. Bxa6 Bxh5 39. a4 Rd5 40. Bb4 Be8
+41. a5 h5 42. Kc3 h4 43. Bb7 Rd1 44. a6 Ra1 45. Bc5 Rc1+
+46. Kd4 Rd1+ 47. Ke5 Re1+ 48. Kd6 Ra1 49. a7 h3 50. a8=Q Rxa8
+51. Bxa8 Kh7 52. Bg1 Kh6 53. Bc6 Bh5 54. e7 g5 55. Bh2 gxf4
+56. Bxf4+ Kg7 57. e8=Q Bxe8 58. Bxe8 1-0

@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.56"]
+[Result "0-1"]
+[White "Javier A Monroy G"]
+[Black "Mosab Gator"]
+[ECO "D02"]
+[WhiteElo "2150"]
+[BlackElo "2166"]
+[PlyCount "70"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Be7 5. O-O Nbd7 6. c4 c6
+7. Nc3 dxc4 8. e4 b5 9. a3 Bb7 10. h3 a5 11. Re1 O-O 12. g4 b4
+13. Nb1 c5 14. Nfd2 Nb6 15. e5 Nfd5 16. dxc5 Bxc5 17. Ne4 Be7
+18. g5 Qc7 19. Qh5 Kh8 20. Ng3 g6 21. Qh4 Nd7 22. f4 Nc5
+23. Nd2 Nd3 24. Re4 Qc5+ 25. Kh2 Ne3 26. Nb3 cxb3 27. Bxe3 Qc2
+28. axb4 axb4 29. Rxa8 Rxa8 30. Bd4 Ne1 31. Re2 Nxg2 32. Qg4
+Qd1 33. f5 Ne1 34. Re4 Qxg4 35. Rxg4 Nf3+ 0-1

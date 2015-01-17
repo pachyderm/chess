@@ -1,0 +1,25 @@
+[Event "European Individual Championships"]
+[Site "Yerevan ARM"]
+[Date "2014.03.06"]
+[EventDate "2014.03.03"]
+[Round "4.2"]
+[Result "1-0"]
+[White "Evgeny Najer"]
+[Black "Ilya Smirin"]
+[ECO "B67"]
+[WhiteElo "2633"]
+[BlackElo "2644"]
+[PlyCount "103"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6
+7. Qd2 a6 8. O-O-O Bd7 9. f3 b5 10. Kb1 Be7 11. h4 O-O 12. g4
+b4 13. Nce2 a5 14. Nxc6 Bxc6 15. Nd4 Bb7 16. Bb5 Qc7 17. h5
+Rfc8 18. Ba4 Qd8 19. Qh2 h6 20. Bh4 Nh7 21. Nb5 d5 22. Bxe7
+Qxe7 23. Nd6 Rd8 24. e5 Ng5 25. Qf2 Rxd6 26. exd6 Qxd6 27. f4
+Ne4 28. Qe3 Rd8 29. Rd4 f6 30. Bb3 Nc5 31. Re1 Ba6 32. g5 a4
+33. Bxa4 Nxa4 34. gxf6 Nc5 35. Rg1 Rd7 36. f5 exf5 37. Qe8+
+Qf8 38. Rxg7+ Rxg7 39. Qxf8+ Kxf8 40. fxg7+ Kxg7 41. Rxd5
+{41...f4!! 42.Rxc5 Kf6! 43.Rc6+ Ke7 44.Rxa6 f3 45.Ra5 Ke6 =}
+Ne4 42. Rxf5 Nf6 43. Kc1 Be2 44. Kd2 Bxh5 45. Rb5 Bf3 46. Rxb4
+h5 47. a4 Be4 48. Rb3 Kg6 49. a5 h4 50. a6 Kg5 51. a7 Bg2
+52. Ke2 1-0

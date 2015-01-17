@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.6"]
+[Result "1-0"]
+[White "Zoltan Almasi"]
+[Black "Khalil Bengherabi"]
+[ECO "E18"]
+[WhiteElo "2690"]
+[BlackElo "2170"]
+[PlyCount "33"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 b6 4. d4 d5 5. Bg2 Be7 6. O-O O-O
+7. Nc3 Bb7 8. cxd5 exd5 9. Ne5 Nbd7 10. Qa4 Nb8 11. Rd1 h6
+12. Bf4 Re8 13. Rac1 a6 14. Qb3 Nc6 15. Nxd5 Nxd5 16. Bxd5
+Nxe5 17. Bxb7 1-0

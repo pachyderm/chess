@@ -1,0 +1,27 @@
+[Event "Moscow Championship Superfinal Rapid"]
+[Site "Moscow RUS"]
+[Date "2014.01.30"]
+[EventDate "2014.01.30"]
+[Round "5.2"]
+[Result "1-0"]
+[White "Ian Nepomniachtchi"]
+[Black "Boris Grachev"]
+[ECO "B40"]
+[WhiteElo "2732"]
+[BlackElo "2668"]
+[PlyCount "135"]
+
+1. e4 c5 2. Nf3 e6 3. Qe2 Nc6 4. g3 Nf6 5. Bg2 e5 6. O-O Be7
+7. Nc3 Nd4 8. Nxd4 cxd4 9. Nd5 Nxd5 10. exd5 d6 11. c3 O-O
+12. b3 Bf5 13. Qb5 a6 14. Qb4 a5 15. Qb5 Bd7 16. Qd3 dxc3
+17. dxc3 a4 18. Bd2 b5 19. c4 axb3 20. axb3 bxc4 21. bxc4 Qc7
+22. Be3 Rxa1 23. Rxa1 Rb8 24. Ra7 Qc8 25. h4 Bf8 26. Kh2 Bf5
+27. Qc3 f6 28. Ra1 Qc7 29. Ra6 Bd7 30. Qd3 f5 31. Ra7 Rb7
+32. Rxb7 Qxb7 33. c5 dxc5 34. d6 e4 35. Qc4+ Kh8 36. Bxc5 Qc8
+37. Qd5 Qe8 38. Bf1 g6 39. Bd4+ Bg7 40. Bxg7+ Kxg7 41. Qd4+
+Kh6 42. Bc4 Qc8 43. Qd2+ Kg7 44. Qb2+ Kh6 45. Bb5 e3 46. Qd4
+exf2 47. Bxd7 Qxd7 48. Kg2 Qc6+ 49. Kxf2 Qc2+ 50. Kf3 Qc6+
+51. Kf4 Qd7 52. Qc5 Qa4+ 53. Ke5 Qe8+ 54. Kd4 Qe4+ 55. Kc3
+Qf3+ 56. Kb4 Qe4+ 57. Qc4 Qb7+ 58. Kc5 Qa7+ 59. Kc6 Qa8+
+60. Kd7 Qb7+ 61. Ke6 g5 62. d7 Qa8 63. hxg5+ Kg6 64. Qd5 Qg8+
+65. Kd6 Qb8+ 66. Ke7 Qa7 67. Qd6+ Kxg5 68. Kf8 1-0

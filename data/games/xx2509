@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.78"]
+[Result "0-1"]
+[White "Taione Sikivou"]
+[Black "Stephen Ouma"]
+[ECO "A16"]
+[WhiteElo "1817"]
+[BlackElo "2038"]
+[PlyCount "102"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 e6 5. Bg2 Be7 6. Qb3 c6
+7. Nf3 O-O 8. O-O Nd7 9. d3 Re8 10. Bd2 Qb6 11. Qc2 Nf8
+12. Rab1 Rd8 13. a3 Qa6 14. b4 Bd7 15. Ne5 Be8 16. Qb3 Bf6
+17. Nc4 Nxc3 18. Bxc3 Bxc3 19. Qxc3 Qb5 20. Rfc1 Ng6 21. Qb3
+Qg5 22. h4 Qf6 23. Nd2 Qe5 24. Kf1 f5 25. Nf3 Qf6 26. d4 Bf7
+27. Qc3 Ne7 28. e3 Nd5 29. Qb2 a6 30. a4 Be8 31. Rc5 Nb6
+32. Qc2 h6 33. Ne5 g5 34. hxg5 hxg5 35. f4 Nd7 36. Rc3 Nxe5
+37. dxe5 Qg7 38. b5 cxb5 39. Rc7 Rd7 40. Rc8 Rxc8 41. Qxc8 Qe7
+42. Qc2 Rc7 43. Qa2 bxa4 44. Rb6 Bb5+ 45. Kf2 Kf7 46. fxg5 a3
+47. g6+ Kg7 48. Rxe6 Qc5 49. Qa1 Qc2+ 50. Kf3 Qe2+ 51. Kf4
+Qg4# 0-1

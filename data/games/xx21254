@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.37"]
+[Result "0-1"]
+[White "Akira Watanabe"]
+[Black "Dragan Kosic"]
+[ECO "E41"]
+[WhiteElo "2252"]
+[BlackElo "2486"]
+[PlyCount "122"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4
+7. exd4 d5 8. cxd5 Nxd5 9. O-O O-O 10. Bc2 Bd6 11. a3 Nxc3
+12. bxc3 e5 13. d5 Na5 14. f4 exf4 15. Bxf4 b6 16. Qd3 g6
+17. Qg3 Bc5+ 18. Kh1 Ba6 19. Rfe1 Qxd5 20. Nd4 Rfe8 21. Nf5
+Be2 22. Qg5 Qd8 23. Nh6+ Kf8 24. Qg3 Qf6 25. Rf1 Bxf1 26. Rxf1
+Re3 27. Qf2 Re7 28. Qf3 Rd8 29. Ng4 Qc6 30. Bh6+ Kg8 31. Be4
+Qe6 32. Bg5 f5 33. Bd5 Rxd5 34. Nf6+ Kg7 35. Nxd5 Rf7 36. Nf4
+Qe4 37. Qh3 Kg8 38. Nd3 Qg4 39. Qxg4 fxg4 40. Rxf7 Kxf7
+41. Nxc5 bxc5 42. Be3 Nb7 43. Kg1 Ke6 44. Kf2 Kd5 45. Kg3 Ke4
+46. Bh6 Kf5 47. Kf2 Nd6 48. Bf8 Ne4+ 49. Ke3 Nxc3 50. Bxc5 a6
+51. Kd3 Nd5 52. g3 h5 53. Kd4 Nf6 54. Kc4 Ne4 55. Be3 g5
+56. Kb4 h4 57. Ka5 h3 58. Bg1 Nc3 59. Kxa6 Ke4 60. Ka5 Nb1
+61. a4 Nc3 0-1

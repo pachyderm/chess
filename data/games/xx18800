@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.5"]
+[Result "0-1"]
+[White "Valentin Iotov"]
+[Black "Jan-Krzysztof Duda"]
+[ECO "D45"]
+[WhiteElo "2553"]
+[BlackElo "2576"]
+[PlyCount "62"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6
+7. Bd3 O-O 8. O-O dxc4 9. Bxc4 b5 10. Be2 Bb7 11. e4 e5
+12. Rd1 Qc7 13. Bg5 exd4 14. Rxd4 Ne5 15. g3 Bc5 16. Rd2 Nfg4
+17. Nd1 Bb4 18. Rd4 Ba5 19. Ne3 Bb6 20. Nxg4 Nxf3+ 21. Bxf3
+Bxd4 22. Rd1 f6 23. Rxd4 fxg5 24. Be2 Qe7 25. Qd2 Rad8 26. b4
+c5 27. bxc5 Rxd4 28. Qxd4 Qxe4 29. Qxe4 Bxe4 30. Bxb5 Rf5
+31. Bc4+ Kf8 0-1

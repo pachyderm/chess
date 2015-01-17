@@ -1,0 +1,31 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.06"]
+[EventDate "2014.03.04"]
+[Round "4.39"]
+[Result "0-1"]
+[White "Nokkvi Sverrisson"]
+[Black "Wolfgang Pajeken"]
+[ECO "C99"]
+[WhiteElo "2066"]
+[BlackElo "2308"]
+[PlyCount "176"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2
+cxd4 13. cxd4 Rd8 14. d5 Bd7 15. Nf1 Rdc8 16. Bd3 Nb7 17. Bd2
+Nc5 18. Rc1 Qb7 19. Bb1 b4 20. Ng3 Bd8 21. Be3 Bb6 22. b3 Qa7
+23. Nd2 Nb7 24. Nc4 Bxe3 25. Rxe3 g6 26. Bd3 Bb5 27. Be2 Rc5
+28. Nf1 Rac8 29. Nfd2 Na5 30. Qf1 Nd7 31. Ra1 Nxc4 32. Nxc4
+Bxc4 33. Bxc4 Ra5 34. Qe1 Qc5 35. Qe2 Qd4 36. Rd1 Rxa2
+37. Rxd4 Rxe2 38. Rxe2 exd4 39. Bxa6 Rc1+ 40. Kh2 Nc5 41. Bc4
+d3 42. Rd2 Rc2 43. Rd1 Rxf2 44. Bxd3 Nxb3 45. Rb1 Nc5 46. Bc4
+Rf4 47. Rxb4 Rxe4 48. Rb8+ Kg7 49. Ba2 Ra4 50. Bb1 Ra1 51. Kg3
+Ra3+ 52. Kf4 Rb3 53. Rxb3 Nxb3 54. g4 Nc5 55. h4 Nd7 56. Be4
+Nc5 57. Bb1 h6 58. Bc2 Kf6 59. g5+ Kg7 60. Kg4 f6 61. Kf4 Nd7
+62. Bd1 hxg5+ 63. hxg5 Ne5 64. gxf6+ Kxf6 65. Be2 g5+ 66. Ke4
+Kg6 67. Bd1 Nd7 68. Bc2 Nf6+ 69. Kf3+ Kh5 70. Bb3 Kh4 71. Bc4
+g4+ 72. Kg2 Kg5 73. Kg3 Ne4+ 74. Kg2 Kf4 75. Be2 Nc3 76. Bc4
+Nd1 77. Bb3 Ne3+ 78. Kf2 g3+ 79. Kg1 Ke4 80. Kh1 Kd3 81. Ba4
+Kc4 82. Bc6 Kd4 83. Kg1 Ke5 84. Bb7 Ke4 85. Bc6 Nf5 86. Kg2
+Kf4 87. Bb7 Nh4+ 88. Kg1 Kf3 0-1

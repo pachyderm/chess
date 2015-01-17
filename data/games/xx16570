@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.16"]
+[Result "1-0"]
+[White "Alexey Shirov"]
+[Black "Dragan Solak"]
+[ECO "D10"]
+[WhiteElo "2709"]
+[BlackElo "2632"]
+[PlyCount "73"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Nf6 4. e3 a6 5. Nf3 b5 6. c5 g6
+7. Ne5 Nfd7 8. f4 Nxe5 9. fxe5 Bg7 10. Bd3 O-O 11. e4 f6
+12. exf6 exf6 13. exd5 Re8+ 14. Be2 b4 15. d6 bxc3 16. O-O
+cxb2 17. Bc4+ Be6 18. Bxe6+ Rxe6 19. Bxb2 Nd7 20. d5 cxd5
+21. Qxd5 Nxc5 22. Ba3 Kh8 23. Qxc5 Qd7 24. Rae1 Rae8 25. Bb4
+Bh6 26. Qc7 Qb5 27. d7 Rxe1 28. Bxe1 Be3+ 29. Bf2 Bxf2+
+30. Kxf2 Re2+ 31. Kg1 Rxg2+ 32. Kxg2 Qe2+ 33. Rf2 Qe4+ 34. Kf1
+Qb1+ 35. Ke2 Qxa2+ 36. Kd3 Qxf2 37. d8=Q# 1-0

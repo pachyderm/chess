@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.2"]
+[Result "0-1"]
+[White "Mehdi Bouaziz"]
+[Black "Alexander Moiseenko"]
+[ECO "D02"]
+[WhiteElo "2246"]
+[BlackElo "2707"]
+[PlyCount "117"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 c5 4. e3 Nc6 5. c3 Qb6 6. Qc1 Bf5
+7. Be2 e6 8. h3 h6 9. O-O Be7 10. Nbd2 Rc8 11. dxc5 Bxc5
+12. Nb3 Be7 13. Nfd4 Bh7 14. Nxc6 bxc6 15. c4 c5 16. Rd1 O-O
+17. Be5 Rfd8 18. Qc3 Ne4 19. Qa5 f6 20. Bh2 Qxa5 21. Nxa5 d4
+22. f3 Ng5 23. h4 Nf7 24. Kf2 f5 25. Bg3 Bf6 26. Nb3 e5
+27. exd4 cxd4 28. c5 f4 29. Bh2 d3 30. Bf1 Bxh4+ 31. g3 Bg5
+32. gxf4 exf4 33. Kg2 Ne5 34. Rac1 Rd5 35. Bg1 Bf6 36. Rd2 Bg6
+37. Kf2 Bh4+ 38. Kg2 Bh5 39. Nd4 Rdxc5 40. Rxc5 Rxc5 41. Bxd3
+Nxd3 42. Rxd3 Bf7 43. a3 Bf6 44. b4 Rg5+ 45. Kf2 Bc4 46. Rd2
+Rd5 47. Ke1 a6 48. Nc6 Bc3 49. Ne7+ Kf7 50. Nxd5 Bxd5 51. Bd4
+Bxd2+ 52. Kxd2 Bxf3 53. Ke1 Bc6 54. Kf2 g5 55. Be5 Kg6 56. Bd6
+Kf5 57. Kg1 g4 58. Kh2 Ke4 59. Kg1 0-1

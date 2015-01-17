@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.14"]
+[Result "0-1"]
+[White "Eduardo A Pascoal"]
+[Black "Grzegorz Gajewski"]
+[ECO "D02"]
+[WhiteElo "2181"]
+[BlackElo "2659"]
+[PlyCount "66"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 c5 4. e3 Nc6 5. c3 Qb6 6. Qc1 Bf5
+7. Nbd2 Nh5 8. dxc5 Qxc5 9. Bc7 e6 10. Nd4 Qe7 11. Nb5 Qd7
+12. Qd1 a6 13. Nd6+ Bxd6 14. Bxd6 Qxd6 15. Qxh5 O-O 16. Be2
+Ne5 17. O-O Rac8 18. Qh4 Qb6 19. Nb3 Nc4 20. Qd4 Qc7 21. Bxc4
+dxc4 22. e4 Bg6 23. Nc1 Rfd8 24. Qe3 e5 25. a4 a5 26. b3 f6
+27. f3 cxb3 28. Nxb3 Qxc3 29. Qxc3 Rxc3 30. Nxa5 b6 31. Nb7
+Rd7 32. a5 Rxb7 33. axb6 Rc6 0-1

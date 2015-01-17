@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.8"]
+[Result "0-1"]
+[White "Essam El Gindy"]
+[Black "Ni Hua"]
+[ECO "D38"]
+[WhiteElo "2486"]
+[BlackElo "2666"]
+[PlyCount "84"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6
+7. e3 O-O 8. Rc1 dxc4 9. Bxc4 c5 10. dxc5 Nd7 11. O-O Nxc5
+12. a3 Bxc3 13. Rxc3 Rd8 14. Qe2 b6 15. Rfc1 Bb7 16. h3 Na4
+17. Rb3 Rac8 18. Re1 Bxf3 19. gxf3 Nxb2 20. Qxb2 Qxb2 21. Rxb2
+Rxc4 22. Ra1 Rd5 23. f4 Kf8 24. Kg2 Ke7 25. Kf3 Kd6 26. h4 Kc6
+27. Rbb1 b5 28. Rh1 h5 29. Rhg1 g6 30. Ra2 a5 31. Ke2 Rc3
+32. Rb1 Kc5 33. Rab2 Kb6 34. e4 Rdc5 35. a4 b4 36. Rd2 Rc2
+37. Rb3 R5c4 38. f3 Kc5 39. Kd1 Rxd2+ 40. Kxd2 Rd4+ 41. Kc2
+Kc4 42. Re3 f6 0-1

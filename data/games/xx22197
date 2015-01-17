@@ -1,0 +1,41 @@
+[Event "Stockfish Nakamura Match"]
+[Site "Burlingame, California"]
+[Date "2014.08.23"]
+[EventDate "?"]
+[Round "2"]
+[Result "1-0"]
+[White "Stockfish (Computer)"]
+[Black "Nakamura / Rybka"]
+[ECO "E77"]
+[WhiteElo "?"]
+[BlackElo "2785"]
+[PlyCount "291"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Bd3 O-O 6.Nge2 Nc6 7.O-O
+e5 8.d5 Nd4 9.Bg5 c5 10.Rb1 Qb6 11.a3 h6 12.Bd2 a5 13.b3 Bd7
+14.Ng3 Kh7 15.f3 Qc7 16.Qc1 Qb6 17.Qe1 Kg8 18.Be3 Rfe8 19.Qf2
+Rf8 20.Kh1 Rfe8 21.h3 Rf8 22.a4 Be8 23.Qd2 Kh7 24.f4 exf4
+25.Bxf4 Nd7 26.Nge2 Nxe2 27.Nxe2 Ne5 28.Bc2 Bd7 29.Rf2 Qd8
+30.Rbf1 Qe7 31.Nc1 b6 32.Nd3 f6 33.Qe1 Rae8 34.Qb1 Bc8 35.Bd2
+Nf7 36.Bc3 Ne5 37.Qc1 h5 38.Bd2 Rf7 39.Nxe5 dxe5 40.Be3 Qd6
+41.Bd3 Ref8 42.Bd2 Bd7 43.Rf3 Be8 44.Bc2 Bd7 45.Re1 Bc8 46.Bd3
+Bd7 47.Bb1 Bc8 48.Ref1 Bd7 49.R3f2 Bc8 50.Bc2 Bd7 51.Bd3 Bc8
+52.Kg1 Bd7 53.Rf3 Bc8 54.Bc2 Bd7 55.Re1 Bc8 56.Re2 Bd7 57.Ref2
+Bc8 58.Kh1 Bd7 59.Re2 Bc8 60.Bb1 Bd7 61.Ref2 Bc8 62.Be3 Bd7
+63.Rf1 Bc8 64.Bd3 Bd7 65.Bg5 Bc8 66.Bd2 Bd7 67.Bb1 Bc8 68.Be3
+Bd7 69.Bd3 Bc8 70.Bc2 Bd7 71.Bd2 Bc8 72.Rg1 Bd7 73.Bb1 Bc8
+74.Bd3 Qd8 75.Rgf1 Qd6 76.Kg1 Bd7 77.R3f2 Bc8 78.Be3 Bd7
+79.Be2 Rh8 80.Qd2 Kg8 81.Bd3 Kh7 82.Rf3 Rhf8 83.Qf2 Bh6
+84.Bxh6 Kxh6 85.Qd2+ Kh7 86.Bb1 Bc8 87.Bc2 Bd7 88.Qd1 Kg7
+89.Bd3 Rh8 90.R1f2 Rh6 91.Rg3 Bc8 92.Rf1 Bd7 93.Re3 Bc8 94.Rf2
+Bd7 95.Re1 Bc8 96.Qd2 Bd7 97.Bc2 Bc8 98.Bd1 Bd7 99.Ref1 Bc8
+100.Rf3 Bd7 101.Be2 Bc8 102.Re3 Bd7 103.Rf2 Bc8 104.Ref3 Bd7
+105.h4 Bc8 106.Rg3 Bd7 107.Kf1 Bc8 108.Ke1 Bd7 109.Qe3 Rh8
+110.Rf1 Kh7 111.Kd2 Rhf8 112.Kc1 Bc8 113.Kb2 Qe7 114.Rg1 Qd6
+115.Qc3 f5 116.exf5 Rxf5 117.Re3 Rf2 118.Ka3 Qf6 119.Bf3 Re8
+120.g4 hxg4 121.Bxg4 Bxg4 122.Rxg4 Rf4 123.Rxf4 Qxf4 124.h5
+gxh5 125.d6 e4 126.Rh3 Qf5 127.Rh1 Rg8 128.Qa1 Rf8 129.Rd1 Qf4
+130.d7 Rd8 131.Rf1 Qg5 132.Rg1 Qe7 133.Qf1 Qe6 134.Qg2 Rxd7
+135.Qg5 Qe8 136.Rh1 Rd6 137.Rxh5+ Qxh5 138.Qxh5+ Kg7 139.Qe5+
+Rf6 140.Qxe4 Kf7 141.Qh7+ Ke8 142.Qg8+ Ke7 143.Qg7+ Ke6
+144.Qb7 Kf5 145.Qd5+ Kf4 146.Kb2 1-0

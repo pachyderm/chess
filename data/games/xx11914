@@ -1,0 +1,28 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.50"]
+[Result "0-1"]
+[White "Graham Mooney"]
+[Black "Yannick Pelletier"]
+[ECO "C00"]
+[WhiteElo "1880"]
+[BlackElo "2578"]
+[PlyCount "143"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 Nf6 4. e5 Nfd7 5. d4 c5 6. dxc5 Nc6
+7. Bf4 Be7 8. Bd3 Nxc5 9. O-O g5 10. Bg3 h5 11. h3 g4 12. hxg4
+hxg4 13. Nh2 Qb6 14. Nxg4 Bd7 15. Ne2 O-O-O 16. Nf4 Ne4
+17. Bxe4 dxe4 18. c3 Qxb2 19. Qb3 Qxb3 20. axb3 Rdg8 21. Nf6
+Rxg3 22. fxg3 Bc5+ 23. Rf2 Nxe5 24. Nxe4 Bb6 25. c4 Bd4
+26. Rd1 Bxf2+ 27. Nxf2 Bc6 28. Re1 Nd7 29. Ne4 Bxe4 30. Rxe4
+Nc5 31. Re3 a5 32. Kf2 Rd8 33. Ke2 Rd4 34. Kf3 Kd7 35. Ke2 Re4
+36. Rxe4 Nxe4 37. Nd3 Nxg3+ 38. Kf3 Nf5 39. b4 axb4 40. Nxb4
+Kd6 41. Nd3 Nh4+ 42. Ke4 Nxg2 43. c5+ Ke7 44. Ne5 f6 45. c6
+bxc6 46. Nxc6+ Kd6 47. Nd4 Nh4 48. Nb5+ Ke7 49. Kf4 f5 50. Kg5
+Nf3+ 51. Kf4 Nd2 52. Nd4 Kf6 53. Nb5 e5+ 54. Ke3 Ne4 55. Nc7
+Nc5 56. Ne8+ Kg5 57. Nd6 f4+ 58. Kf2 e4 59. Nc4 Kf5 60. Nd6+
+Kg4 61. Nc4 Nd3+ 62. Ke2 Kg3 63. Nd2 Nc5 64. Nf1+ Kh3 65. Nd2
+Kg2 66. Nc4 f3+ 67. Ke3 f2 68. Kd4 f1=Q 69. Ne3+ Kg1 70. Nxf1
+Kxf1 71. Kxc5 e3 72. Kd5 0-1

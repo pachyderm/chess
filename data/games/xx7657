@@ -1,0 +1,18 @@
+[Event "Moscow Open"]
+[Site "Moscow RUS"]
+[Date "2014.02.02"]
+[EventDate "2014.02.01"]
+[Round "2.11"]
+[Result "1-0"]
+[White "Dmitry Kokarev"]
+[Black "Alexej Gorbatov"]
+[ECO "B16"]
+[WhiteElo "2628"]
+[BlackElo "2377"]
+[PlyCount "43"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 h6 5. Bc4 Bf5 6. Ng3 Bh7
+7. N1e2 Nf6 8. O-O e6 9. f4 Bd6 10. f5 e5 11. dxe5 Qb6+
+12. Kh1 Bxe5 13. Nf4 Nbd7 14. Qf3 O-O 15. Bb3 Rfe8 16. c3 Bd6
+17. Ngh5 Ne4 18. Ne6 Ndf6 19. Be3 Ng5 20. Nxg5 Rxe3 21. Nxf6+
+gxf6 22. Qh5 1-0

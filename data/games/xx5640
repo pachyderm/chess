@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.74"]
+[Result "0-1"]
+[White "Christopher Holland"]
+[Black "Juan Pablo De Mey"]
+[ECO "A85"]
+[WhiteElo "2270"]
+[BlackElo "1937"]
+[PlyCount "52"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 e6 4. Qc2 Nc6 5. e3 Be7 6. Bd2 a6
+7. Nf3 O-O 8. d5 Nb8 9. O-O-O c6 10. e4 fxe4 11. Nxe4 cxd5
+12. Nxf6+ Bxf6 13. cxd5 exd5 14. Bc3 Nc6 15. Rxd5 d6 16. h4 g6
+17. Ng5 Ne5 18. Ne4 Bg7 19. Rxd6 Qe7 20. Qb3+ Kh8 21. h5 Bf5
+22. f4 Bxe4 23. fxe5 Qg5+ 24. Bd2 Qxe5 25. hxg6 Rxf1+ 26. Rxf1
+Qxd6 0-1

@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.74"]
+[Result "1-0"]
+[White "Wim Blijstra"]
+[Black "Graham Mooney"]
+[ECO "E85"]
+[WhiteElo "2201"]
+[BlackElo "1880"]
+[PlyCount "85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be3 d6 6. f3 e5
+7. Nge2 a5 8. Qd2 Na6 9. O-O-O exd4 10. Nxd4 Nc5 11. Be2 Ne6
+12. Nc2 Qe7 13. g4 b6 14. Nd5 Nxd5 15. cxd5 Nc5 16. Bd4 Ba6
+17. Bxg7 Kxg7 18. h4 Qf6 19. Bxa6 Rxa6 20. Rh3 h6 21. g5 Qe5
+22. gxh6+ Kh7 23. Rg1 Qf4 24. Ne3 Rg8 25. Rg4 Qxh6 26. h5 gxh5
+27. Rgh4 Rg5 28. Ng4 Qg6 29. Rxh5+ Rxh5 30. Rxh5+ Qxh5
+31. Nf6+ Kg6 32. Nxh5 Kxh5 33. Qh2+ Kg6 34. Qh8 a4 35. Qg8+
+Kf6 36. Qd8+ Ke5 37. Qxc7 Kd4 38. Kd2 a3 39. b4 Nb3+ 40. axb3
+Ke5 41. Qxf7 a2 42. Ke3 a1=Q 43. f4# 1-0

@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.8"]
+[Result "1-0"]
+[White "Francisco Vallejo-Pons"]
+[Black "Le Quang Liem"]
+[ECO "D70"]
+[WhiteElo "2698"]
+[BlackElo "2710"]
+[PlyCount "75"]
+
+1. d4 Nf6 2. c4 g6 3. f3 Nc6 4. Nc3 d5 5. e4 dxe4 6. d5 Ne5
+7. fxe4 Bg7 8. Nf3 Nxf3+ 9. gxf3 O-O 10. Be3 c6 11. Qd2 Bd7
+12. O-O-O cxd5 13. cxd5 Rc8 14. Kb1 a6 15. Bd3 e6 16. Rhg1
+exd5 17. e5 Nh5 18. f4 d4 19. Bxd4 Ba4 20. Bc2 Bxc2+ 21. Qxc2
+Qh4 22. f5 Rfd8 23. Qe4 Qxe4+ 24. Nxe4 Nf4 25. Nd6 Rb8
+26. Rgf1 Nd5 27. Ba7 Ra8 28. Rxd5 Rxa7 29. f6 Bf8 30. Rc1 b5
+31. Rc8 Ra8 32. Rc7 Rab8 33. Rxf7 Rb6 34. Re7 Rc6 35. f7+ Kg7
+36. Ne8+ Kh6 37. Rxd8 Bxe7 38. Nd6 1-0

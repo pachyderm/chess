@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.24"]
+[Result "1-0"]
+[White "Grzegorz Gajewski"]
+[Black "Omar Noaman Al Ali"]
+[ECO "E34"]
+[WhiteElo "2659"]
+[BlackElo "2350"]
+[PlyCount "37"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Nf3
+O-O 7. Bg5 Qd6 8. e3 Ne4 9. Bd3 f5 10. O-O Nxg5 11. Nxg5 c6
+12. f4 Qe7 13. Rae1 a5 14. g4 g6 15. gxf5 gxf5 16. Kh1 Kh8
+17. Rf3 Rf6 18. Rh3 h6 19. Nxd5 1-0

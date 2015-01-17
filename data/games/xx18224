@@ -1,0 +1,26 @@
+[Event "TCEC - Season 6 - Superfinal"]
+[Site "http://tcec.chessdom.com"]
+[Date "2014.05.26"]
+[EventDate "2014.05.19"]
+[Round "39"]
+[Result "1-0"]
+[White "Stockfish (Computer)"]
+[Black "Komodo (Computer)"]
+[ECO "D37"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. g3 Nbd7 6. Bg2 O-O
+7. O-O dxc4 8. e4 a6 9. a4 a5 10. Qe2 c6 11. Rd1 Qb6 12. e5
+Nd5 13. Qxc4 Qa6 14. Qa2 Qb6 15. Qb1 Qd8 16. Ne4 h6 17. g4 b6
+18. g5 h5 19. Ng3 g6 20. Nh4 Kg7 21. f4 Rg8 22. Qc2 Kh8 23. f5
+Nb4 24. Qe2 exf5 25. Nhxf5 Nf8 26. Nh6 Be6 27. Be3 Rg7 28. Ne4
+Ra7 29. Rac1 Bb3 30. Rf1 Ne6 31. Rc3 Bd5 32. h4 c5 33. Qf2
+Nxd4 34. Bxd4 cxd4 35. Qxd4 Nc6 36. Qe3 Bxe4 37. Qxe4 Bc5+
+38. Rxc5 bxc5 39. Qxc6 Qd4+ 40. Rf2 Qxe5 41. Qf6 Qe1+ 42. Rf1
+Qe3+ 43. Qf2 Qe5 44. Re1 Qd6 45. Qf6 Qd4+ 46. Qxd4 cxd4
+47. Kf2 Kh7 48. Bd5 d3 49. Re5 Rd7 50. Ke1 Rd6 51. Bxf7 Rd4
+52. Rxa5 Rxh4 53. Ra8 Rb4 54. Bd5 h4 55. Ng8 Rxg8 56. Bxg8+
+Kg7 57. Bd5 h3 58. Ra7+ Kh8 59. Kd2 Rg4 60. a5 Rg2+ 61. Kxd3
+Rg1 62. Ke2 Rxg5 1-0

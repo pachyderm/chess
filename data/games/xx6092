@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.77"]
+[Result "0-1"]
+[White "Emmanuel Mwaisumbe"]
+[Black "Enrico Grassi"]
+[ECO "B01"]
+[WhiteElo "1685"]
+[BlackElo "2020"]
+[PlyCount "110"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c6 5. Bd2 Bf5 6. Nf3 e6
+7. Ne5 Qd8 8. Bf4 Bb4 9. Bc4 Nf6 10. O-O Nbd7 11. Ne2 Nb6
+12. Bb3 O-O 13. Ng3 Bg6 14. Nxg6 hxg6 15. Bg5 Qc7 16. Qf3 Be7
+17. Rfe1 Rad8 18. Rad1 c5 19. Bf4 Qc8 20. dxc5 Bxc5 21. Bg5
+Rxd1 22. Rxd1 Nbd7 23. Ne4 Ne5 24. Nxf6+ gxf6 25. Qg3 Be7
+26. Bf4 Rd8 27. Rxd8+ Qxd8 28. c3 Nd3 29. h4 Nxf4 30. Qxf4 Kg7
+31. Bc2 f5 32. g3 Bf6 33. Kf1 Qd5 34. Bb3 Qd3+ 35. Kg2 Qd7
+36. Qe3 b6 37. Qe2 f4 38. Bc2 fxg3 39. fxg3 Qd5+ 40. Qe4 Qc5
+41. h5 Qxh5 42. a4 Qg5 43. Kf3 Qc1 44. b3 Bxc3 45. Qd3 Qh1+
+46. Ke3 Qg1+ 47. Kf3 Be5 48. g4 Qg3+ 49. Ke2 Qxg4+ 50. Kd2
+Qg5+ 51. Ke2 Qg2+ 52. Ke1 Bg3+ 53. Kd1 Qg1+ 54. Ke2 Qf2+
+55. Kd1 Qe1# 0-1

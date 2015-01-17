@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.14"]
+[Result "1-0"]
+[White "Ruben Felgaer"]
+[Black "Jure Borisek"]
+[ECO "C65"]
+[WhiteElo "2564"]
+[BlackElo "2569"]
+[PlyCount "119"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O Nd4 6. Nxd4
+Bxd4 7. Nd2 c6 8. Ba4 Bb6 9. Nc4 Bc7 10. Bb3 O-O 11. Bg5 h6
+12. Bh4 d5 13. exd5 cxd5 14. Ne3 g5 15. Bg3 Be6 16. d4 exd4
+17. Bxc7 Qxc7 18. Qxd4 Qf4 19. Rad1 Rfd8 20. c3 a5 21. g3 Qf3
+22. Rd3 Bh3 23. Bd1 Qe4 24. Re1 Ra6 25. Qxe4 Nxe4 26. Nxd5
+Rad6 27. c4 Nc5 28. Ra3 Re6 29. Ree3 Rxe3 30. fxe3 Be6 31. Bf3
+a4 32. e4 Kg7 33. Kf2 Rb8 34. Nb6 g4 35. Bg2 Rd8 36. Nd5 f5
+37. exf5 Bxf5 38. Ke3 Re8+ 39. Kd2 Be6 40. Re3 Rf8 41. Re2 b5
+42. Kc3 bxc4 43. Kxc4 Rc8 44. Kb4 Nd3+ 45. Ka3 Bf7 46. Ne7 Rc5
+47. Rd2 Ne5 48. Nf5+ Kf6 49. Ne3 Rc1 50. Rf2+ Ke7 51. Rf4 h5
+52. Rxa4 Re1 53. Ra7+ Kd8 54. Ra8+ Kd7 55. Ra7+ Kd8 56. Nd5
+Re2 57. Nf4 Rf2 58. b3 h4 59. Ra5 Nf3 60. Rf5 1-0

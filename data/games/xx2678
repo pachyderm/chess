@@ -1,0 +1,17 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.05"]
+[EventDate "2014.03.04"]
+[Round "3.125"]
+[Result "0-1"]
+[White "Thorsteinn Magnusson"]
+[Black "Joshua Altman"]
+[ECO "A20"]
+[WhiteElo "1234"]
+[BlackElo "1650"]
+[PlyCount "38"]
+
+1. c4 e5 2. g3 c6 3. Bg2 d5 4. cxd5 cxd5 5. Nf3 Nc6 6. d3 Nge7
+7. e4 dxe4 8. dxe4 Qxd1+ 9. Kxd1 Bg4 10. Ke2 Nd4+ 11. Kd3 Nxf3
+12. Ke3 Nd4 13. Kd2 Nec6 14. a3 Rd8 15. Kc3 b5 16. b4 Ne2+
+17. Kc2 Ncd4+ 18. Kb2 Rc8 19. a4 Bxb4 0-1

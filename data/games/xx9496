@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.86"]
+[Result "1-0"]
+[White "Throstur Thorhallsson"]
+[Black "Oliver Mueller"]
+[ECO "B40"]
+[WhiteElo "2426"]
+[BlackElo "2312"]
+[PlyCount "89"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. Qxd4 Nc6
+7. Qe4 f5 8. exf6 Nxf6 9. Qh4 Qa5 10. Bg5 Be7 11. Nbd2 Ne5
+12. O-O-O Ng6 13. Qc4 O-O 14. Bd3 d5 15. Qb3 Bd7 16. Bc2 Rac8
+17. Nd4 b5 18. a3 Ne5 19. Rhe1 Nc4 20. Nxe6 Rf7 21. Nf4 Nxa3
+22. Rxe7 Nxc2 23. Rxf7 Nd4 24. Rxg7+ Kxg7 25. Bxf6+ Kxf6
+26. Ne4+ dxe4 27. Rxd4 Qa1+ 28. Kc2 Bf5 29. Nd5+ Kg7 30. Ne3
+Rf8 31. Qxb5 Bg6 32. Rd7+ Kg8 33. Qd5+ Bf7 34. Qg5+ Bg6
+35. Rd8 Qa6 36. Qd5+ Bf7 37. Rxf8+ Kxf8 38. Qd8+ Be8 39. Kd2
+Qb7 40. Qd6+ Kg7 41. Qe5+ Kf8 42. Qh8+ Ke7 43. Nf5+ Ke6
+44. Nd4+ Ke7 45. b4 1-0

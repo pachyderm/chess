@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.69"]
+[Result "0-1"]
+[White "Anthony Drayton"]
+[Black "Semetey Tologontegin"]
+[ECO "A40"]
+[WhiteElo "1828"]
+[BlackElo "2354"]
+[PlyCount "128"]
+
+1. d4 g6 2. Nf3 Bg7 3. Bf4 d6 4. c3 Nd7 5. e3 Ngf6 6. h3 O-O
+7. Nbd2 Re8 8. Bc4 d5 9. Bd3 b6 10. O-O Bb7 11. Rc1 c5 12. Re1
+a6 13. e4 dxe4 14. Nxe4 cxd4 15. cxd4 Nd5 16. Bh2 Rc8 17. Qd2
+Rxc1 18. Rxc1 Qa8 19. Ne5 Nxe5 20. dxe5 Rd8 21. a3 Nc7 22. Qe3
+Ne6 23. f3 Qb8 24. Nf6+ Kh8 25. Bc4 Bc8 26. Nd5 b5 27. Bb3 Bf8
+28. Nb4 Bb7 29. Bxe6 fxe6 30. Qb6 Bh6 31. f4 Qa8 32. Qf2 a5
+33. Nc2 Qc8 34. Re1 Rd3 35. Ne3 Qd7 36. Nf1 Qc6 37. Re2 Rd1
+38. Rc2 Qe4 39. Rd2 Rc1 40. Qb6 Bf8 41. Qd4 Qb1 42. Qd3 Qa1
+43. Kf2 Bd5 44. Ne3 Rh1 45. Rd1 Qxb2+ 46. Kg3 Rxd1 47. Qxd1
+Qxa3 48. Qd2 a4 49. Kg4 Qb3 50. Bg1 a3 51. Nc2 a2 52. Bd4 Be4
+53. Na1 h5+ 54. Kh4 Qd5 55. g4 Kh7 56. g5 Bf5 57. Kg3 Qh1
+58. Qg2 h4+ 59. Kf2 Qd1 60. Bc3 b4 61. Qa8 Bg7 62. Qxa2 bxc3
+63. Nb3 Bxh3 64. Qa3 Bg4 0-1

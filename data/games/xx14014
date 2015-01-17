@@ -1,0 +1,27 @@
+[Event "Bundesliga"]
+[Site "Eppingen GER"]
+[Date "2014.04.06"]
+[EventDate "2013.10.12"]
+[Round "15"]
+[Result "1-0"]
+[White "Thies Heinemann"]
+[Black "Piotr Murdzia"]
+[ECO "C47"]
+[WhiteElo "2461"]
+[BlackElo "2449"]
+[PlyCount "137"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6
+bxc6 7. Bd3 d5 8. exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Qf3 h6
+12. Bxf6 Qxf6 13. Qxf6 gxf6 14. Ne2 Bd6 15. Nd4 Bd7 16. Nf5
+Bxf5 17. Bxf5 Rab8 18. b3 Rfe8 19. Rfe1 Bb4 20. Rxe8+ Rxe8
+21. Kf1 Re5 22. Bd7 c5 23. Rd1 d4 24. g3 Kf8 25. Bb5 Ke7
+26. Be2 Bc3 27. Rd3 Kf8 28. Rf3 Kg7 29. Rf4 Bd2 30. Rg4+ Kf8
+31. Rh4 Kg7 32. f4 Rd5 33. Bc4 Rd7 34. Rg4+ Kf8 35. Bd3 Bb4
+36. Bh7 Rd8 37. Ke2 Re8+ 38. Kf2 Rd8 39. Kf3 Re8 40. Be4 Re6
+41. Bd3 Re3+ 42. Kf2 Re8 43. Rh4 Kg7 44. Rh5 Rd8 45. Be4 Re8
+46. Kf3 Rd8 47. Ke2 Rd6 48. Kd3 Ra6 49. a4 Rd6 50. Kc4 Re6
+51. Bd3 Rd6 52. Rxc5 Bxc5 53. Kxc5 Rd7 54. Kc6 Re7 55. a5 Kf8
+56. b4 Ke8 57. b5 Kd8 58. Kc5 Re1 59. Kxd4 Ra1 60. a6 Kc7
+61. Ke4 Rh1 62. h4 Rg1 63. Kf5 Rxg3 64. Kxf6 h5 65. Kxf7 Rg4
+66. f5 Rxh4 67. f6 Kd6 68. Kg7 Rg4+ 69. Bg6 1-0

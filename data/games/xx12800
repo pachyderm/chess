@@ -1,0 +1,22 @@
+[Event "FIDE World Blitz Championship"]
+[Site "Dubai UAE"]
+[Date "2014.06.19"]
+[EventDate "2014.06.19"]
+[Round "8.2"]
+[Result "0-1"]
+[White "Ian Nepomniachtchi"]
+[Black "Hikaru Nakamura"]
+[ECO "C11"]
+[WhiteElo "2730"]
+[BlackElo "2775"]
+[PlyCount "80"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6
+7. Be3 Rb8 8. Qd2 a6 9. Be2 b5 10. Nd1 f5 11. exf6 Nxf6
+12. Nf2 c4 13. O-O Bd6 14. Ne5 Ne7 15. g4 O-O 16. c3 b4
+17. Bd1 a5 18. Bc2 Qe8 19. Rae1 a4 20. h3 Ba6 21. Qd1 a3
+22. bxa3 bxc3 23. g5 Nh5 24. Bxh7+ Kxh7 25. g6+ Kg8 26. Qxh5
+Rf5 27. Qh7+ Kf8 28. Nfg4 Ng8 29. Bf2 c2 30. Ne3 c3 31. Nxf5
+exf5 32. Nc4 Qd7 33. Nxd6 Bxf1 34. Kxf1 Rb1 35. Be3 Qxd6
+36. a4 Rxe1+ 37. Kxe1 Qe6 38. Kf2 Qxe3+ 39. Kxe3 c1=Q+ 40. Kf3
+Qd1+ 0-1

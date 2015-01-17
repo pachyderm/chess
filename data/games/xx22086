@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.15"]
+[Result "0-1"]
+[White "Evgeny Agrest"]
+[Black "Gawain Jones"]
+[ECO "E71"]
+[WhiteElo "2595"]
+[BlackElo "2665"]
+[PlyCount "76"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 e5
+7. d5 Nh5 8. g3 a5 9. Be3 Na6 10. Nd2 Bd7 11. Be2 Nf6 12. g4
+Nc5 13. Qc2 a4 14. a3 c6 15. g5 Ne8 16. O-O-O cxd5 17. Nxd5
+Nc7 18. Nb6 Ra6 19. Nxd7 Qxd7 20. Bg4 Qc6 21. Kb1 Rb8 22. Be2
+N7e6 23. h4 Nd4 24. Bxd4 exd4 25. Bd3 b5 26. cxb5 Rxb5
+27. Bxb5 Qxb5 28. Qc4 Qb8 29. e5 Rb6 30. b4 axb3 31. exd6 Qxd6
+32. Rhe1 Rb8 33. f3 Nd3 34. Qa4 Nxe1 35. Rxe1 d3 36. Re8+ Rxe8
+37. Qxe8+ Bf8 38. Qa8 Qc7 0-1

@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.44"]
+[Result "1-0"]
+[White "Ryosuke Nanjo"]
+[Black "Thanadon Kulpruethanon"]
+[ECO "B12"]
+[WhiteElo "2344"]
+[BlackElo "2143"]
+[PlyCount "109"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Be2 e6 5. Nf3 c5 6. Be3 cxd4
+7. Nxd4 Ne7 8. Nd2 Nbc6 9. N2f3 Be4 10. O-O Ng6 11. c4 Be7
+12. Nxc6 bxc6 13. Nd4 dxc4 14. f4 O-O 15. Bxc4 Bc5 16. Nf5 Bb6
+17. Qxd8 Rfxd8 18. Bxb6 axb6 19. Nd6 Bd5 20. Bxd5 exd5 21. Nf5
+Ra4 22. g3 Kf8 23. a3 Ne7 24. Ne3 d4 25. b3 Ra6 26. Rfd1 c5
+27. a4 Rda8 28. Nc4 b5 29. Nd6 bxa4 30. bxa4 Nd5 31. Ne4 Rc6
+32. Rac1 Nc3 33. Nxc3 dxc3 34. Rxc3 Rxa4 35. Rdc1 c4 36. Kf2
+Ke7 37. Ke3 f6 38. Rb1 Ra7 39. Rb5 fxe5 40. Rxe5+ Kf6 41. g4
+h6 42. h4 Ra1 43. Ke4 Rd1 44. h5 Rg1 45. g5+ hxg5 46. fxg5+
+Kf7 47. Rf3+ Kg8 48. Re8+ Kh7 49. Kf4 g6 50. Re7+ Kg8 51. h6
+c3 52. Re8+ Kf7 53. h7 Rh1 54. Rfe3 Rc7 55. h8=Q 1-0

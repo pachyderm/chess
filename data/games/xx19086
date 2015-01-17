@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.23"]
+[Result "1-0"]
+[White "Mustafa Yilmaz"]
+[Black "Daniel Mieles Palau"]
+[ECO "D63"]
+[WhiteElo "2569"]
+[BlackElo "2374"]
+[PlyCount "59"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 Nbd7 6. e3 O-O
+7. Rc1 b6 8. cxd5 exd5 9. Qa4 Bb7 10. Ba6 Bxa6 11. Qxa6 c6
+12. O-O Bd6 13. e4 dxe4 14. Nxe4 Qc7 15. Nxf6+ Nxf6 16. Bxf6
+gxf6 17. Qa4 b5 18. Qc2 Rac8 19. Qf5 Rce8 20. Rc3 b4 21. Rc4
+Qc8 22. Qxc8 Rxc8 23. Rfc1 Rfe8 24. Rxc6 Rxc6 25. Rxc6 Bf8
+26. Kf1 a5 27. Nh4 h5 28. Nf5 Rd8 29. Ke2 a4 30. Kd3 1-0

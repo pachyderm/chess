@@ -1,0 +1,31 @@
+[Event "Bundesliga"]
+[Site "Trier GER"]
+[Date "2014.02.08"]
+[EventDate "2013.10.12"]
+[Round "7"]
+[Result "1-0"]
+[White "Alexander Naumann"]
+[Black "Gunther Beikert"]
+[ECO "D44"]
+[WhiteElo "2540"]
+[BlackElo "2422"]
+[PlyCount "175"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4
+7. e4 g5 8. Bg3 b5 9. Be2 Nbd7 10. d5 exd5 11. exd5 b4
+12. dxc6 bxc3 13. cxd7+ Qxd7 14. bxc3 Bg7 15. Be5 O-O 16. O-O
+Bb7 17. Qxd7 Nxd7 18. Bxg7 Kxg7 19. Nd4 Nb6 20. a4 Be4 21. a5
+Nd5 22. Bxc4 Nxc3 23. Rfc1 Rad8 24. Nb3 Nd5 25. Nc5 Bg6
+26. Ra3 Nf4 27. Re3 Rc8 28. Bf1 Nd5 29. Ree1 Rfe8 30. Red1 Nf6
+31. f3 Bf5 32. Nb7 Rxc1 33. Rxc1 Rc8 34. Re1 Be6 35. Nd6 Rc5
+36. a6 Rc6 37. Rd1 Kf8 38. Nb7 Ke7 39. Rb1 Bd5 40. Re1+ Kf8
+41. Rb1 Ne8 42. Na5 Rc3 43. Rb8 Ra3 44. Rb5 Nf6 45. Rc5 Ra1
+46. Nb7 h5 47. Nd6 g4 48. Rc3 gxf3 49. gxf3 h4 50. Rc8+ Ke7
+51. Nf5+ Kd7 52. Rc3 Be6 53. Nxh4 Bh3 54. Ng2 Nd5 55. Rb3 Nf4
+56. Ne3 Bxf1 57. Nxf1 Rxa6 58. Kf2 Ra1 59. Ne3 Ke6 60. Rb8
+Ra2+ 61. Kg3 Nh5+ 62. Kh3 Nf6 63. Kg3 Ra3 64. Kf2 Nh5 65. Re8+
+Kd7 66. Re4 Ra2+ 67. Ke1 a5 68. Nf5 Kc6 69. Rh4 Ra1+ 70. Kd2
+Ra2+ 71. Kc1 Nf6 72. Rh6 Kd5 73. Rxf6 Rxh2 74. Ne3+ Kd4
+75. Ng4 Rg2 76. Rxf7 a4 77. Kb1 Kc3 78. Re7 a3 79. Ne3 Rh2
+80. f4 Kd3 81. f5 Rf2 82. Re6 Rh2 83. Ng4 Rg2 84. Ne5+ Kc3
+85. f6 Rf2 86. Rc6+ Kb3 87. Rb6+ Kc3 88. f7 1-0

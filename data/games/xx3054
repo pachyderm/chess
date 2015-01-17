@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.34"]
+[Result "0-1"]
+[White "Fabian Ferster"]
+[Black "Sandro Mareco"]
+[ECO "A29"]
+[WhiteElo "2137"]
+[BlackElo "2574"]
+[PlyCount "68"]
+
+1. c4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 Bb4 5. Bg2 d6 6. O-O O-O
+7. d3 h6 8. Bd2 a5 9. a3 Bc5 10. Na4 Ba7 11. b4 e4 12. dxe4
+Nxe4 13. b5 Ne7 14. b6 cxb6 15. Bf4 Re8 16. Nd4 Ng6 17. Be3
+Bd7 18. Nb5 Bxb5 19. cxb5 d5 20. Qb3 Ne5 21. Rfd1 Nc4 22. Bf4
+Rc8 23. Bh3 Nc5 24. Nxc5 Rxc5 25. Qf3 Qf6 26. Rac1 g5 27. Rxd5
+Ne5 28. Qe4 Rxd5 29. Qxd5 gxf4 30. Qxb7 f3 31. e3 Qe7 32. Rc7
+Qd6 33. Qxa7 Qd1+ 34. Bf1 Rd8 0-1

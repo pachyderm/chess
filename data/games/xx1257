@@ -1,0 +1,22 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.05"]
+[EventDate "2014.03.04"]
+[Round "2.102"]
+[Result "0-1"]
+[White "Bardur Orn Birkisson"]
+[Black "Eirikur Bjornsson"]
+[ECO "A07"]
+[WhiteElo "1475"]
+[BlackElo "1958"]
+[PlyCount "86"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. Bg2 d4 5. Nce2 Nc6 6. d3 e5
+7. f4 f6 8. Nf3 Be6 9. Bd2 Qd7 10. O-O h6 11. a3 Bd6 12. c3
+Nge7 13. cxd4 cxd4 14. Rc1 O-O 15. f5 Bf7 16. Qe1 b5 17. g4
+Rab8 18. b4 a5 19. Qh4 Kh7 20. Rb1 axb4 21. axb4 Ng8 22. Bh3
+Ra8 23. Rf2 Ra3 24. g5 Bc4 25. dxc4 bxc4 26. gxh6 gxh6 27. Qg3
+Qg7 28. Ng5+ Qxg5 29. Bxg5 Rxg3+ 30. hxg3 hxg5 31. b5 Nb4
+32. Rff1 c3 33. Ra1 Bc5 34. Kg2 Nc2 35. Rab1 g4 36. Bxg4 Ne3+
+37. Kf3 c2 38. Rh1+ Nh6 39. Ra1 d3 40. Ra6 d2 41. Rc6 d1=Q
+42. Rc7+ Kg8 43. Rxh6 Qf1# 0-1

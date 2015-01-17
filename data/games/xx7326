@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.25"]
+[Result "1-0"]
+[White "Dimitrios Mastrovasilis"]
+[Black "Vilka Sipila"]
+[ECO "B12"]
+[WhiteElo "2608"]
+[BlackElo "2425"]
+[PlyCount "79"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nc3 Ne7 6. Nge2 dxc4
+7. Ng3 b5 8. a4 b4 9. Nce4 Bxe4 10. Nxe4 Nf5 11. Be3 Nd7
+12. Bxc4 Be7 13. O-O O-O 14. Ba2 Qa5 15. Bg5 Qd8 16. g4 Bxg5
+17. gxf5 exf5 18. Nd6 Nb6 19. Qc2 Be7 20. Nxf5 Rc8 21. Rad1 g6
+22. Ne3 Kh8 23. f4 Qe8 24. a5 Na8 25. f5 f6 26. Rf3 fxe5
+27. dxe5 Bg5 28. e6 Nc7 29. Nc4 Rd8 30. Nd6 Rxd6 31. Rxd6 gxf5
+32. Qxc6 Qh5 33. Rdd3 Rg8 34. Kh1 Ne8 35. e7 Rg7 36. Rxf5 h6
+37. Rf8+ Kh7 38. Qe4+ Rg6 39. Bf7 Qh3 40. Qxg6# 1-0

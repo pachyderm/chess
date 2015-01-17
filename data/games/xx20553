@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.13"]
+[Result "1-0"]
+[White "Aleksandar Indjic"]
+[Black "Matthew Sadler"]
+[ECO "E15"]
+[WhiteElo "2539"]
+[BlackElo "2653"]
+[PlyCount "93"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 Bb4 6. Qa4 c5
+7. dxc5 Bxc5 8. b4 Be7 9. Bg2 Bb7 10. O-O O-O 11. Bb2 Qc7
+12. a3 Ne4 13. Rfd1 Nxd2 14. Rxd2 d6 15. Qb3 Nc6 16. Rad1 Rfd8
+17. h4 Rac8 18. Ng5 h6 19. Nxe6 fxe6 20. c5 d5 21. Bh3 Kh8
+22. Bxe6 Ne5 23. Bxc8 Rxc8 24. cxb6 axb6 25. Rc1 Nc4 26. Rd3
+Qc6 27. Bd4 Bf6 28. Qc3 Bxd4 29. Rxd4 b5 30. Rcd1 Qe6 31. Qf3
+Re8 32. Rf4 Kg8 33. h5 Ne5 34. Qe3 Bc6 35. Rc1 Qd7 36. Qc5 Nc4
+37. e3 Bb7 38. Rd1 Nxe3 39. fxe3 Qh3 40. Rf3 Qxh5 41. Rdf1 Qg6
+42. Qc7 Bc6 43. Qf7+ Qxf7 44. Rxf7 Rxe3 45. R7f3 Re2 46. Rc1
+Be8 47. Kf1 1-0

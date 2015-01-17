@@ -1,0 +1,20 @@
+[Event "Bundesliga"]
+[Site "Eppingen GER"]
+[Date "2014.04.05"]
+[EventDate "2013.10.12"]
+[Round "14"]
+[Result "1-0"]
+[White "Joerg Wegerle"]
+[Black "Daniel Hausrath"]
+[ECO "A48"]
+[WhiteElo "2438"]
+[BlackElo "2532"]
+[PlyCount "67"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c6 6. Be2 Bg4
+7. Ne5 Bxe2 8. Qxe2 Nh5 9. O-O-O Nd7 10. g4 Nxf4 11. exf4 e6
+12. Kb1 Bxe5 13. fxe5 h5 14. h4 Qa5 15. f4 b5 16. Qg2 hxg4
+17. Qxg4 O-O-O 18. h5 Rh6 19. Qf3 Rg8 20. Ne2 gxh5 21. Rxh5
+Rxh5 22. Qxh5 Rg2 23. Nc1 Qa4 24. Nb3 c5 25. Qxf7 c4 26. Qxe6
+cxb3 27. cxb3 Qb4 28. Qxd5 Rd2 29. Qa8+ Nb8 30. Rc1+ Kd7
+31. Qxb8 Rxb2+ 32. Kxb2 Qd2+ 33. Rc2 Qxd4+ 34. Ka3 1-0

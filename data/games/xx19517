@@ -1,0 +1,22 @@
+[Event "Latvian Railway Rapid"]
+[Site "Riga LAT"]
+[Date "2014.03.29"]
+[EventDate "2014.03.28"]
+[Round "7.3"]
+[Result "1-0"]
+[White "Daniel Fridman"]
+[Black "Toms Kantans"]
+[ECO "D90"]
+[WhiteElo "2604"]
+[BlackElo "2443"]
+[PlyCount "81"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. h4 c5 6. dxc5 Qa5
+7. cxd5 Nxd5 8. Qxd5 Bxc3+ 9. Bd2 Bxd2+ 10. Qxd2 Qxd2+
+11. Nxd2 Be6 12. e3 O-O 13. Bc4 Bxc4 14. Nxc4 Na6 15. c6 b6
+16. Rc1 Rac8 17. Ne5 Rc7 18. h5 f6 19. Nd3 Rfc8 20. hxg6 hxg6
+21. b4 b5 22. a4 Rb8 23. axb5 Rxb5 24. Rh4 Rb6 25. Ke2 Nb8
+26. Rch1 g5 27. Rh8+ Kf7 28. f4 Ke6 29. e4 Kd6 30. fxg5 fxg5
+31. R1h6+ e6 32. Re8 Rcxc6 33. Rexe6+ Kc7 34. Rh7+ Kd8 35. Re5
+Rc7 36. Rh8+ Kd7 37. Nc5+ Kc6 38. Re6+ Kb5 39. Rxb6+ axb6
+40. Rxb8 Rc6 41. Nd7 1-0

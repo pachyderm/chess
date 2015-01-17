@@ -1,0 +1,32 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.29"]
+[Result "1-0"]
+[White "Marat Dzhumaev"]
+[Black "Jacob Aagaard"]
+[ECO "C48"]
+[WhiteElo "2510"]
+[BlackElo "2525"]
+[PlyCount "183"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Nd4 5. Ba4 c6 6. d3 a5
+7. a3 b5 8. Bb3 Nxb3 9. cxb3 d6 10. d4 exd4 11. Nxd4 Bd7
+12. Qf3 Ng4 13. O-O Qf6 14. Nf5 h5 15. Re1 g6 16. Nxb5 O-O-O
+17. Bg5 Qe5 18. Nbxd6+ Bxd6 19. Nxd6+ Qxd6 20. e5 Nxe5 21. Qf4
+f6 22. Bxf6 Nf3+ 23. Qxf3 Rhf8 24. Be5 Rxf3 25. Bxd6 Rxb3
+26. Be5 Rd3 27. Bc3 a4 28. f3 Bf5 29. h3 R3d5 30. Kf2 Kb7
+31. Rac1 R8d7 32. Re3 Rd1 33. Rxd1 Rxd1 34. g4 hxg4 35. hxg4
+Bc2 36. Kg3 Rd3 37. Re6 Kc7 38. Rf6 Bd1 39. Rxg6 Rxf3+ 40. Kh4
+Re3 41. Kg5 Kd7 42. Kh4 Re4 43. Bb4 Bb3 44. Kg3 Re3+ 45. Kf4
+Re2 46. Rg7+ Ke8 47. Bc3 Re7 48. Rg6 Re6 49. Rg8+ Kf7 50. Ra8
+Bc2 51. g5 Re4+ 52. Kf3 Rc4 53. Rc8 Bf5 54. Rc7+ Ke6 55. Bf6
+Be4+ 56. Ke3 Kf5 57. Rg7 Bd5 58. Bd4 Rc2 59. Bf6 Rg2 60. Ra7
+Rg3+ 61. Kd4 Rg4+ 62. Kc5 Re4 63. Ra8 Kg6 64. Rh8 Kf5 65. Rf8
+Kg6 66. Rh8 Kf5 67. Rh6 Re6 68. Kb6 Re1 69. Ka5 Re4 70. Rh2
+Kg6 71. Rf2 Rc4 72. Be7 Re4 73. Bd8 Rg4 74. Rf8 Bb3 75. Rh8
+Rg2 76. Rh6+ Kf5 77. Bf6 Rg4 78. Rh3 Bd5 79. Rh2 Kg6 80. Bd8
+Rc4 81. Rh6+ Kg7 82. Bf6+ Kf7 83. Bc3 Rg4 84. Rf6+ Ke7
+85. Bb4+ Kd7 86. g6 Ke8 87. Rf8+ Kd7 88. Rf6 Ke8 89. Kb6 Kd7
+90. Rd6+ Ke8 91. Kc7 Rg2 92. Rd8# 1-0

@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.61"]
+[Result "1-0"]
+[White "Igor Efimov"]
+[Black "Graham Mooney"]
+[ECO "E61"]
+[WhiteElo "2408"]
+[BlackElo "1880"]
+[PlyCount "67"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Bg5 d6 5. Nf3 Nc6 6. e3 O-O
+7. Be2 Bf5 8. Nd2 h6 9. Bh4 e5 10. d5 Nb4 11. e4 Bd7 12. a3
+Na6 13. b4 c6 14. dxc6 bxc6 15. c5 Nc7 16. cxd6 Ne6 17. O-O
+Nd4 18. Nc4 g5 19. Bg3 Nxe4 20. Nxe4 f5 21. Bxe5 Nxe2+
+22. Qxe2 fxe4 23. Qxe4 Qe8 24. Qe3 Qf7 25. Bxg7 Qxg7 26. Rac1
+Rae8 27. Qxa7 Rf7 28. Qc5 Rf5 29. Qb6 Ref8 30. Qe3 h5 31. Nb6
+Re5 32. Qc3 Rfe8 33. Nxd7 Qxd7 34. Qxc6 1-0

@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.24"]
+[Result "1-0"]
+[White "Mircea-Emilian Parligras"]
+[Black "Kurt Meier"]
+[ECO "B56"]
+[WhiteElo "2574"]
+[BlackElo "1944"]
+[PlyCount "91"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e5
+7. Nde2 Be6 8. Bb3 Be7 9. Bg5 Bxb3 10. axb3 a6 11. O-O O-O
+12. Bxf6 Bxf6 13. Nd5 g6 14. Qd3 Bg7 15. c3 Rc8 16. b4 f5
+17. f3 fxe4 18. Qxe4 Rf7 19. Rad1 Ne7 20. Nxe7+ Qxe7 21. Qd5
+Rc6 22. Ng3 Kh8 23. Ne4 Bf8 24. Rd3 Rf5 25. Rfd1 Qe8 26. b5
+axb5 27. Qxb5 Qb8 28. Kh1 Qc7 29. Rd5 Be7 30. Qd3 Qb6 31. Rd2
+Rf8 32. h3 Ra8 33. b4 Ra1+ 34. Rd1 Rxd1+ 35. Qxd1 Qe3 36. Rd3
+Qb6 37. Qb3 Kg7 38. Qe6 Kf8 39. f4 exf4 40. Rf3 g5 41. Nxg5
+Bxg5 42. Qf5+ Ke8 43. Qxg5 Qa6 44. Rxf4 Qa1+ 45. Kh2 Qxc3
+46. Qg8+ 1-0

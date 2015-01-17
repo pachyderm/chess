@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.17"]
+[Result "0-1"]
+[White "Oliver Kurmann"]
+[Black "Alexander Moiseenko"]
+[ECO "B45"]
+[WhiteElo "2423"]
+[BlackElo "2707"]
+[PlyCount "52"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6
+bxc6 7. e5 Nd5 8. Ne4 Qc7 9. f4 Rb8 10. c4 Bb4+ 11. Ke2 O-O
+12. cxd5 cxd5 13. Nd6 f6 14. Nxc8 fxe5 15. a3 Bc5 16. Qc2
+Rbxc8 17. b4 exf4 18. Bb2 Be3 19. Qxc7 Rxc7 20. Kd3 d6 21. g3
+e5 22. gxf4 Bxf4 23. Bg2 e4+ 24. Bxe4 dxe4+ 25. Kxe4 Rc2
+26. Bd4 Rd2 0-1

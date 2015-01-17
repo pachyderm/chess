@@ -1,0 +1,29 @@
+[Event "Bundesliga"]
+[Site "Trier GER"]
+[Date "2014.02.09"]
+[EventDate "2013.10.12"]
+[Round "8"]
+[Result "1-0"]
+[White "Markus Ragger"]
+[Black "Marcin Tazbir"]
+[ECO "E10"]
+[WhiteElo "2668"]
+[BlackElo "2544"]
+[PlyCount "157"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Bd6 6. Bg2 O-O
+7. Nc3 Ne4 8. O-O Nxd2 9. Nxd2 c6 10. e4 dxe4 11. Ndxe4 Bc7
+12. d5 exd5 13. cxd5 Be5 14. Qh5 Nd7 15. Rad1 g6 16. Qe2 Qb6
+17. Rfe1 Bg7 18. dxc6 bxc6 19. Rd6 Qc7 20. Qc2 Ne5 21. Nd5 Qb8
+22. Ndf6+ Kh8 23. Qc5 Ng4 24. b3 Qb6 25. Rxc6 Qxc5 26. Rxc5
+Nxf6 27. Nxf6 Rb8 28. Nd5 Rd8 29. Rc7 Be6 30. Ne7 Rd2 31. Nc6
+Rf8 32. Rxa7 Bd7 33. Rf1 Bxc6 34. Bxc6 Bd4 35. Rd7 Rc8 36. Bb7
+Rcc2 37. Rxf7 Kg8 38. Bd5 Bc5 39. Rd7+ Kh8 40. Kh1 Rxa2
+41. Rd8+ Kg7 42. b4 Bf8 43. Rc1 Rac2 44. Rxc2 Rxc2 45. b5 Rb2
+46. Rd7+ Kh8 47. Bc4 g5 48. Rd5 h6 49. Kg2 Kg7 50. Kf3 Kf6
+51. h4 gxh4 52. gxh4 Rb4 53. Bd3 Ke6 54. Rh5 Bg7 55. Be4 Kd6
+56. Kf4 Kc7 57. Kf3 Kb6 58. Bc6 Rd4 59. Kg3 Rd3+ 60. Kg4 Rd6
+61. Rf5 Bc3 62. Rf7 Rd4+ 63. f4 Rd6 64. h5 Bb2 65. Kf5 Bc3
+66. Re7 Rf6+ 67. Ke4 Bd2 68. f5 Bc3 69. Re8 Kc7 70. Bd5 Kb6
+71. Rc8 Bb2 72. Be6 Ba3 73. Ke5 Bb2+ 74. Kd5 Ba3 75. Rb8+ Kc7
+76. Ra8 Bb4 77. Rc8+ Kb7 78. Rg8 Bd2 79. Rg6 1-0

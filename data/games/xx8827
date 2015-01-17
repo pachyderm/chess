@@ -1,0 +1,29 @@
+[Event "TCEC - Season 6 - Stage 1c"]
+[Site "http://tcec.chessdom.com"]
+[Date "2014.03.14"]
+[EventDate "2014.03.03"]
+[Round "10"]
+[Result "1-0"]
+[White "Komodo (Computer)"]
+[Black "Rybka (Computer)"]
+[ECO "B30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "150"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 a6 6. Bxc6
+Nxc6 7. d4 cxd4 8. Nxd4 d6 9. Nc3 Qc7 10. Nxc6 bxc6 11. Qd3 e5
+12. b3 Be7 13. Qg3 g6 14. Na4 O-O 15. c4 Be6 16. c5 dxc5
+17. Ba3 Rad8 18. Bxc5 Bxc5 19. Nxc5 Bc8 20. b4 Rd4 21. a3 Rfd8
+22. h3 Kg7 23. Rac1 Qe7 24. Kh2 Rd2 25. Rc3 f6 26. Qe3 R8d6
+27. Rec1 Ra2 28. Rd3 Rxd3 29. Qxd3 f5 30. Kg1 h5 31. Qb3 Rd2
+32. Qe3 Qd6 33. exf5 Bxf5 34. Qe1 e4 35. Nxe4 Bxe4 36. Qxe4
+Rd3 37. g3 Rd1+ 38. Rxd1 Qxd1+ 39. Kg2 Qd7 40. Qc4 Qb7
+41. Qd4+ Kh7 42. Qf6 Qd7 43. Qf3 Qc7 44. Qf4 Qd7 45. Qc4 Qb7
+46. Qe4 Qc7 47. Qe6 Qb7 48. Qe2 Qa7 49. Qe3 Qd7 50. Qb3 Kg7
+51. Qf3 Qc8 52. Qc3+ Kh7 53. h4 Qd7 54. Qc5 Qb7 55. Qf8 Qd7
+56. Qf3 Qb7 57. Qe3 Kg8 58. Qe4 Kg7 59. a4 Kf6 60. Kg1 Kf7
+61. Qd4 Ke6 62. Qc5 Kf6 63. a5 Kg7 64. Qb6 Qc8 65. Qa7+ Kf6
+66. Qc5 Qa8 67. Qd6+ Kf7 68. Qd7+ Kg8 69. Qe6+ Kg7 70. Qe7+
+Kg8 71. Qd7 Kh8 72. Qf7 Qd8 73. Qe6 Qa8 74. Qxg6 Qb7 75. Qxh5+
+Kg7 1-0

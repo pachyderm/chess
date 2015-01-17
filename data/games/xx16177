@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.72"]
+[Result "0-1"]
+[White "William van Rensselaer"]
+[Black "Wezou Henri Dongo"]
+[ECO "D02"]
+[WhiteElo "1908"]
+[BlackElo "?"]
+[PlyCount "90"]
+
+1. d4 d5 2. Nf3 e6 3. Bf4 Nf6 4. e3 Be7 5. Bd3 Nbd7 6. Nbd2 b6
+7. Qe2 Bb7 8. h3 O-O 9. Ne5 Nxe5 10. dxe5 Ne4 11. O-O-O Nc5
+12. Nf3 Nxd3+ 13. Qxd3 c5 14. c3 c4 15. Qe2 b5 16. Nd4 Qb6
+17. Qc2 a5 18. Kd2 b4 19. Rb1 Rac8 20. h4 f6 21. Nf3 b3
+22. axb3 cxb3 23. Qd1 d4 24. exd4 fxe5 25. Bxe5 Rf5 26. Qe2
+Rcf8 27. Rh3 Bd5 28. Rg3 R8f7 29. Rh1 Qc6 30. Ke3 a4 31. Ng5
+Bxg5+ 32. hxg5 Bxg2 33. Rxg2 Qxg2 34. Rh2 Qxg5+ 35. f4 Qg1+
+36. Kd3 Qb1+ 37. Ke3 Qc1+ 38. Kd3 a3 39. bxa3 Rb7 40. Bd6 b2
+41. Qxe6+ Rbf7 42. Qc8+ Rf8 43. Qe6+ Kh8 44. Bxf8 b1=Q+
+45. Kc4 Qb5# 0-1

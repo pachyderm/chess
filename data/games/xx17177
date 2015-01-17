@@ -1,0 +1,25 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.05"]
+[EventDate "2014.03.04"]
+[Round "2.6"]
+[Result "0-1"]
+[White "Peter Constantinou"]
+[Black "Mikhail Kobalia"]
+[ECO "D13"]
+[WhiteElo "2270"]
+[BlackElo "2646"]
+[PlyCount "114"]
+
+1. d4 Nf6 2. Nf3 c5 3. c3 cxd4 4. cxd4 d5 5. Nc3 Nc6 6. Bf4 a6
+7. Rc1 Bf5 8. e3 Qb6 9. Bd3 Bxd3 10. Qxd3 e6 11. O-O Nd7
+12. e4 Nb4 13. Qe2 dxe4 14. Nxe4 Be7 15. Bc7 Qb5 16. Qxb5 axb5
+17. a3 Nd5 18. Ne5 f6 19. Nd3 Rc8 20. Nd6+ Bxd6 21. Bxd6 Kf7
+22. Nc5 Nxc5 23. dxc5 e5 24. Rcd1 Ke6 25. Rd2 Rhd8 26. Rfd1
+Ne7 27. f3 Nf5 28. g4 Ne3 29. Re1 Nc4 30. Rde2 Nxd6 31. cxd6
+Rxd6 32. Kf2 Rd4 33. h3 g5 34. Rh1 h5 35. Rhe1 h4 36. Ra1 Rd3
+37. Rae1 Rc4 38. Re3 Rdd4 39. R1e2 b4 40. Rb3 Kd5 41. Ke3 Kc5
+42. axb4+ Kb5 43. Rd2 Rxd2 44. Kxd2 Rd4+ 45. Ke3 Kc4 46. Rc3+
+Kxb4 47. Rd3 Rxd3+ 48. Kxd3 Kb3 49. Ke4 Kxb2 50. Kf5 b5
+51. Kxf6 b4 52. Kxg5 b3 53. Kh6 Kc3 54. g5 b2 55. g6 b1=Q
+56. g7 Qb3 57. Kh7 Qf7 0-1

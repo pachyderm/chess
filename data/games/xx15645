@@ -1,0 +1,33 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.8"]
+[Result "1/2-1/2"]
+[White "Ruben Felgaer"]
+[Black "Krishnan Sasikiran"]
+[ECO "C91"]
+[WhiteElo "2564"]
+[BlackElo "2669"]
+[PlyCount "192"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 d6 8. c3 O-O 9. d4 Bg4 10. Be3 Bh5 11. Nbd2 d5 12. Qc1
+Nxe4 13. Nxe5 Nxe5 14. dxe5 f5 15. exf6 Nxf6 16. Nf1 c6
+17. Ng3 Bg6 18. a4 Bd6 19. axb5 Ng4 20. Bd1 Nxe3 21. Qxe3 Re8
+22. Qd2 axb5 23. Rxa8 Qxa8 24. Bf3 Rxe1+ 25. Qxe1 Qe8
+26. Qxe8+ Bxe8 27. Kf1 b4 28. Nf5 bxc3 29. bxc3 Be5 30. Nd4
+Kf7 31. g3 Ke7 32. Ke1 c5 33. Ne2 Kd6 34. Kd2 Bf6 35. h4 g5
+36. hxg5 Bxg5+ 37. Ke1 Bg6 38. Bg4 Be4 39. f3 Bg6 40. f4 Bd8
+41. Kd2 Ba5 42. Ke3 Bc2 43. Kd2 Be4 44. Ke3 Bg6 45. Bf3 h6
+46. Bg4 Bc2 47. Kd2 Ba4 48. Kd3 Be8 49. Bf3 Bg6+ 50. Ke3 Bf7
+51. Bg4 Be8 52. Kd3 Ba4 53. Bf3 Bb5+ 54. Kc2 Bd7 55. Kd3 Bd8
+56. Kd2 Bf5 57. Ke3 Bb1 58. Bg4 Ba5 59. Bf3 Bf5 60. Bh5 Bd7
+61. Kd3 Bh3 62. Bf3 Bf5+ 63. Ke3 Bg6 64. Bg4 Bc2 65. Kd2 Ba4
+66. Kd3 Bd1 67. Kd2 Bb3 68. Kd3 Bc4+ 69. Kc2 Bb5 70. Bf3 Bd8
+71. Bg4 Bf6 72. Kd2 Be8 73. Bf3 Bg6 74. Ke3 Bb1 75. Kd2 Bf5
+76. Ke3 Bd7 77. Kd2 Bb5 78. Bg4 Bd8 79. Bf3 Bb6 80. Kc2 Ba5
+81. Bg4 Be8 82. Kd3 Bg6+ 83. Ke3 Bf7 84. Bf3 Bb6 85. Kd2 Bg6
+86. Bg4 Be4 87. Ke3 Bb1 88. Bf3 Bf5 89. Bh5 Ba5 90. Bf3 Bg6
+91. Bg4 Be8 92. Kd3 Bf7 93. Bf3 Bd8 94. Ke3 Be8 95. Bg4 Ba5
+96. Kd3 Bb6 1/2-1/2

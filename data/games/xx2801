@@ -1,0 +1,18 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.05"]
+[EventDate "2014.03.04"]
+[Round "2.5"]
+[Result "1-0"]
+[White "Gawain Jones"]
+[Black "Alexandr Ponomarenko"]
+[ECO "A22"]
+[WhiteElo "2651"]
+[BlackElo "2274"]
+[PlyCount "43"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 Nc6 4. Bg2 Bc5 5. Nf3 O-O 6. O-O d6
+7. e3 Bg4 8. h3 Bh5 9. g4 Bg6 10. d4 exd4 11. exd4 Bb6 12. Bg5
+h6 13. Bh4 Nb8 14. Nd5 Nbd7 15. Re1 Bh7 16. Ne7+ Kh8 17. g5
+hxg5 18. Nxg5 Qb8 19. Nxh7 Kxh7 20. Bxf6 Nxf6 21. c5 Ba5
+22. b4 1-0

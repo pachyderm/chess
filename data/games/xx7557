@@ -1,0 +1,34 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.23"]
+[Result "0-1"]
+[White "Manuel Larrea"]
+[Black "Fernando Peralta"]
+[ECO "B13"]
+[WhiteElo "2333"]
+[BlackElo "2574"]
+[PlyCount "206"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Be6
+7. cxd5 Bxd5 8. Bf4 g6 9. Nxd5 Nxd5 10. Be5 Qa5+ 11. Qd2 Qxd2+
+12. Nxd2 Nxe5 13. dxe5 O-O-O 14. g3 Kb8 15. Bc4 e6 16. Ke2 Nb4
+17. Rhd1 Nc6 18. Nf3 Bg7 19. Bb5 Nxe5 20. Nxe5 Bxe5 21. Rxd8+
+Rxd8 22. Rd1 Rf8 23. b3 a6 24. Bc4 Kc7 25. a4 Bd6 26. f4 Kd7
+27. Rd2 Ke7 28. Kf3 h6 29. Re2 Rc8 30. Rc2 Rd8 31. Rd2 Rb8
+32. Rc2 Rg8 33. h4 h5 34. Bd3 Rb8 35. Ke3 a5 36. Bb5 b6
+37. Kf3 Rd8 38. Rc6 Bc5 39. Rc7+ Kf6 40. Rd7 Rb8 41. Ba6 Re8
+42. Bb5 Rf8 43. Bc4 Bb4 44. Ba6 Ra8 45. Bb7 Re8 46. Ba6 Be7
+47. Bb7 Kg7 48. Ba6 Bb4 49. Bc4 Bc5 50. Ke4 Kf6 51. Kf3 Ra8
+52. Ke4 Bb4 53. Kf3 Rc8 54. Ke4 Rc6 55. Kf3 Kg7 56. Ke4 Kf8
+57. Kf3 Bd6 58. Ke4 Bc7 59. Kf3 Rc5 60. Ke4 Ke8 61. Rd3 Ke7
+62. Kf3 Bd6 63. Ke4 Rc7 64. Kf3 Rc8 65. Re3 b5 66. Bxb5 Rc2
+67. Bc4 Bc5 68. Re2 Rc3+ 69. Kg2 Be3 70. Kf3 Bd4+ 71. Kg2 Kf6
+72. Rd2 Be3 73. Rd3 Rc2+ 74. Kf1 Bc5 75. Rd7 Rf2+ 76. Ke1 Rf3
+77. Rd3 Bf2+ 78. Ke2 Rxd3 79. Bxd3 Bxg3 80. Kf3 Be1 81. Ke2
+Bb4 82. Kf2 Ke7 83. Bb5 Bd2 84. Kg3 Be1+ 85. Kh3 Kf6 86. Bd3
+Bd2 87. Kg3 Be1+ 88. Kh3 e5 89. fxe5+ Kxe5 90. Bc4 Kf6 91. Bd5
+Kg7 92. Bc4 f6 93. Bd5 Kh6 94. Be6 g5 95. hxg5+ fxg5 96. Kg2
+g4 97. Kf1 Bb4 98. Kg2 Kg5 99. Bd5 h4 100. Kh2 h3 101. Kg3
+Bd6+ 102. Kf2 g3+ 103. Kf1 Kf4 0-1

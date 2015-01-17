@@ -1,0 +1,19 @@
+[Event "Riga Technical University Open"]
+[Site "Riga LAT"]
+[Date "2014.08.23"]
+[EventDate "2014.08.16"]
+[Round "8.2"]
+[Result "0-1"]
+[White "Benjamin Bok"]
+[Black "Richard Rapport"]
+[ECO "C41"]
+[WhiteElo "2587"]
+[BlackElo "2704"]
+[PlyCount "52"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. a4 c6
+7. O-O Qc7 8. Ba2 h6 9. dxe5 dxe5 10. Nh4 Nc5 11. Nf5 Bxf5
+12. exf5 O-O 13. Be3 e4 14. Qe2 Qe5 15. Rae1 Rae8 16. Qc4 Bd6
+17. g3 Qxf5 18. Bd4 Ncd7 19. Re2 Be5 20. Bxa7 Bxc3 21. Qxc3
+Ne5 22. Bc5 Nf3+ 23. Kg2 Re5 24. Bxf8 Qh3+ 25. Kxh3 Rh5+
+26. Kg2 Rxh2# 0-1

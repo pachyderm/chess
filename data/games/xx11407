@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.1"]
+[Result "1-0"]
+[White "Leinier Dominguez Perez"]
+[Black "Shakhriyar Mamedyarov"]
+[ECO "B90"]
+[WhiteElo "2760"]
+[BlackElo "2743"]
+[PlyCount "61"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 Qb6
+7. g4 Nc6 8. Nb3 e6 9. Qe2 Qc7 10. Be3 b5 11. O-O-O Nd7
+12. Qf2 Nce5 13. Kb1 Be7 14. Rg1 g5 15. h4 h6 16. Rh1 Rg8
+17. hxg5 hxg5 18. Rh3 Rb8 19. Nd4 b4 20. Na4 Nf6 21. b3 Bd7
+22. Bxa6 d5 23. Qh2 Bd6 24. Qe2 Qa5 25. Rh6 Ke7 26. exd5 Bxa4
+27. dxe6 fxe6 28. bxa4 Nd5 29. Nc6+ Nxc6 30. Bxg5+ Kf8
+31. Qxe6 1-0

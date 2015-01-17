@@ -1,0 +1,29 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.5"]
+[Result "1-0"]
+[White "Anish Giri"]
+[Black "Boris Gelfand"]
+[ECO "D70"]
+[WhiteElo "2745"]
+[BlackElo "2753"]
+[PlyCount "159"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7
+7. Be3 O-O 8. Qd2 Nc6 9. O-O-O Qd6 10. Nb5 Qd7 11. Kb1 Rd8
+12. d5 a6 13. Nc3 Na5 14. Qc1 Qd6 15. h4 Qb4 16. h5 Nac4
+17. hxg6 hxg6 18. Bxc4 Nxc4 19. Nge2 Nxe3 20. Qxe3 Qb6 21. Qg5
+Qf6 22. Qg3 b5 23. Nd4 b4 24. Na4 Bd7 25. Nc5 Qb6 26. Nxd7
+Rxd7 27. Nc6 b3 28. a3 Qc5 29. Rc1 Qe3 30. Qe1 Qd3+ 31. Ka1 e6
+32. dxe6 fxe6 33. e5 g5 34. Rd1 Qxd1+ 35. Qxd1 Rxd1+ 36. Rxd1
+a5 37. Rd8+ Rxd8 38. Nxd8 a4 39. Nxe6 Bxe5 40. Nxg5 Bd4 41. f4
+Be3 42. g3 Kg7 43. Ne6+ Kf6 44. Nxc7 Kf5 45. Nd5 Bf2 46. Nc3
+Bxg3 47. Nxa4 Bf2 48. Nc3 Kxf4 49. Ne2+ Ke4 50. Nc1 Kd4
+51. Nxb3+ Kc4 52. Nc1 Bc5 53. Kb1 Kb5 54. Ne2 Be7 55. Nc3+ Kc4
+56. Kc2 Bf8 57. Nb1 Be7 58. Nd2+ Kb5 59. Kb3 Bf8 60. Ne4 Bg7
+61. Nc3+ Kc5 62. Kc2 Kc4 63. b3+ Kd4 64. b4 Kc4 65. Nd1 Bf6
+66. Nb2+ Kd5 67. Kb3 Bd4 68. a4 Kc6 69. Nd1 Bg1 70. Kc4 Kb6
+71. Nc3 Bf2 72. Ne4 Bh4 73. Nc5 Bg5 74. Ne6 Bh4 75. a5+ Ka6
+76. Nc5+ Ka7 77. b5 Bd8 78. Kb4 Bc7 79. Ka4 Bd8 80. Ne6 1-0

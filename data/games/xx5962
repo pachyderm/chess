@@ -1,0 +1,22 @@
+[Event "Bundesliga"]
+[Site "Eppingen GER"]
+[Date "2014.04.04"]
+[EventDate "2013.10.12"]
+[Round "13"]
+[Result "1-0"]
+[White "Michael Hoffmann"]
+[Black "Dietmar Kolbus"]
+[ECO "B01"]
+[WhiteElo "2462"]
+[BlackElo "2302"]
+[PlyCount "83"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Nf6 4. d4 Bg4 5. Be2 c6 6. O-O e6
+7. c4 Qd8 8. Be3 Be7 9. Nbd2 O-O 10. a3 Nbd7 11. h3 Bh5 12. b4
+Qc7 13. Nb3 Rad8 14. Qc2 Bd6 15. Rad1 Bf4 16. Bxf4 Qxf4
+17. Na5 Qc7 18. Ne5 Nxe5 19. dxe5 Bxe2 20. Qxe2 Nd7 21. Rfe1
+b6 22. Nb3 Nb8 23. f4 h6 24. Nd2 c5 25. b5 Rd4 26. Ne4 Rfd8
+27. Rf1 Rxd1 28. Rxd1 a5 29. Nd6 Qe7 30. Rd3 f5 31. Qh5 Rf8
+32. Rg3 Kh8 33. Rg6 Kh7 34. g4 fxg4 35. Qxg4 Nd7 36. Rxe6 Qd8
+37. Qg6+ Kg8 38. Nf5 Rxf5 39. Re8+ Rf8 40. Qe6+ Kh8 41. Rxd8
+Rxd8 42. Qe7 1-0

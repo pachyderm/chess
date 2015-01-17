@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.29"]
+[Result "0-1"]
+[White "Joshua Johnson"]
+[Black "Felipe de Cresce El Debs"]
+[ECO "B28"]
+[WhiteElo "2069"]
+[BlackElo "2522"]
+[PlyCount "136"]
+
+1. e4 c5 2. Nf3 a6 3. c4 Nc6 4. d4 cxd4 5. Nxd4 e5 6. Nc2 Bc5
+7. Nc3 d6 8. Be3 Bxe3 9. Nxe3 Nf6 10. Be2 Be6 11. Qd2 O-O
+12. O-O Nd4 13. Rfd1 Rc8 14. Rac1 Qb6 15. b3 Qb4 16. Bd3 b5
+17. Nb1 Qxd2 18. Nxd2 b4 19. Nc2 Nxc2 20. Bxc2 Rc6 21. Nf1 Rb8
+22. Ne3 Kf8 23. Rd2 g6 24. f3 Ke7 25. Rcd1 a5 26. Rc1 Nd7
+27. Nd1 Nb6 28. Nb2 Rbc8 29. Nd3 f6 30. g3 R6c7 31. Rcd1 Nd7
+32. Nf2 Rc6 33. f4 Nc5 34. Re1 a4 35. Nd3 axb3 36. axb3 Nxd3
+37. Rxd3 Ra8 38. Red1 Ra2 39. R1d2 Rca6 40. Bd1 Ra1 41. Kf2
+R1a2 42. Be2 Rxd2 43. Rxd2 Ra5 44. Bd1 Kd7 45. Be2 Kc6 46. Bf3
+Ra3 47. Bd1 Kc5 48. Bc2 exf4 49. gxf4 g5 50. fxg5 fxg5 51. Bd1
+h5 52. Bc2 h4 53. Bd1 g4 54. Kg2 Ra7 55. Kg1 Ra1 56. Kg2 Rc1
+57. Kf2 Rc3 58. Kg2 Re3 59. Bc2 Rf3 60. Bd1 h3+ 61. Kg1 Re3
+62. Bc2 Re1+ 63. Kf2 Rh1 64. Kg3 Rg1+ 65. Kf4 Rg2 66. Ke3 Rxd2
+67. Kxd2 g3 68. e5 g2 0-1

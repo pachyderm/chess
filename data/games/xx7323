@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.64"]
+[Result "1-0"]
+[White "Dritan Mehmeti"]
+[Black "Ronuel Greenidge"]
+[ECO "B12"]
+[WhiteElo "2416"]
+[BlackElo "1630"]
+[PlyCount "63"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 h6
+7. h4 Bb4 8. f4 Ne7 9. h5 Bh7 10. a3 Bxc3+ 11. Nxc3 Nd7
+12. Be3 a6 13. Bd3 Bxd3 14. Qxd3 Qc7 15. O-O-O c5 16. dxc5
+Nxc5 17. Bxc5 Qxc5 18. Ne4 Qc7 19. Nd6+ Kd7 20. f5 Raf8
+21. Rhf1 Nc8 22. Nxf7 Ne7 23. Nxh8 Rxh8 24. fxe6+ Kxe6 25. g5
+Kd7 26. Qh3+ Ke8 27. Qe6 Qc6 28. Qf7+ Kd8 29. Qxg7 Rg8
+30. Rf8+ Rxf8 31. Qxf8+ Kd7 32. Qxh6 1-0

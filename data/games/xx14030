@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.62"]
+[Result "1-0"]
+[White "Keshav Shrestha"]
+[Black "Khaled Hashem"]
+[ECO "C47"]
+[WhiteElo "2137"]
+[BlackElo "1963"]
+[PlyCount "63"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6
+bxc6 7. Bd3 d6 8. O-O Ng4 9. h3 Ne5 10. f4 Nxd3 11. cxd3 d5
+12. e5 g6 13. Qa4 Bxc3 14. Qxc6+ Bd7 15. Qxc3 O-O 16. b3 Rc8
+17. Qc5 Be6 18. Bb2 a6 19. Rac1 Qh4 20. Rf3 Rfd8 21. Bd4 c6
+22. Rcf1 Qh6 23. b4 Qf8 24. Qc3 a5 25. a3 axb4 26. axb4 Ra8
+27. g4 Ra4 28. f5 Qxb4 29. Qxb4 Rxb4 30. fxe6 Rxd4 31. e7 Re8
+32. Rxf7 1-0

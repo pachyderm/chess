@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.15"]
+[Result "1-0"]
+[White "Valentin Iotov"]
+[Black "Miguel Illescas Cordoba"]
+[ECO "E92"]
+[WhiteElo "2553"]
+[BlackElo "2618"]
+[PlyCount "101"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5
+7. Be3 exd4 8. Nxd4 Re8 9. f3 c6 10. Bf2 d5 11. exd5 cxd5
+12. c5 Nc6 13. O-O Bf8 14. Bb5 Bd7 15. Bxc6 bxc6 16. b4 a5
+17. a3 axb4 18. axb4 Rxa1 19. Qxa1 Nh5 20. Re1 Rxe1+ 21. Qxe1
+Nf4 22. Qd2 Qf6 23. Nce2 Nxe2+ 24. Nxe2 Qa1+ 25. Qe1 Qa3
+26. Bd4 Qd3 27. Kf2 Bc8 28. Qc3 Ba6 29. Qxd3 Bxd3 30. Bf6 Bh6
+31. Nd4 Bd2 32. Nxc6 Kf8 33. Be7+ Ke8 34. Bd6 f6 35. Ne7 Bc4
+36. c6 d4 37. c7 Be3+ 38. Ke1 Ba6 39. c8=Q+ Bxc8 40. Nxc8 Kd7
+41. Nb6+ Kxd6 42. Nc4+ Kd5 43. Nxe3+ dxe3 44. Ke2 Kd4 45. g4
+Kc4 46. Kxe3 Kxb4 47. Kd4 Kb3 48. f4 Kc2 49. f5 gxf5 50. gxf5
+Kd2 51. Ke4 1-0

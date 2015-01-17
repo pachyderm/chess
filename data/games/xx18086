@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.2"]
+[Result "1-0"]
+[White "Anton Korobov"]
+[Black "Med Ali Boudriga"]
+[ECO "D35"]
+[WhiteElo "2680"]
+[BlackElo "2282"]
+[PlyCount "59"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6
+7. Qc2 Nbd7 8. Bd3 O-O 9. Nf3 Re8 10. O-O Nf8 11. h3 Ng6
+12. Ne5 Nd7 13. Bxe7 Qxe7 14. f4 Ndf8 15. Rae1 Qd6 16. Nf3 f6
+17. f5 Ne7 18. e4 dxe4 19. Nxe4 Qd8 20. Qb3+ Nd5 21. Nc3 Kh8
+22. Rxe8 Qxe8 23. Nxd5 cxd5 24. Re1 Qd8 25. Bb5 Bxf5 26. Re8
+Qxe8 27. Bxe8 Rxe8 28. Qxb7 Be4 29. Qxa7 Ng6 30. b4 1-0

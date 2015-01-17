@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.31"]
+[Result "0-1"]
+[White "Peter Schreiner"]
+[Black "Vladimir Hamitevici"]
+[ECO "E11"]
+[WhiteElo "2460"]
+[BlackElo "2467"]
+[PlyCount "74"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. e4 d5
+7. e5 Nfd7 8. Bd3 c5 9. Qc2 g6 10. h4 cxd4 11. cxd5 exd5
+12. h5 Nc5 13. hxg6 Nxd3+ 14. Qxd3 fxg6 15. Nxd4 Bf5 16. Qb3
+Na6 17. O-O Nc5 18. Qe3 Qb6 19. N2f3 Be4 20. b4 Nd3 21. Nd2
+Rad8 22. N2b3 Nxe5 23. Nc5 Nc4 24. Qc3 Bf6 25. Bg5 Rf7
+26. Bxf6 Qxf6 27. Rad1 Bf5 28. a4 b6 29. Ncb3 Bg4 30. Rde1
+Rdf8 31. Qg3 Bd7 32. Qd3 Qh4 33. f3 Qg3 34. Ne6 Rxf3 35. Qxd5
+Rxf1+ 36. Rxf1 Rxf1+ 37. Kxf1 Ne3+ 0-1

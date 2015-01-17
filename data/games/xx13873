@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.70"]
+[Result "0-1"]
+[White "Kit Wong"]
+[Black "Hamoud Al Nhier"]
+[ECO "C45"]
+[WhiteElo "1565"]
+[BlackElo "?"]
+[PlyCount "32"]
+
+1. e4 Nc6 2. d4 e5 3. Nf3 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3
+Nge7 7. Bc4 Ne5 8. Bb3 Qg6 9. Nb5 Bxe3 10. Nxc7+ Kd8 11. Nxa8
+Qxg2 12. Rf1 Bc5 13. Qe2 Nf3+ 14. Kd1 Nxh2 15. Re1 d5 16. exd5
+Bg4 0-1

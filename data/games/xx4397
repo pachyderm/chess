@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.34"]
+[Result "1-0"]
+[White "Tarvo Seeman"]
+[Black "Vladimir Hamitevici"]
+[ECO "A46"]
+[WhiteElo "2392"]
+[BlackElo "2467"]
+[PlyCount "85"]
+
+1. Nf3 d6 2. d4 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. a4 a5
+7. b3 Bf5 8. Nc3 Qc8 9. Ba3 Na6 10. Re1 c5 11. e4 Bh3 12. e5
+dxe5 13. dxe5 Bxg2 14. Kxg2 Rd8 15. Qe2 Ne8 16. Rad1 Qc6
+17. Qe4 Qxe4 18. Nxe4 Nb4 19. Rxd8 Rxd8 20. Re2 b6 21. Bxb4
+axb4 22. Ned2 Nc7 23. Nc4 b5 24. Rd2 Rxd2 25. Ncxd2 Kf8
+26. axb5 Nxb5 27. Ne4 c4 28. bxc4 Na3 29. c5 Nxc2 30. c6 Ke8
+31. e6 Kd8 32. exf7 Kc7 33. Nc5 Kxc6 34. Ne6 Bh6 35. Ne5+ Kd6
+36. Ng4 b3 37. Nxh6 b2 38. f8=Q b1=Q 39. Ng5 Qb7+ 40. Kh3 Qd7+
+41. g4 Nd4 42. Qf4+ Kc5 43. Nf3 1-0

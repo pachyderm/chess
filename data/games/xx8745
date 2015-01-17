@@ -1,0 +1,18 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.05"]
+[EventDate "2014.03.04"]
+[Round "3.85"]
+[Result "0-1"]
+[White "Nansy Davidsdottir"]
+[Black "Michael Raddatz"]
+[ECO "B28"]
+[WhiteElo "1510"]
+[BlackElo "2044"]
+[PlyCount "46"]
+
+1. e4 c5 2. Nf3 a6 3. c3 d5 4. exd5 Qxd5 5. d3 Nc6 6. Be3 e5
+7. Nbd2 Nf6 8. Nc4 Nd7 9. Be2 Be7 10. O-O O-O 11. Qc2 b5
+12. Na3 Qe6 13. Rad1 Bb7 14. d4 cxd4 15. cxd4 Nb4 16. Qb1 Nd5
+17. Nc2 e4 18. Nd2 f5 19. Nb3 f4 20. Bd2 f3 21. gxf3 exf3
+22. Bd3 Qg4+ 23. Kh1 Qg2# 0-1

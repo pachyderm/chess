@@ -1,0 +1,25 @@
+[Event "Bundesliga"]
+[Site "Berlin GER"]
+[Date "2014.02.23"]
+[EventDate "2013.10.12"]
+[Round "10"]
+[Result "1-0"]
+[White "Alexander Belezky"]
+[Black "Martin Kraemer"]
+[ECO "A06"]
+[WhiteElo "2455"]
+[BlackElo "2546"]
+[PlyCount "119"]
+
+1. Nf3 d5 2. g3 Nc6 3. d4 Bf5 4. Bg2 Nb4 5. Na3 e6 6. c3 Nc6
+7. Nc2 Be7 8. O-O Nf6 9. Bg5 O-O 10. Nd2 Bg6 11. Bxf6 Bxf6
+12. e4 dxe4 13. Nxe4 Be7 14. f4 Rb8 15. Ne3 Qd7 16. a4 Bxe4
+17. Bxe4 g6 18. a5 Bf6 19. Qa4 Rfd8 20. Bxc6 bxc6 21. b4 Rb5
+22. Rad1 Bg7 23. Qc2 Rbb8 24. Rf2 Qc8 25. Rfd2 Qa6 26. Qd3 Qb5
+27. Qc4 Rd7 28. Ra2 Rd6 29. a6 Bf8 30. Ra5 Qxc4 31. Nxc4 Rd5
+32. Ne5 Rb6 33. Rda1 Rd8 34. Nc4 Rbb8 35. Ne5 Rb6 36. Nc4 Rbb8
+37. Kf2 f6 38. Ke3 Kf7 39. g4 Bd6 40. h3 Ke7 41. Nd2 Rf8
+42. Nc4 Kd7 43. Nb2 h6 44. Nd3 Rb5 45. c4 Rbb8 46. c5 Be7
+47. Kd2 g5 48. Kc3 gxf4 49. Nxf4 e5 50. Ng6 Rg8 51. Nh4 exd4+
+52. Kc4 h5 53. Rd1 hxg4 54. Rxd4+ Ke6 55. hxg4 Rgd8 56. Re4+
+Kd7 57. Ra3 Re8 58. Rd3+ Kc8 59. Rde3 Kd7 60. Nf5 1-0

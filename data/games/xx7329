@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.15"]
+[Result "1-0"]
+[White "Marcos Ortiz"]
+[Black "Mircea-Emilian Parligras"]
+[ECO "B12"]
+[WhiteElo "2214"]
+[BlackElo "2574"]
+[PlyCount "91"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5
+7. h4 h5 8. Nf4 Bh7 9. Nxh5 cxd4 10. Qxd4 Nc6 11. Bb5 Ne7
+12. Bg5 a6 13. Bxe7 axb5 14. Bxd8 Nxd4 15. O-O-O Nxc2 16. Bf6
+Nb4 17. Nxg7+ Bxg7 18. Bxg7 Rg8 19. Bf6 Kd7 20. a3 Nd3+
+21. Rxd3 Bxd3 22. Kd2 Bh7 23. Nxb5 Rac8 24. f3 Rc2+ 25. Ke3
+Rxb2 26. Nd6 Ra8 27. Rc1 Rxa3+ 28. Kf4 d4 29. Nxf7 d3 30. Bd8
+d2 31. Rc7+ Ke8 32. Re7+ Kf8 33. Nd6 Bg6 34. Kg5 Rb6 35. Kxg6
+Rxd6 36. exd6 d1=Q 37. d7 Qc2+ 38. Kh6 Ra8 39. Re8+ Kf7
+40. Re7+ Kf6 41. g5+ Ke5 42. Re8 Kd6 43. Bf6 Kxd7 44. Rxa8 e5
+45. g6 Qc6 46. Rf8 1-0

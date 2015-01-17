@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.23"]
+[Result "0-1"]
+[White "Yannick Pelletier"]
+[Black "Lim Yee Weng"]
+[ECO "B13"]
+[WhiteElo "2578"]
+[BlackElo "2311"]
+[PlyCount "58"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Bg5
+dxc4 7. d5 Na5 8. Nf3 e6 9. Bxf6 gxf6 10. Bxc4 Nxc4 11. Qa4+
+Bd7 12. Qxc4 Qb6 13. O-O Qb4 14. Qd3 O-O-O 15. a3 Qf4 16. Rac1
+Kb8 17. Nd4 Rg8 18. g3 Bc5 19. Rfd1 Bb6 20. Qf3 Qh6 21. Rc2 e5
+22. Nde2 Bg4 23. Qd3 f5 24. Na4 e4 25. Qc3 Bxf2+ 26. Kxf2
+Qxh2+ 27. Ke3 Bxe2 28. Qc7+ Ka8 29. Nc5 Qxg3+ 0-1

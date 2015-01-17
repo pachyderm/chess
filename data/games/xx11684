@@ -1,0 +1,31 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.11"]
+[Result "0-1"]
+[White "Zoltan Almasi"]
+[Black "Yangyi Yu"]
+[ECO "B92"]
+[WhiteElo "2690"]
+[BlackElo "2668"]
+[PlyCount "170"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5
+7. Nb3 Be7 8. O-O O-O 9. Re1 Be6 10. Bf3 a5 11. a4 Na6 12. Bg5
+h6 13. Bxf6 Bxf6 14. Nb5 Qb6 15. Nd2 Rfd8 16. Nf1 Nc5 17. Qe2
+d5 18. exd5 Bxd5 19. Bxd5 Rxd5 20. Ne3 Rd7 21. Rad1 Rad8
+22. b3 Qe6 23. Rxd7 Rxd7 24. Rd1 e4 25. Rxd7 Qxd7 26. Qc4 Be7
+27. Nc3 Qc6 28. g3 Bf8 29. Qd5 Qe8 30. Nc4 g6 31. Ne5 Kg7
+32. Nxe4 Nxe4 33. Qxe4 Bd6 34. f4 Qe6 35. Qd4 f6 36. Nf3 g5
+37. fxg5 hxg5 38. Kf2 b6 39. Qd3 Bc5+ 40. Nd4 Qd5 41. c3 Qxb3
+42. Kf3 g4+ 43. Kxg4 Qxa4 44. Kf3 Bxd4 45. cxd4 b5 46. d5 b4
+47. d6 Qd7 48. h4 b3 49. Qxb3 Qc6+ 50. Kg4 Qxd6 51. Qb7+ Kh6
+52. Qa8 Qd7+ 53. Kf4 Qc7+ 54. Kf3 Kg7 55. Qe8 Qc3+ 56. Kg2
+Qc2+ 57. Kh3 Qf5+ 58. Kg2 Qd5+ 59. Kh2 Qa2+ 60. Kh3 Qf7
+61. Qa4 Qe6+ 62. Kh2 Qe2+ 63. Kh3 Qf1+ 64. Kh2 Qf5 65. Qe8 Qe5
+66. Qd7+ Kg6 67. Qd3+ Qf5 68. Qe2 Kf7 69. Qc4+ Kg7 70. Qc7+
+Kg6 71. Qc4 Qf2+ 72. Kh3 Qf5+ 73. Kg2 Kg7 74. Qc7+ Kh6 75. Qc6
+Qe5 76. Qc4 Qd6 77. g4 Qd7 78. Qf4+ Kg7 79. g5 Qd5+ 80. Kf2
+Qc5+ 81. Ke2 Qe5+ 82. Qe3 Qxe3+ 83. Kxe3 f5 84. h5 a4 85. Kf4
+a3 0-1

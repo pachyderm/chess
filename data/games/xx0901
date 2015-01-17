@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.16"]
+[Result "1-0"]
+[White "Bassem Amin"]
+[Black "Frode Elsness"]
+[ECO "A06"]
+[WhiteElo "2627"]
+[BlackElo "2477"]
+[PlyCount "99"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. c4 e6 5. cxd5 Bxf3 6. Bxf3
+cxd5 7. O-O Nf6 8. Nc3 Nc6 9. d3 Be7 10. Bf4 O-O 11. Qa4 a6
+12. Rfc1 Rc8 13. Bg2 Qb6 14. Qd1 Rfd8 15. Rab1 Qa7 16. a3 b5
+17. Na2 Bc5 18. e3 Bd6 19. Bxd6 Rxd6 20. Rc2 Rdd8 21. Rbc1 Qb7
+22. Qd2 h6 23. d4 Nd7 24. Bf1 Nb6 25. b3 Nb8 26. Qa5 Nc6
+27. Rxc6 Rxc6 28. Rxc6 Qxc6 29. Nb4 Qd6 30. Nxa6 Ra8 31. Bxb5
+Nd7 32. Qc7 Qxc7 33. Nxc7 Ra7 34. Na6 Nb8 35. Nxb8 Rb7 36. Na6
+Rxb5 37. b4 Rb6 38. Nc5 f6 39. Kf1 Kf7 40. Ke2 Ke7 41. Kd2 Kd6
+42. Kc3 e5 43. a4 exd4+ 44. exd4 f5 45. b5 Kc7 46. Kb4 f4
+47. a5 Rg6 48. b6+ Kb8 49. Kb5 fxg3 50. fxg3 1-0

@@ -1,0 +1,18 @@
+[Event "Bundesliga"]
+[Site "Solingen GER"]
+[Date "2014.02.23"]
+[EventDate "2013.10.12"]
+[Round "10"]
+[Result "1-0"]
+[White "Liviu Dieter Nisipeanu"]
+[Black "Dietmar Kolbus"]
+[ECO "B56"]
+[WhiteElo "2674"]
+[BlackElo "2302"]
+[PlyCount "43"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4
+Bd7 7. Bb3 Na5 8. Bg5 Nxb3 9. axb3 Ng8 10. Nf5 f6 11. Be3 Qb8
+12. O-O e6 13. Nd4 Ne7 14. f4 a6 15. f5 e5 16. Qh5+ Kd8
+17. Ne6+ Bxe6 18. fxe6 g6 19. Qh4 Bg7 20. Rxf6 Bxf6 21. Qxf6
+Re8 22. Bb6+ 1-0

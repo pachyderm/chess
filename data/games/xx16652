@@ -1,0 +1,16 @@
+[Event "Chess Olympiad (Women)"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.64"]
+[Result "0-1"]
+[White "Rauha Shipindo"]
+[Black "Tinna Kristin Finnbogadottir"]
+[ECO "D10"]
+[WhiteElo "?"]
+[BlackElo "1915"]
+[PlyCount "22"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Bd3 e6 5. cxd5 exd5 6. Ne2 Bd6
+7. Nbc3 O-O 8. O-O Bxh2+ 9. Kxh2 Ng4+ 10. Kg1 Qh4 11. Bxh7+
+Qxh7 0-1

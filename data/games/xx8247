@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.48"]
+[Result "0-1"]
+[White "Adrian Winter Atwell"]
+[Black "Namkhai Battulga"]
+[ECO "B22"]
+[WhiteElo "2110"]
+[BlackElo "2411"]
+[PlyCount "64"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. dxc5
+Qxc5 7. Be3 Qa5 8. Na3 Nf6 9. Qb3 Qc7 10. Nb5 Qb8 11. Ng5 e6
+12. f3 Qe5 13. Kf2 Bc5 14. Nc7+ Kd7 15. Nd5 Kc8 16. Nxf7 Qxd5
+17. Rd1 Bxe3+ 18. Kxe3 Qc5+ 19. Ke2 Ne4 20. Rd3 Qf2+ 21. Kd1
+Nc5 22. Nd6+ Kc7 23. Nb5+ Kb6 24. Qc4 Nxd3 25. Bxd3 Bf5
+26. Nd6 Bxd3 27. Qxd3 Rad8 28. Kc1 Kc7 29. Rd1 Qc5 30. Nb5+
+Kb6 31. Nd6 Kc7 32. Nb5+ Kb8 0-1

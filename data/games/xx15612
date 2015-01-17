@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.85"]
+[Result "0-1"]
+[White "Andras Guller"]
+[Black "Vit Valenta"]
+[ECO "C90"]
+[WhiteElo "2042"]
+[BlackElo "2132"]
+[PlyCount "126"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 O-O 8. d3 d6 9. c3 Na5 10. Bc2 c5 11. Nbd2 g6 12. Nf1
+Nh5 13. Bh6 Re8 14. Ne3 Bf8 15. Bxf8 Kxf8 16. d4 Bb7 17. dxc5
+dxc5 18. Qxd8 Raxd8 19. Red1 f6 20. Ne1 Nf4 21. f3 Bc6 22. g3
+Ne6 23. Kf2 b4 24. Nd3 bxc3 25. bxc3 Bb5 26. a4 Bc6 27. Rab1
+Rb8 28. Ke2 Kf7 29. h3 Red8 30. h4 h5 31. Rh1 Ke7 32. Rhd1 Ba8
+33. Kf2 Rxb1 34. Bxb1 Bc6 35. Bc2 Rb8 36. Ra1 Rb7 37. Ke2 Nb3
+38. Ra3 Na5 39. Ra1 Kf7 40. Ra3 Be8 41. Ra1 Bc6 42. Ra3 Rb6
+43. Ra1 c4 44. Nb4 Nc5 45. Nxc6 Rxc6 46. Nd5 Nab3 47. Rb1 a5
+48. f4 exf4 49. gxf4 Re6 50. Nc7 Re7 51. Nd5 Rb7 52. Ne3 Nxa4
+53. Nxc4 Nxc3+ 54. Kf2 Nxb1 55. Nd6+ Ke6 56. Nxb7 N1d2 57. Ke2
+a4 58. Nc5+ Nxc5 59. Kxd2 a3 60. f5+ gxf5 61. exf5+ Ke5
+62. Kc1 Ne4 63. Bd1 Ng3 0-1

@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.7"]
+[Result "1-0"]
+[White "Alexander Onischuk"]
+[Black "Cristhian Camilo Rios"]
+[ECO "E11"]
+[WhiteElo "2659"]
+[BlackElo "2427"]
+[PlyCount "43"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. Nc3 d5 6. e3 O-O
+7. Bd3 b6 8. a3 Bxc3 9. Bxc3 Ba6 10. Qe2 Nbd7 11. O-O Qe7
+12. Rfd1 Rfc8 13. Ne5 c6 14. Nxd7 Qxd7 15. b3 a4 16. bxa4 Bxc4
+17. Bxc4 dxc4 18. Qxc4 Qa7 19. a5 bxa5 20. Rab1 c5 21. dxc5
+Qxc5 22. Rd8+ 1-0

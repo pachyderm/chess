@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.36"]
+[Result "1-0"]
+[White "Alexey Shirov"]
+[Black "Sarunas Sulskis"]
+[ECO "C57"]
+[WhiteElo "2709"]
+[BlackElo "2544"]
+[PlyCount "55"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. Nxf7
+Kxf7 7. Qf3+ Ke6 8. Nc3 Nb4 9. a3 Nxc2+ 10. Kd1 Nxa1 11. Nxd5
+Kd6 12. d4 Be6 13. Re1 b5 14. Nb4 bxc4 15. Qc6+ Ke7 16. Bg5+
+Kf7 17. Bxd8 Rxd8 18. Qxc7+ Rd7 19. Qxe5 Rd6 20. d5 Bd7
+21. Qf4+ Kg8 22. Qxc4 a5 23. Nd3 a4 24. Nc5 h5 25. Nxd7 Rxd7
+26. d6+ Kh7 27. Re6 g6 28. Rxg6 1-0

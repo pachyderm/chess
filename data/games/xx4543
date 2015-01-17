@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.55"]
+[Result "0-1"]
+[White "Jonathan Molod"]
+[Black "Daniel Ebeling"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "2445"]
+[PlyCount "114"]
+
+1. d4 Nf6 2. Nf3 e6 3. Nbd2 d5 4. Nb3 a5 5. a4 b6 6. e3 Be7
+7. Be2 O-O 8. O-O Ba6 9. Ne5 Qd6 10. Nd2 Nfd7 11. Nxd7 Bxe2
+12. Qxe2 Nxd7 13. e4 c5 14. e5 Qc7 15. c3 cxd4 16. cxd4 Rfc8
+17. f4 Nf8 18. Qg4 Qc2 19. f5 exf5 20. Rxf5 Ne6 21. Nf1 Nxd4
+22. Rf2 Qe4 23. Qxe4 dxe4 24. Be3 Nc2 25. Rd1 Nxe3 26. Nxe3
+Bc5 27. Re2 Re8 28. Rd5 Rad8 29. Rxd8 Rxd8 30. Kf1 Rd4 31. b3
+Rd3 32. Nc4 Rxb3 33. Nd2 Rb2 34. Nxe4 Rb1+ 35. Re1 Rxe1+
+36. Kxe1 Bd4 37. Ke2 Bxe5 38. h3 f5 39. Nd2 Kf7 40. Kd3 Ke6
+41. Kc4 Bf4 42. Nf3 Be3 43. Kd3 Bc5 44. Kc4 f4 45. Nd2 Be3
+46. Nf3 Kf5 47. Kd5 g5 48. Kc4 g4 49. Nh2 gxh3 50. gxh3 Ke4
+51. Kc3 f3 52. Kc2 f2 53. Kc3 Bf4 54. Nf1 Kf3 55. Kd3 Kg2
+56. Ke2 h6 57. h4 h5 0-1

@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.52"]
+[Result "1-0"]
+[White "Andreas Kelires"]
+[Black "Pierre Villegas"]
+[ECO "D95"]
+[WhiteElo "2216"]
+[BlackElo "2323"]
+[PlyCount "39"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Qb3 e6
+7. Bd2 b6 8. Be2 Bb7 9. O-O Ne4 10. Rfd1 c5 11. cxd5 exd5
+12. dxc5 Nxc5 13. Qa3 Ne6 14. Be1 Qf6 15. Nxd5 Qxb2 16. Qxb2
+Bxb2 17. Rab1 Bg7 18. Bb4 Rd8 19. Ne7+ Kh8 20. Ng5 1-0

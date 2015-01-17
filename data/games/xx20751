@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.12"]
+[Result "0-1"]
+[White "Miguel Munoz Sanchez"]
+[Black "Erwin L'Ami"]
+[ECO "E17"]
+[WhiteElo "2296"]
+[BlackElo "2631"]
+[PlyCount "83"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O
+7. Nc3 Ne4 8. Qc2 Nxc3 9. bxc3 Nc6 10. Ne5 Na5 11. Bxb7 Nxb7
+12. Qa4 d6 13. Nc6 Qe8 14. d5 Na5 15. Nxe7+ Qxe7 16. Be3 Qe8
+17. Qb4 c5 18. Qb5 exd5 19. Rad1 Nxc4 20. Qxe8 Rfxe8 21. Rxd5
+Rad8 22. Rd3 Kf8 23. Re1 Nxe3 24. fxe3 Re4 25. Red1 Ke7
+26. Kf2 b5 27. Kf3 Ra4 28. R1d2 a5 29. e4 f6 30. g4 Ra3
+31. Kf4 Ke6 32. h4 b4 33. c4 Rxd3 34. exd3 a4 35. Ke3 Rb8
+36. d4 b3 37. axb3 Rxb3+ 38. Kf4 cxd4 39. Rxd4 Rb4 40. Rd5
+Rxc4 41. Ke3 Rc5 42. Kd4 0-1

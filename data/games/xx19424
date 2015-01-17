@@ -1,0 +1,18 @@
+[Event "Bundesliga"]
+[Site "Trier GER"]
+[Date "2014.02.09"]
+[EventDate "2013.10.12"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Peter Szendro Horvath"]
+[Black "Alexander Naumann"]
+[ECO "D85"]
+[WhiteElo "2449"]
+[BlackElo "2540"]
+[PlyCount "42"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4
+Nxc3 7. Bxc3 O-O 8. Be2 c5 9. d5 e6 10. Nf3 exd5 11. exd5 Bg4
+12. O-O Qd6 13. Qb3 Nd7 14. Bxg7 Kxg7 15. Qxb7 Rab8 16. Qc6
+Qf4 17. b3 Rb6 18. Qa4 Qxa4 19. bxa4 Rd6 20. h3 Bxf3 21. Bxf3
+Ne5 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Bundesliga"]
+[Site "Katernberg GER"]
+[Date "2014.03.16"]
+[EventDate "2013.10.12"]
+[Round "12"]
+[Result "0-1"]
+[White "Stefan Kuipers"]
+[Black "Markus Schaefer"]
+[ECO "C11"]
+[WhiteElo "2411"]
+[BlackElo "2404"]
+[PlyCount "54"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6
+7. f4 Be7 8. Nf3 O-O 9. h4 f6 10. Rh3 cxd4 11. cxd4 Qb6 12. a3
+a5 13. b3 Qc7 14. Ra2 a4 15. b4 Nb6 16. Neg1 f5 17. Bd3 Bd7
+18. h5 Na7 19. Bb1 Rac8 20. Ne2 Bb5 21. Rc2 Qd7 22. Nh2 Bc4
+23. g4 Nb5 24. gxf5 exf5 25. Nf1 Bb3 26. Rxb3 axb3 27. Rxc8
+Qxc8 0-1

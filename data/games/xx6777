@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.81"]
+[Result "1-0"]
+[White "Alexis Ruzigura"]
+[Black "Jeffrey Balbalosa"]
+[ECO "B07"]
+[WhiteElo "?"]
+[BlackElo "1723"]
+[PlyCount "75"]
+
+1. e4 d6 2. d4 c6 3. Nc3 Nf6 4. Bd3 Bg4 5. f3 Bh5 6. Nge2 Nbd7
+7. Nf4 e5 8. dxe5 Nxe5 9. Be3 Be7 10. O-O O-O 11. Be2 Bg6
+12. Rb1 Qc7 13. a3 Rad8 14. Nxg6 Nxg6 15. Bd3 d5 16. exd5 Nxd5
+17. Nxd5 Rxd5 18. Qe2 Rfd8 19. Bxg6 fxg6 20. Rfe1 Re8 21. Qf2
+Bd6 22. g3 b6 23. b4 h6 24. Kg2 h5 25. Bxb6 axb6 26. Rxe8+ Kh7
+27. Re4 c5 28. c4 Rd3 29. Qb2 g5 30. Rf1 h4 31. Qc2 g6
+32. Qxd3 Bxg3 33. Re6 Qf7 34. Qxg6+ Qxg6 35. Rxg6 Kxg6
+36. hxg3 cxb4 37. axb4 hxg3 38. Kxg3 1-0

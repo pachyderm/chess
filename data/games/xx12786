@@ -1,0 +1,27 @@
+[Event "Bundesliga"]
+[Site "Viernheim GER"]
+[Date "2014.03.16"]
+[EventDate "2013.10.12"]
+[Round "12"]
+[Result "0-1"]
+[White "Thal Abergel"]
+[Black "Julian Jorczik"]
+[ECO "C11"]
+[WhiteElo "2413"]
+[BlackElo "2405"]
+[PlyCount "134"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6
+7. Be3 Be7 8. Qd2 O-O 9. dxc5 Bxc5 10. O-O-O Qa5 11. a3 Rb8
+12. Bxc5 Nxc5 13. Qe3 Na4 14. Nxa4 Qxa4 15. Bd3 Bd7 16. c3
+Rfc8 17. Bc2 Qc4 18. Kb1 a5 19. g4 Ne7 20. Rd4 Qc5 21. Qd3 g6
+22. Qd2 b5 23. f5 Nc6 24. Qh6 Qf8 25. Qxf8+ Rxf8 26. Rf4 h6
+27. h4 exf5 28. gxf5 Bxf5 29. Bxf5 gxf5 30. Rg1+ Kh7 31. Rxf5
+Rbe8 32. Rd1 Re6 33. h5 Kg7 34. Rg1+ Kh7 35. b4 axb4 36. axb4
+f6 37. Nd4 Rxe5 38. Rxe5 Nxe5 39. Nxb5 f5 40. Nd4 f4 41. Rf1
+f3 42. Rf2 Kg8 43. b5 Rf6 44. Kc2 Kf8 45. Kd1 Ke7 46. b6 Kd7
+47. b7 Kc7 48. Rb2 Kb8 49. Rb1 Ng4 50. Ke1 f2+ 51. Ke2 Nh2
+52. Nc6+ Rxc6 53. Kxf2 Rxc3 54. Rb6 Ng4+ 55. Kg2 Ne3+ 56. Kf2
+d4 57. Rb4 Nf5 58. Rb5 Nd6 59. Rb4 Ne4+ 60. Kg2 Rg3+ 61. Kh2
+Rd3 62. Rb6 Re3 63. Rxh6 d3 64. Rh8+ Kxb7 65. Rd8 d2 66. h6
+Re2+ 67. Kh3 Re1 0-1

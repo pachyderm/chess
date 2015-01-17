@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.13"]
+[Result "1-0"]
+[White "Michael Adams"]
+[Black "Ivan Ivanisevic"]
+[ECO "B47"]
+[WhiteElo "2740"]
+[BlackElo "2613"]
+[PlyCount "139"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6
+7. Bg2 h5 8. O-O h4 9. Re1 hxg3 10. hxg3 d6 11. Nxc6 bxc6
+12. e5 d5 13. Na4 Bb7 14. c4 dxc4 15. Nc3 Ne7 16. Ne4 Nd5
+17. Bg5 a5 18. Rc1 Ba6 19. Qg4 Rb8 20. Rc2 Bb4 21. Bd2 Kf8
+22. a3 Be7 23. Nd6 Bxd6 24. exd6 Qxd6 25. Bxa5 Kg8 26. Rd1 e5
+27. Qg5 Re8 28. Bc3 Rh6 29. Re1 Rg6 30. Qh5 Nxc3 31. Rxc3 Qd2
+32. Qe2 Qxe2 33. Rxe2 Rd6 34. f4 f6 35. Kf2 Kf7 36. fxe5 fxe5
+37. Ke1 Rf6 38. Rec2 Rh8 39. Re3 Rh5 40. Bf3 Rh3 41. Be2 Rh1+
+42. Kd2 Ke6 43. Kc3 Rg6 44. Kb4 Kd6 45. Ka5 Bb5 46. Bxc4 Bxc4
+47. Rxc4 Kc7 48. b4 Rd1 49. b5 Rd5 50. a4 Kd7 51. Rec3 cxb5
+52. axb5 Rd1 53. Rc7+ Ke8 54. Rc8+ Ke7 55. R3c7+ Kf6 56. Rc6+
+Kf5 57. Rxg6 Kxg6 58. Rc4 Rd5 59. Kb4 Kf5 60. b6 Rd8 61. g4+
+Kg5 62. Kb5 Kh4 63. b7 Rb8 64. Kb6 g5 65. Kc7 Rf8 66. b8=Q
+Rxb8 67. Kxb8 Kg3 68. Kc7 Kf3 69. Kd6 e4 70. Ke5 1-0

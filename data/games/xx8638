@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.26"]
+[Result "1-0"]
+[White "Jacob Aagaard"]
+[Black "Kristian Stuvik Holm"]
+[ECO "B27"]
+[WhiteElo "2525"]
+[BlackElo "2275"]
+[PlyCount "137"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Qxd4 Nf6 5. e5 Nc6 6. Qa4 Nd5
+7. Qe4 Nb6 8. Bb5 Bg7 9. O-O d5 10. Qh4 h6 11. Re1 Bd7 12. Nc3
+e6 13. Qg3 a6 14. Bd3 Qc7 15. Bd2 Ne7 16. b3 O-O-O 17. Ne2 Kb8
+18. Bb4 Nec8 19. Ned4 Bf8 20. Ba5 Ba3 21. Rab1 Be7 22. Qf4 f5
+23. Qe3 g5 24. Nd2 Bc5 25. c3 f4 26. Qe2 Na7 27. Rec1 Rc8
+28. Rc2 Qd8 29. Qd1 Qe7 30. a3 Na8 31. Bb4 Nc6 32. Nxc6+ Bxc6
+33. Nf3 Bd7 34. Nd4 Rc7 35. Qe2 Rhc8 36. Rbc1 Qg7 37. h3 Ka7
+38. Bxc5+ Rxc5 39. b4 R5c7 40. c4 dxc4 41. Bxc4 Nb6 42. Bb3
+Rxc2 43. Rxc2 Rxc2 44. Bxc2 h5 45. Bb3 Qg6 46. Qc2 Qxc2
+47. Nxc2 Ba4 48. Bxa4 Nxa4 49. Nd4 Nb2 50. Nxe6 Nc4 51. Nxg5
+Nxe5 52. Ne4 Kb6 53. Nc3 Kc6 54. Kf1 f3 55. gxf3 Nxf3 56. Kg2
+Ne1+ 57. Kg3 Nc2 58. Kh4 Nxa3 59. Kxh5 Nc2 60. h4 Nxb4 61. Kg6
+Nd3 62. h5 Nf4+ 63. Kg5 Ne6+ 64. Kf6 Nf8 65. Kf7 Nh7 66. Kg7
+Ng5 67. h6 b5 68. f4 Ne6+ 69. Kf7 1-0

@@ -1,0 +1,20 @@
+[Event "Bundesliga"]
+[Site "Solingen GER"]
+[Date "2014.02.22"]
+[EventDate "2013.10.12"]
+[Round "9"]
+[Result "1-0"]
+[White "Tamas Banusz"]
+[Black "Alexander Dany"]
+[ECO "E07"]
+[WhiteElo "2596"]
+[BlackElo "2110"]
+[PlyCount "65"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 Be7 5. d4 O-O 6. O-O Nbd7
+7. Qd3 b6 8. cxd5 exd5 9. Nc3 c5 10. Bf4 Bb7 11. Rac1 a6
+12. dxc5 bxc5 13. Nh4 g6 14. Rfd1 Nb6 15. Bg5 Qc7 16. b4 d4
+17. Bf4 Qd7 18. bxc5 Bxc5 19. Nb1 Bxg2 20. Nxg2 Qd5 21. Bc7
+Nbd7 22. Rc2 Rfc8 23. Bf4 g5 24. Bc1 Ne5 25. Qf5 Ne4 26. Ne3
+Qe6 27. Qxe4 dxe3 28. Rxc5 exf2+ 29. Kg2 Rxc5 30. Qxa8+ Kg7
+31. Be3 Ng4 32. Bxc5 Qxe2 33. Rf1 1-0

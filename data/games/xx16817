@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.49"]
+[Result "1-0"]
+[White "Rodrigo Rafael Vasquez Schroeder"]
+[Black "Alberto Muniz Pardino"]
+[ECO "D11"]
+[WhiteElo "2533"]
+[BlackElo "2106"]
+[PlyCount "33"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Qc2 f5 5. Bf4 Nf6 6. e3 Be7
+7. Nc3 O-O 8. Bd3 Ne4 9. g4 b6 10. gxf5 exf5 11. cxd5 Nxc3
+12. Qxc3 cxd5 13. Rc1 Ba6 14. Bxb8 Bxd3 15. Bc7 Qe8 16. Qxd3
+Rc8 17. Ke2 1-0

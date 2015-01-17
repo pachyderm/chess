@@ -1,0 +1,28 @@
+[Event "TCEC - Season 6 - Superfinal"]
+[Site "http://tcec.chessdom.com"]
+[Date "2014.05.20"]
+[EventDate "2014.05.19"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Komodo (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "E32"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "148"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3
+b6 7. Bg5 Bb7 8. f3 c5 9. dxc5 bxc5 10. e3 d6 11. Rd1 a5
+12. Ne2 Qe7 13. Bxf6 gxf6 14. Qd2 Rd8 15. Ng3 f5 16. Be2 d5
+17. cxd5 Rxd5 18. Qc2 Rxd1+ 19. Qxd1 Bc6 20. Qd2 Nd7 21. O-O
+h6 22. Rf2 Rb8 23. Bf1 Qg5 24. f4 Qd8 25. Qc3 Bd5 26. Nh5 Kf8
+27. Qh8+ Ke7 28. Qxh6 c4 29. Qg5+ Kd6 30. Qxd8 Rxd8 31. Rd2
+Ke7 32. Ng3 Nf6 33. Be2 Rc8 34. Rc2 Rb8 35. Kf2 Rb3 36. h4 c3
+37. bxc3 Rxa3 38. c4 Be4 39. Nxe4 Nxe4+ 40. Kf3 a4 41. g4 Rc3
+42. Ra2 a3 43. h5 Kf6 44. g5+ Kg7 45. Bd1 Rd3 46. Bc2 Rd2
+47. Bb1 Rxa2 48. Bxa2 f6 49. Kg2 fxg5 50. fxg5 e5 51. Kf1 Kh7
+52. Ke1 Nc3 53. Bb3 a2 54. Bxa2 Nxa2 55. c5 Nc3 56. c6 Nd5
+57. Kd2 Kg7 58. Ke2 Kf7 59. Kf2 e4 60. Ke1 Nc7 61. Ke2 Ne6
+62. h6 Kg6 63. Kd2 Nc7 64. Kc3 Ne6 65. Kb4 f4 66. exf4 e3
+67. Kc3 Nxf4 68. c7 Nd5+ 69. Kd4 e2 70. c8=Q e1=Q 71. Kxd5
+Qa5+ 72. Qc5 Qa1 73. h7 Qd1+ 74. Qd4 Qxd4+ 1/2-1/2

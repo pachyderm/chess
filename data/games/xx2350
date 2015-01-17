@@ -1,0 +1,21 @@
+[Event "Bundesliga"]
+[Site "Berlin GER"]
+[Date "2014.02.23"]
+[EventDate "2013.10.12"]
+[Round "10"]
+[Result "0-1"]
+[White "Lars Thiede"]
+[Black "Thomas Reich"]
+[ECO "A15"]
+[WhiteElo "2450"]
+[BlackElo "2386"]
+[PlyCount "80"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 O-O 5. d3 d6 6. Nf3 Nc6
+7. Rb1 a5 8. a3 e5 9. O-O Re8 10. e3 Bf5 11. h3 e4 12. Nd4
+Nxd4 13. exd4 exd3 14. g4 d2 15. gxf5 dxc1=Q 16. Qxc1 c6
+17. fxg6 hxg6 18. b4 axb4 19. axb4 Nh5 20. b5 Bxd4 21. bxc6
+bxc6 22. Qd2 Bxc3 23. Qxc3 Nf4 24. Qf3 Qg5 25. Rb6 Ra3 26. Qg4
+Rxh3 27. Qxf4 Qxf4 28. Bxh3 Qxc4 29. Bg2 d5 30. Rfb1 Qc3
+31. R1b3 Re1+ 32. Kh2 Qe5+ 33. Rg3 Rc1 34. Rb3 Rc2 35. Re3 Qd6
+36. Kg1 Kg7 37. Bh3 d4 38. Ref3 c5 39. Bf5 Rc1+ 40. Kg2 c4 0-1

@@ -1,0 +1,27 @@
+[Event "Cappelle-la-Grande"]
+[Site "Cappelle-la-Grande FRA"]
+[Date "2014.03.07"]
+[EventDate "2014.03.01"]
+[Round "8.33"]
+[Result "1-0"]
+[White "Vladimir Petkov"]
+[Black "Damian Justo"]
+[ECO "E21"]
+[WhiteElo "2566"]
+[BlackElo "2315"]
+[PlyCount "137"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O
+7. Bg2 d5 8. Qb3 Na6 9. cxd5 Nxd5 10. O-O Nxc3 11. bxc3 Be7
+12. Rd1 Nc5 13. Qc4 Bd7 14. Be3 Rc8 15. Nc6 Bxc6 16. Rxd8
+Rfxd8 17. Bxc6 Rxc6 18. a4 Nxa4 19. Qb5 Nb6 20. Rxa7 Nd5
+21. Bd2 Rdc8 22. Rxb7 f5 23. Rb8 Kf7 24. Rxc8 Rxc8 25. c4 Nf6
+26. Bb4 Rc7 27. f3 Bxb4 28. Qxb4 Ng8 29. Kf2 h6 30. h3 Ne7
+31. g4 fxg4 32. hxg4 Ng6 33. Kg3 Ne7 34. Qb5 Rc6 35. f4 Rc8
+36. e4 g6 37. Kf3 Ra8 38. Ke3 Ra3+ 39. Kd4 Ra5 40. Qb7 e5+
+41. fxe5 Ra1 42. Kc5 Rd1 43. Qb3 Rd8 44. e6+ Kxe6 45. Qb6+ Kd7
+46. e5 Rc8+ 47. Kd4 Rc6 48. Qb7+ Ke6 49. c5 g5 50. Qb3+ Kd7
+51. Qf7 Re6 52. Ke4 Rc6 53. Qc4 Re6 54. Qb5+ Rc6 55. Kd4 Ke6
+56. Qb8 Kd7 57. Kc4 Rg6 58. Kb5 Re6 59. Qf8 Rg6 60. Qf3 Re6
+61. Qe4 Rg6 62. Qb7+ Ke8 63. c6 Rxc6 64. Qxc6+ Nxc6 65. Kxc6
+h5 66. gxh5 g4 67. h6 Kf8 68. e6 g3 69. Kd7 1-0

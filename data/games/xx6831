@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.31"]
+[Result "0-1"]
+[White "Duncan Vella"]
+[Black "Levente Vajda"]
+[ECO "B07"]
+[WhiteElo "1979"]
+[BlackElo "2561"]
+[PlyCount "50"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. Be3 e5 5. Bc4 Be7 6. h3 O-O
+7. Nf3 c6 8. a4 b6 9. O-O a6 10. Qe2 Bb7 11. Rad1 b5 12. dxe5
+dxe5 13. axb5 axb5 14. Bb3 Qc7 15. Nd2 Nc5 16. Qf3 Nxb3
+17. Nxb3 b4 18. Ne2 c5 19. Nd2 c4 20. Ng3 c3 21. bxc3 bxc3
+22. Nb3 Nxe4 23. Nf5 g6 24. Qg4 Rad8 25. f3 h5 0-1

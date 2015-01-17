@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.46"]
+[Result "0-1"]
+[White "Joseph Mensah Jamena"]
+[Black "Akira Watanabe"]
+[ECO "B23"]
+[WhiteElo "?"]
+[BlackElo "2252"]
+[PlyCount "60"]
+
+1. e4 c5 2. Nc3 e6 3. Bc4 a6 4. a4 Nc6 5. Nf3 Nf6 6. d4 cxd4
+7. Nxd4 Qc7 8. Bb3 Nxe4 9. Nxe6 dxe6 10. Nxe4 Qe5 11. Qe2 Bb4+
+12. c3 Nd4 13. f4 Nxe2 14. fxe5 Nxc1 15. Rxc1 Ba5 16. Nd6+ Ke7
+17. Bc2 f5 18. Kf2 Bb6+ 19. Ke2 Bd7 20. Rhd1 Bc6 21. g3 g5
+22. b4 g4 23. Rd2 Bf3+ 24. Ke1 Be3 25. c4 h5 26. c5 h4
+27. Rcd1 Bxd2+ 28. Rxd2 hxg3 29. hxg3 f4 30. gxf4 g3 0-1

@@ -1,0 +1,18 @@
+[Event "Bundesliga"]
+[Site "Berlin GER"]
+[Date "2014.02.22"]
+[EventDate "2013.10.12"]
+[Round "9"]
+[Result "0-1"]
+[White "Tibor Reiss"]
+[Black "Ulf von Herman"]
+[ECO "A45"]
+[WhiteElo "2375"]
+[BlackElo "2391"]
+[PlyCount "48"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 d5 4. e3 c5 5. Bd3 Qb6 6. Bxe4
+dxe4 7. Nc3 cxd4 8. Qxd4 Nc6 9. Qxb6 axb6 10. Bc7 e5 11. Nge2
+Be6 12. Nxe4 Nb4 13. Kf1 Rc8 14. Bxe5 Nxc2 15. Rc1 Bxa2
+16. Bxg7 Bxg7 17. Nd6+ Ke7 18. Nxc8+ Rxc8 19. Nc3 Bc4+ 20. Kg1
+Nb4 21. Na4 b5 22. Nb6 Rc6 23. Nxc4 bxc4 24. Rb1 Nd3 0-1

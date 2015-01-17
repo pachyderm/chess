@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.15"]
+[Result "1-0"]
+[White "Michael Adams"]
+[Black "Nils Grandelius"]
+[ECO "C90"]
+[WhiteElo "2740"]
+[BlackElo "2571"]
+[PlyCount "109"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 d6 8. c3 O-O 9. d3 Na5 10. Bc2 c5 11. Nbd2 Nd7 12. Nf1
+Nb6 13. Ne3 Nc6 14. Nd5 Nxd5 15. exd5 Nb8 16. d4 exd4 17. cxd4
+c4 18. Qe2 Bf6 19. Bh6 Qd7 20. Qe4 Qf5 21. Qxf5 Bxf5 22. Bxf5
+gxh6 23. a4 bxa4 24. Rxa4 a5 25. Rc1 Na6 26. Rxa5 Nc7 27. Rxa8
+Rxa8 28. g3 Ra4 29. b3 Ra3 30. Rxc4 Rxb3 31. Nd2 Rb7 32. Ne4
+Be7 33. Nc3 Kg7 34. Kg2 Ne8 35. Nd1 Nf6 36. Ne3 Rb5 37. Bd3
+Nxd5 38. Nf5+ Kf6 39. Nxh6 Rb2 40. Kf1 Bf8 41. Ng4+ Kg7
+42. Be4 Ne7 43. Ne3 Rb5 44. Ra4 Rb8 45. Ra6 Rd8 46. Ke2 Kg8
+47. Kd3 Bg7 48. Ra7 Bf8 49. Nd5 Ng6 50. h4 Bg7 51. h5 Nf8
+52. Ne7+ Kh8 53. Nf5 Rd7 54. Rxd7 Nxd7 55. Nxd6 1-0

@@ -1,0 +1,29 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.3"]
+[Result "0-1"]
+[White "Simen Agdestein"]
+[Black "Gabriel Sargissian"]
+[ECO "D37"]
+[WhiteElo "2630"]
+[BlackElo "2686"]
+[PlyCount "154"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7
+7. Be2 dxc4 8. O-O c5 9. dxc5 Nxc5 10. Bxc4 a6 11. Ne5 Ncd7
+12. Qf3 Nxe5 13. Bxe5 Qa5 14. Bg3 Qb4 15. Qe2 Bd7 16. a3 Qb6
+17. e4 Bc6 18. e5 Nd7 19. b4 Rfd8 20. h4 Qd4 21. Rac1 Nb6
+22. Ba2 Qd2 23. Qxd2 Rxd2 24. Bf4 Rb2 25. h5 a5 26. Rb1 Rc2
+27. Rfc1 Rxc1+ 28. Bxc1 axb4 29. axb4 Na4 30. Nxa4 Rxa4
+31. Bb3 Ra8 32. Bd2 Rd8 33. Bc3 h6 34. Rd1 Ra8 35. Bd2 Kf8
+36. f3 Ke8 37. Rb1 Rd8 38. Rb2 Rd4 39. Ba2 Bh4 40. Kh2 Bf2
+41. f4 Rd3 42. Bc4 Rg3 43. Bf1 Ra3 44. b5 Bg3+ 45. Kg1 Bd5
+46. b6 Bc6 47. Rb4 Bh4 48. Rb1 Be7 49. Kh2 Bc5 50. Bb4 Bxb4
+51. Rxb4 Ra2 52. Rb1 Ke7 53. Kh3 f6 54. Kg3 fxe5 55. fxe5 Ra5
+56. Re1 Ra3+ 57. Kf2 Rb3 58. Re3 Rb2+ 59. Ke1 Rxb6 60. Rg3 Kf7
+61. Rg4 Rb1+ 62. Kf2 Bb5 63. Rf4+ Kg8 64. Bxb5 Rxb5 65. Re4
+Rd5 66. Kf3 b5 67. g4 Kf7 68. g5 hxg5 69. Kg4 Rd1 70. Kxg5 Rf1
+71. Kg4 Rf5 72. Kh4 Kg8 73. Rg4 Kh7 74. Re4 Kh6 75. Kg4 Rxh5
+76. Re1 Rf5 77. Re2 g5 0-1

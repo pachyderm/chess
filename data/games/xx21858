@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.19"]
+[Result "1-0"]
+[White "Sabino Brunello"]
+[Black "Kevin Denny"]
+[ECO "E63"]
+[WhiteElo "2560"]
+[BlackElo "2261"]
+[PlyCount "63"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nc3 Nc6
+7. O-O a6 8. h3 Bd7 9. Bg5 h6 10. Be3 Rb8 11. Qc1 Kh7 12. Rd1
+Qc8 13. Kh2 e5 14. dxe5 Nxe5 15. Nxe5 dxe5 16. Nd5 Nxd5
+17. cxd5 f5 18. Qc2 Rf6 19. Rac1 c6 20. dxc6 Bxc6 21. Bxc6
+Rxc6 22. Qd2 Qc7 23. Rxc6 bxc6 24. b3 Rf8 25. Bc5 Rf7 26. Qd3
+a5 27. Kg2 Qb7 28. Qd8 Qb5 29. Qe8 Rf6 30. Rd8 g5 31. Qg8+ Kg6
+32. Rd7 1-0

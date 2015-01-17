@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.12"]
+[Result "1-0"]
+[White "Anish Giri"]
+[Black "Carlos Matamoros Franco"]
+[ECO "D70"]
+[WhiteElo "2745"]
+[BlackElo "2525"]
+[PlyCount "101"]
+
+1. d4 Nf6 2. c4 g6 3. f3 c5 4. dxc5 Qa5+ 5. Nc3 Qxc5 6. e4 d6
+7. Na4 Qh5 8. Ne2 Bh6 9. Nf4 Qe5 10. Nd3 Qh5 11. Nf4 Qe5
+12. Nd5 Bxc1 13. Rxc1 Nxd5 14. cxd5 O-O 15. Be2 Bd7 16. Nc3
+Na6 17. O-O g5 18. Qd2 Kh8 19. Rfe1 Rfc8 20. Bxa6 bxa6 21. Ne2
+a5 22. Rxc8+ Rxc8 23. Rc1 Rxc1+ 24. Qxc1 h6 25. Qd2 Kg7
+26. Nc3 f5 27. exf5 Bxf5 28. g3 Bg6 29. Kf2 Kf6 30. a3 Bf7
+31. h4 Bg6 32. hxg5+ hxg5 33. Nd1 Bf7 34. Ne3 Kg6 35. Qc2+ Kg7
+36. Qc3 Qf6 37. f4 gxf4 38. gxf4 Kg6 39. Kf3 Kg7 40. Nf5+ Kg6
+41. Ne3 e6 42. dxe6 Bxe6 43. Qxf6+ Kxf6 44. Ke4 Bg8 45. Nd5+
+Kf7 46. f5 Kg7 47. Ne7 Ba2 48. Nc8 Bb1+ 49. Kd5 Bxf5 50. Nxa7
+Kf6 51. Kxd6 1-0

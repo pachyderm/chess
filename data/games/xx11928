@@ -1,0 +1,28 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.36"]
+[Result "0-1"]
+[White "Amin Kabilov"]
+[Black "Gombosuren Munkhgal"]
+[ECO "C00"]
+[WhiteElo "2181"]
+[BlackElo "2418"]
+[PlyCount "144"]
+
+1. e4 e6 2. d3 c5 3. Nf3 Nc6 4. g3 g6 5. d4 Bg7 6. dxc5 Qa5+
+7. c3 Qxc5 8. Be3 Qe7 9. Bg2 Nf6 10. Nd4 d5 11. Nd2 O-O
+12. O-O Rd8 13. Nxc6 bxc6 14. Qa4 Bb7 15. Qa5 Nd7 16. Nb3 Ne5
+17. Bc5 Qd7 18. Nd2 Nd3 19. Ba3 c5 20. Bxc5 Nxb2 21. Rab1 Nd3
+22. Bd4 e5 23. Be3 h6 24. Rxb7 Qxb7 25. exd5 f5 26. Rb1 Qf7
+27. d6 e4 28. Nxe4 Rab8 29. Rxb8 Rxb8 30. Nd2 Kh7 31. Qxa7
+Qxa7 32. Bxa7 Rd8 33. Nc4 Ne5 34. Bb6 Rd7 35. Ne3 Rxd6 36. Bc7
+Rd2 37. a4 Ra2 38. a5 Nd3 39. Nd5 Rxf2 40. Bb6 Ra2 41. Nc7
+Bxc3 42. a6 Ba5 43. Bd4 Bxc7 44. a7 Be5 45. Bxe5 Rxa7 46. Bd4
+Ra4 47. Bf6 Nc5 48. Kf1 Ne4 49. Be5 Ra2 50. h3 g5 51. Kg1 Ra5
+52. Bc7 Ra1+ 53. Kh2 Ra2 54. Kg1 Kg6 55. Bf1 Rd2 56. Be5 Rd5
+57. Bc7 h5 58. Bb8 Rc5 59. Kg2 Kf6 60. Bd3 Rc3 61. Be2 Rc2
+62. Kf1 Rc8 63. Ba7 Nxg3+ 64. Kf2 Nxe2 65. Kxe2 f4 66. Kf3 Kf5
+67. Bf2 g4+ 68. hxg4+ hxg4+ 69. Kg2 Rc2 70. Kg1 g3 71. Ba7 f3
+72. Bb8 Rc1# 0-1

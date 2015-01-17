@@ -1,0 +1,34 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.1"]
+[Result "0-1"]
+[White "Konstantine Shanava"]
+[Black "Eltaj Safarli"]
+[ECO "C29"]
+[WhiteElo "2563"]
+[BlackElo "2649"]
+[PlyCount "202"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Be7 6. Qe2
+Nxc3 7. dxc3 O-O 8. Bf4 c5 9. O-O-O Qa5 10. a3 Be6 11. h4 Nc6
+12. Ng5 c4 13. Qf3 Rad8 14. Kb1 Bf5 15. Bc1 Be4 16. Qg3 Bxc2+
+17. Kxc2 Qa4+ 18. Kd2 d4 19. Ke1 dxc3 20. Rxd8 Rxd8 21. Qxc3
+Qd1+ 22. Kf2 Bc5+ 23. Be3 Rd2+ 24. Kg1 Rc2 25. Bxc5 Rxc3
+26. bxc3 h6 27. Nf3 Qc1 28. Rh3 Qxc3 29. Bf2 Qc1 30. e6 fxe6
+31. Nd4 Ne5 32. Nxe6 c3 33. Bd4 c2 34. Bxe5 Qxf1+ 35. Kxf1
+c1=Q+ 36. Kf2 Qd2+ 37. Kf1 Qd5 38. Bxg7 Qxe6 39. Rg3 Kf7
+40. Kg1 Qd6 41. Kh2 b5 42. Bb2 a5 43. Bc1 h5 44. Bb2 Qf4
+45. Kh3 Qf5+ 46. Kh2 Qe4 47. Rf3+ Ke6 48. Rh3 Qf4+ 49. Kh1 Qd2
+50. Bh8 Qc1+ 51. Kh2 Qf4+ 52. Kh1 a4 53. Bb2 Qd2 54. Bh8 Kf7
+55. Rf3+ Kg6 56. Rg3+ Kh7 57. Bf6 Qd1+ 58. Kh2 Qd6 59. Bg5 b4
+60. axb4 a3 61. Be7 Qf4 62. Bf6 Qxb4 63. Kh3 a2 64. Bc3 Qe4
+65. Rg7+ Kh6 66. Rg3 Qf5+ 67. Kh2 Qd7 68. Bf6 Kh7 69. Rg5 Qa4
+70. Rg7+ Kh6 71. Rg3 Qe4 72. Bg7+ Kh7 73. Bf6 Qf4 74. Bc3
+Qxh4+ 75. Rh3 Qf4+ 76. Kh1 Kg6 77. Rf3 Qc7 78. Bh8 h4 79. Bd4
+Kh5 80. Bf6 Kg4 81. Bh8 Qc8 82. Be5 Qc5 83. Bh8 Qc7 84. Bb2
+Qc8 85. Be5 Qc1+ 86. Kh2 Qc5 87. Bh8 Qb5 88. Bc3 Qc5 89. Bh8
+Qd6+ 90. Kh1 Qc7 91. Bb2 Qh7 92. Bc3 Qb1+ 93. Kh2 Qc1 94. Be5
+Qe1 95. Bc3 Qd1 96. Be5 Qc1 97. Bc3 Qg5 98. Kh1 Qc5 99. Bh8
+Kg5 100. Bb2 Qb4 101. Bf6+ Kg6 0-1

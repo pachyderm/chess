@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.45"]
+[Result "0-1"]
+[White "Patrick Li Ying"]
+[Black "Mariano Madrigal"]
+[ECO "D85"]
+[WhiteElo "2125"]
+[BlackElo "2156"]
+[PlyCount "78"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4
+Nxc3 7. bxc3 c5 8. Bb5+ Bd7 9. Rb1 O-O 10. O-O Bg4 11. Be3 a6
+12. Be2 cxd4 13. cxd4 Bxf3 14. Bxf3 Qd7 15. Qb3 b5 16. d5 Qd6
+17. Rfc1 Nd7 18. Rc6 Qb8 19. g3 Ne5 20. Bf4 Qa7 21. Bxe5 Bxe5
+22. Bg4 Rab8 23. Kg2 Qd4 24. Qc2 f5 25. Rd1 Qxe4+ 26. Qxe4
+fxe4 27. Rxa6 Ra8 28. Rxa8 Rxa8 29. Rd2 Kg7 30. Bd7 b4 31. Re2
+Bd6 32. h4 Ra5 33. Be6 h6 34. Kf1 Kf6 35. Ke1 e3 36. f4 b3
+37. a4 Rxa4 38. Rb2 Ra1+ 39. Ke2 Ra2 0-1

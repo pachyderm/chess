@@ -1,0 +1,20 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.11"]
+[EventDate "2014.03.04"]
+[Round "9.31"]
+[Result "0-1"]
+[White "Sigurdur Pall Steindorsson"]
+[Black "Benjamin Gledura"]
+[ECO "A36"]
+[WhiteElo "2215"]
+[BlackElo "2385"]
+[PlyCount "62"]
+
+1. c4 g6 2. Nc3 c5 3. g3 Nc6 4. Bg2 Bg7 5. e3 h5 6. Nf3 d6
+7. h3 e5 8. d3 Nge7 9. Rb1 O-O 10. O-O f6 11. a3 Be6 12. b4 b6
+13. Nh4 g5 14. Ng6 Nxg6 15. Bxc6 g4 16. Bxa8 Qxa8 17. hxg4
+Bxg4 18. f3 Be6 19. Kf2 f5 20. Rh1 f4 21. Rxh5 fxe3+ 22. Kxe3
+Ne7 23. g4 Nc6 24. Ne4 Nd4 25. Rh3 Rf4 26. Qh1 Qf8 27. Bb2
+Rxe4+ 28. dxe4 Qf4+ 29. Kd3 Bxc4+ 30. Kc3 Qe3+ 31. Kxc4 Qb3#
+0-1

@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.42"]
+[Result "1-0"]
+[White "Gudmundur Kjartansson"]
+[Black "Estube Haileselassie Tadese"]
+[ECO "A30"]
+[WhiteElo "2448"]
+[BlackElo "1952"]
+[PlyCount "73"]
+
+1. c4 c5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. Nc3 O-O 6. d4 cxd4
+7. Nxd4 Nc6 8. O-O Nxd4 9. Qxd4 d6 10. Qd3 Bf5 11. e4 Be6
+12. Bd2 Ng4 13. b3 Rc8 14. Rac1 a6 15. h3 Ne5 16. Qe3 Qd7
+17. Kh2 Nc6 18. Nd5 Bxd5 19. cxd5 Nd4 20. Bc3 Nb5 21. Bxg7
+Kxg7 22. a4 Nc7 23. h4 Rfd8 24. Bh3 e6 25. h5 Qe7 26. Rc4 gxh5
+27. Rfc1 Rd7 28. Qc3+ Kg8 29. Rc2 Qe8 30. Qa5 Qe7 31. f4 h4
+32. Qc3 b5 33. Rc6 bxa4 34. bxa4 hxg3+ 35. Qxg3+ Kf8 36. f5
+Rb8 37. fxe6 1-0

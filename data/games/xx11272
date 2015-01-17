@@ -1,0 +1,27 @@
+[Event "Bundesliga"]
+[Site "Berlin GER"]
+[Date "2014.02.23"]
+[EventDate "2013.10.12"]
+[Round "10"]
+[Result "0-1"]
+[White "Johannes Zwanzger"]
+[Black "Mikael Agopov"]
+[ECO "B84"]
+[WhiteElo "2329"]
+[BlackElo "2434"]
+[PlyCount "140"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6
+7. O-O Be7 8. f4 Qc7 9. Bf3 Nc6 10. Kh1 Nxd4 11. Qxd4 e5
+12. Qd3 Be6 13. Nd5 Bxd5 14. exd5 O-O 15. Bd2 exf4 16. Bxf4
+Nd7 17. Rae1 Bf6 18. c3 Be5 19. Bg4 Bxf4 20. Bxd7 Be5 21. Bg4
+g6 22. Re2 f5 23. Bf3 Rac8 24. Rd1 Kg7 25. Rde1 Qc4 26. Qxc4
+Rxc4 27. Kg1 Kf6 28. g3 h5 29. Kg2 h4 30. Rf1 Rh8 31. Rd2 Kg5
+32. Re1 Rc7 33. Rg1 hxg3 34. hxg3 Rch7 35. Kf1 Rh3 36. Rdg2 b5
+37. Ke2 Kf6 38. g4 Re8 39. Kf2 Bf4 40. g5+ Kf7 41. Rf1 Be3+
+42. Ke1 Bxg5+ 43. Kd1 Be3 44. Bg4 Rh7 45. Kc2 Kf6 46. Kb3 Rh4
+47. Be2 Bc5 48. Kc2 Re5 49. Rd1 Rf4 50. b4 Rf2 51. Rxf2 Bxf2
+52. Bf1 g5 53. c4 bxc4 54. Bxc4 Re4 55. Kb3 a5 56. bxa5 g4
+57. Bd3 Rd4 58. Be2 Ke5 59. a6 Rxd1 60. Bxd1 Kxd5 61. Kc3 Ke4
+62. Kd2 Bb6 63. Ke1 Ke3 64. a4 d5 65. Bb3 f4 66. Bxd5 f3
+67. a5 Bxa5+ 68. Kf1 Bb6 69. Be6 g3 70. Bh3 Kf4 0-1

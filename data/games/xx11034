@@ -1,0 +1,23 @@
+[Event "Bronstein Memorial"]
+[Site "Minsk BLR"]
+[Date "2014.02.19"]
+[EventDate "2014.02.11"]
+[Round "9.2"]
+[Result "1-0"]
+[White "Sergey Fedorchuk"]
+[Black "Daniil Dubov"]
+[ECO "B69"]
+[WhiteElo "2641"]
+[BlackElo "2614"]
+[PlyCount "97"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6
+7. Qd2 a6 8. O-O-O Be7 9. f4 Bd7 10. Nf3 b5 11. Bxf6 gxf6
+12. Qe3 Qc7 13. Bd3 Qa7 14. Qe1 O-O-O 15. Kb1 Rhe8 16. Rf1 Kb8
+17. Nd2 Rg8 18. Rf2 Bc8 19. Nb3 Bb7 20. Bf1 Qb6 21. a3 Rd7
+22. Rf3 Na5 23. Nxa5 Qxa5 24. Rh3 Bd8 25. Rxh7 b4 26. axb4
+Qxb4 27. f5 Bc6 28. Na2 Qxe4 29. Nb4 Qxe1 30. Rxe1 Ba4 31. b3
+Rb7 32. Nxa6+ Ka7 33. fxe6 Be8 34. exf7 Bxf7 35. Nb4 Rxb4
+36. Rxf7+ Kb6 37. Bc4 Kc5 38. Rd7 Rxc4 39. bxc4 Ba5 40. Re2
+Bc3 41. Re3 Be5 42. g3 Rh8 43. h4 Kxc4 44. Rd3 d5 45. R7xd5
+Bxg3 46. R5d4+ Kc5 47. Rd5+ Kc4 48. R3d4+ Kc3 49. Rg4 1-0

@@ -1,0 +1,34 @@
+[Event "Bundesliga"]
+[Site "Bochum GER"]
+[Date "2014.03.16"]
+[EventDate "2013.10.12"]
+[Round "12"]
+[Result "0-1"]
+[White "Torsten Sarbok"]
+[Black "Tobias Hirneise"]
+[ECO "C77"]
+[WhiteElo "2367"]
+[BlackElo "2440"]
+[PlyCount "206"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5
+7. d3 h6 8. c3 O-O 9. O-O Re8 10. Be3 Bf8 11. Rd1 d5 12. a4
+Bb7 13. axb5 axb5 14. Rxa8 Bxa8 15. d4 exd4 16. Nxd4 Na5
+17. Ba2 Nc4 18. Nxb5 Nxe3 19. fxe3 c6 20. Nd4 Nxe4 21. Nd2 c5
+22. N4f3 Nf6 23. Nf1 Qb6 24. Bb1 Bd6 25. Rd2 Bb7 26. Bd3 Ng4
+27. Nh4 Nf6 28. Qf2 Qc7 29. Nf5 Be5 30. Qh4 Bc8 31. Rf2 Bxf5
+32. Bxf5 Qb6 33. Rd2 Ra8 34. Qe1 g6 35. Bd3 Kg7 36. Be2 d4
+37. Bf3 Re8 38. Qf2 dxc3 39. bxc3 Bxc3 40. Rc2 Qb3 41. Rc1 Bb4
+42. Qc2 Qa3 43. Rd1 h5 44. Qc4 Re7 45. h3 Qb2 46. Qb5 Qe5
+47. Rd8 Re8 48. Rxe8 Nxe8 49. Qc6 Nd6 50. Qd5 Kf6 51. Qb3 Be1
+52. Bd5 Kg7 53. Qd1 Bb4 54. Qd3 Qb2 55. Qa6 Qe5 56. Qd3 Qa1
+57. Bb3 Qb2 58. Qc2 Qe5 59. Qd3 Ne4 60. Bd5 Nf6 61. Bb3 Qe7
+62. Bc4 Nd7 63. Bb3 Ne5 64. Qd5 Be1 65. Qd1 Ba5 66. Qd5 Bc3
+67. Ba2 Be1 68. Qd1 Qh4 69. Qe2 c4 70. Bb1 Ba5 71. Qb2 Qf6
+72. Qe2 Qb6 73. Be4 c3 74. Kf2 Qb4 75. Bc2 Bb6 76. Qd1 Qb2
+77. Ke2 Nc4 78. Qd3 Na3 79. Kd1 Bc7 80. Qd4+ Kh7 81. Qa4 Qa1+
+82. Ke2 Qc1 83. Bxg6+ Kxg6 84. Qc6+ Kg7 85. Qxc7 Qb2+ 86. Kf3
+c2 87. Ng3 c1=Q 88. Nxh5+ Kg8 89. Qd8+ Kh7 90. Qd3+ Kh6
+91. Qd6+ Kh7 92. Qd3+ f5 93. Qxf5+ Kg8 94. Qe6+ Kf8 95. Nf4
+Qc4 96. Qd6+ Ke8 97. Kg3 Qe4 98. Kh2 Nc4 99. Qc7 Nxe3
+100. Qc8+ Kf7 101. Qd7+ Kf8 102. Qd8+ Kf7 103. Qd7+ Qe7 0-1

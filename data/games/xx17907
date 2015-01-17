@@ -1,0 +1,25 @@
+[Event "Latvian Railway Rapid"]
+[Site "Riga LAT"]
+[Date "2014.03.28"]
+[EventDate "2014.03.28"]
+[Round "4.2"]
+[Result "0-1"]
+[White "Loek van Wely"]
+[Black "Daniel Fridman"]
+[ECO "D31"]
+[WhiteElo "2684"]
+[BlackElo "2604"]
+[PlyCount "112"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bxf6 Bxf6
+7. e3 O-O 8. Qc2 c5 9. dxc5 Na6 10. cxd5 Nxc5 11. Rd1 Qa5
+12. Bd3 Na4 13. O-O Nxb2 14. Qxb2 Bxc3 15. Qb3 exd5 16. Bb1
+Rd8 17. Rd3 Bf6 18. Rfd1 Be6 19. Nd4 Bxd4 20. Rxd4 Rd7 21. f4
+g6 22. h3 Rc8 23. Qb2 Qc3 24. Qf2 Rc4 25. Kh2 Rxd4 26. Rxd4
+Qc7 27. Qd2 Qc5 28. e4 Qb6 29. Bc2 Qb2 30. f5 dxe4 31. Rxd7
+Bxd7 32. Qxd7 Qxc2 33. fxg6 Qxa2 34. Qxb7 fxg6 35. Qxe4 Qf7
+36. Qe5 Kh7 37. g4 a6 38. Qc5 Qb7 39. h4 Qd7 40. Kg3 Qd3+
+41. Kf2 Kg8 42. Qc7 Qd2+ 43. Kg3 Qe1+ 44. Kh3 Qf1+ 45. Kg3
+Qd3+ 46. Kf2 Kf8 47. Kg2 Ke8 48. Kf2 Qd7 49. Qe5+ Qe7 50. Qb8+
+Kf7 51. Kg3 a5 52. Qf4+ Kg7 53. Qd4+ Kh7 54. Qd3 h5 55. gxh5
+Qe5+ 56. Kh3 Qf5+ 0-1

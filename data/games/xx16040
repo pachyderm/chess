@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.7"]
+[Result "1-0"]
+[White "Gata Kamsky"]
+[Black "Emojong Elijah"]
+[ECO "D02"]
+[WhiteElo "2706"]
+[BlackElo "2334"]
+[PlyCount "33"]
+
+1. d4 d5 2. Nf3 c6 3. Bf4 Nf6 4. e3 Bg4 5. c4 Qb6 6. Qb3 dxc4
+7. Bxc4 e6 8. Nbd2 Nh5 9. Bxb8 Bxf3 10. Bxa7 Qxb3 11. axb3
+Bxg2 12. Rg1 Bd5 13. Ke2 Bd6 14. e4 Bxc4+ 15. Nxc4 Ke7 16. h4
+g6 17. Na5 1-0

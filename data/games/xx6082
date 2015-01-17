@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.3"]
+[Result "0-1"]
+[White "Fabiano Caruana"]
+[Black "Magnus Carlsen"]
+[ECO "B01"]
+[WhiteElo "2801"]
+[BlackElo "2877"]
+[PlyCount "100"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 Bg4 6. h3
+Bxf3 7. Qxf3 c6 8. Ne2 e6 9. g4 Qd5 10. Bg2 Nbd7 11. Qg3 Qc4
+12. Qb3 Qxb3 13. axb3 Bd6 14. c4 a6 15. Be3 O-O-O 16. O-O-O
+Rhe8 17. Ng3 Nf8 18. Bf3 Ng6 19. h4 Bf4 20. h5 Bxe3+ 21. fxe3
+Ne7 22. e4 h6 23. e5 Nh7 24. Ne4 Rf8 25. Nd6+ Kc7 26. Bg2 Ng5
+27. Rhf1 f6 28. Kc2 fxe5 29. dxe5 Nc8 30. c5 Ne7 31. b4 Nd5
+32. Bxd5 cxd5 33. b5 axb5 34. Nxb5+ Kc6 35. Nd6 Nf3 36. b4 Ra8
+37. Ra1 Rxa1 38. Rxa1 Nxe5 39. Ra7 Rb8 40. Ra3 b6 41. Ra7 bxc5
+42. Ra6+ Kc7 43. bxc5 Nd7 44. Ra7+ Kc6 45. g5 Nxc5 46. Nf7 d4
+47. Ne5+ Kd5 48. Nd7 d3+ 49. Kc1 Nxd7 50. Rxd7+ Ke4 0-1

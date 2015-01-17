@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.46"]
+[Result "1-0"]
+[White "Emilis Pileckis"]
+[Black "Massimiliano Maccapani"]
+[ECO "A04"]
+[WhiteElo "2447"]
+[BlackElo "2032"]
+[PlyCount "33"]
+
+1. Nf3 e6 2. c4 b6 3. g3 Bb7 4. Bg2 f5 5. O-O Nf6 6. d4 Be7
+7. d5 Qc8 8. Nd4 exd5 9. cxd5 g6 10. Bh6 Ng4 11. Bf4 g5
+12. Bd2 O-O 13. e4 Bc5 14. Nxf5 Nxf2 15. Rxf2 Bxf2+ 16. Kxf2
+h6 17. Bc3 1-0

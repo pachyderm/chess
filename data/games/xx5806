@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.40"]
+[Result "1-0"]
+[White "Peter Schreiner"]
+[Black "Toby Brookfield"]
+[ECO "A99"]
+[WhiteElo "2460"]
+[BlackElo "1889"]
+[PlyCount "51"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 Be7 5. O-O O-O 6. c4 d6
+7. Nc3 Qe8 8. b3 Ne4 9. Nxe4 fxe4 10. Nd2 d5 11. f3 Bf6
+12. Bb2 exf3 13. Nxf3 c5 14. Qd2 Na6 15. dxc5 Bxb2 16. Qxb2
+dxc4 17. b4 Nc7 18. Ne5 Nd5 19. Nxc4 Nf6 20. Nd6 Qh5 21. Bf3
+Ng4 22. Bxg4 Rxf1+ 23. Rxf1 Qxg4 24. Rf7 e5 25. Qxe5 Be6
+26. Re7 1-0

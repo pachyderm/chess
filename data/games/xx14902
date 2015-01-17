@@ -1,0 +1,18 @@
+[Event "Bundesliga"]
+[Site "Viernheim GER"]
+[Date "2014.03.16"]
+[EventDate "2013.10.12"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Kacper Piorun"]
+[Black "Csaba Balogh"]
+[ECO "C65"]
+[WhiteElo "2551"]
+[BlackElo "2632"]
+[PlyCount "43"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O Re8
+7. Nbd2 a6 8. Ba4 b5 9. Bb3 d6 10. Re1 Be6 11. Bxe6 Rxe6
+12. Nb3 Bb6 13. h3 d5 14. Qe2 Qd7 15. Bg5 h6 16. Bxf6 Rxf6
+17. exd5 Qxd5 18. c4 Qd6 19. Rac1 bxc4 20. dxc4 Nd4 21. Nfxd4
+Bxd4 22. Nxd4 1/2-1/2

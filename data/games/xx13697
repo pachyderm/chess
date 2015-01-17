@@ -1,0 +1,26 @@
+[Event "Bundesliga"]
+[Site "Katernberg GER"]
+[Date "2014.03.15"]
+[EventDate "2013.10.12"]
+[Round "11"]
+[Result "0-1"]
+[White "Markus Schaefer"]
+[Black "Robert Ris"]
+[ECO "C44"]
+[WhiteElo "2404"]
+[BlackElo "2416"]
+[PlyCount "126"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 Nf6 5. d3 Bd6 6. Be2 O-O
+7. O-O h6 8. Nbd2 Qe7 9. Re1 a5 10. Bf1 dxe4 11. dxe4 Bd7
+12. Qc2 Bc5 13. Nc4 Bg4 14. Be2 Rfd8 15. Be3 Rd7 16. Bxc5 Qxc5
+17. Ne3 Rad8 18. Rad1 Be6 19. Rxd7 Rxd7 20. Qa4 Ng4 21. Nxg4
+Bxg4 22. Rd1 b5 23. Qc2 b4 24. Rxd7 Bxd7 25. Ne1 bxc3 26. Qxc3
+Qxc3 27. bxc3 Be6 28. a3 Kf8 29. f3 Ke7 30. Kf2 Kd6 31. Ke3
+Nb8 32. Kd3 Nd7 33. c4 Nc5+ 34. Kc3 Na4+ 35. Kb3 Nb6 36. Kc3
+g6 37. g3 f5 38. exf5 gxf5 39. f4 Na4+ 40. Kb3 Nc5+ 41. Kc2
+exf4 42. gxf4 Ne4 43. Bd3 Nf2 44. Kc3 Nd1+ 45. Kd2 Nb2 46. Kc3
+Na4+ 47. Kb3 Nc5+ 48. Kc3 Na4+ 49. Kb3 Nb6 50. Nf3 Kc5 51. Ne5
+Kd4 52. Bf1 Ke3 53. Ng6 c5 54. Kc3 Nd7 55. Kb3 Nb6 56. Kc3 Bd7
+57. Bh3 Kf3 58. Bf1 Be8 59. Ne5+ Kxf4 60. Nd3+ Ke3 61. Nxc5
+Na4+ 62. Nxa4 Bxa4 63. c5 f4 0-1

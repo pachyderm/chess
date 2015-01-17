@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.63"]
+[Result "1-0"]
+[White "Ahmed Bouzidi"]
+[Black "Simister Sisimia"]
+[ECO "B23"]
+[WhiteElo "2231"]
+[BlackElo "?"]
+[PlyCount "39"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. exd5 exd5 5. Nf3 Nf6 6. Bg5 Qb6
+7. Bb5+ Bd7 8. Qe2+ Be7 9. Bxf6 gxf6 10. Nxd5 Qe6 11. Nc7+ Kd8
+12. Nxe6+ Bxe6 13. O-O-O Kc7 14. d5 a6 15. Bd3 Bd6 16. dxe6
+fxe6 17. Qxe6 Nd7 18. Bf5 Bf4+ 19. Kb1 Ne5 20. Qd6# 1-0

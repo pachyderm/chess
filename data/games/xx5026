@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.58"]
+[Result "0-1"]
+[White "Hamidullah Sarwary"]
+[Black "Brian Wong"]
+[ECO "A53"]
+[WhiteElo "1920"]
+[BlackElo "1878"]
+[PlyCount "90"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e3 Bg7 5. Nf3 O-O 6. Bd3 Na6
+7. a3 c5 8. O-O Bd7 9. Re1 Rc8 10. d5 Nc7 11. Rb1 a6 12. b3 b5
+13. Bb2 e5 14. dxe6 fxe6 15. e4 Nh5 16. Bc2 Bc6 17. Re3 Ne8
+18. Qf1 Bd4 19. Ree1 Qf6 20. Nxd4 cxd4 21. Ne2 e5 22. f3 Nc7
+23. Bd3 Ne6 24. Bc1 Nc5 25. Rd1 Nxd3 26. Rxd3 Bxe4 27. Qd1
+Bxd3 28. Qxd3 Qf5 29. Qxf5 gxf5 30. Bh6 Rf6 31. Bd2 bxc4
+32. bxc4 Rxc4 33. Rb8+ Kg7 34. Bg5 d3 35. Nc1 e4 36. Bxf6+
+Kxf6 37. Rb1 Nf4 38. Kf2 Rc2+ 39. Kg3 Rxc1 40. Rb2 Ne2+
+41. Kf2 Rc2 42. Rb6 Nf4+ 43. Ke1 Nxg2+ 44. Kd1 Ne3+ 45. Ke1
+Re2# 0-1

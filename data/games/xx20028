@@ -1,0 +1,17 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.07"]
+[EventDate "2014.03.04"]
+[Round "5.50"]
+[Result "1-0"]
+[White "Vignir Vatnar Stefansson"]
+[Black "Petter Stigar"]
+[ECO "E10"]
+[WhiteElo "1844"]
+[BlackElo "2237"]
+[PlyCount "35"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. e3 Be7 5. Bd3 O-O 6. O-O dxc4
+7. Bxc4 c5 8. Nc3 a6 9. a4 Nc6 10. b3 cxd4 11. exd4 Nb4
+12. Ba3 Bd7 13. Rc1 Bc6 14. Ne5 Rc8 15. Qe2 Nbd5 16. Nxc6 Nxc3
+17. Nxe7+ Qxe7 18. Bxe7 1-0

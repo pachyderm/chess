@@ -1,0 +1,18 @@
+[Event "Bundesliga"]
+[Site "Viernheim GER"]
+[Date "2014.02.23"]
+[EventDate "2013.10.12"]
+[Round "10"]
+[Result "1-0"]
+[White "Ralf Appel"]
+[Black "Pierre Carbonnel"]
+[ECO "A48"]
+[WhiteElo "2535"]
+[BlackElo "2210"]
+[PlyCount "45"]
+
+1. Nf3 Nf6 2. d4 g6 3. Bf4 c5 4. c3 Qb6 5. Qb3 Nc6 6. e3 Bg7
+7. Nbd2 Qxb3 8. axb3 cxd4 9. exd4 d6 10. b4 Bg4 11. Be2 O-O
+12. b5 Nb8 13. h3 Bc8 14. O-O Nd5 15. Bh2 a5 16. Bc4 Nc7
+17. Rfe1 e5 18. dxe5 d5 19. b6 dxc4 20. bxc7 Na6 21. e6 Bxe6
+22. Ng5 Bh6 23. Nxe6 1-0

@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.69"]
+[Result "0-1"]
+[White "Stephen Ouma"]
+[Black "Taher Al Khateeb"]
+[ECO "A07"]
+[WhiteElo "2038"]
+[BlackElo "1972"]
+[PlyCount "142"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. d3 Nc6 5. Bg2 Nf6 6. f4 dxe4
+7. dxe4 Qxd1+ 8. Nxd1 Be7 9. Ne3 O-O 10. Ne2 Rd8 11. Bd2 Bd7
+12. g4 Nd4 13. c3 Nxe2 14. Kxe2 Bc6 15. e5 Bxg2 16. Nxg2 Nxg4
+17. Rad1 Rd7 18. h3 Nh6 19. Ne3 Rad8 20. Rhg1 Nf5 21. Nxf5
+exf5 22. Be3 Rxd1 23. Rxd1 Rxd1 24. Kxd1 Kf8 25. Kc2 Ke8
+26. Kb3 Kd7 27. Kc4 Kc6 28. a4 a6 29. a5 h6 30. Bf2 g5 31. Bg3
+g4 32. h4 h5 33. Bf2 Bd8 34. b4 cxb4 35. cxb4 Be7 36. Be1 f6
+37. Kd4 Bd8 38. Bg3 Bc7 39. exf6 Kd6 40. f7 Ke7 41. Kd5 Kxf7
+42. Bh2 Ke7 43. Bg3 Kf6 44. Bh2 Bd8 45. Bg3 Be7 46. Kc4 Ke6
+47. Be1 Kd6 48. Bf2 Kc6 49. Be1 Bd8 50. Bg3 b5+ 51. axb6 Bxb6
+52. Be1 Be3 53. Bg3 Bd2 54. Kd4 Kd6 55. Kc4 Be3 56. Kd3 Bg1
+57. Kc4 Kc6 58. Kc3 Kb5 59. Kb3 Bd4 60. Be1 Be3 61. Kc3 Bxf4
+62. Kd4 Kc6 63. Kc4 Be5 64. Bf2 f4 65. Ba7 f3 66. Kd3 Kd5
+67. Be3 g3 68. Ba7 f2 69. Ke2 Ke4 70. Bc5 Bd4 71. Be7 g2 0-1

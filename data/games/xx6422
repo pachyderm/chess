@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.5"]
+[Result "1-0"]
+[White "Ian Nepomniachtchi"]
+[Black "Jahongir Vakhidov"]
+[ECO "B06"]
+[WhiteElo "2714"]
+[BlackElo "2471"]
+[PlyCount "113"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 c6 5. a4 a5 6. Nf3 Qb6
+7. Rb1 Nf6 8. h3 O-O 9. Be2 Qc7 10. O-O e5 11. d5 Na6 12. Nd2
+Nc5 13. Bf3 cxd5 14. exd5 Bd7 15. Ra1 Ne8 16. Be2 f5 17. Bb5
+Rc8 18. Ra3 e4 19. Qe2 Qd8 20. Bxd7 Nxd7 21. f4 exf3 22. Nxf3
+Nc7 23. Rb3 Re8 24. Qd2 Rxe3 25. Qxe3 Nc5 26. Ra3 Qf6 27. Raa1
+Re8 28. Qf4 h6 29. Rae1 Rf8 30. h4 Nd7 31. Qc4 Nc5 32. g4 g5
+33. hxg5 hxg5 34. Re2 Rf7 35. Rg2 f4 36. Re1 Re7 37. Rge2 Rxe2
+38. Rxe2 Qh6 39. Ne4 Qh3 40. Nexg5 Qxg4+ 41. Rg2 Qf5 42. Ne6
+N5xe6 43. dxe6 Qc5+ 44. Qxc5 dxc5 45. Rg6 Kh7 46. Nh4 Bxb2
+47. e7 c4 48. Kg2 Ba3 49. Re6 Ne8 50. Kf3 Kg8 51. Nf5 Bc5
+52. Kxf4 Kf7 53. Rh6 b5 54. axb5 a4 55. Rh8 Bd6+ 56. Kf3 a3
+57. Rf8+ 1-0

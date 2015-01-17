@@ -1,0 +1,17 @@
+[Event "Chess Olympiad (Women)"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.45"]
+[Result "0-1"]
+[White "Emelyne Niyonkuru"]
+[Black "Nadine Kremer"]
+[ECO "B28"]
+[WhiteElo "?"]
+[BlackElo "1844"]
+[PlyCount "32"]
+
+1. e4 c5 2. Nc3 a6 3. Nf3 d6 4. h4 Nc6 5. Bc4 b5 6. Bb3 c4
+7. a4 cxb3 8. cxb3 b4 9. Ne2 Nf6 10. O-O Bg4 11. Nf4 Nd4
+12. Qe1 Bxf3 13. Qe3 e5 14. Nd5 Nxd5 15. exd5 Ne2+ 16. Kh1
+Qxh4# 0-1

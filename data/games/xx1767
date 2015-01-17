@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.17"]
+[Result "0-1"]
+[White "Evgeny Agrest"]
+[Black "David Anton Guijarro"]
+[ECO "A10"]
+[WhiteElo "2595"]
+[BlackElo "2624"]
+[PlyCount "68"]
+
+1. c4 f5 2. Nf3 Nf6 3. g3 g6 4. b4 Bg7 5. Bb2 O-O 6. Bg2 d6
+7. d4 c5 8. a3 cxd4 9. Nxd4 a6 10. O-O e5 11. Nc2 Nc6 12. Nc3
+e4 13. Ne3 Be6 14. Rc1 Rc8 15. Ba1 Ne5 16. Ncd5 Nxd5 17. cxd5
+Rxc1 18. Qxc1 Bd7 19. Qd2 f4 20. Nc2 f3 21. exf3 exf3 22. Bh1
+Nc4 23. Qc1 Bxa1 24. Qxa1 Ne5 25. Re1 g5 26. Ne3 g4 27. Qd4
+Qf6 28. Qb6 Nd3 29. Rf1 Qe5 30. Qc7 Bb5 31. Nxg4 Nxf2 32. Nh6+
+Kh8 33. Bxf3 Nh3+ 34. Kh1 Qg7 0-1

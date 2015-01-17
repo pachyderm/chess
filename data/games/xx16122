@@ -1,0 +1,18 @@
+[Event "Casino Graz"]
+[Site "Graz AUT"]
+[Date "2014.02.16"]
+[EventDate "2014.02.14"]
+[Round "4.10"]
+[Result "0-1"]
+[White "Richard Singer"]
+[Black "Andreas Diermair"]
+[ECO "D02"]
+[WhiteElo "2247"]
+[BlackElo "2459"]
+[PlyCount "42"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 e6 4. Bg2 b5 5. O-O Bb7 6. Nbd2 c5
+7. c3 Nbd7 8. e3 Be7 9. Ne5 O-O 10. Qe2 b4 11. c4 Nxe5
+12. dxe5 Nd7 13. f4 Nb6 14. b3 a5 15. Bb2 a4 16. Rab1 axb3
+17. axb3 Ra2 18. f5 exf5 19. Rxf5 Bc8 20. Rf2 Be6 21. Qf1 Bg5
+0-1

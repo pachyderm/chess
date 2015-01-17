@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.6"]
+[Result "1-0"]
+[White "Veselin Topalov"]
+[Black "Leinier Dominguez Perez"]
+[ECO "B90"]
+[WhiteElo "2772"]
+[BlackElo "2760"]
+[PlyCount "93"]
+
+1. Nf3 c5 2. e4 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4
+7. Bc1 Nf6 8. f3 e5 9. Nb3 Be6 10. Be3 h5 11. Qd2 Nbd7 12. Nd5
+Bxd5 13. exd5 g6 14. Be2 Qc7 15. Rc1 Ng8 16. O-O Ne7 17. Bg5
+f6 18. Be3 O-O-O 19. c4 Nf5 20. Bf2 Kb8 21. Qc3 Bh6 22. Rcd1
+Nc5 23. Nd2 Nd4 24. Rfe1 a5 25. Bf1 f5 26. Nb3 Ndxb3 27. axb3
+e4 28. b4 axb4 29. Qxb4 Rhe8 30. fxe4 fxe4 31. Bd4 e3 32. Qa3
+Re4 33. b4 Na6 34. Be2 Bg5 35. Bf3 Rxd4 36. Rxd4 Qb6 37. Re4
+Qxb4 38. Qxb4 Nxb4 39. h4 Bh6 40. Rd1 Rc8 41. c5 dxc5 42. d6
+Nc6 43. Rb1 Rd8 44. Re7 Nxe7 45. dxe7 Re8 46. Rxb7+ Kc8
+47. Bc6 1-0

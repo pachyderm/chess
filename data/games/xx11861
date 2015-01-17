@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.70"]
+[Result "1-0"]
+[White "Andrew Hale"]
+[Black "Rex Oberholzer"]
+[ECO "C00"]
+[WhiteElo "?"]
+[BlackElo "2099"]
+[PlyCount "39"]
+
+1. e4 e6 2. d4 b6 3. Be3 Bb7 4. Nd2 Nf6 5. Bd3 c5 6. dxc5 Bxc5
+7. Bxc5 bxc5 8. Ngf3 O-O 9. e5 Nd5 10. Nc4 f6 11. Nd6 Qb6
+12. O-O fxe5 13. Nxb7 Qxb7 14. Be4 Nc6 15. Bxd5 exd5 16. Qxd5+
+Kh8 17. Nxe5 Qc7 18. Nf7+ Kg8 19. Nh6+ Kh8 20. Qg8+ 1-0

@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.5"]
+[Result "0-1"]
+[White "Shinya Kojima"]
+[Black "Sergei Movsesian"]
+[ECO "E61"]
+[WhiteElo "2373"]
+[BlackElo "2672"]
+[PlyCount "80"]
+
+1. Nf3 Nf6 2. c4 g6 3. d4 Bg7 4. g3 O-O 5. Bg2 c6 6. Nc3 d6
+7. O-O Qb6 8. h3 Qa6 9. b3 b5 10. cxb5 cxb5 11. a4 b4 12. Nb5
+Qb7 13. Ne1 d5 14. Bf4 Nbd7 15. Rc1 a6 16. Nc7 Ra7 17. Nd3 Qb6
+18. Nxd5 Nxd5 19. Bxd5 Bxd4 20. Bh6 Rd8 21. Nxb4 Nf6 22. e4
+Bxh3 23. Nc6 Bxf1 24. Kxf1 e5 25. Bg5 Rd6 26. Nxa7 Qxa7
+27. Rc8+ Kg7 28. Qc1 Nxd5 29. Bh6+ Kf6 30. Bg5+ Kg7 31. Bh6+
+Kf6 32. exd5 Kf5 33. f3 Rxd5 34. Qg5+ Ke6 35. Re8+ Kd6
+36. Bf8+ Kc7 37. Qc1+ Kb6 38. Rc8 Qd7 39. Qc4 Qh3+ 40. Ke2
+Qg2+ 0-1

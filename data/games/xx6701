@@ -1,0 +1,27 @@
+[Event "Bundesliga"]
+[Site "Bochum GER"]
+[Date "2014.03.15"]
+[EventDate "2013.10.12"]
+[Round "11"]
+[Result "1-0"]
+[White "Thomas Thiel"]
+[Black "Lars Thiede"]
+[ECO "B07"]
+[WhiteElo "2296"]
+[BlackElo "2450"]
+[PlyCount "137"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 exd4 5. Nxd4 Be7 6. g3 O-O
+7. Bg2 Nc6 8. O-O Bg4 9. f3 Nxd4 10. Qxd4 Be6 11. Rd1 c5
+12. Qf2 Qb6 13. b3 Rad8 14. Bb2 a6 15. h3 Qc7 16. f4 b5 17. f5
+b4 18. fxe6 bxc3 19. Bxc3 fxe6 20. Qe2 c4 21. e5 dxe5 22. Bxe5
+Bd6 23. Rxd6 Rxd6 24. Kh2 Rd2 25. Qxd2 Qxe5 26. Re1 Qf5
+27. Qe2 cxb3 28. cxb3 Re8 29. Qxa6 e5 30. Qc4+ Kh8 31. Qb5 h5
+32. Rf1 Qe6 33. Qc6 Qe7 34. Qb7 Qe6 35. Qc6 Qe7 36. Be4 Rd8
+37. Rf2 Rd6 38. Qc8+ Rd8 39. Qf5 Rd4 40. Rc2 Rd8 41. Re2 Qc5
+42. Bf3 Rd1 43. Rg2 Rf1 44. Qd3 Re1 45. Qc2 Qb6 46. Qc6 Qe3
+47. Bxh5 Rc1 48. Qa8+ Kh7 49. Be2 Qc3 50. Qa7 e4 51. Qf2 e3
+52. Qf4 Qe1 53. g4 Qh1+ 54. Kg3 Qe1+ 55. Kf3 Qc3 56. g5 Qc6+
+57. Kg3 Ne4+ 58. Kh2 Qd6 59. Qxd6 Nxd6 60. Kg3 Kg6 61. Kf4 Rc5
+62. h4 Rf5+ 63. Kxe3 Ra5 64. a4 Nf5+ 65. Kf4 Nxh4 66. Rh2 Nf5
+67. Bd3 Rd5 68. Be4 Rc5 69. Rc2 1-0

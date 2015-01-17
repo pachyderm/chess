@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.85"]
+[Result "0-1"]
+[White "Yuri A Meshkov"]
+[Black "Igor Yarmonov"]
+[ECO "A20"]
+[WhiteElo "2357"]
+[BlackElo "2329"]
+[PlyCount "66"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Bc5 4. a3 a5 5. Nc3 O-O 6. e3 d6
+7. Nge2 c6 8. d4 Bb6 9. h3 h6 10. O-O Na6 11. b4 Nc7 12. Rb1
+exd4 13. exd4 axb4 14. axb4 Bf5 15. c5 Ba7 16. Ra1 Bb8
+17. Rxa8 Nxa8 18. Qa4 Nc7 19. cxd6 Qxd6 20. Bf4 Qd7 21. g4 Be6
+22. Be5 Nfd5 23. Ne4 Nb5 24. Nc5 Qe7 25. Nxe6 Qxe6 26. Qa1 Re8
+27. Bxb8 Rxb8 28. Qb2 Re8 29. Bf3 h5 30. Rc1 hxg4 31. hxg4 Qf6
+32. Qb3 Nf4 33. Nxf4 Qxf4 0-1

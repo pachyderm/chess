@@ -1,0 +1,20 @@
+[Event "British Chess Championships"]
+[Site "Aberystwyth WLS"]
+[Date "2014.07.19"]
+[EventDate "2014.07.19"]
+[Round "1.24"]
+[Result "0-1"]
+[White "Peter Shaw"]
+[Black "Joe Fathallah"]
+[ECO "A81"]
+[WhiteElo "2178"]
+[BlackElo "1953"]
+[PlyCount "64"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. b4 d6
+7. Bb2 c6 8. c4 Qc7 9. Nbd2 Kh8 10. Qc2 Na6 11. Bc3 Be6 12. a4
+Rac8 13. Rfc1 Bg8 14. b5 Nb8 15. Qb2 Nbd7 16. Ra3 d5 17. cxd5
+Bxd5 18. Qa1 Ne4 19. Nxe4 fxe4 20. Ng5 Nf6 21. Qb1 e3 22. f4
+h6 23. Bxd5 hxg5 24. Be6 gxf4 25. Bxc8 Qxc8 26. Qxg6 Qh3
+27. d5 Rg8 28. Be1 Ng4 29. Qe4 Qxh2+ 30. Kf1 f3 31. exf3 e2+
+32. Qxe2 Qh1# 0-1

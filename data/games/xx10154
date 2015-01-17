@@ -1,0 +1,33 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.08"]
+[EventDate "2014.03.04"]
+[Round "6.16"]
+[Result "0-1"]
+[White "Tibor Kende Antal"]
+[Black "Alejandro Ramirez-Alvarez"]
+[ECO "B47"]
+[WhiteElo "2325"]
+[BlackElo "2599"]
+[PlyCount "189"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. f4 a6
+7. Be3 b5 8. Qf3 Bb7 9. O-O-O Na5 10. Kb1 Nc4 11. Bxc4 Qxc4
+12. g4 Nf6 13. g5 b4 14. gxf6 bxc3 15. fxg7 Bxg7 16. Rhg1 Bf6
+17. Rd3 cxb2 18. Bf2 Rc8 19. Qe2 a5 20. e5 Be7 21. Rdg3 Qxe2
+22. Rg8+ Rxg8 23. Rxg8+ Bf8 24. Nxe2 Be4 25. Nd4 f6 26. Rg3 a4
+27. Kxb2 Kf7 28. a3 Bh6 29. Be3 Bg7 30. exf6 Bxf6 31. c3 Rb8+
+32. Ka2 Be7 33. Bc1 Rb1 34. Rg1 Rb8 35. Re1 Bd5+ 36. Ka1 Rg8
+37. f5 Bd6 38. fxe6+ dxe6 39. h4 Rg3 40. Kb2 Rh3 41. Bg5 Bc4
+42. Rd1 Bg3 43. Nf3 Bd5 44. Rd3 Rh1 45. Bd8 Kg6 46. c4 Bxf3
+47. Rxf3 Rh2+ 48. Kc3 Be1+ 49. Kd4 Rd2+ 50. Rd3 e5+ 51. Ke4
+Re2+ 52. Kf3 Rc2 53. Re3 Bc3 54. Ke4 Bb2 55. h5+ Kf7 56. Bb6
+Rxc4+ 57. Kd5 Rh4 58. Bc5 Kf6 59. Re2 Bd4 60. Bd6 Rxh5 61. Kc4
+Ke6 62. Bb4 Rh4 63. Kb5 Kd5 64. Kxa4 Bc3 65. Ka5 Rh3 66. Bxc3
+Rxc3 67. Kb4 Rc4+ 68. Kb5 Rc5+ 69. Kb6 Rc6+ 70. Kb5 Rc8 71. a4
+Rb8+ 72. Ka6 Ra8+ 73. Kb5 Rb8+ 74. Ka6 e4 75. Rh2 Rh8 76. a5
+e3 77. Kb6 Kd4 78. a6 Kd3 79. a7 e2 80. Rxh7 Rxh7 81. a8=Q
+Rh6+ 82. Kc5 e1=Q 83. Qd5+ Ke2 84. Qc4+ Ke3 85. Qb3+ Kf4
+86. Qf7+ Kg5 87. Qd5+ Kf6 88. Qf3+ Kg7 89. Qb7+ Kf8 90. Qf3+
+Ke8 91. Qa8+ Kf7 92. Qf3+ Rf6 93. Qh5+ Kg7 94. Qg4+ Kf8
+95. Kd4 0-1

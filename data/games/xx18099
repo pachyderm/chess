@@ -1,0 +1,33 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.54"]
+[Result "1-0"]
+[White "Bernardo Roselli Mailhe"]
+[Black "Zoubaier Amdouni"]
+[ECO "D35"]
+[WhiteElo "2425"]
+[BlackElo "2350"]
+[PlyCount "195"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7
+7. Qc2 Nbd7 8. Bd3 O-O 9. Nge2 Re8 10. f3 c5 11. O-O Nf8
+12. Rad1 c4 13. Bf5 Be6 14. Bxe6 Nxe6 15. Bh4 Nc7 16. Bxf6
+Bxf6 17. e4 Bg5 18. f4 Bh6 19. e5 b5 20. Ng3 g6 21. f5 Qg5
+22. Rf3 Kh8 23. Nce2 f6 24. e6 Bf8 25. Rdf1 Bd6 26. Nf4 gxf5
+27. Nxf5 Bxf4 28. Rxf4 Rxe6 29. h3 Rg8 30. Qf2 Re4 31. Rf3 Ne6
+32. Nd6 Rg7 33. Rxf6 Rf4 34. Rxf4 Nxf4 35. Kh1 Qg6 36. Nxb5
+Nh5 37. g4 Qd3 38. Kh2 Ng3 39. Qf8+ Rg8 40. Qf6+ Rg7 41. Rf3
+Ne4 42. Rxd3 Nxf6 43. Rf3 Rb7 44. Rxf6 Rxb5 45. Rf2 Rb7
+46. Re2 Kg7 47. Kg3 Kg6 48. h4 h6 49. h5+ Kf6 50. Kf4 a5
+51. g5+ hxg5+ 52. Kg4 a4 53. Rf2+ Kg7 54. Kxg5 Rb6 55. Re2 Kf7
+56. Rf2+ Kg7 57. Re2 Kf7 58. a3 Rb3 59. Kf5 Rh3 60. Ke5 Rxh5+
+61. Kd6 Rh3 62. Rc2 Rh5 63. Rc3 Ke8 64. Rf3 Rg5 65. Rh3 Rg2
+66. Rh8+ Kf7 67. Rb8 Rc2 68. Rb4 Kf6 69. Kxd5 c3 70. bxc3 Rxc3
+71. Rxa4 Ke7 72. Ra7+ Kd8 73. a4 Kc8 74. Ra5 Kd7 75. Rc5 Ra3
+76. Rc4 Ra2 77. Kc5 Kc7 78. Kb5+ Kb7 79. a5 Rb2+ 80. Rb4 Rc2
+81. a6+ Ka7 82. Ra4 Kb8 83. d5 Rd2 84. Kc6 Rc2+ 85. Kd6 Rh2
+86. a7+ Ka8 87. Rb4 Kxa7 88. Kc7 Rc2+ 89. Kd7 Rd2 90. d6 Rh2
+91. Kc7 Rc2+ 92. Kd8 Rd2 93. d7 Ka6 94. Kc7 Rc2+ 95. Kd6 Rd2+
+96. Kc6 Ka7 97. Rb5 Rc2+ 98. Rc5 1-0

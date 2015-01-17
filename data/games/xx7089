@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.3"]
+[Result "1-0"]
+[White "Simen Agdestein"]
+[Black "Lim Yee Weng"]
+[ECO "B10"]
+[WhiteElo "2630"]
+[BlackElo "2311"]
+[PlyCount "55"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Qa4+ Nbd7 6. Nc3
+g6 7. Nf3 Bg7 8. Bc4 O-O 9. d3 a6 10. Qa3 Nb6 11. Qb3 e6
+12. dxe6 Nxc4 13. exf7+ Rxf7 14. dxc4 Ng4 15. O-O Rxf3
+16. gxf3 Qh4 17. c5+ Kh8 18. Bf4 Ne5 19. Ne2 Bh3 20. Bg3 Qh5
+21. Nf4 Nxf3+ 22. Kh1 Qg4 23. Nxh3 Rf8 24. Ng1 Qe4 25. Nxf3
+Rxf3 26. Rae1 Qc6 27. Re6 Qb5 28. Qxb5 1-0

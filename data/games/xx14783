@@ -1,0 +1,22 @@
+[Event "Zurich Chess Challenge"]
+[Site "Zurich SUI"]
+[Date "2014.02.02"]
+[EventDate "2014.01.29"]
+[Round "4"]
+[Result "1-0"]
+[White "Magnus Carlsen"]
+[Black "Fabiano Caruana"]
+[ECO "C65"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "93"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.Bxc6 dxc6 6.h3 Nd7
+7.Be3 Bd6 8.Nc3 c5 9.O-O Nf8 10.Nd2 Ng6 11.Nc4 Be6 12.Ne2 Qd7
+13.Nxd6+ cxd6 14.f4 exf4 15.Nxf4 Nxf4 16.Rxf4 b6 17.Qh5 d5
+18.d4 c4 19.b3 Qc6 20.Raf1 O-O-O 21.bxc4 Qxc4 22.Rxf7 Bxf7
+23.Rxf7 Rd7 24.Rxd7 Kxd7 25.exd5 g6 26.Qg4+ Kc7 27.Qe6 Kb7
+28.Qe7+ Qc7 29.Qe4 Qd7 30.d6+ Ka6 31.Bf4 Rc8 32.Kh2 Rc4 33.Bg3
+Rc8 34.Qd3+ Kb7 35.c4 Qc6 36.Qb3 Ka8 37.a4 Re8 38.a5 Kb7 39.c5
+Kc8 40.axb6 axb6 41.d5 Qxc5 42.Qa4 Re3 43.Qa8+ Kd7 44.Qb7+ Ke8
+45.d7+ Kd8 46.Bh4+ Re7 47.Qc8+ 1-0

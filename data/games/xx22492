@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.33"]
+[Result "1-0"]
+[White "Tomi Nyback"]
+[Black "Prasanna Kurukulasuriya"]
+[ECO "E92"]
+[WhiteElo "2591"]
+[BlackElo "2063"]
+[PlyCount "77"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5
+7. Be3 Ng4 8. Bg5 f6 9. Bh4 g5 10. Bg3 Nh6 11. c5 g4 12. Nh4
+Nc6 13. cxd6 Nxd4 14. dxc7 Qxc7 15. Qxd4 exd4 16. Bxc7 dxc3
+17. Bc4+ Kh8 18. bxc3 Bd7 19. Bd5 Rac8 20. Bd6 Rfd8 21. Bxb7
+Rxc3 22. O-O Bc8 23. Bb4 Rc2 24. Bd5 f5 25. Rad1 Bf6 26. Bb3
+Rxd1 27. Rxd1 Rc7 28. Ba5 Rd7 29. Rc1 Bb7 30. Nxf5 Nxf5
+31. exf5 Be4 32. Be6 Rd3 33. Bb4 Bd4 34. Kf1 Bb2 35. Rc8+ Kg7
+36. Be7 Bc3 37. Rg8+ Kh6 38. Bg5+ Kh5 39. Bf7# 1-0

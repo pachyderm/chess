@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.36"]
+[Result "0-1"]
+[White "Delisle Warner"]
+[Black "Zhong Zhang"]
+[ECO "E25"]
+[WhiteElo "2243"]
+[BlackElo "2611"]
+[PlyCount "120"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5
+7. cxd5 Nxd5 8. dxc5 Qa5 9. e4 Ne7 10. Be3 f5 11. Qb3 Nbc6
+12. Bd3 Bd7 13. Ne2 Ne5 14. Bc2 Qa6 15. Rb1 Nd3+ 16. Bxd3 Qxd3
+17. c4 Qxb3 18. Rxb3 fxe4 19. fxe4 O-O-O 20. O-O Ba4 21. Rb4
+Bc6 22. Bg5 Rd7 23. Bxe7 Rxe7 24. Nc3 a6 25. Rd1 h5 26. Rb2 h4
+27. Rf2 Kc7 28. Nd5+ exd5 29. cxd5 Rd7 30. d6+ Kc8 31. e5 Re8
+32. Re1 Re6 33. Rf4 Rd8 34. Rxh4 Rde8 35. Rh5 Rg6 36. g3 Kd7
+37. Kf2 Rf8+ 38. Ke3 Ke6 39. Rh4 Rf3+ 40. Kd2 Rxa3 41. Rh8 Rg4
+42. Re3 Rxe3 43. Kxe3 Re4+ 44. Kd3 Rxe5 45. Kd4 Re4+ 46. Kd3
+Kd5 47. Rh7 Bb5+ 48. Kc3 Rg4 49. Rh5+ Kc6 50. Re5 g6 51. Kb3
+Rd4 52. Rg5 a5 53. Rxg6 Kxc5 54. h4 Rxd6 55. Rg7 Rd7 56. Rg5+
+Rd5 57. Rg7 Bc4+ 58. Ka4 b6 59. g4 Rd2 60. Rc7+ Kd4 0-1

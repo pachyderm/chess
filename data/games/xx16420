@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.39"]
+[Result "0-1"]
+[White "Raul Garcia Paolicchi"]
+[Black "Khalil Al-Subaihi"]
+[ECO "D05"]
+[WhiteElo "2176"]
+[BlackElo "2082"]
+[PlyCount "114"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 d5 4. Bd3 c5 5. b3 Nc6 6. Bb2 cxd4
+7. exd4 Bd6 8. O-O O-O 9. Nbd2 Nb4 10. Be2 Qc7 11. c3 Nc6
+12. c4 Ne4 13. a3 f5 14. b4 Qe7 15. Ne5 Bxe5 16. dxe5 Rd8
+17. Nxe4 dxe4 18. Qc2 b6 19. Rad1 Bb7 20. f3 a5 21. b5 Qc5+
+22. Kh1 Nd4 23. Bxd4 Rxd4 24. Rxd4 Qxd4 25. f4 Qe3 26. c5 Qxc5
+27. Qxc5 bxc5 28. Rc1 Rc8 29. Kg1 Bd5 30. Kf2 h6 31. Ke3 Kf8
+32. Rb1 Ke7 33. h3 Kd7 34. Rc1 g5 35. Bf1 gxf4+ 36. Kxf4 c4
+37. Rc3 a4 38. Ke3 Kc7 39. Kd4 Kb6 40. Rc1 Kxb5 41. Rb1+ Ka5
+42. Rb4 f4 43. Rb2 f3 44. gxf3 exf3 45. Rb4 h5 46. Rb1 Rf8
+47. Kc5 Rc8+ 48. Kd4 f2 49. Rb2 Rf8 50. Kc5 Rf3 51. Kd4 Rxa3
+52. Rxf2 Ra1 53. Kc5 a3 54. Rf7 Ka4 55. Bxc4 Bxc4 56. Kxc4
+Rc1+ 57. Kd3 Rc5 0-1

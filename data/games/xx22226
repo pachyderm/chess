@@ -1,0 +1,18 @@
+[Event "UT Dallas Spring Int"]
+[Site "Dallas USA"]
+[Date "2014.03.09"]
+[EventDate "?"]
+[Round "2"]
+[Result "0-1"]
+[White "Ben Marmont"]
+[Black "Aleksandar Indjic"]
+[ECO "E80"]
+[WhiteElo "2131"]
+[BlackElo "2521"]
+[PlyCount "46"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 c5 6. Nge2 Nc6
+7. d5 Na5 8. Ng3 e6 9. Be2 a6 10. a4 O-O 11. O-O exd5 12. cxd5
+c4 13. Be3 h5 14. Ra3 Bd7 15. Qe1 b5 16. axb5 axb5 17. b4 Nb3
+18. Rxa8 Qxa8 19. Bd1 Qa3 20. Nb1 Qb2 21. Nd2 Nc1 22. Be2
+Nxe2+ 23. Nxe2 Qxb4 0-1

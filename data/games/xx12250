@@ -1,0 +1,25 @@
+[Event "Bundesliga"]
+[Site "Solingen GER"]
+[Date "2014.02.22"]
+[EventDate "2013.10.12"]
+[Round "9"]
+[Result "1-0"]
+[White "Arkadij Naiditsch"]
+[Black "Predrag Nikolic"]
+[ECO "C03"]
+[WhiteElo "2724"]
+[BlackElo "2620"]
+[PlyCount "111"]
+
+1. e4 e6 2. d4 d5 3. Nd2 a6 4. Ngf3 c5 5. c3 cxd4 6. cxd4 dxe4
+7. Nxe4 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nf6 10. Nxf6+ Qxf6 11. Bd3
+Nc6 12. O-O Bd7 13. Rfe1 O-O 14. Re4 Rfd8 15. Rf4 Qe7 16. d5
+exd5 17. Re1 Be6 18. Rh4 h6 19. Rxh6 Qb4 20. Qg5 Qg4 21. Bh7+
+Kf8 22. Rhxe6 Qxg5 23. Nxg5 fxe6 24. Nxe6+ Kf7 25. Nxd8+ Rxd8
+26. Bd3 Kf6 27. f4 Nb4 28. Bb1 d4 29. Rd1 d3 30. a3 Nc2
+31. Kf2 g5 32. fxg5+ Kxg5 33. Rd2 Rf8+ 34. Kg3 Ne3 35. h4+ Kh6
+36. Rxd3 Rg8+ 37. Kh3 Nxg2 38. Rd6+ Kh5 39. Rd5+ Kh6 40. Rg5
+Nf4+ 41. Kg4 Nh5 42. Rxg8 Nf6+ 43. Kf5 Nxg8 44. Be4 b6 45. Bf3
+Ne7+ 46. Ke6 Ng6 47. h5 Nf4+ 48. Kd6 Nd3 49. b3 b5 50. Be2 Nc1
+51. Bd1 Na2 52. Kc5 Nc3 53. Bc2 a5 54. Bd3 a4 55. b4 Kxh5
+56. Kd4 1-0

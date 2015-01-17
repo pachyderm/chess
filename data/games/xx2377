@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.4"]
+[Result "0-1"]
+[White "Chitumbo Mwali"]
+[Black "Romain Edouard"]
+[ECO "A15"]
+[WhiteElo "2250"]
+[BlackElo "2680"]
+[PlyCount "60"]
+
+1. c4 Nf6 2. g3 e5 3. Bg2 c6 4. d4 e4 5. Nc3 d5 6. cxd5 cxd5
+7. Bg5 Bb4 8. Nh3 Bxc3+ 9. bxc3 Nbd7 10. O-O h6 11. Bc1 O-O
+12. f3 Nb6 13. Nf2 Re8 14. a4 Bf5 15. a5 Nc4 16. a6 b6 17. g4
+Bh7 18. g5 hxg5 19. Bxg5 Qd6 20. Kh1 e3 21. Nd3 Nh5 22. Rg1 f6
+23. Bh4 Bf5 24. Nb4 Kf7 25. f4 Be4 26. Bxe4 Rxe4 27. Bg3 Rh8
+28. Qc2 Qe6 29. f5 Qxf5 30. Raf1 Nxg3+ 0-1

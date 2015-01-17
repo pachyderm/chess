@@ -1,0 +1,17 @@
+[Event "Casino Graz"]
+[Site "Graz AUT"]
+[Date "2014.02.14"]
+[EventDate "2014.02.14"]
+[Round "1.1"]
+[Result "0-1"]
+[White "Ligia-Letitia Jicman"]
+[Black "Li Chao"]
+[ECO "B22"]
+[WhiteElo "2166"]
+[BlackElo "2697"]
+[PlyCount "30"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bf5 6. Be3
+cxd4 7. cxd4 Bxb1 8. Qxb1 e5 9. Bd3 Bb4+ 10. Bd2 Bxd2+
+11. Nxd2 Qxd4 12. O-O Rd8 13. Bb5 Qxd2 14. Qe4 Ne7 15. Qxe5
+O-O 0-1

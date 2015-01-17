@@ -1,0 +1,17 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.06"]
+[EventDate "2014.03.04"]
+[Round "4.105"]
+[Result "1-0"]
+[White "Johanna Bjorg Johannsdottir"]
+[Black "Oskar Vikingur Davidsson"]
+[ECO "A07"]
+[WhiteElo "1865"]
+[BlackElo "1404"]
+[PlyCount "41"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. Nbd2 Qc7 5. g3 Nf6 6. Bg2 d6
+7. O-O Be7 8. Re1 O-O 9. c3 b6 10. Nf1 Bb7 11. h4 Rfe8
+12. N1h2 d5 13. e5 Nd7 14. Bf4 Qc8 15. Bh3 Bd8 16. Rc1 Bc7
+17. d4 Qb8 18. Ng5 Bc8 19. Qh5 g6 20. Qxh7+ Kf8 21. Qxf7# 1-0

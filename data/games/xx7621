@@ -1,0 +1,24 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.09"]
+[EventDate "2014.03.04"]
+[Round "7.120"]
+[Result "1-0"]
+[White "Oskar Vikingur Davidsson"]
+[Black "Oddur Thor Unnsteinsson"]
+[ECO "B15"]
+[WhiteElo "1404"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 e5 5. dxe5 Qxd1+ 6. Kxd1
+Be6 7. h3 h6 8. f4 Nd7 9. Nf3 Rd8 10. Ke1 Bf5 11. Bd3 Bxe4
+12. Bxe4 Ne7 13. Be3 Nb6 14. Bxb6 axb6 15. Ke2 Nd5 16. Bxd5
+Rxd5 17. Rad1 Be7 18. Rxd5 cxd5 19. Rd1 O-O 20. Rxd5 Ra8
+21. a3 Ra4 22. g3 f6 23. Rd7 Bc5 24. exf6 gxf6 25. Rxb7 Re4+
+26. Kd2 Re3 27. b4 Rxf3 28. bxc5 bxc5 29. Rb3 Rf2+ 30. Kc1 Re2
+31. a4 Re8 32. a5 Kg7 33. a6 Ra8 34. Rb7+ Kg6 35. a7 Kf5
+36. Re7 c4 37. Kb2 Rd8 38. Kc3 Rc8 39. Kb4 Kg6 40. Kb5 f5
+41. Kb6 Kf6 42. Kb7 Rd8 43. Rc7 Ke6 44. Rc8 Rd7+ 45. Kb8 Rd2
+46. a8=Q Rxc2 47. Qc6+ Kf7 48. Rc7+ Kf8 49. Qf6+ Kg8 50. Qg7#
+1-0

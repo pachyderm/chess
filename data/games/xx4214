@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.9"]
+[Result "0-1"]
+[White "Semetey Tologontegin"]
+[Black "Maxim Rodshtein"]
+[ECO "A45"]
+[WhiteElo "2354"]
+[BlackElo "2671"]
+[PlyCount "121"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 Bf5 4. f3 e6 5. g4 Bg6 6. h4 h6
+7. e3 Nbd7 8. Bd3 Bxd3 9. cxd3 c6 10. Nge2 Qb6 11. Kf2 Be7
+12. Rb1 a5 13. a3 Kf8 14. Qd2 a4 15. Rbg1 Kg8 16. Bg3 Ne8
+17. Qc2 Qa5 18. h5 Kh7 19. Bh4 Bxh4+ 20. Rxh4 Nd6 21. f4 f6
+22. Rh2 Rhf8 23. Rhg2 Kh8 24. Kg3 e5 25. Kh3 Rae8 26. Qxa4
+Qxa4 27. Nxa4 exf4 28. exf4 Re3+ 29. Kh2 Rxd3 30. Nc5 Nxc5
+31. dxc5 Nc4 32. Ng3 Ne3 33. Re2 Nxg4+ 34. Kh3 Ne3 35. Kh4 d4
+36. Rge1 f5 37. Nf1 Re8 38. Nxe3 dxe3 39. Kg3 Re4 40. Kf3 Rdd4
+41. Rxe3 Rxf4+ 42. Kg2 Rg4+ 43. Kf2 Rh4 44. Rb3 Rd7 45. Re8+
+Kh7 46. Rb8 Rxh5 47. R8xb7 Rd2+ 48. Ke3 Rd5 49. R3b6 Rh3+
+50. Kf4 Rxc5 51. Rc7 Rh4+ 52. Kf3 Rhc4 53. b3 Rh4 54. Rbb7
+Rc3+ 55. Kf2 Rf4+ 56. Ke2 Rg4 57. a4 h5 58. Rf7 f4 59. Rb4
+Rg2+ 60. Kd1 Rcc2 61. Rbxf4 0-1

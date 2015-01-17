@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.22"]
+[Result "0-1"]
+[White "Espen Lie"]
+[Black "Susanto Megaranto"]
+[ECO "C53"]
+[WhiteElo "2435"]
+[BlackElo "2527"]
+[PlyCount "86"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Bb3 a6
+7. h3 Ba7 8. Nbd2 h6 9. Nf1 Be6 10. Bc2 d5 11. Qe2 Qd7 12. Ng3
+O-O 13. Bd2 Rad8 14. Rd1 Rfe8 15. Nh4 Ne7 16. Qf3 dxe4
+17. dxe4 Ng4 18. O-O Nxf2 19. Kh2 Nxd1 20. Bxh6 Ne3 21. Nh5
+Nxf1+ 22. Qxf1 Qd2 23. Bxd2 Rxd2 24. Qe1 Rf2 25. Qc1 f6
+26. Qd1 g6 27. Bb3 Bxb3 28. Qxb3+ Kf8 29. Ng3 Bb6 30. Qe6 Rd8
+31. Nf3 Rd6 32. Qg4 Rd3 33. Nh4 Kf7 34. Nxg6 Nxg6 35. Qh5 Rdd2
+36. Qh7+ Ke6 37. Qg8+ Kd7 38. Qf7+ Ne7 39. h4 Rxg2+ 40. Kh3
+Rh2+ 41. Kg4 Rhg2 42. Kh3 Rh2+ 43. Kg4 Rdg2 0-1

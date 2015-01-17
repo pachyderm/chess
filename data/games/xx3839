@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.66"]
+[Result "0-1"]
+[White "Abdulrahman A Masrhi"]
+[Black "Mohamed Amine Haddouche"]
+[ECO "A41"]
+[WhiteElo "1746"]
+[BlackElo "2508"]
+[PlyCount "70"]
+
+1. d4 d6 2. Bf4 Nf6 3. e3 g6 4. Be2 Bg7 5. h3 O-O 6. Nf3 Nbd7
+7. c4 b6 8. Nc3 Bb7 9. O-O Re8 10. Bh2 e5 11. Qc2 exd4
+12. exd4 Ne4 13. Rfe1 Ndf6 14. Rad1 Qd7 15. b4 Re7 16. c5 Nxc3
+17. Qxc3 Rae8 18. Bc4 Rxe1+ 19. Nxe1 dxc5 20. bxc5 Ne4 21. Qc2
+Bxd4 22. Bxf7+ Kxf7 23. Qc4+ Qd5 24. Qxd4 Qxd4 25. Rxd4 Nxc5
+26. Nf3 Bxf3 27. gxf3 Re2 28. a4 Ra2 29. Bxc7 Rxa4 30. Rxa4
+Nxa4 31. Kf1 Ke6 32. Ke2 Kd5 33. Kd3 b5 34. Ba5 Nc5+ 35. Kc3
+Nb7 0-1

@@ -1,0 +1,20 @@
+[Event "Bundesliga"]
+[Site "Hamburg GER"]
+[Date "2014.02.22"]
+[EventDate "2013.10.12"]
+[Round "9"]
+[Result "1-0"]
+[White "Gennadij Fish"]
+[Black "Christian Scholz"]
+[ECO "E97"]
+[WhiteElo "2464"]
+[BlackElo "2379"]
+[PlyCount "63"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5
+7. O-O Nc6 8. Be3 Ng4 9. Bg5 f6 10. Bc1 Qe8 11. h3 Nh6
+12. dxe5 dxe5 13. Nd5 Qd8 14. b4 Nf7 15. b5 Nd4 16. Nxd4 exd4
+17. Ba3 Re8 18. Qxd4 f5 19. Qc5 Bf8 20. Qxf8+ Rxf8 21. Be7 Qe8
+22. Nf6+ Kg7 23. Nxe8+ Rxe8 24. Ba3 Rxe4 25. Rfe1 c6 26. Bf3
+Rxe1+ 27. Rxe1 Bd7 28. Re7 Rd8 29. Bb2+ Kg8 30. Bf6 cxb5
+31. cxb5 Bxb5 32. Rxb7 1-0

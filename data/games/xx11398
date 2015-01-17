@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.8"]
+[Result "1-0"]
+[White "Yangyi Yu"]
+[Black "Winston Darwin Cu Hor"]
+[ECO "B90"]
+[WhiteElo "2668"]
+[BlackElo "2259"]
+[PlyCount "65"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5
+7. Nb3 Be6 8. h3 Nbd7 9. g4 Rc8 10. Bg2 Nb6 11. Bxb6 Qxb6
+12. g5 Nd7 13. h4 Be7 14. Bh3 O-O 15. Qe2 Nc5 16. O-O-O Rc6
+17. Kb1 Kh8 18. Bf5 g6 19. Bxe6 Nxe6 20. Nd5 Qd8 21. Qg4 Ng7
+22. f4 f5 23. exf5 gxf5 24. Qg1 Qe8 25. Qa7 Rf7 26. h5 Ne6
+27. Qe3 Rc4 28. fxe5 Re4 29. Qc3 Rxe5 30. g6 Rg7 31. Rde1 hxg6
+32. Rxe5 dxe5 33. Qxe5 1-0

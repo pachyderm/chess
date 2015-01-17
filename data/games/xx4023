@@ -1,0 +1,21 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.04"]
+[EventDate "2014.03.04"]
+[Round "1.93"]
+[Result "1-0"]
+[White "Tom Rydstrom"]
+[Black "Joshua Altman"]
+[ECO "A45"]
+[WhiteElo "2198"]
+[BlackElo "1650"]
+[PlyCount "75"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 g6 4. Qd2 Bg7 5. O-O-O O-O 6. h4 h5
+7. f3 c6 8. Bh6 b5 9. g4 Nbd7 10. gxh5 Nxh5 11. Nh3 Ndf6
+12. Rg1 e6 13. Nf2 Kh7 14. Bg5 Qd6 15. Ng4 Ng8 16. e4 dxe4
+17. fxe4 e5 18. Nxe5 Bxe5 19. dxe5 Qxe5 20. Qd6 Qxd6 21. Rxd6
+Bb7 22. Be2 Ng7 23. Rd7 Bc8 24. Rc7 b4 25. h5 gxh5 26. Rxc6
+bxc3 27. Rxc3 f5 28. Rc7 Be6 29. Bxh5 Rfc8 30. Rb7 Rcb8
+31. Rxb8 Rxb8 32. Bf4 Nxh5 33. Bxb8 fxe4 34. Bxa7 Nf4 35. Kd2
+Nd5 36. Bd4 Nge7 37. c4 e3+ 38. Ke1 1-0

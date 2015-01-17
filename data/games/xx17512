@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.3"]
+[Result "1-0"]
+[White "Simen Agdestein"]
+[Black "Emir Dizdarevic"]
+[ECO "D20"]
+[WhiteElo "2630"]
+[BlackElo "2522"]
+[PlyCount "111"]
+
+1. d4 d5 2. c4 dxc4 3. e4 c5 4. d5 e6 5. Nc3 exd5 6. Qxd5 Qxd5
+7. Nxd5 Bd6 8. Bxc4 Nf6 9. Nxf6+ gxf6 10. Ne2 Be6 11. Bb5+ Ke7
+12. Nc3 a6 13. Bd3 c4 14. Bb1 Nd7 15. f4 Nc5 16. f5 Bd7
+17. Nd5+ Kd8 18. Nxf6 Bc6 19. O-O Nd7 20. Rd1 Kc7 21. Nxd7
+Bxd7 22. Bc2 Bc6 23. Kf2 h5 24. Kf3 Be5 25. g3 b5 26. Bf4 Rae8
+27. b3 Kb6 28. Be3+ Kc7 29. Rac1 h4 30. bxc4 b4 31. Bf4 hxg3
+32. hxg3 Bxf4 33. Kxf4 Rh2 34. Bb1 Rf2+ 35. Ke3 Rxf5 36. Rf1
+Rg5 37. Rxf7+ Kb6 38. c5+ Kb5 39. Bd3+ Ka4 40. Kf4 Reg8
+41. Rf6 Rg4+ 42. Ke5 Re8+ 43. Re6 Rxe6+ 44. Kxe6 a5 45. Kd6
+Rg6+ 46. Kc7 Ka3 47. e5 Rh6 48. Bc4 Kb2 49. Rf1 Kc3 50. Rf4
+Be8 51. e6 a4 52. Bd5 Rh5 53. Kd6 Bb5 54. c6 b3 55. c7 Ba6
+56. axb3 1-0

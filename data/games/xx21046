@@ -1,0 +1,17 @@
+[Event "Bundesliga"]
+[Site "Eppingen GER"]
+[Date "2014.04.04"]
+[EventDate "2013.10.12"]
+[Round "13"]
+[Result "0-1"]
+[White "Alexander Dany"]
+[Black "Joerg Wegerle"]
+[ECO "E32"]
+[WhiteElo "2110"]
+[BlackElo "2438"]
+[PlyCount "40"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 d5 6. a3 Bxc3+
+7. Qxc3 b6 8. Bg5 Bb7 9. e3 Nbd7 10. Ne5 Qc8 11. Nxd7 Nxd7
+12. Be2 dxc4 13. O-O c5 14. Rac1 b5 15. b3 f6 16. Bh4 cxd4
+17. exd4 Nb6 18. bxc4 bxc4 19. Bxc4 Nxc4 20. Qxc4 Qxc4 0-1

@@ -1,0 +1,20 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.04"]
+[EventDate "2014.03.04"]
+[Round "1.118"]
+[Result "0-1"]
+[White "Bjarki Arnaldarson"]
+[Black "Saevar Bjarnason"]
+[ECO "C11"]
+[WhiteElo "?"]
+[BlackElo "2101"]
+[PlyCount "62"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Bd3 c5 6. Nf3 Nc6
+7. dxc5 Ndxe5 8. Nxe5 Nxe5 9. b4 a5 10. Bf4 Nxd3+ 11. cxd3 Bd7
+12. d4 axb4 13. Ne2 b6 14. Bd6 Ba4 15. Qd3 Bxd6 16. cxd6 Qxd6
+17. O-O O-O 18. Rac1 Ra5 19. Rfe1 Bb5 20. Qb3 Bc4 21. Qe3 Rxa2
+22. Ng3 g6 23. Rb1 Rfa8 24. Qe5 Qxe5 25. dxe5 b3 26. h3 b2
+27. f4 Bd3 28. Rbd1 Ra1 29. Kf2 Rxd1 30. Rxd1 Ra1 31. Rxd3
+b1=Q 0-1

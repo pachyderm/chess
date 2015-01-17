@@ -1,0 +1,25 @@
+[Event "French Team Championship"]
+[Site "Saint-Quentin FRA"]
+[Date "2014.05.24"]
+[EventDate "2014.05.24"]
+[Round "1.7"]
+[Result "0-1"]
+[White "Olivier Touzane"]
+[Black "Maxime Lagarde"]
+[ECO "A88"]
+[WhiteElo "2325"]
+[BlackElo "2510"]
+[PlyCount "110"]
+
+1. g3 f5 2. d4 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6
+7. Nc3 c6 8. d5 e5 9. dxe6 Bxe6 10. Qd3 Kh8 11. Bf4 d5
+12. Rad1 Na6 13. Qe3 Re8 14. Bh6 Qb6 15. Bxg7+ Kxg7 16. Nd4
+Bd7 17. Qc1 c5 18. Ndb5 d4 19. Na4 Qa5 20. b3 Bxb5 21. cxb5
+Qxb5 22. e3 dxe3 23. fxe3 Rad8 24. Nc3 Qb6 25. Nd5 Nxd5
+26. Bxd5 Nb4 27. Qc3+ Qf6 28. Qxc5 Nxd5 29. Rxd5 Rxd5 30. Qxd5
+b6 31. Qd2 Rd8 32. Qf2 Qc3 33. Re1 h5 34. h4 Re8 35. Re2 Re4
+36. Kh2 Qe5 37. Qe1 Rxh4+ 38. Kg1 Rg4 39. Rg2 Re4 40. Kf2 h4
+41. Qd2 hxg3+ 42. Rxg3 Rh4 43. Qd7+ Kh6 44. Qc6 Rg4 45. Rh3+
+Kg5 46. Qa8 Qb2+ 47. Kf1 Qb1+ 48. Kf2 Qxa2+ 49. Kf1 Qb1+
+50. Kf2 Qg1+ 51. Ke2 Rg2+ 52. Kd3 Qd1+ 53. Kc3 Rc2+ 54. Kb4
+Qd2+ 55. Kb5 Qa5# 0-1

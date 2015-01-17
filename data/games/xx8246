@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.42"]
+[Result "0-1"]
+[White "Hogni Egilstoft Nielsen"]
+[Black "Adel Choukri"]
+[ECO "B22"]
+[WhiteElo "2256"]
+[BlackElo "2177"]
+[PlyCount "74"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3
+e5 7. Nc3 Bb4 8. Bd2 Bxc3 9. Bxc3 e4 10. Ne5 Nxe5 11. dxe5 Ne7
+12. Qa4+ Bd7 13. Qb4 a5 14. Qa3 Qe6 15. Be2 O-O 16. Rd1 Ng6
+17. Rd6 Qe7 18. O-O Bc6 19. Qc5 Nf4 20. Qe3 Nd5 21. Qc5 Nf4
+22. Qe3 Nd5 23. Qc5 Nxc3 24. bxc3 Rae8 25. e6 fxe6 26. Bc4 Kh8
+27. Rfd1 Rf5 28. Qe3 Bd5 29. Qc5 b6 30. Qxb6 Bxc4 31. Rd7 Qf8
+32. Rc7 Bd3 33. c4 Rc8 34. Ra7 Qc5 35. Qb7 Qxf2+ 36. Kh1 Qf1+
+37. Rxf1 Rxf1# 0-1

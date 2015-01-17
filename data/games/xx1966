@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.2"]
+[Result "1-0"]
+[White "Ruslan Ponomariov"]
+[Black "Amir Zaibi"]
+[ECO "A13"]
+[WhiteElo "2717"]
+[BlackElo "2297"]
+[PlyCount "69"]
+
+1. c4 e6 2. g3 d5 3. Bg2 c6 4. Qc2 dxc4 5. Qxc4 e5 6. Nf3 Bd6
+7. d4 exd4 8. Qxd4 Nf6 9. O-O O-O 10. Nc3 Be7 11. Qa4 Nbd7
+12. Rd1 Qb6 13. Qc2 Re8 14. a3 Qa5 15. e4 Ne5 16. Nxe5 Qxe5
+17. h3 Qh5 18. g4 Qg6 19. Ne2 h6 20. f4 Bxg4 21. hxg4 Nxe4
+22. Bxe4 Bc5+ 23. Qxc5 Qxg4+ 24. Kf2 Rxe4 25. Be3 Rae8 26. Rd3
+b6 27. Qc3 R8e6 28. Rg1 Qh4+ 29. Rg3 Rg6 30. Kg2 Qh5 31. Rd8+
+Kh7 32. Qd3 c5 33. Rxg6 Qxg6+ 34. Ng3 f5 35. Kf2 1-0

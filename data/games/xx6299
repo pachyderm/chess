@@ -1,0 +1,18 @@
+[Event "Tradewise Gibraltar"]
+[Site "Caleta ENG"]
+[Date "2014.02.04"]
+[EventDate "2014.01.28"]
+[Round "8.18"]
+[Result "1-0"]
+[White "A R Saleh Salem"]
+[Black "Samir Lejlic"]
+[ECO "B06"]
+[WhiteElo "2564"]
+[BlackElo "2345"]
+[PlyCount "44"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nge2 a6 5. g3 c5 6. dxc5 Bg4
+7. Bg2 Bxe2 8. Qxe2 Nc6 9. cxd6 Qxd6 10. O-O e6 11. Bf4 Qb4
+12. Nd5 exd5 13. exd5+ Nce7 14. Rad1 Qb5 15. c4 Qxb2 16. Rd2
+Qf6 17. d6 g5 18. Bxb7 gxf4 19. Bxa8 Bh6 20. Rb1 Kf8 21. d7 f3
+22. d8=Q+ Kg7 1-0

@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.25"]
+[Result "0-1"]
+[White "Mahmood Lodhi"]
+[Black "Frode Olav Olsen Urkedal"]
+[ECO "A46"]
+[WhiteElo "2335"]
+[BlackElo "2500"]
+[PlyCount "48"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b5 4. Bg2 Bb7 5. O-O c5 6. a4 b4
+7. c4 cxd4 8. Nxd4 Bxg2 9. Kxg2 d5 10. cxd5 Qxd5+ 11. f3 Be7
+12. Nb5 Qc6 13. Be3 a6 14. Nd4 Qd5 15. Nd2 O-O 16. Rc1 Rd8
+17. N2b3 g6 18. Nd2 e5 19. N4b3 Nc6 20. Qc2 Nd4 21. Bxd4 exd4
+22. Rfd1 d3 23. exd3 Qxd3 24. Nc4 Qxc2+ 0-1

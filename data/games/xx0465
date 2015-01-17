@@ -1,0 +1,28 @@
+[Event "FIDE World Blitz Championship"]
+[Site "Dubai UAE"]
+[Date "2014.06.20"]
+[EventDate "2014.06.19"]
+[Round "20.2"]
+[Result "1-0"]
+[White "Levon Aronian"]
+[Black "Ian Nepomniachtchi"]
+[ECO "A04"]
+[WhiteElo "2863"]
+[BlackElo "2816"]
+[PlyCount "147"]
+
+1. Nf3 g6 2. e4 Nf6 3. e5 Nh5 4. d4 d6 5. Be2 Nc6 6. exd6 exd6
+7. O-O Bg7 8. Bg5 Nf6 9. d5 Ne7 10. Bb5+ Bd7 11. Bxd7+ Qxd7
+12. c4 O-O 13. Nc3 h6 14. Bd2 a6 15. a4 Rae8 16. a5 Nf5
+17. Qb3 Qc8 18. Rae1 Rxe1 19. Rxe1 Re8 20. Rxe8+ Nxe8 21. Ne4
+Nf6 22. Nxf6+ Bxf6 23. h3 h5 24. Bc3 Bxc3 25. Qxc3 Qd8 26. Qb4
+Qa8 27. b3 Qa7 28. Qc3 Qb8 29. Qe1 Qd8 30. Qb4 Qc8 31. g3 c5
+32. Qe1 Qd8 33. Kg2 Kg7 34. h4 Nd4 35. Nxd4 cxd4 36. Qd2 Qf6
+37. f4 Kg8 38. Kf3 Qf5 39. Qxd4 Qb1 40. Qc3 Qf1+ 41. Ke3 Qg1+
+42. Kd2 Qb1 43. b4 Qa2+ 44. Kc1 Kf8 45. Kd1 Qb1+ 46. Kd2 Qa2+
+47. Qc2 Qa1 48. Qc3 Qa2+ 49. Kc1 Ke7 50. Qe3+ Kf8 51. Qc3 Ke7
+52. Qe1+ Kf8 53. Qc3 Ke7 54. Kd1 Kf8 55. Ke1 Qb1+ 56. Ke2 Qa2+
+57. Kf3 Qb1 58. Kf2 Qa2+ 59. Ke3 Qg2 60. Qe1 Qc2 61. Kd4 Qb2+
+62. Kd3 Qb3+ 63. Qc3 Qd1+ 64. Ke3 Qg1+ 65. Ke2 Qg2+ 66. Kd1
+Qa2 67. Kc1 Ke7 68. b5 axb5 69. cxb5 Qxd5 70. a6 bxa6 71. bxa6
+Qg2 72. Qc7+ Kf8 73. a7 Qf1+ 74. Kb2 1-0

@@ -1,0 +1,17 @@
+[Event "Politiken Cup"]
+[Site "Helsingor DEN"]
+[Date "2014.07.21"]
+[EventDate "2014.07.21"]
+[Round "1.112"]
+[Result "0-1"]
+[White "Leif Egholm"]
+[Black "Per Skjoldager"]
+[ECO "C39"]
+[WhiteElo "1718"]
+[BlackElo "2131"]
+[PlyCount "36"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 d5 6. exd5 h6
+7. Nxf7 Kxf7 8. d4 Bd6 9. Qd3 Qf6 10. c4 Bf5 11. Qb3 Nd7
+12. c5 Re8+ 13. Be2 f3 14. cxd6 Rxe2+ 15. Kd1 Bxb1 16. gxf3
+Bc2+ 17. Kxe2 Bxb3 18. dxc7 Qxf3+ 0-1

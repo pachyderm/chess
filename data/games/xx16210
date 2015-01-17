@@ -1,0 +1,29 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.33"]
+[Result "0-1"]
+[White "Jose Daniel Gemy"]
+[Black "John Paul Gomez"]
+[ECO "D02"]
+[WhiteElo "2332"]
+[BlackElo "2526"]
+[PlyCount "156"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. e3 cxd4 5. exd4 Nc6 6. c3 Bg4
+7. Qb3 Na5 8. Qa4+ Bd7 9. Bb5 a6 10. Bxd7+ Nxd7 11. Nbd2 e6
+12. O-O Be7 13. Rfe1 O-O 14. h3 Rc8 15. Qd1 b5 16. Qe2 Qb6
+17. h4 b4 18. cxb4 Bxb4 19. Rec1 Nc6 20. Qd3 Be7 21. Nf1 a5
+22. a4 Bf6 23. Be3 Nb4 24. Qb5 Rxc1 25. Rxc1 Qxb5 26. axb5 Rb8
+27. Bf4 Nd3 28. Bxb8 Nxc1 29. Ba7 a4 30. Ne3 Nd3 31. Kf1 Be7
+32. Ke2 Nxb2 33. Ne5 Nxe5 34. dxe5 a3 35. Bd4 Na4 36. Nc2 a2
+37. b6 Nc5 38. Nb4 a1=Q 39. Bxa1 Bd8 40. Bd4 Bxb6 41. f4 Na6
+42. Bxb6 Nxb4 43. g4 h5 44. gxh5 Kh7 45. Kf3 Kh6 46. Kg4 Nc6
+47. Be3 Kh7 48. h6 Kxh6 49. f5+ Kh7 50. Bf4 Na5 51. h5 Nc4
+52. fxe6 fxe6 53. Kf3 g6 54. h6 g5 55. Bxg5 Nxe5+ 56. Kf4 Nf7
+57. Bf6 Kxh6 58. Bb2 Kg6 59. Bc3 Nh6 60. Ke5 Kf7 61. Kd6 Nf5+
+62. Ke5 Ke7 63. Bb4+ Kd7 64. Bc5 Ne7 65. Ba3 Nc6+ 66. Kf4 Na5
+67. Bf8 Nc4 68. Bg7 Kc6 69. Bf8 Kb5 70. Be7 Ka4 71. Kg5 d4
+72. Kg6 d3 73. Bg5 Kb3 74. Kf6 e5 75. Kf5 Kc2 76. Ke4 d2
+77. Bxd2 Kxd2 78. Kd5 Kd3 0-1

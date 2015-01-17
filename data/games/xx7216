@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.20"]
+[Result "0-1"]
+[White "Alberto David"]
+[Black "Igor Kovalenko"]
+[ECO "B11"]
+[WhiteElo "2565"]
+[BlackElo "2650"]
+[PlyCount "128"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. d4 Nf6
+7. Bd3 dxe4 8. Nxe4 Nxe4 9. Qxe4 Nd7 10. c3 Nf6 11. Qe2 Qc7
+12. O-O Bd6 13. Qf3 h6 14. Re1 Qa5 15. Bf4 Bxf4 16. Qxf4 O-O-O
+17. Re5 Qc7 18. Qf3 Rd5 19. Rae1 Rhd8 20. Bc4 Rxe5 21. Rxe5
+Nd7 22. Re1 Nf6 23. Re5 Nd7 24. Re1 Nb6 25. Bb3 Kb8 26. Re5
+Nd7 27. Re1 Nf6 28. Re5 Qd6 29. Kh1 Kc7 30. Kg1 Rg8 31. Bc4
+Kd8 32. b4 Ke7 33. a4 Rc8 34. Bf1 b6 35. Re1 Rc7 36. Rb1 g5
+37. Bc4 Qf4 38. Qd3 Ne4 39. Rf1 Nd6 40. Re1 Kf8 41. Bb3 Qf5
+42. Qd1 Ne4 43. Qc2 Nd6 44. Qe2 Qf6 45. Bc2 Kg7 46. Qd3 Nf5
+47. Re5 Rd7 48. Qc4 Rd5 49. Re2 Ne7 50. Be4 Rd6 51. g3 Nd5
+52. Kg2 h5 53. Bc2 h4 54. Qd3 Kf8 55. Qd2 c5 56. Re5 Nxb4
+57. Re3 Nxc2 58. Qxc2 cxd4 59. cxd4 hxg3 60. Rxg3 Rxd4 61. a5
+Qe5 62. axb6 axb6 63. Qc8+ Kg7 64. Qc1 f6 0-1

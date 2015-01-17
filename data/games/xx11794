@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.37"]
+[Result "0-1"]
+[White "Keshav Shrestha"]
+[Black "Yuri Krupenski"]
+[ECO "B96"]
+[WhiteElo "2137"]
+[BlackElo "2277"]
+[PlyCount "136"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6
+7. f4 h6 8. Bxf6 Qxf6 9. Qd2 g5 10. fxg5 hxg5 11. O-O-O Nc6
+12. Be2 Qxd4 13. Qxd4 Nxd4 14. Rxd4 Bd7 15. h3 Bc6 16. Bf3 Rd8
+17. Rd3 Bg7 18. Re1 Be5 19. Kb1 Rh4 20. a3 Ke7 21. Re2 Rc8
+22. Ree3 Bd7 23. Ne2 Rc4 24. c3 b5 25. Nd4 Bc8 26. Bg4 Rh8
+27. Re1 Bb7 28. Bf3 Ba8 29. Nb3 Rh4 30. Nd4 Rh8 31. Nb3 Rhc8
+32. Re2 Kd7 33. Re1 Ke7 34. Re2 R4c7 35. Re1 Ra7 36. Na5 Kd7
+37. Re2 Kc7 38. Rd1 Kb6 39. Nb3 a5 40. Nc1 Rd7 41. Nd3 Bg3
+42. Rf1 Bb7 43. Re3 Rc4 44. Bh5 Bf4 45. Nxf4 Rxe4 46. Rxe4
+Bxe4+ 47. Kc1 gxf4 48. Rxf4 Bxg2 49. h4 f5 50. Bg6 Be4 51. h5
+Rd8 52. Rh4 Rh8 53. h6 d5 54. h7 Kc5 55. Bf7 f4 56. Bxe6 Rxh7
+57. Rxf4 Rh1+ 58. Kd2 Rh2+ 59. Kc1 Rc2+ 60. Kd1 Rxb2 61. Bf7
+a4 62. Be8 Kc4 63. Rf7 Kxc3 64. Rc7+ Kd4 65. Rb7 Bd3 66. Kc1
+Kc3 67. Rc7+ Bc4 68. Bf7 Rf2 0-1

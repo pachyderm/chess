@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.3"]
+[Result "1-0"]
+[White "Leif Erlend Johannessen"]
+[Black "Yit San Fong"]
+[ECO "E21"]
+[WhiteElo "2528"]
+[BlackElo "2143"]
+[PlyCount "77"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Qc2 Bb7 6. a3 Bxc3+
+7. Qxc3 d6 8. g3 O-O 9. Bg2 Nbd7 10. O-O Ne4 11. Qc2 Nef6
+12. b4 c5 13. dxc5 bxc5 14. Bb2 a5 15. b5 a4 16. Rfd1 Be4
+17. Qc3 Qb6 18. Nh4 Bxg2 19. Nxg2 Rfd8 20. Ne3 Kf8 21. Rd2 Ke7
+22. Rad1 Ne5 23. Qc2 Ng6 24. f3 h5 25. h4 Ra7 26. Kg2 Ne8
+27. Rd5 Nf6 28. Bxf6+ gxf6 29. Rxh5 Kf8 30. Qc3 Ke7 31. Kf2
+Qb8 32. Rh6 Rg8 33. h5 Ne5 34. f4 Qf8 35. Qd2 Rd7 36. fxe5
+fxe5 37. Rh7 Rxg3 38. Kxg3 Qg8+ 39. Ng4 1-0

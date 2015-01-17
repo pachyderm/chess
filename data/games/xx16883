@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.42"]
+[Result "0-1"]
+[White "Ziaur Rahman"]
+[Black "Zhong Zhang"]
+[ECO "D11"]
+[WhiteElo "2523"]
+[BlackElo "2611"]
+[PlyCount "46"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 a6 5. Bd3 Bg4 6. Nbd2 e6
+7. Qc2 dxc4 8. Nxc4 Bxf3 9. gxf3 c5 10. dxc5 Bxc5 11. a3 b5
+12. Nd2 Nbd7 13. Ne4 Rc8 14. Nxf6+ Qxf6 15. Ke2 Ke7 16. Qb1
+Ne5 17. Be4 Qh4 18. b3 f5 19. Bb7 Rc7 20. Bb2 Ng6 21. Rc1 Nf4+
+22. Kf1 Qh3+ 23. Ke1 Qxh2 0-1

@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.4"]
+[Result "0-1"]
+[White "Romain Edouard"]
+[Black "Ian Nepomniachtchi"]
+[ECO "B90"]
+[WhiteElo "2680"]
+[BlackElo "2714"]
+[PlyCount "132"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5
+7. Nde2 h5 8. g3 Be7 9. Bg2 b5 10. Nd5 Nxd5 11. Qxd5 Ra7
+12. Be3 Rb7 13. O-O Nd7 14. Qd2 O-O 15. Nc3 Nf6 16. a3 h4
+17. g4 Be6 18. f4 exf4 19. Bxf4 Nh7 20. Rfd1 Rd7 21. a4 b4
+22. Nd5 Bxd5 23. Qxd5 Re8 24. e5 Nf8 25. exd6 Bxd6 26. Bxd6
+Re6 27. Qc5 Rexd6 28. Rxd6 Rxd6 29. Qxb4 Ne6 30. Re1 Rd4
+31. Qb3 Qd6 32. Qe3 Rxa4 33. c3 Ra2 34. Qf2 g5 35. Bf1 Nf4
+36. Rb1 Ra5 37. c4 Ra4 38. Rc1 Rb4 39. c5 Qc7 40. Qd2 Rb3
+41. Rc3 Rxc3 42. Qxc3 a5 43. c6 Qb6+ 44. Kh1 Qf2 45. Qc4 Qf3+
+46. Kg1 Qe3+ 47. Kh1 Qf3+ 48. Kg1 Qg3+ 49. Kh1 Ne6 50. Qb5
+Qf3+ 51. Kg1 Qe3+ 52. Kh1 Qc1 53. Kh2 Qf4+ 54. Kg1 Qe3+
+55. Kh1 Qc1 56. Kh2 Kf8 57. Bg2 Qd2 58. Qb8+ Ke7 59. Qa7+ Kf6
+60. Qb8 Qb4 61. Qa7 Qxb2 62. Qxa5 Qe5+ 63. Qxe5+ Kxe5 64. Kg1
+Kd6 65. Kf2 Nf4 66. Bf1 Kxc6 0-1

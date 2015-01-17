@@ -1,0 +1,25 @@
+[Event "FIDE World Blitz Championship"]
+[Site "Dubai UAE"]
+[Date "2014.06.19"]
+[EventDate "2014.06.19"]
+[Round "6.30"]
+[Result "1-0"]
+[White "Wang Hao"]
+[Black "Tanguy Ringoir"]
+[ECO "C45"]
+[WhiteElo "2729"]
+[BlackElo "2506"]
+[PlyCount "131"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Qe7
+7.Qe2 Nd5 8.c4 Ba6 9.b3 g6 10.g3 Bg7 11.Bb2 O-O 12.Bg2 Rae8
+13.O-O Bxe5 14.Qxe5 Qxe5 15.Bxe5 Rxe5 16.cxd5 Bxf1 17.Kxf1
+cxd5 18.Nc3 c6 19.Bf3 Rb8 20.Ne2 Kf8 21.Nf4 Ke7 22.Nd3 Re6
+23.Rc1 Kd6 24.Rc5 Rb5 25.Rxb5 cxb5 26.Be2 a6 27.Ke1 d4 28.Kd2
+a5 29.Nb2 Kc5 30.Nd3+ Kd6 31.a3 Re8 32.Nf4 Kc5 33.Bd3 b4 34.a4
+d5 35.h4 Kd6 36.Be2 Rc8 37.Bf3 Rc5 38.Bd1 Rc3 39.Nd3 h6 40.g4
+g5 41.h5 Ke6 42.Bc2 Kd6 43.Bd1 Ke6 44.Nc1 Ke5 45.Ne2 Rf3
+46.Ke1 Rh3 47.Ng3 Rh2 48.Nf5 d3 49.Nxh6 Kd4 50.Nf5+ Kc3 51.Ng3
+Kb2 52.Kd2 Rxf2+ 53.Kxd3 Kc1 54.Be2 Kb2 55.h6 Rf6 56.Nf5 Rc6
+57.Bd1 Kc1 58.Bf3 Rc3+ 59.Ke2 Rc2+ 60.Ke1 d4 61.Nxd4 Rc8
+62.Nf5 Rd8 63.Be2 Re8 64.Kf2 Kd2 65.Bc4 f6 66.h7 1-0

@@ -1,0 +1,26 @@
+[Event "Zurich Chess Challenge"]
+[Site "Zurich SUI"]
+[Date "2014.01.30"]
+[EventDate "2014.01.29"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Hikaru Nakamura"]
+[Black "Fabiano Caruana"]
+[ECO "D90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "133"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.Nc3 d5 5.Qa4+ Bd7 6.Qb3 dxc4
+7.Qxc4 O-O 8.Bf4 c6 9.e4 b5 10.Qd3 c5 11.dxc5 Na6 12.e5 Nxc5
+13.Qe3 Nh5 14.Bg5 Ne6 15.Rd1 Qe8 16.Bh6 Bxh6 17.Qxh6 Bc6
+18.Qe3 a6 19.Bd3 Nhf4 20.O-O Nxd3 21.Rxd3 Rd8 22.Nd4 Nxd4
+23.Rxd4 Rxd4 24.Qxd4 Qa8 25.f3 Rd8 26.Qc5 Qb7 27.Rd1 Rxd1+
+28.Nxd1 Qd7 29.Ne3 Qd2 30.Qc3 Qxc3 31.bxc3 f6 32.exf6 exf6
+33.Kf2 Kf7 34.Ke2 Ke6 35.Kd3 h5 36.Kd4 h4 37.Kc5 Ba8 38.f4 g5
+39.g3 hxg3 40.hxg3 gxf4 41.gxf4 Be4 42.Kb6 Kd6 43.Kxa6 Kc5
+44.a3 Bf3 45.Ka7 Kc6 46.Kb8 Kb6 47.Nf5 Bg4 48.Nd6 Be6 49.Ne4
+f5 50.Nd2 Bd5 51.Kc8 Ka5 52.Kc7 Ka4 53.Kb6 Bg2 54.c4 bxc4
+55.Nxc4 Bd5 56.Kc5 Bg8 57.Kd4 Kb3 58.Nd6 Kxa3 59.Ke5 Kb4
+60.Kf6 Kc5 61.Nxf5 Bh7 62.Ne7 Bb1 63.Ke5 Bh7 64.Nd5 Kc6 65.Nf6
+Bb1 66.f5 Bxf5 67.Kxf5 1/2-1/2

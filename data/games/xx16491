@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.75"]
+[Result "0-1"]
+[White "Maxence Murara"]
+[Black "Stephen Ouma"]
+[ECO "D08"]
+[WhiteElo "1729"]
+[BlackElo "2038"]
+[PlyCount "49"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Bf4 Be6 6. Nbd2
+Nge7 7. a3 a5 8. Qc2 Ng6 9. Bg3 Be7 10. e3 dxe3 11. fxe3 Bc5
+12. Qe4 O-O 13. Rd1 Qc8 14. Nb3 Bf5 15. Qd5 Bxe3 16. Nh4 Bc2
+17. Nxg6 hxg6 18. Bd3 Bxb3 19. Bxg6 Qg4 20. Bxf7+ Rxf7 21. e6
+Re7 22. Ra1 Bxc4 23. Qf3 Qxf3 24. gxf3 Nd4 25. Kd1 0-1

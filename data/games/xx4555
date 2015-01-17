@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.44"]
+[Result "0-1"]
+[White "Ben Hague"]
+[Black "Guillermo Vazquez"]
+[ECO "A46"]
+[WhiteElo "2320"]
+[BlackElo "2323"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bxf6 Qxf6 5. e4 d6 6. Nc3 a6
+7. Qd2 Nd7 8. O-O-O Qe7 9. h4 g6 10. g4 Bg7 11. Ng1 b5 12. Bg2
+Bb7 13. f4 Nb6 14. Qf2 O-O-O 15. Nge2 Kb8 16. Rhf1 Rhf8
+17. Rde1 d5 18. e5 f6 19. Qg3 fxe5 20. fxe5 g5 21. hxg5 hxg5
+22. Qd3 c5 23. dxc5 Nd7 24. Nd4 Nxc5 25. Qg6 b4 26. Nd1 Rxf1
+27. Bxf1 Rh8 28. c3 Ne4 29. Qxe6 Qxe6 30. Nxe6 Bxe5 31. Bd3
+Re8 32. Bxe4 Rxe6 0-1

@@ -1,0 +1,20 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.04"]
+[EventDate "2014.03.04"]
+[Round "1.96"]
+[Result "0-1"]
+[White "Jedrzej Szumniak"]
+[Black "Daniel Kazmaier"]
+[ECO "A84"]
+[WhiteElo "1618"]
+[BlackElo "2187"]
+[PlyCount "62"]
+
+1. d4 f5 2. c4 Nf6 3. Nf3 g6 4. Nc3 Bg7 5. g3 O-O 6. Bg2 d6
+7. b3 Nc6 8. Bb2 e5 9. dxe5 dxe5 10. Nb5 e4 11. Nfd4 Ne7
+12. Nc2 Bd7 13. Nc3 Qe8 14. O-O Rd8 15. e3 Ng4 16. Qe2 Ne5
+17. Rad1 c5 18. Na3 g5 19. Nab5 g4 20. h4 Nf3+ 21. Bxf3 gxf3
+22. Qc2 Qh5 23. Kh2 Be5 24. Rh1 Bxb5 25. cxb5 Qxh4+ 26. Kg1
+Qg4 27. Na4 Rxd1+ 28. Qxd1 Bxg3 29. Qd7 Bxf2+ 30. Kxf2 Qg2+
+31. Ke1 Qe2# 0-1

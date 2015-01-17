@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.60"]
+[Result "1-0"]
+[White "Juan Armando Rohl Montes"]
+[Black "Gary Cooper"]
+[ECO "B90"]
+[WhiteElo "2390"]
+[BlackElo "1844"]
+[PlyCount "55"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. Bb3 Be7 8. g4 h5 9. g5 Ng4 10. h3 Ne5 11. f4 Nec6 12. Be3
+Nxd4 13. Bxd4 e5 14. fxe5 dxe5 15. Bxe5 Qxd1+ 16. Rxd1 O-O
+17. g6 Bh4+ 18. Ke2 Be6 19. gxf7+ Bxf7 20. Rhg1 g5 21. Bg3
+Bxb3 22. Bxh4 Bc4+ 23. Ke3 Nc6 24. Rxg5+ Kf7 25. Rd7+ Ke6
+26. Rxb7 Rf6 27. Rc5 Rc8 28. Bxf6 1-0

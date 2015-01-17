@@ -1,0 +1,35 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.09"]
+[EventDate "2014.03.04"]
+[Round "7.19"]
+[Result "0-1"]
+[White "Maxim Devereaux"]
+[Black "Ferenc Berkes"]
+[ECO "E54"]
+[WhiteElo "2345"]
+[BlackElo "2687"]
+[PlyCount "214"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4
+7. cxd5 Nxd5 8. Bd2 Nc6 9. Bd3 O-O 10. O-O Be7 11. Qe2 Nf6
+12. Ne4 Bd7 13. Rfd1 Rc8 14. a3 Re8 15. Nxf6+ Bxf6 16. Qe4 g6
+17. Bc3 Bg7 18. Rac1 Rc7 19. Qf4 Ne7 20. Ne5 Rf8 21. Be4 Ba4
+22. Re1 Bb3 23. Bb4 a5 24. Bxe7 Rxe7 25. Qe3 a4 26. Bc2 Bxc2
+27. Rxc2 Rc7 28. Rec1 Rxc2 29. Rxc2 Qd6 30. h3 Rd8 31. Rc4 b5
+32. Rc5 Qxd4 33. Qxd4 Rxd4 34. Rxb5 Rd1+ 35. Kh2 h5 36. h4 Bf6
+37. g3 Rd2 38. Kg2 Re2 39. Nf3 Rxb2 40. Ra5 Be7 41. Ne5 Bxa3
+42. Nc4 Rb3 43. Rxa4 Bc5 44. Ra2 Kg7 45. Nd2 Rb4 46. Rc2 Bb6
+47. Nc4 Bd4 48. Nd6 Rb6 49. Ne4 Ra6 50. Ng5 Ra7 51. Rc4 Be5
+52. Rc5 Bc7 53. Rc2 Kf8 54. Re2 Ke7 55. Nf3 Ra4 56. Rc2 Bd6
+57. Rb2 Ra7 58. Nd4 Rc7 59. Rc2 Rb7 60. Nf3 Rb4 61. Nd2 Ra4
+62. Nc4 Bc7 63. Nb2 Ra7 64. Nd3 Bd6 65. Ne1 e5 66. Nf3 f6
+67. Nd2 Ke6 68. Ne4 Be7 69. Rb2 Kf5 70. Nd2 Bc5 71. Rc2 Bd4
+72. Nf3 Ra6 73. Re2 Ba7 74. Rb2 Ra4 75. Ng1 Bd4 76. Rc2 Ra3
+77. Nf3 Ke4 78. Ne1 Kd5 79. Nf3 Ra1 80. Nd2 Ra6 81. Nf3 Ra3
+82. Nd2 Ra1 83. Nb3 Re1 84. Nc1 Rd1 85. Nb3 Rd3 86. Nd2 Bc3
+87. Nf1 Ke4 88. Re2+ Kd5 89. Re3 e4 90. Re2 Bd4 91. Rd2 f5
+92. Ra2 Rf3 93. Nh2 Rc3 94. Nf1 Kc4 95. Nd2+ Kd3 96. Nf1 Rb3
+97. Rd2+ Kc3 98. Re2 Rb2 99. Rxb2 Kxb2 100. g4 hxg4 101. h5
+gxh5 102. Ng3 h4 103. Nxf5 h3+ 104. Kf1 Kc3 105. Nh6 g3
+106. fxg3 h2 107. Kg2 e3 0-1

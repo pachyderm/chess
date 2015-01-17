@@ -1,0 +1,18 @@
+[Event "Simultaneous Exhibition"]
+[Site "NZ National Chess Centre, Dev"]
+[Date "2014.03.02"]
+[EventDate "2014.??.??"]
+[Round "1.23"]
+[Result "1-0"]
+[White "Nigel Short"]
+[Black "Emma Salazar"]
+[ECO "D06"]
+[WhiteElo "2674"]
+[BlackElo "679"]
+[PlyCount "41"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. e4 c6 5. exd5 cxd5 6. Nc3
+h5 7. Nf3 Nc6 8. Bb5 e5 9. Nxe5 Bg4 10. Qa4 Qf6 11. Nxc6 bxc6
+12. Bxc6+ Kd8 13. Bxa8 Qe6+ 14. Be3 Bf5 15. Bxd5 Qd6 16. Qxa7
+Bd3 17. Rd1 Bc2 18. Rd2 Qg6 19. O-O Kc8 20. Bf4 Rh6 21. Qc7#
+1-0

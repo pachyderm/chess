@@ -1,0 +1,25 @@
+[Event "Bundesliga"]
+[Site "Muelheim GER"]
+[Date "2014.02.09"]
+[EventDate "2013.10.12"]
+[Round "8"]
+[Result "0-1"]
+[White "Eric Hansen"]
+[Black "Luke McShane"]
+[ECO "C65"]
+[WhiteElo "2567"]
+[BlackElo "2697"]
+[PlyCount "112"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6
+7. h3 Ne7 8. d4 Bb6 9. Bd3 Ng6 10. Re1 Nh5 11. Be3 Nhf4
+12. Bf1 exd4 13. Bxd4 f5 14. e5 dxe5 15. Nxe5 Nxe5 16. Bxe5
+Ng6 17. Bd4 c5 18. Be3 f4 19. Qxd8 Rxd8 20. Bc1 Bf5 21. Nd2
+Re8 22. Rxe8+ Rxe8 23. Nf3 h6 24. Bd2 Kf8 25. c4 Be4 26. Be2
+Bc7 27. Bc3 b6 28. Nd2 Bf5 29. Kf1 Be5 30. Rc1 Rd8 31. Nf3
+Bxc3 32. Rxc3 Ke7 33. a3 Kf6 34. Ke1 Ne5 35. Nxe5 Kxe5 36. h4
+g5 37. hxg5 hxg5 38. g3 Rh8 39. gxf4+ gxf4 40. Bf3 Kd4 41. Bd5
+b5 42. Kd2 a5 43. Ke2 Rb8 44. Bf7 b4 45. Rc1 bxa3 46. Rd1+ Ke5
+47. bxa3 Bg4+ 48. f3 Rb2+ 49. Kd3 Bxf3 50. Re1+ Kf6 51. Bd5
+Bg4 52. Kc3 Re2 53. Rb1 Re3+ 54. Kd2 Ke5 55. Rb8 Kd4 56. Rf8
+Re2+ 0-1

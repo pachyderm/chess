@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.16"]
+[Result "0-1"]
+[White "Athanasios Mastrovasilis"]
+[Black "Diego Flores"]
+[ECO "A60"]
+[WhiteElo "2526"]
+[BlackElo "2562"]
+[PlyCount "126"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6
+7. Bf4 Bg7 8. e3 O-O 9. h3 a6 10. a4 Re8 11. Nd2 Nbd7 12. Be2
+Ne5 13. O-O Nfd7 14. Bh2 f5 15. Kh1 b6 16. e4 fxe4 17. Ndxe4
+Nf8 18. f4 Nf7 19. g4 Ra7 20. f5 Bxc3 21. Nxc3 Qh4 22. Qe1
+Qxh3 23. Qg3 Qxg3 24. Bxg3 Rae7 25. Rae1 Bb7 26. f6 Re3
+27. Bf4 R3e6 28. g5 Kh8 29. Kg1 Bxd5 30. Nxd5 Rxe2 31. Ne7 Re6
+32. Kh2 h6 33. gxh6 Kh7 34. Bd2 Rxe1 35. Rxe1 Nd7 36. Bc3 Nfe5
+37. Bxe5 Nxe5 38. Kg3 Nd7 39. Re6 Nxf6 40. Rxf6 Rxe7 41. Rxd6
+Re4 42. Rxb6 Rxa4 43. Rc6 c4 44. Kh3 Kxh6 45. Kg3 Rb4 46. Rxa6
+Rxb2 47. Rc6 Rc2 48. Rc5 Rc1 49. Kh3 c3 50. Kg3 g5 51. Kh3 Kg6
+52. Kg3 Kf6 53. Kf2 g4 54. Ke2 Ke6 55. Ke3 Rf1 56. Ke2 Rf3
+57. Rg5 Rg3 58. Kf2 Kf6 59. Rc5 Rf3+ 60. Ke2 Kg6 61. Rd5 Rf5
+62. Rd6+ Kg5 63. Rc6 Rf3 0-1

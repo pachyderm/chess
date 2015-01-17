@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.2"]
+[Result "1/2-1/2"]
+[White "David Navara"]
+[Black "Maxime Vachier-Lagrave"]
+[ECO "E60"]
+[WhiteElo "2716"]
+[BlackElo "2768"]
+[PlyCount "109"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. Nf3 Bg7 6. Qb3 O-O
+7. O-O dxc4 8. Qxc4 Bf5 9. Nc3 Nbd7 10. Qb3 Qb6 11. Re1 Qxb3
+12. axb3 Bc2 13. b4 Ne4 14. Bf4 Nb6 15. Rec1 Nxc3 16. bxc3 Be4
+17. Nd2 Bxg2 18. Kxg2 Rfe8 19. Ra5 Nd5 20. e4 Nxf4+ 21. gxf4
+a6 22. Kf3 e6 23. Nc4 Rad8 24. h4 h5 25. Rg1 Kh7 26. Ne5 Re7
+27. Ke3 Rc7 28. Nf3 Bf6 29. Kd3 Be7 30. Kc4 Ra8 31. f5 exf5
+32. exf5 Bf6 33. Ng5+ Kh6 34. fxg6 fxg6 35. f4 Re7 36. Ra2
+Bxg5 37. fxg5+ Kg7 38. Rf1 Rae8 39. Raf2 Rd7 40. Kc5 Rd5+
+41. Kb6 Re7 42. c4 Rxd4 43. Rf4 Rd2 44. c5 a5 45. Ra1 axb4
+46. Rxb4 Rc2 47. Raa4 Rce2 48. Ra7 Rc2 49. Ra5 Re5 50. Kc7
+Rcxc5 51. Rxc5 Rxc5 52. Rxb7 Rf5 53. Kxc6+ Kg8 54. Kd6 Rf1
+55. Ke6 1/2-1/2

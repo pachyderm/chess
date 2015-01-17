@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.46"]
+[Result "1-0"]
+[White "Jose Daniel Gemy"]
+[Black "Pierre Villegas"]
+[ECO "A48"]
+[WhiteElo "2332"]
+[BlackElo "2323"]
+[PlyCount "116"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Nbd2 d6 6. h3 Nbd7
+7. Bc4 Qe8 8. e4 e5 9. dxe5 Nxe5 10. Nxe5 dxe5 11. Be3 Qe7
+12. g4 Nd7 13. h4 Nc5 14. Qf3 Be6 15. b4 Nd7 16. Bxe6 Qxe6
+17. h5 f5 18. gxf5 gxf5 19. h6 f4 20. hxg7 Rf7 21. Bc5 Rxg7
+22. Qb3 Qxb3 23. axb3 b6 24. Bxb6 cxb6 25. Ke2 Rc8 26. c4 Nf6
+27. Rh6 Rf8 28. Rh3 Rd8 29. Rd3 Rxd3 30. Kxd3 Rd7+ 31. Ke2 Kf7
+32. c5 bxc5 33. bxc5 Rb7 34. Kd3 h5 35. c6 Rc7 36. Nc4 Ke6
+37. Ra5 Rxc6 38. Rxe5+ Kf7 39. Rf5 Ke7 40. Rxf4 Rc8 41. Rh4
+Rd8+ 42. Kc3 Ke6 43. e5 Nd5+ 44. Kd4 Ne7+ 45. Ke4 Nf5 46. Rxh5
+Rd4+ 47. Kf3 Rd3+ 48. Kf4 Rd4+ 49. Kg5 Rd3 50. Kg4 Rd4+ 51. f4
+Rd1 52. Rg5 Rg1+ 53. Kf3 Rxg5 54. fxg5 Nd4+ 55. Ke3 Nxb3
+56. g6 Ke7 57. Nd6 Kf8 58. e6 Na5 1-0

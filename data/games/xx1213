@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.63"]
+[Result "1-0"]
+[White "Moakofi Notha"]
+[Black "Jonathan Molod"]
+[ECO "A07"]
+[WhiteElo "2070"]
+[BlackElo "?"]
+[PlyCount "135"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. g3 c6 5. Bg2 Be7 6. Ngf3 O-O
+7. O-O Nbd7 8. e5 Ne8 9. Re1 Qb6 10. Nf1 Nc7 11. h4 f6 12. d4
+fxe5 13. dxe5 Nc5 14. c3 Ne4 15. Qc2 a5 16. Be3 Bc5 17. Nd4
+Nb5 18. Rad1 Nexc3 19. bxc3 Na3 20. Qb3 Qc7 21. Nxe6 Bxe6
+22. Bxc5 Nc4 23. Bxf8 Rxf8 24. f4 Qf7 25. Nd2 Ne3 26. Qb6 Nxg2
+27. Kxg2 Qf5 28. Nf3 Qc2+ 29. Rd2 Qxc3 30. Re3 Qc4 31. Qd4 Qc1
+32. Ng5 Bf5 33. e6 h6 34. e7 Re8 35. Nf3 Bg6 36. Rde2 Bf7
+37. Qc3 Qd1 38. Nd4 Bh5 39. Rd3 Qa4 40. Nf5 d4 41. Rxd4 Qb5
+42. Re5 Qb1 43. Rd2 Bg4 44. Rb5 Qe4+ 45. Kf2 Bxf5 46. Re5 Qb1
+47. Rb2 Qh1 48. Rxf5 Qh2+ 49. Kf3 Qh1+ 50. Rg2 Qf1+ 51. Rf2
+Qh1+ 52. Ke3 Rxe7+ 53. Re5 Rd7 54. Qb3+ Kh7 55. Qc2+ g6 56. h5
+Qe1+ 57. Kf3 Qh1+ 58. Ke2 Rd6 59. hxg6+ Kg7 60. Re7+ Kg8
+61. Re8+ Kg7 62. Qc3+ Kxg6 63. Rg8+ Kf7 64. Qg7+ Ke6 65. Qe5+
+Kd7 66. Rg7+ Kc8 67. Qxd6 Qe4+ 68. Kd2 1-0

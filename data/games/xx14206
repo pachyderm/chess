@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.78"]
+[Result "0-1"]
+[White "Michael Wiedenkeller"]
+[Black "Anand Rai"]
+[ECO "C50"]
+[WhiteElo "2471"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. d3 d6 6. Bg5 h6
+7. Bxf6 Qxf6 8. Nd5 Qd8 9. c3 a6 10. b4 Ba7 11. a4 O-O 12. O-O
+Kh8 13. Ne3 Be6 14. Bxe6 fxe6 15. b5 Ne7 16. d4 exd4 17. cxd4
+Ng6 18. bxa6 bxa6 19. Nc2 Qd7 20. e5 Nf4 21. g3 Nd5 22. Nh4
+Qf7 23. Qd3 Ne7 24. Ne3 Rad8 25. Nc4 g5 26. exd6 cxd6 27. Ng2
+Nf5 28. Rad1 Nxd4 29. Kh1 Qf3 30. a5 Qxd3 31. Rxd3 Bc5 32. Rc1
+Rxf2 33. h4 Rdf8 34. Rdd1 Ne2 35. Rb1 Nc3 0-1

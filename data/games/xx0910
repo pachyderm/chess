@@ -1,0 +1,18 @@
+[Event "22nd Sigeman & Co"]
+[Site "Malmo SWE"]
+[Date "2014.05.17"]
+[EventDate "2014.05.15"]
+[Round "3.3"]
+[Result "0-1"]
+[White "Erik Blomqvist"]
+[Black "Axel Smith"]
+[ECO "A06"]
+[WhiteElo "2492"]
+[BlackElo "2478"]
+[PlyCount "44"]
+
+1. Nf3 d5 2. g3 Nc6 3. d4 Bg4 4. Bg2 e6 5. O-O Be7 6. c4 Bf6
+7. e3 h6 8. Qb3 Rb8 9. Nc3 Nge7 10. Nd2 Na5 11. Qa4+ c6 12. b3
+O-O 13. Re1 c5 14. cxd5 exd5 15. Ba3 Bd7 16. Nb5 a6 17. Bxc5
+Bxb5 18. Qa3 b6 19. Bd6 Rc8 20. e4 Nb7 21. e5 Nxd6 22. exf6
+gxf6 0-1

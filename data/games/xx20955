@@ -1,0 +1,27 @@
+[Event "Riga Technical University Open"]
+[Site "Riga LAT"]
+[Date "2014.08.19"]
+[EventDate "2014.08.16"]
+[Round "4.15"]
+[Result "1-0"]
+[White "Jan Werle"]
+[Black "Frank Erwich"]
+[ECO "E26"]
+[WhiteElo "2511"]
+[BlackElo "2328"]
+[PlyCount "139"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. a3 Bxc3+ 6. bxc3 c5
+7. Bd3 Bb7 8. f3 Nc6 9. Ne2 O-O 10. O-O Na5 11. e4 Ne8 12. e5
+cxd4 13. cxd4 Rc8 14. Qc2 Nxc4 15. Bxh7+ Kh8 16. Be4 Nxe5
+17. Qa4 Nc6 18. d5 Na5 19. Bd2 Bxd5 20. Bxd5 exd5 21. Bxa5
+bxa5 22. Kh1 Rc4 23. Qd1 Nf6 24. Qd2 Qc7 25. Nd4 Re8 26. Rad1
+Re5 27. Qf4 Kg8 28. Qg3 Rh5 29. Qxc7 Rxc7 30. Rfe1 g6 31. Nb5
+Rb7 32. Nd4 Kg7 33. Rc1 a4 34. Kg1 Rh8 35. Rc5 d6 36. Rc6 Re8
+37. Rxe8 Nxe8 38. Ra6 Rc7 39. Nc6 Kf6 40. Kf2 Ng7 41. Nb4 Ke6
+42. g4 Ne8 43. Rxa4 Nf6 44. Ra5 g5 45. Ke2 Ke5 46. Rxa7 Rxa7
+47. Nc6+ Kf4 48. Nxa7 Nd7 49. Nb5 Ke5 50. a4 Nc5 51. a5 d4
+52. Nc7 d3+ 53. Ke3 d2 54. Ke2 f5 55. a6 Nxa6 56. Nxa6 fxg4
+57. Nb4 gxf3+ 58. Kxd2 Ke4 59. Ke1 d5 60. Kf2 g4 61. Na6 d4
+62. Nc5+ Kd5 63. Nd3 Ke4 64. Nb2 d3 65. Nc4 Kd4 66. Nd2 Kc3
+67. Ke3 Kc2 68. Ne4 Kd1 69. Nf2+ Ke1 70. Nxg4 1-0

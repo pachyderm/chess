@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.43"]
+[Result "0-1"]
+[White "Ben Magana"]
+[Black "Tanguy Ringoir"]
+[ECO "C60"]
+[WhiteElo "2085"]
+[BlackElo "2508"]
+[PlyCount "108"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Ba4 Nge7
+7. d4 exd4 8. cxd4 O-O 9. Nc3 b5 10. Bb3 d6 11. h3 Na5 12. Bc2
+c5 13. Bg5 h6 14. Bf4 Nc4 15. Bc1 Qb6 16. b3 cxd4 17. bxc4
+dxc3 18. Be3 Qc7 19. cxb5 axb5 20. Qd3 d5 21. Nd4 b4 22. Rfb1
+Ba6 23. Qd1 dxe4 24. Bxe4 Rab8 25. Qa4 Qc4 26. Rd1 Bb7
+27. Bxb7 Rxb7 28. Nc2 Nf5 29. a3 Nxe3 30. fxe3 Rb5 31. axb4
+Rg5 32. b5 Qxb5 33. Qxb5 Rxb5 34. Rac1 Rb2 35. Kf1 Ra8 36. Ke2
+h5 37. Rd5 Kf8 38. Kd3 Ke7 39. Re1 Ke6 40. e4 Ra4 41. Rc5 Be5
+42. Re2 Rb1 43. Re1 Rxe1 44. Nxe1 Ra2 45. Nf3 Bd6 46. Nd4+ Ke7
+47. Rxc3 Rxg2 48. Kc4 Be5 49. Kd5 Bxd4 50. Kxd4 h4 51. Rc7+
+Kf8 52. Rc3 Rg3 53. Rxg3 hxg3 54. Ke3 f5 0-1

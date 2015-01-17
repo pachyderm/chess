@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.9"]
+[Result "0-1"]
+[White "Bolot Takyrbashev"]
+[Black "Emil Sutovsky"]
+[ECO "A49"]
+[WhiteElo "2229"]
+[BlackElo "2624"]
+[PlyCount "66"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 d6 5. O-O O-O 6. Re1 Ne4
+7. Nbd2 Nxd2 8. Qxd2 a5 9. e4 a4 10. h3 c5 11. Rb1 cxd4
+12. Nxd4 Qb6 13. c3 Nc6 14. Rd1 Nxd4 15. cxd4 Bd7 16. Qe3 Rfc8
+17. d5 Rc5 18. Bd2 Qc7 19. Qa3 Rc2 20. Be3 b5 21. Bf1 Qc8
+22. Rdc1 Bxh3 23. Rxc2 Qxc2 24. Rc1 Qxb2 25. Qxb2 Bxb2
+26. Bxh3 Bxc1 27. Bxc1 b4 28. Kf1 a3 29. Ke2 b3 30. axb3 a2
+31. Bb2 a1=Q 32. Bxa1 Rxa1 33. b4 Rb1 0-1

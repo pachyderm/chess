@@ -1,0 +1,18 @@
+[Event "Casino Graz"]
+[Site "Graz AUT"]
+[Date "2014.02.15"]
+[EventDate "2014.02.14"]
+[Round "2.2"]
+[Result "1-0"]
+[White "Markus Ragger"]
+[Black "Georg Danner"]
+[ECO "E11"]
+[WhiteElo "2646"]
+[BlackElo "2336"]
+[PlyCount "43"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 b6 6. Nc3
+Bb7 7. Qf4 Bxf3 8. Qxf3 Nc6 9. e3 O-O 10. Bd3 e5 11. d5 Ne7
+12. g4 d6 13. Rg1 Nd7 14. g5 f5 15. gxf6 Nxf6 16. O-O-O Qd7
+17. Rg5 Rf7 18. Rdg1 Raf8 19. Qxf6 Nxd5 20. Bxh7+ Kxh7
+21. Qg6+ Kg8 22. Nxd5 1-0

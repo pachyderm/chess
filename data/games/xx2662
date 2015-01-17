@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.84"]
+[Result "1-0"]
+[White "Yuri A Meshkov"]
+[Black "Kristian Stuvik Holm"]
+[ECO "A20"]
+[WhiteElo "2357"]
+[BlackElo "2275"]
+[PlyCount "65"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 h6 4. Nc3 Bb4 5. d3 Bxc3+ 6. bxc3
+O-O 7. e4 c6 8. Qb3 Na6 9. Ba3 Re8 10. Ne2 d6 11. O-O Nc5
+12. Qc2 Qa5 13. Bb4 Qc7 14. a4 Bg4 15. f3 Bd7 16. Ba3 Ne6
+17. d4 d5 18. Qd3 dxe4 19. fxe4 Ng5 20. dxe5 Ng4 21. Bd6 Qb6+
+22. c5 Qa6 23. c4 Be6 24. Rfc1 Rad8 25. Qc3 f6 26. exf6 Nxf6
+27. e5 Nfe4 28. Qd4 Bg4 29. Nf4 Nxd6 30. cxd6 Nf7 31. h3 c5
+32. Qc3 Bf5 33. Bd5 1-0

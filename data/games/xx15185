@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.21"]
+[Result "1-0"]
+[White "Tomas Petrik"]
+[Black "Toms Kantans"]
+[ECO "C70"]
+[WhiteElo "2487"]
+[BlackElo "2496"]
+[PlyCount "101"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 5. O-O g6 6. c3 Bg7
+7. d4 exd4 8. cxd4 O-O 9. Nc3 d5 10. exd5 Nxd5 11. Bg5 Qd6
+12. Ne4 Qb4 13. Bb3 Be6 14. Rc1 h6 15. Bd2 Qb6 16. Nc5 Rad8
+17. Nxe6 fxe6 18. Qe2 Rd6 19. Rcd1 g5 20. Bc1 Nce7 21. h4 gxh4
+22. Nxh4 Nf4 23. Bxf4 Rxf4 24. g3 Rfxd4 25. Rxd4 Qxd4
+26. Bxe6+ Kh8 27. Bb3 Qe5 28. Qc4 Rf6 29. Rd1 Bf8 30. Bc2 b5
+31. Qd3 Rf7 32. Rd2 c5 33. Kg2 c4 34. Qd7 Rf6 35. Qg4 Qe6
+36. Qh5 Qf7 37. Qe2 Qe6 38. Qh5 Qf7 39. Qd1 Qe6 40. Rd8 Qc6+
+41. Kg1 Qc5 42. Qe2 Nc6 43. Rc8 Qe7 44. Qd2 Qe6 45. Ra8 Kg8
+46. Ng2 Qd6 47. Qe2 Qd4 48. Nf4 Ne5 49. Re8 Nf7 50. Ne6 Rxe6
+51. Qxe6 1-0

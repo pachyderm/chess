@@ -1,0 +1,28 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.19"]
+[Result "1-0"]
+[White "Emre Can"]
+[Black "Tomas Laurusas"]
+[ECO "D15"]
+[WhiteElo "2529"]
+[BlackElo "2435"]
+[PlyCount "141"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 a6 5. a4 g6 6. Bf4 Bg7
+7. e3 O-O 8. Be2 c5 9. dxc5 Qa5 10. O-O dxc4 11. Nd2 Qxc5
+12. a5 Be6 13. Bxc4 Bxc4 14. Na4 Qb5 15. Nxc4 Nc6 16. Qc2 Nd5
+17. Nab6 Rad8 18. Ra3 Nxb6 19. axb6 Nb4 20. Qe4 e5 21. Bxe5 f5
+22. Qh4 Bxe5 23. Nxe5 Qxe5 24. Qxb4 Rf6 25. Rc3 Qd6 26. Qb3+
+Qe6 27. Rc4 Qxb6 28. Rb4+ Qe6 29. Qxe6+ Rxe6 30. Rxb7 Rc6
+31. h4 Rdd6 32. Ra1 Rb6 33. Ra7 Rf6 34. Ra5 Rxb2 35. Rc5 Rf7
+36. Rxa6 Kg7 37. Rac6 f4 38. e4 f3 39. Rc7 Rb1+ 40. Kh2 fxg2
+41. Kxg2 Rb7 42. Rxf7+ Kxf7 43. Kg3 Ke6 44. f3 Kf6 45. Kf4 Ra7
+46. Rc6+ Kg7 47. Rd6 Rf7+ 48. Kg4 Ra7 49. Kg5 Ra5+ 50. Rd5 Ra7
+51. h5 h6+ 52. Kg4 g5 53. Rd6 Re7 54. Rg6+ Kh7 55. Kf5 Ra7
+56. e5 Ra3 57. e6 Rxf3+ 58. Ke5 Re3+ 59. Kd6 Rd3+ 60. Kc7 Rc3+
+61. Kd7 Rd3+ 62. Ke8 g4 63. Rxg4 Rd5 64. e7 Rxh5 65. Kf7 Re5
+66. Rg7+ Kh8 67. Rg8+ Kh7 68. e8=Q Rxe8 69. Rxe8 h5 70. Re6 h4
+71. Re4 1-0

@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.34"]
+[Result "0-1"]
+[White "Jorge Viterbo Ferreira"]
+[Black "Max Illingworth"]
+[ECO "D00"]
+[WhiteElo "2413"]
+[BlackElo "2439"]
+[PlyCount "138"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. Nc3 cxd4 5. exd4 a6 6. Nf3 Bg4
+7. h3 Bxf3 8. Qxf3 e6 9. O-O-O Bd6 10. Bxd6 Qxd6 11. g4 Nc6
+12. g5 Nd7 13. h4 Ne7 14. h5 O-O-O 15. Bh3 Rhf8 16. Ne2 Nb6
+17. Qf4 Nc4 18. Qxd6 Nxd6 19. Ng3 b5 20. f4 Kb7 21. Rhf1 g6
+22. Nh1 gxh5 23. Nf2 h4 24. Ng4 Ndf5 25. Rf3 Kc7 26. Rc3+ Kd6
+27. Ne5 Ng3 28. Re1 b4 29. Rc5 Ne4 30. Ra5 Ra8 31. Bg2 Ng3
+32. Bh3 Nef5 33. c3 bxc3 34. bxc3 Ra7 35. Kc2 Rc8 36. Bxf5
+Nxf5 37. Kd3 Ke7 38. Rb1 h6 39. Rc5 Rxc5 40. dxc5 Rc7 41. c4
+dxc4+ 42. Kxc4 hxg5 43. fxg5 Nd6+ 44. Kd4 Nb5+ 45. Ke3 Rxc5
+46. Nf3 Nd6 47. Rb4 h3 48. Kf4 Rc2 49. Kg3 Rxa2 50. Kxh3 Ra5
+51. Rb6 Kd7 52. Rb8 Kc7 53. Ra8 Kb7 54. Rd8 Rd5 55. Kg4 a5
+56. Kf4 a4 57. Ne5 Nc4 58. Rxd5 exd5 59. Nd3 Kb6 60. Kf5 a3
+61. Nc1 Kb5 62. Kf6 Nd6 63. Ke5 Kc4 64. Kxd6 d4 65. Ke7 d3
+66. Nxd3 Kxd3 67. Kxf7 a2 68. g6 a1=Q 69. g7 Qf1+ 0-1

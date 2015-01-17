@@ -1,0 +1,18 @@
+[Event "Casino Graz"]
+[Site "Graz AUT"]
+[Date "2014.02.16"]
+[EventDate "2014.02.14"]
+[Round "3.28"]
+[Result "1-0"]
+[White "Michael Ernst"]
+[Black "Bence Szonyi"]
+[ECO "E32"]
+[WhiteElo "2163"]
+[BlackElo "1699"]
+[PlyCount "41"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3
+b6 7. e3 Bb7 8. f3 d5 9. b3 Nbd7 10. Bd3 c5 11. Ne2 cxd4
+12. exd4 dxc4 13. bxc4 Re8 14. O-O e5 15. Bb2 exd4 16. Nxd4
+Nc5 17. Bc2 Rc8 18. Nf5 Rc7 19. Rad1 Rd7 20. Rxd7 Qxd7
+21. Nxg7 1-0

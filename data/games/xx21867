@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.38"]
+[Result "1-0"]
+[White "Sergio Minero Pineda"]
+[Black "Marcos Ortiz"]
+[ECO "E63"]
+[WhiteElo "2384"]
+[BlackElo "2214"]
+[PlyCount "115"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nc6
+7. Nc3 a6 8. Qd3 e5 9. dxe5 dxe5 10. Qxd8 Rxd8 11. Bg5 Be6
+12. Nd2 h6 13. Bxf6 Bxf6 14. Rfd1 Rab8 15. Nd5 Bxd5 16. cxd5
+Nb4 17. Nc4 c6 18. dxc6 bxc6 19. a3 Nc2 20. Rab1 Rd4 21. Rxd4
+Nxd4 22. e3 Ne2+ 23. Kf1 Nc3 24. Rc1 Nd5 25. b4 e4 26. Bxe4
+Nc3 27. Bxc6 Rc8 28. Na5 Nb5 29. Rd1 Nxa3 30. Rd7 Rd8
+31. Rxd8+ Bxd8 32. Bb7 Bxa5 33. bxa5 Nc4 34. Bxa6 Nxa5 35. e4
+Kf8 36. Ke2 Ke7 37. Ke3 Nc6 38. f4 f6 39. Bc4 Kd6 40. Bd5 Nb4
+41. Bb3 Nc6 42. Ba4 Nd8 43. Bb3 Nc6 44. Bd5 Nb4 45. Bf7 g5
+46. Kf3 Ke7 47. Bc4 h5 48. fxg5 fxg5 49. e5 Kf8 50. Ke4 Kg7
+51. Kf5 g4 52. Kg5 Nc6 53. e6 Kf8 54. Kxh5 Ke7 55. Ba2 Ne5
+56. Kg5 Nf3+ 57. Kxg4 Nxh2+ 58. Kf4 1-0

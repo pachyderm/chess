@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.84"]
+[Result "0-1"]
+[White "Bernardo Garcia"]
+[Black "Igor Yarmonov"]
+[ECO "A20"]
+[WhiteElo "1769"]
+[BlackElo "2329"]
+[PlyCount "38"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Bc5 4. Nf3 e4 5. Ng5 Bxf2+ 6. Kf1
+Bb6 7. b4 h6 8. Nxf7 Kxf7 9. c5 d5 10. cxb6 axb6 11. d4 Rf8
+12. Ke1 Kg8 13. h3 Qd6 14. Qb3 Nc6 15. Ba3 Nxd4 16. Qc3 Nb5
+17. Qb3 Be6 18. Qe3 Nxa3 19. Nxa3 Qxb4+ 0-1

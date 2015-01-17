@@ -1,0 +1,24 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.07"]
+[EventDate "2014.03.04"]
+[Round "5.66"]
+[Result "0-1"]
+[White "Marcel Marentini"]
+[Black "Tyler Longo"]
+[ECO "D35"]
+[WhiteElo "2155"]
+[BlackElo "1961"]
+[PlyCount "98"]
+
+1. c4 e6 2. Nc3 Nf6 3. d4 d5 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7
+7. Bd3 O-O 8. Nge2 Nbd7 9. O-O b6 10. Ng3 h6 11. Bf4 g5
+12. Be5 Nxe5 13. dxe5 Ng4 14. Nf5 Bxf5 15. Bxf5 Nxe5 16. Qh5
+Kg7 17. Rad1 Nc4 18. Ne4 Nxb2 19. Ng3 Bd6 20. Qe2 Nxd1
+21. Nh5+ Kg8 22. Rxd1 Be5 23. h4 Bg7 24. Qg4 Re8 25. e4 Re5
+26. f4 Rxf5 27. Qxf5 Qc8 28. Nxg7 Kxg7 29. Qe5+ Kg8 30. hxg5
+Qe6 31. Qc3 dxe4 32. gxh6 Qxh6 33. f5 Re8 34. f6 Re6 35. Rd8+
+Kh7 36. Qg3 Qxf6 37. Qh3+ Qh6 38. Qf5+ Kg7 39. Qg4+ Qg6
+40. Qh3 Qh6 41. Qg3+ Kf6 42. Qc3+ Ke7 43. Ra8 Qg5 44. Rxa7+
+Kd6 45. Qh8 Qc1+ 46. Kf2 e3+ 47. Kf3 Qf1+ 48. Kg3 Rg6+ 49. Kh2
+Qxg2# 0-1

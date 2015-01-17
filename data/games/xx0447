@@ -1,0 +1,20 @@
+[Event "Simul"]
+[Site "Cupertino, CA"]
+[Date "2014.06.02"]
+[EventDate "?"]
+[Round "1"]
+[Result "1-0"]
+[White "Jesse Kraai"]
+[Black "Stu Taylor"]
+[ECO "A04"]
+[WhiteElo "2527"]
+[BlackElo "1880"]
+[PlyCount "69"]
+
+1.Nf3 c5 2.c4 g6 3.e4 Bg7 4.d4 d6 5.Nc3 Bg4 6.d5 Bxc3+ 7.bxc3
+Qa5 8.Qc2 Nf6 9.Bd3 Nbd7 10.Rb1 Bxf3 11.gxf3 Ne5 12.Be2 Rb8
+13.f4 Ned7 14.Rb5 Qc7 15.h4 a6 16.Rb1 e6 17.h5 exd5 18.cxd5
+gxh5 19.c4 Rg8 20.Bb2 b5 21.e5 dxe5 22.fxe5 Nxe5 23.Qf5 Nfd7
+24.cxb5 axb5 25.Kf1 Qd6 26.Rxh5 f6 27.Rxh7 Qxd5 28.Rd1 Qg2+
+29.Ke1 Qg1+ 30.Bf1 Qg4 31.Qxg4 Rxg4 32.Bxe5 fxe5 33.Rdxd7 Re4+
+34.Be2 Rd8 35.Ra7 1-0

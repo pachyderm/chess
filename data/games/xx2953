@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.17"]
+[Result "0-1"]
+[White "Jakob Vang Glud"]
+[Black "David Howell"]
+[ECO "A26"]
+[WhiteElo "2533"]
+[BlackElo "2650"]
+[PlyCount "114"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 e5 4. Nc3 d6 5. e4 Nf6 6. Nge2 O-O
+7. O-O c6 8. d3 a6 9. h3 b5 10. Be3 Nbd7 11. Kh2 Re8 12. Qd2
+Rb8 13. Rac1 Bb7 14. b4 bxc4 15. dxc4 Nb6 16. Qd3 d5 17. c5
+Na8 18. f4 d4 19. fxe5 dxe3 20. Qxd8 Ng4+ 21. hxg4 Rbxd8
+22. Rf3 Nc7 23. Rxe3 Bxe5 24. Rc2 Ne6 25. a4 a5 26. b5 Rc8
+27. b6 Nxc5 28. Nb1 Na6 29. Na3 Nb4 30. Rc5 Ba6 31. Rxa5 Rb8
+32. Rxa6 Nxa6 33. Nc4 Rbd8 34. Ng1 Bd4 35. Re2 Bxg1+ 36. Kxg1
+Rd4 37. Rc2 Kf8 38. e5 Nb8 39. a5 Rxg4 40. Kf2 Rd4 41. Ke3 Rg4
+42. Kf3 h5 43. Bf1 Rd4 44. Ra2 Nd7 45. a6 Rxc4 46. Bxc4 Nxb6
+47. a7 Nxc4 48. a8=Q Nxe5+ 49. Ke4 Nd7+ 50. Qxe8+ Kxe8 51. Rc2
+c5 52. Kd5 Nf6+ 53. Ke5 Ke7 54. Re2 Ng4+ 55. Kd5+ Kf6 56. Kxc5
+Nh6 57. Rg2 Ke5 0-1

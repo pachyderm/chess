@@ -1,0 +1,25 @@
+[Event "Simul"]
+[Site "Telford, ENG"]
+[Date "2014.??.??"]
+[EventDate "2014.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Michael Adams"]
+[Black "Carl Portman"]
+[ECO "A15"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "115"]
+
+1. c4 Nf6 2. g3 c6 3. Bg2 d5 4. Nf3 g6 5. b3 Bg7 6. Bb2 O-O
+7. O-O Bf5 8. d3 Nbd7 9. Nbd2 Re8 10. Nd4 Nf8 11. Nxf5 gxf5
+12. b4 Ng6 13. Rc1 e6 14. Nb3 f4 15. e3 Qb6 16. exf4 dxc4
+17. Rxc4 Rad8 18. Qc2 Nh5 19. Bc1 Rd7 20. Be3 Qd8 21. Nc5 Rc7
+22. b5 Ne7 23. bxc6 bxc6 24. Rb1 Nd5 25. Ne4 Qd7 26. Bd4 Bxd4
+27. Rxd4 f5 28. Ng5 Nhf6 29. Rc4 Rec8 30. Nf3 c5 31. Qb2 Qd8
+32. Qe5 Qe7 33. Rbc1 Nd7 34. Qe2 N7b6 35. R4c2 Nb4 36. Rd2 Nc6
+37. Qe3 Nb4 38. h4 N6d5 39. Qe1 Nc6 40. Kh2 Qf6 41. Rxc5 Ncb4
+42. Rxc7 Rxc7 43. Ne5 a5 44. a3 Nc6 45. Nxc6 Rxc6 46. Bxd5
+exd5 47. Qe8+ Kg7 48. Re2 Rc7 49. Re6 Qf7 50. Qd8 Rd7 51. Qg5+
+Kh8 52. Rf6 Qg7 53. Qxf5 Kg8 54. Qe6+ Rf7 55. Rxf7 Qxf7 56. f5
+Kg7 57. Qxf7+ Kxf7 58. g4 1-0

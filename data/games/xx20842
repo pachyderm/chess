@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.3"]
+[Result "0-1"]
+[White "Magnus Carlsen"]
+[Black "Arkadij Naiditsch"]
+[ECO "E20"]
+[WhiteElo "2877"]
+[BlackElo "2709"]
+[PlyCount "124"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 O-O 6. Bg2 cxd4
+7. Nxd4 d5 8. cxd5 Nxd5 9. Qb3 Nc6 10. Nxc6 bxc6 11. O-O Qa5
+12. Ne4 Ba6 13. Qc2 h6 14. a3 Be7 15. b4 Qb5 16. Re1 Qc4
+17. Qb2 c5 18. Nxc5 Bf6 19. Qa2 Rac8 20. e4 Nc3 21. Qxc4 Bxc4
+22. e5 Be7 23. Bd2 Ne2+ 24. Kh1 Nd4 25. Rac1 Bd5 26. Bxd5 exd5
+27. Nd7 Rxc1 28. Rxc1 Rd8 29. Nc5 Bxc5 30. Rxc5 Nf3 31. Bc3 g5
+32. h3 h5 33. Kg2 g4 34. b5 Rd7 35. Rc8+ Kh7 36. Ba5 d4
+37. hxg4 hxg4 38. e6 fxe6 39. Rc7 Rxc7 40. Bxc7 d3 41. Kf1 Nd4
+42. Ke1 Nxb5 43. Bb8 Nxa3 44. Kd2 a5 45. Kxd3 Kg6 46. Ke4 a4
+47. Be5 Nc4 48. Bc3 a3 49. Kf4 Kh5 50. f3 e5+ 51. Ke4 Nd6+
+52. Ke3 Kg5 53. fxg4 e4 54. Kd2 Nb5 55. Be5 Kxg4 56. Ke3 Kf5
+57. Ba1 Nd6 58. Kd2 Kg4 59. Ke3 a2 60. Bc3 Kxg3 61. Ba1 Kg4
+62. Kd2 Kf3 0-1

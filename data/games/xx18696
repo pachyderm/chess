@@ -1,0 +1,18 @@
+[Event "Bundesliga"]
+[Site "Eppingen GER"]
+[Date "2014.04.05"]
+[EventDate "2013.10.12"]
+[Round "14"]
+[Result "1/2-1/2"]
+[White "Alexander Naumann"]
+[Black "Daniel Fridman"]
+[ECO "D44"]
+[WhiteElo "2540"]
+[BlackElo "2602"]
+[PlyCount "42"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. Nc3 c6 5. Bg5 dxc4 6. e4 b5
+7. e5 h6 8. Bh4 g5 9. Nxg5 hxg5 10. Bxg5 Be7 11. exf6 Bxf6
+12. Bxf6 Qxf6 13. g3 Bb7 14. Bg2 Na6 15. a4 O-O-O 16. axb5
+cxb5 17. Bxb7+ Kxb7 18. Nxb5 Nb4 19. O-O Nc6 20. f4 a6 21. Nc3
+Qxd4+ 1/2-1/2

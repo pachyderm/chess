@@ -1,0 +1,20 @@
+[Event "Norway Chess Tournament (Blitz)"]
+[Site "Flor & Fjaere NOR"]
+[Date "2014.06.02"]
+[EventDate "2014.06.02"]
+[Round "1.1"]
+[Result "0-1"]
+[White "Simen Agdestein"]
+[Black "Vladimir Kramnik"]
+[ECO "B07"]
+[WhiteElo "2628"]
+[BlackElo "2783"]
+[PlyCount "61"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 Na6
+7. O-O c5 8. a4 cxd4 9. Nxd4 Bd7 10. Nd5 Nc5 11. Nxf6+ Bxf6
+12. c3 a6 13. Bh6 Re8 14. b3 Rc8 15. Qd2 e5 16. Nc2 Nxb3
+17. Qxd6 Nxa1 18. Rxa1 Be6 19. Qb4 Qd3 20. Ne3 Qxc3 21. Qb1
+Bg7 22. Bxg7 Kxg7 23. h4 b5 24. axb5 axb5 25. Nd5 Qd4 26. Ra5
+Qd2 27. Qxb5 Rc1+ 28. Bf1 Bh3 29. Ne3 Bxf1 30. Nxf1 Qe1
+31. Ra4 0-1

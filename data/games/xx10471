@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.3"]
+[Result "1/2-1/2"]
+[White "Mateusz Bartel"]
+[Black "Kjetil A Lie"]
+[ECO "B50"]
+[WhiteElo "2640"]
+[BlackElo "2528"]
+[PlyCount "63"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. e5 dxe5 5. Nxe5 Nbd7 6. Nc4
+e6 7. Qf3 Be7 8. Be2 O-O 9. O-O Nb6 10. Rd1 Nxc4 11. Bxc4 Qc7
+12. Nb5 Qb6 13. a4 Bd7 14. a5 Qc6 15. Qxc6 Bxc6 16. a6 b6
+17. d4 Bxb5 18. Bxb5 Rad8 19. Be3 Nd5 20. c3 Nxe3 21. fxe3
+cxd4 22. cxd4 Rc8 23. Rac1 Rfd8 24. Bc6 Kf8 25. Kf2 Bd6 26. e4
+Ke7 27. d5 Be5 28. b3 g5 29. g3 h5 30. Bb7 Rxc1 31. Rxc1 Rd7
+32. Rc8 1/2-1/2

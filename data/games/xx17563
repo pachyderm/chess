@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.1"]
+[Result "1/2-1/2"]
+[White "Wang Yue"]
+[Black "Vassily Ivanchuk"]
+[ECO "D20"]
+[WhiteElo "2718"]
+[BlackElo "2744"]
+[PlyCount "64"]
+
+1. d4 d5 2. c4 dxc4 3. e4 c5 4. d5 e6 5. Nc3 Nf6 6. Bxc4 exd5
+7. Nxd5 Nxd5 8. Bxd5 Be7 9. Nf3 O-O 10. O-O Na6 11. Bf4 Nb4
+12. Re1 Nxd5 13. exd5 Bd6 14. Bxd6 Qxd6 15. Ne5 b6 16. Nc4 Qf6
+17. Qa4 Qd8 18. Rad1 Bg4 19. f3 Bd7 20. Qb3 Re8 21. Ne5 f6
+22. Nc6 Rxe1+ 23. Rxe1 Bxc6 24. dxc6+ Kf8 25. Rd1 Qe7 26. Kf2
+Rd8 27. Rd5 Qc7 28. Qd1 Rxd5 29. Qxd5 Ke7 30. h4 h5 31. a3 Qd6
+32. Qxh5 Qxc6 1/2-1/2

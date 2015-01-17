@@ -1,0 +1,30 @@
+[Event "Bundesliga"]
+[Site "Bochum GER"]
+[Date "2014.03.16"]
+[EventDate "2013.10.12"]
+[Round "12"]
+[Result "0-1"]
+[White "Alexander Rustemov"]
+[Black "Michael Richter"]
+[ECO "A11"]
+[WhiteElo "2538"]
+[BlackElo "2473"]
+[PlyCount "166"]
+
+1. c4 c6 2. Nc3 d5 3. e3 e6 4. Nf3 Bd6 5. b3 Nf6 6. Bb2 Nbd7
+7. Qc2 O-O 8. Be2 a6 9. d4 dxc4 10. bxc4 c5 11. Rd1 cxd4
+12. exd4 b5 13. d5 exd5 14. cxb5 axb5 15. Nxb5 Bb4+ 16. Bc3
+Bxc3+ 17. Nxc3 Qc7 18. Qd2 Ne4 19. Nxe4 dxe4 20. Nd4 Nf6
+21. O-O Bg4 22. h3 Bxe2 23. Qxe2 Rfc8 24. Nf5 Qe5 25. Ne3 g6
+26. Rd2 Rd8 27. Rfd1 Rxd2 28. Qxd2 Kg7 29. Rb1 Qa5 30. Rb2
+Qxd2 31. Rxd2 Nh5 32. g3 Ra7 33. Kf1 f5 34. Nd5 Nf6 35. Nb4 e3
+36. fxe3 Ne4 37. Rg2 h5 38. Ke1 Ra3 39. Ke2 Ra4 40. Nc2 Rxa2
+41. Kd3 Ng5 42. h4 Nf3 43. Kc3 Kf6 44. Kb3 Ra8 45. Rf2 Ne5
+46. Rd2 Rb8+ 47. Kc3 Rc8+ 48. Kb3 Nc4 49. Rd5 Rc7 50. Rd8 Na5+
+51. Kb2 Nc4+ 52. Kb3 Ke7 53. Rd5 Nd6 54. Nd4 Rc1 55. Ra5 Re1
+56. Re5+ Kf7 57. Kc2 Ne4 58. Kd3 Rd1+ 59. Kc4 Rc1+ 60. Kb4 Re1
+61. Ra5 Rxe3 62. Ra7+ Kf6 63. Ra6+ Ke5 64. Nc6+ Kd6 65. Nd4+
+Kd5 66. Ne6 Nxg3 67. Nf4+ Ke4 68. Nxg6 Kf3 69. Kc5 Kg4 70. Kd4
+Re8 71. Ra7 Ne2+ 72. Kd3 Nf4+ 73. Nxf4 Kxf4 74. Rg7 Kf3
+75. Rg5 Rd8+ 76. Kc4 f4 77. Rxh5 Kg4 78. Rh7 f3 79. h5 Rf8
+80. Rg7+ Kxh5 81. Rg1 f2 82. Rf1 Kg4 83. Kd3 Kf3 0-1

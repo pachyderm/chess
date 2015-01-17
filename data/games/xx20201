@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.28"]
+[Result "1-0"]
+[White "Andreas Diermair"]
+[Black "Naoto Mitsuya"]
+[ECO "E11"]
+[WhiteElo "2447"]
+[BlackElo "2024"]
+[PlyCount "75"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. a3 Bxd2+ 6. Qxd2
+Bb7 7. e3 d6 8. Be2 Nbd7 9. O-O O-O 10. b4 Qe7 11. Bb2 Rfe8
+12. Rad1 a5 13. Qc3 Nf8 14. Rfe1 Ng6 15. d5 e5 16. Nd2 axb4
+17. axb4 Ra4 18. Qb3 Rea8 19. Nb1 Bc8 20. Nc3 R4a7 21. Nb5 Rb7
+22. Ra1 Rbb8 23. Ra3 Qd8 24. Rea1 Rxa3 25. Qxa3 Bd7 26. Nc3 e4
+27. Qa7 Ne5 28. Nd1 b5 29. Bxe5 dxe5 30. Nc3 bxc4 31. Qc5 Ra8
+32. Ra5 Qb8 33. h3 h5 34. Qxc4 Bf5 35. Rxa8 Qxa8 36. Qxc7 Qa1+
+37. Bf1 Qa8 38. b5 1-0

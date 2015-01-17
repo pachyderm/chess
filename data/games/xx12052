@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.69"]
+[Result "0-1"]
+[White "Jacques Muller Luxama"]
+[Black "Sergio Minero Pineda"]
+[ECO "C01"]
+[WhiteElo "1893"]
+[BlackElo "2384"]
+[PlyCount "34"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 c5 5. c3 Nc6 6. Nf3 c4
+7. Be2 Bd6 8. O-O Nge7 9. b3 cxb3 10. axb3 O-O 11. Qc2 Re8
+12. Bd3 h6 13. h3 Be6 14. Be3 Qd7 15. Qd2 Bxh3 16. gxh3 Qxh3
+17. Qd1 Nf5 0-1

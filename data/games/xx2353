@@ -1,0 +1,21 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.04"]
+[EventDate "2014.03.04"]
+[Round "1.116"]
+[Result "0-1"]
+[White "Thorsteinn Magnusson"]
+[Black "Gudni Petursson"]
+[ECO "A15"]
+[WhiteElo "1234"]
+[BlackElo "2104"]
+[PlyCount "72"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nf3 O-O 5. Nc3 c5 6. O-O Nc6
+7. a3 a5 8. Nb5 e5 9. Ne1 d6 10. Nc2 Be6 11. Ne3 a4 12. Nc3
+Qa5 13. Ned5 Bxd5 14. Nxd5 Nxd5 15. cxd5 Nd4 16. d3 Nb3
+17. Rb1 f5 18. Bg5 Rae8 19. e4 f4 20. Bh3 h6 21. Bd7 hxg5
+22. Bxe8 Rxe8 23. Re1 Qd8 24. Qc2 Qd7 25. Qe2 Nd4 26. Qf1 Nf3+
+27. Kg2 Nxe1+ 28. Qxe1 g4 29. Qd2 Bh6 30. Qa5 fxg3 31. hxg3
+Rf8 32. b3 Qf7 33. Qe1 Qf3+ 34. Kg1 Rf7 35. bxa4 Bg5 36. Rb3
+Rh7 0-1

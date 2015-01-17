@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.75"]
+[Result "0-1"]
+[White "Anthony Mongiello"]
+[Black "Pierre Makem"]
+[ECO "D00"]
+[WhiteElo "1580"]
+[BlackElo "1928"]
+[PlyCount "72"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 c5 5. Be3 exf3 6. Nxf3 e6
+7. Ne5 cxd4 8. Bxd4 Bb4 9. Qd3 O-O 10. O-O-O Bxc3 11. Qxc3 Nd5
+12. Qg3 f6 13. Ng4 Nc6 14. Bc5 Nce7 15. Bd3 Qa5 16. Ba3 b5
+17. Bxh7+ Kxh7 18. Rd3 b4 19. Qh4+ Kg8 20. Nh6+ gxh6 21. Qxh6
+Kf7 22. Qh5+ Ng6 23. Qh7+ Ke8 24. Qxg6+ Rf7 25. Re1 bxa3
+26. Qg8+ Ke7 27. Red1 axb2+ 28. Kb1 Bb7 29. Qg3 Rc8 30. Rb3
+Nc3+ 31. Rxc3 Qxc3 32. Qg6 Bd5 33. h4 Rc5 34. h5 Bxa2+
+35. Kxa2 Ra5+ 36. Kb1 Ra1# 0-1

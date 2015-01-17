@@ -1,0 +1,22 @@
+[Event "Riga Technical University Open"]
+[Site "Riga LAT"]
+[Date "2014.08.16"]
+[EventDate "2014.08.16"]
+[Round "1.17"]
+[Result "0-1"]
+[White "Luca Esposito"]
+[Black "Vitali Golod"]
+[ECO "E62"]
+[WhiteElo "2231"]
+[BlackElo "2574"]
+[PlyCount "82"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 c6 6. O-O d6
+7. Nc3 Bf5 8. Re1 Ne4 9. Nxe4 Bxe4 10. Bf1 d5 11. e3 dxc4
+12. Bxc4 c5 13. Nd2 Bc6 14. dxc5 Nd7 15. Nb3 Ne5 16. Be2 Qxd1
+17. Rxd1 Nf3+ 18. Kg2 Nd4+ 19. Kf1 Nxe2 20. Kxe2 Rfc8 21. Rd2
+Bb5+ 22. Ke1 e5 23. e4 a5 24. a4 Bc4 25. Ra3 Bf8 26. Rd7 b5
+27. axb5 Bxb5 28. Rb7 Bc6 29. Rb6 a4 30. Be3 Bxe4 31. Nd2 Bd5
+32. b3 Rxc5 33. Rxa4 Rc1+ 34. Ke2 Rac8 35. Ra5 Rd8 36. Bg5 Rd7
+37. Rbb5 Bc6 38. Rxe5 f6 39. Bxf6 Rc2 40. Bg5 Bb4 41. Ra6 Bxd2
+0-1

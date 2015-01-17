@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.50"]
+[Result "0-1"]
+[White "Krzysztof Belzo"]
+[Black "Nico Georgiadis"]
+[ECO "A10"]
+[WhiteElo "2034"]
+[BlackElo "2448"]
+[PlyCount "48"]
+
+1. c4 f5 2. Nc3 Nf6 3. g3 g6 4. Bg2 Bg7 5. d3 O-O 6. e4 fxe4
+7. dxe4 d6 8. Nge2 c5 9. O-O Nc6 10. Bg5 Ng4 11. Qd2 h6
+12. Bf4 g5 13. Be3 Qe8 14. h3 Nge5 15. b3 Bxh3 16. f4 Qh5
+17. fxe5 Nxe5 18. Nf4 gxf4 19. gxf4 Ng4 20. Nd5 Nxe3 21. Nxe3
+Bxa1 22. Rxa1 Rxf4 23. Nf5 Qg5 24. Nxe7+ Kh7 0-1

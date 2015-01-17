@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.58"]
+[Result "1-0"]
+[White "Cristiano Aguiar"]
+[Black "Yu Tien Poon"]
+[ECO "B52"]
+[WhiteElo "1993"]
+[BlackElo "2070"]
+[PlyCount "107"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6
+6. Re1 e6 7. c3 Be7 8. d4 O-O 9. e5 Ne8 10. Bf4 cxd4 11. cxd4
+dxe5 12. Nxe5 Nef6 13. Nc3 Nb6 14. Qf3 Nbd5 15. Bg5 Qd6
+16. Bxf6 Bxf6 17. Ne4 Qe7 18. Rac1 Rac8 19. a3 Rc7 20. Nc3 Rd8
+21. Nb5 Rxc1 22. Rxc1 a6 23. Nc3 Nxc3 24. Qxc3 Qd6 25. Nf3 g6
+26. Qb3 b5 27. Rd1 Qb6 28. Qe3 Rd5 29. h3 e5 30. Qe4 Qd6
+31. Rd3 exd4 32. b4 Kg7 33. Kf1 Qe6 34. Qf4 Qd6 35. Qd2 Qc6
+36. g4 Kg8 37. Kg2 h5 38. Kg1 hxg4 39. hxg4 Qd7 40. Qf4 Qd6
+41. Qe4 Qe6 42. Qf4 g5 43. Qg3 Qe4 44. Nd2 Qe1+ 45. Kg2 Be5
+46. Qf3 Rd6 47. Qa8+ Kg7 48. Nf3 Qc1 49. Nxe5 Qf4 50. Rh3 Kf6
+51. Rf3 Kxe5 52. Rxf4 Kxf4 53. Qf3+ Ke5 54. Qf5# 1-0

@@ -1,0 +1,17 @@
+[Event "Casino Graz"]
+[Site "Graz AUT"]
+[Date "2014.02.19"]
+[EventDate "2014.02.14"]
+[Round "7.16"]
+[Result "1-0"]
+[White "Robert Aschenbrenner"]
+[Black "Alois Gutmann"]
+[ECO "B74"]
+[WhiteElo "2265"]
+[BlackElo "2050"]
+[PlyCount "35"]
+
+1. d4 c5 2. e4 cxd4 3. Nf3 Nc6 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 d6
+7. Be2 Nf6 8. Nb3 O-O 9. O-O Bd7 10. f4 Rc8 11. Bf3 Qc7
+12. Kh1 Na5 13. e5 dxe5 14. fxe5 Qxe5 15. Bd4 Qc7 16. Bxf6
+Bxf6 17. Nxa5 Rfd8 18. Nxb7 1-0

@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.14"]
+[Result "1-0"]
+[White "Yuniesky Quesada Perez"]
+[Black "Sergio Rocha"]
+[ECO "B06"]
+[WhiteElo "2649"]
+[BlackElo "2392"]
+[PlyCount "59"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d5 4. exd5 Nf6 5. Bc4 Nbd7 6. Bg5
+Nb6 7. Bxf6 Bxf6 8. Bb3 c6 9. dxc6 Qxd4 10. Qxd4 Bxd4 11. Nge2
+Bxc3+ 12. Nxc3 bxc6 13. O-O-O e6 14. Ne4 Ke7 15. f4 Bd7 16. c4
+a5 17. Nc5 a4 18. Bxa4 Nxa4 19. Nxd7 f6 20. Rd3 Rhd8 21. Rhd1
+h6 22. R1d2 Ra7 23. Nc5 Rxd3 24. Nxd3 g5 25. g3 Kd6 26. Ne5+
+Kc5 27. b4+ Kb6 28. Nd7+ Ka6 29. Kc2 Nb6 30. Nc5# 1-0

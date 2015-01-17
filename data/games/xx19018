@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.9"]
+[Result "1-0"]
+[White "Varuzhan Akobian"]
+[Black "Daniel Fridman"]
+[ECO "D56"]
+[WhiteElo "2653"]
+[BlackElo "2639"]
+[PlyCount "95"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O
+7. e3 Ne4 8. Bxe7 Qxe7 9. Rc1 c6 10. g4 Nd7 11. h4 Nxc3
+12. Rxc3 c5 13. cxd5 exd5 14. g5 h5 15. Bg2 b6 16. dxc5 Nxc5
+17. Nd4 Ne4 18. Bxe4 Qxe4 19. f3 Qe5 20. Kf2 Bd7 21. f4 Qe4
+22. Qf3 Qxf3+ 23. Kxf3 Rfc8 24. Rhc1 Rxc3 25. Rxc3 Kf8 26. b3
+Ke7 27. a4 Kd6 28. Nb5+ Bxb5 29. axb5 Kd7 30. Rc1 a6 31. Ra1
+a5 32. Rd1 Ke6 33. Rc1 Rd8 34. Ke2 Kd7 35. Rc6 Rc8 36. Rxb6
+Rc3 37. Ra6 Rxb3 38. Rxa5 Ke6 39. Ra6+ Kf5 40. Ra7 d4
+41. Rxf7+ Kg4 42. exd4 Rxb5 43. g6 Rb3 44. f5 Kf4 45. f6 gxf6
+46. g7 Rg3 47. Re7 Rg2+ 48. Kf1 1-0

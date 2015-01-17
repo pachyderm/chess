@@ -1,0 +1,16 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.75"]
+[Result "0-1"]
+[White "Craig Skehan"]
+[Black "Azahari Md Aliuddin Hj"]
+[ECO "A45"]
+[WhiteElo "?"]
+[BlackElo "2030"]
+[PlyCount "26"]
+
+1. d4 Nf6 2. f4 g6 3. e3 Bg7 4. Nf3 d6 5. Bd3 c5 6. c3 O-O
+7. O-O Nc6 8. a3 e5 9. fxe5 dxe5 10. dxe5 Ng4 11. Bd2 Qxd3
+12. h3 Nxe3 13. Ne1 Qxf1+ 0-1

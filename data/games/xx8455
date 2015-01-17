@@ -1,0 +1,25 @@
+[Event "US Open 2014"]
+[Site "Orlando FL"]
+[Date "2014.08.01"]
+[EventDate "?"]
+[Round "6"]
+[Result "0-1"]
+[White "Mariano Sana"]
+[Black "Joshua Sheng"]
+[ECO "B23"]
+[WhiteElo "2190"]
+[BlackElo "2316"]
+[PlyCount "116"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 a6 4. d3 d5 5. Bg5 Be7 6. Bxe7 Nxe7
+7. d4 cxd4 8. Qxd4 O-O 9. exd5 exd5 10. Bd3 Nbc6 11. Qh4 Bf5
+12. O-O-O Bxd3 13. Rxd3 Qa5 14. Kb1 Rac8 15. Rhd1 Ng6 16. Qa4
+Qc5 17. R1d2 b5 18. Qxa6 Nb4 19. Qxb5 Nxd3 20. Qxd3 Rfd8
+21. Nxd5 Nf4 22. Nxf4 Rxd3 23. Nxd3 Qf5 24. h3 g5 25. Nfe1 Re8
+26. Kc1 Qd5 27. Kd1 Qxa2 28. Re2 Rd8 29. Rd2 f5 30. f3 Kg7
+31. b4 Qc4 32. Ke2 Rb8 33. Kf2 Qd4+ 34. Ke2 Re8+ 35. Kd1 Qa1+
+36. Nc1 Rxe1+ 37. Kxe1 Qxc1+ 38. Ke2 Qb2 39. c4 Qxb4 40. Rc2
+f4 41. Kd1 Qb1+ 42. Kd2 Qg1 43. Kc3 Kf6 44. Kb2 Qb6+ 45. Kc1
+Qc5 46. Kb2 Qb4+ 47. Kc1 Qa3+ 48. Kd1 Qa1+ 49. Kd2 Qg1 50. Kc3
+Ke5 51. Re2+ Kd6 52. Ra2 Qc1+ 53. Kb3 Qd1+ 54. Kc3 Qe1+
+55. Kb3 Kc5 56. Rc2 Qb1+ 57. Kc3 Qb4+ 58. Kd3 Qb3+ 0-1

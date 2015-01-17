@@ -1,0 +1,20 @@
+[Event "Tradewise Gibraltar"]
+[Site "Caleta ENG"]
+[Date "2014.02.01"]
+[EventDate "2014.01.28"]
+[Round "5.96"]
+[Result "1-0"]
+[White "Leonhard Mueller"]
+[Black "Martin Nilsen"]
+[ECO "A67"]
+[WhiteElo "2191"]
+[BlackElo "1878"]
+[PlyCount "65"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6
+7. f4 Bg7 8. Bb5+ Nfd7 9. a4 a6 10. Be2 O-O 11. Nf3 Re8
+12. O-O Nf6 13. e5 Nfd7 14. e6 fxe6 15. dxe6 Nf6 16. f5 gxf5
+17. Ng5 Bxe6 18. Nxe6 Rxe6 19. Bc4 d5 20. Nxd5 Kh8 21. Bg5 Re4
+22. Qb3 Nc6 23. Qxb7 Na5 24. Qxg7+ Kxg7 25. Bxf6+ Qxf6
+26. Nxf6 Rxc4 27. Rxf5 Kg6 28. Raf1 Rf8 29. R5f3 Ra8 30. Nd7
+Kg7 31. Rg3+ Kh8 32. Nb6 Rf8 33. Rxf8# 1-0

@@ -1,0 +1,17 @@
+[Event "Chess Olympiad (Women)"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.2"]
+[Result "0-1"]
+[White "Hakyung Lim"]
+[Black "Silje Bjerke"]
+[ECO "E32"]
+[WhiteElo "1567"]
+[BlackElo "2189"]
+[PlyCount "34"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 c5 6. dxc5 Na6
+7. e3 Nxc5 8. Bd3 Nxd3+ 9. Qxd3 b6 10. O-O Bb7 11. Nd4 d5
+12. cxd5 Nxd5 13. Nce2 e5 14. Nf3 Nc3 15. Qc4 Qd5 16. Qxb4
+Nxe2+ 17. Kh1 Qxf3 0-1

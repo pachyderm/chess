@@ -1,0 +1,18 @@
+[Event "Cappelle-la-Grande"]
+[Site "Cappelle-la-Grande FRA"]
+[Date "2014.03.03"]
+[EventDate "2014.03.01"]
+[Round "4.83"]
+[Result "1-0"]
+[White "Michael Coenen"]
+[Black "Antoine Daniel"]
+[ECO "A48"]
+[WhiteElo "2308"]
+[BlackElo "1966"]
+[PlyCount "45"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Ne4 4. Bf4 Bg7 5. e3 d5 6. Bd3 O-O
+7. O-O Nd7 8. c4 c6 9. Qc2 f5 10. h3 e6 11. Nc3 g5 12. Bh2 Qe8
+13. Nd2 Qh5 14. Ndxe4 fxe4 15. Be2 Qe8 16. Rad1 Nb6 17. Bd6
+Rf6 18. b4 Rh6 19. f4 exf3 20. Rxf3 g4 21. Rf2 e5 22. dxe5
+Bxe5 23. Rf8+ 1-0

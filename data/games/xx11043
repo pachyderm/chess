@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.67"]
+[Result "1-0"]
+[White "Mateus Felizardo Viageiro Alice"]
+[Black "Alberto Muniz Pardino"]
+[ECO "B70"]
+[WhiteElo "2121"]
+[BlackElo "2106"]
+[PlyCount "101"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 a6
+7. f3 b5 8. a4 b4 9. Na2 e5 10. Nb3 d5 11. Bg5 Nbd7 12. exd5
+Bb7 13. c4 bxc3 14. Nxc3 Bb4 15. Nd2 Qa5 16. Nc4 Qxd5 17. Qxd5
+Nxd5 18. O-O-O N7b6 19. Nxb6 Nxb6 20. Bf6 O-O 21. Bxe5 Rac8
+22. Kb1 Nc4 23. Bxc4 Rxc4 24. Bd6 Rfc8 25. Bxb4 Rxb4 26. Ka2
+Bc6 27. Ka3 Rcb8 28. Rd2 Rb3+ 29. Ka2 a5 30. Rd8+ Kg7 31. Rxb8
+Rxb8 32. Rd1 h5 33. Rd6 Rc8 34. Ka3 Kf8 35. Rd3 g5 36. b4
+axb4+ 37. Kxb4 g4 38. fxg4 hxg4 39. g3 Rb8+ 40. Nb5 Re8
+41. Rd2 f5 42. Kc5 Bf3 43. a5 f4 44. gxf4 Re4 45. Nd4 Kf7
+46. f5 Kf6 47. a6 Re5+ 48. Kb6 Ba8 49. Nc6 Rxf5 50. Rd8 Bxc6
+51. Rf8+ 1-0

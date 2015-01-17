@@ -1,0 +1,19 @@
+[Event "Riga Technical University Open"]
+[Site "Riga LAT"]
+[Date "2014.08.19"]
+[EventDate "2014.08.16"]
+[Round "4.11"]
+[Result "1-0"]
+[White "Vitali Golod"]
+[Black "Tigran Simonian"]
+[ECO "D41"]
+[WhiteElo "2574"]
+[BlackElo "2405"]
+[PlyCount "59"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c5 5. cxd5 Nxd5 6. e4 Nxc3
+7. bxc3 cxd4 8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4
+Nd7 12. O-O b6 13. a4 Bb7 14. Rfe1 Rc8 15. Bb5 Nb8 16. Bd3 h6
+17. a5 bxa5 18. Reb1 Ba8 19. Rxa5 Nc6 20. Ra4 a5 21. Rba1 Rb8
+22. h3 Rb4 23. Rxa5 Bb7 24. d5 exd5 25. exd5 Rb3 26. Bh7+ Kxh7
+27. Qc2+ g6 28. dxc6 Qb6 29. cxb7 Rb2 30. Qc5 1-0

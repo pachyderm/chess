@@ -1,0 +1,30 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.29"]
+[Result "0-1"]
+[White "Khalil Bengherabi"]
+[Black "Tomas Laurusas"]
+[ECO "B11"]
+[WhiteElo "2170"]
+[BlackElo "2435"]
+[PlyCount "166"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. b3 Nf6
+7. Bb2 Nbd7 8. exd5 cxd5 9. Bb5 Be7 10. O-O O-O 11. d4 Qa5
+12. Bd3 Ba3 13. Bxa3 Qxa3 14. Qg3 Rac8 15. Ne2 Rfe8 16. c4 Qa5
+17. Rfb1 dxc4 18. bxc4 b6 19. Nc3 a6 20. Ne4 Nxe4 21. Bxe4 Nf6
+22. Bd3 Red8 23. Rd1 b5 24. cxb5 axb5 25. Rac1 Rxc1 26. Rxc1
+Qxa2 27. Qd6 Qa5 28. Qc5 Qd2 29. Qc7 Rf8 30. Bxb5 Qxd4 31. Bc6
+h6 32. Bf3 Qd7 33. Qc2 Rb8 34. Rd1 Qc8 35. Qd2 Qc5 36. Rc1 Qb6
+37. Qf4 Rd8 38. Rc7 Qb1+ 39. Kh2 Qe1 40. Rc2 Qb1 41. Rc7 Qb8
+42. g3 Rd2 43. Kg2 Qb2 44. Bc6 Qd4 45. Qf3 Qd3 46. Rc8+ Kh7
+47. Qxd3+ Rxd3 48. Rc7 Rc3 49. Rc8 Kg6 50. Bb7 Rxc8 51. Bxc8
+Kf5 52. Kf3 Ke5 53. Ke3 Nd5+ 54. Kd3 Kd6 55. Kd4 e5+ 56. Ke4
+g6 57. g4 Nc3+ 58. Ke3 Nd5+ 59. Ke4 Ne7 60. Bb7 f5+ 61. gxf5
+gxf5+ 62. Kf3 Nd5 63. Bc8 e4+ 64. Kg3 Ke5 65. Bb7 f4+ 66. Kg2
+h5 67. Bc6 f3+ 68. Kg3 Ne7 69. Bb7 Nf5+ 70. Kh2 h4 71. Bc8 Kf4
+72. Bxf5 Kxf5 73. Kg1 Kf4 74. Kf1 e3 75. fxe3+ Kxe3 76. Ke1
+Ke4 77. Kf1 Ke5 78. Ke1 Kf5 79. Kf1 Ke4 80. Ke1 Ke3 81. Kf1 f2
+82. Kg2 Ke2 83. Kh2 f1=R 0-1

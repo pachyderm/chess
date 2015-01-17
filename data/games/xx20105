@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.74"]
+[Result "0-1"]
+[White "Marius Claude Oyon Amba"]
+[Black "Brian Wong"]
+[ECO "E10"]
+[WhiteElo "?"]
+[BlackElo "1878"]
+[PlyCount "112"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. e3 b6 5. Nc3 d5 6. cxd5 Nxd5
+7. Ne5 cxd4 8. exd4 Bb4 9. Bb5+ Bd7 10. Nxd7 Nxd7 11. Bd2 a6
+12. Bd3 N7f6 13. O-O b5 14. a4 Qb6 15. axb5 a5 16. Nxd5 Nxd5
+17. Bxb4 Nxb4 18. Be4 Rd8 19. Qe2 Rxd4 20. Qe3 O-O 21. Rad1 e5
+22. g3 Rfd8 23. Qe2 g6 24. Bf3 Rxd1 25. Rxd1 Rxd1+ 26. Qxd1
+Qxb5 27. Be2 Qb6 28. Bc4 Qd4 29. Qb3 Qd7 30. Qf3 Kg7 31. b3
+Nc6 32. Qc3 Qd4 33. Qf3 Qd7 34. Qc3 Qd4 35. Qf3 Qd7 36. Qc3 f6
+37. h4 Qd4 38. Qc1 Qb6 39. h5 gxh5 40. Qd1 Kh6 41. Qd2+ Kg6
+42. Qd7 Nd4 43. Qf7+ Kh6 44. Qf8+ Kg6 45. Bf7+ Kf5 46. Qh6
+Nf3+ 47. Kh1 Ng5 48. Qxh5 Qb7+ 49. Kg1 Qxf7 50. Qd1 Kg6
+51. Qc2+ Kg7 52. Qc3 Qa7 53. Qc8 h5 54. Qf5 Qb7 55. Qc2 Nf3+
+56. Kf1 Nd4 0-1

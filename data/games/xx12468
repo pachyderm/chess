@@ -1,0 +1,17 @@
+[Event "Riga Technical University Open"]
+[Site "Riga LAT"]
+[Date "2014.08.20"]
+[EventDate "2014.08.16"]
+[Round "5.18"]
+[Result "1/2-1/2"]
+[White "Mikhail Antipov"]
+[Black "Bernhard Tabernig"]
+[ECO "C05"]
+[WhiteElo "2508"]
+[BlackElo "2369"]
+[PlyCount "36"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6
+7. Ngf3 Be7 8. O-O g5 9. dxc5 g4 10. Nd4 Ndxe5 11. Bb5 Bd7
+12. N2b3 h5 13. Re1 Nxd4 14. Bxd7+ Qxd7 15. Nxd4 Ng6 16. b4 e5
+17. Nc2 O-O-O 18. Ne3 Rhg8 1/2-1/2

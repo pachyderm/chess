@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.45"]
+[Result "1-0"]
+[White "Anton Smirnov"]
+[Black "Mohammed Reza Ghadimi"]
+[ECO "E11"]
+[WhiteElo "2334"]
+[BlackElo "2172"]
+[PlyCount "55"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. a3 Be7 6. e3 Bb7
+7. b3 O-O 8. Bb2 Ne4 9. Nxe4 Bxe4 10. Nd2 Bb7 11. Bd3 f5
+12. Rg1 d6 13. Qc2 Qe8 14. O-O-O Qh5 15. f4 Nd7 16. h3 c5
+17. g4 Qxh3 18. d5 Qxe3 19. gxf5 Bf6 20. fxe6 Bxb2+ 21. Kxb2
+Nf6 22. Ne4 Qxf4 23. Nxf6+ Qxf6+ 24. Kb1 h6 25. Rg6 Qe7
+26. Rdg1 Rf6 27. Qg2 Rxg6 28. Qxg6 1-0

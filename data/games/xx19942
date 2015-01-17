@@ -1,0 +1,27 @@
+[Event "Bundesliga"]
+[Site "Eppingen GER"]
+[Date "2014.04.06"]
+[EventDate "2013.10.12"]
+[Round "15"]
+[Result "0-1"]
+[White "Maxim Rodshtein"]
+[Black "Anatoly Karpov"]
+[ECO "E06"]
+[WhiteElo "2664"]
+[BlackElo "2619"]
+[PlyCount "138"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4
+7. Qc2 a6 8. Qxc4 b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Bb7 12. a3
+Qc8 13. b4 Nbd7 14. Bc3 Ne4 15. Qc2 a5 16. Nbd2 Nxc3 17. Qxc3
+Nb6 18. Ne5 axb4 19. axb4 Bxg2 20. Kxg2 Nd5 21. Qc6 Bxb4
+22. Ndf3 Bc3 23. Rxa8 Qxa8 24. Qxb5 Bxd4 25. Nc6 Bb6 26. Rc1
+Qa3 27. Rc4 Ra8 28. Nce5 h6 29. Nd3 Qa6 30. Qc6 Ne7 31. Qe4
+Rd8 32. Qh4 Rf8 33. Ra4 Qb5 34. Rb4 Qe8 35. Nde5 f6 36. Nd3 e5
+37. Qe4 Qc6 38. g4 Ra8 39. Qxc6 Nxc6 40. Rc4 Ne7 41. e3 Kf7
+42. Nfe1 Nc8 43. Nb2 Nd6 44. Rc2 Ke6 45. Ned3 Ra2 46. Nb4 Ra3
+47. Nc6 g6 48. h3 h5 49. gxh5 gxh5 50. Kg3 Ra8 51. Kf3 Ra2
+52. Nb4 Ra5 53. Kg3 Nf5+ 54. Kf3 c5 55. N4d3 Nd6 56. Ke2 Kd5
+57. f3 Ra2 58. Rd2 Kc6 59. Rc2 Kb5 60. Nc1 Ra3 61. Rd2 Bc7
+62. Nd1 Kc6 63. Rc2 c4 64. e4 Bb6 65. Na2 Bd4 66. Nb4+ Kc5
+67. Nd5 f5 68. N1c3 fxe4 69. fxe4 h4 0-1

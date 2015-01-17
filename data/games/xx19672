@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.28"]
+[Result "0-1"]
+[White "Mauricio Flores Rios"]
+[Black "Lubomir Ftacnik"]
+[ECO "D98"]
+[WhiteElo "2537"]
+[BlackElo "2571"]
+[PlyCount "126"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4
+O-O 7. e4 Bg4 8. Be3 Nfd7 9. O-O-O e5 10. dxe5 Nc6 11. h3 Be6
+12. Qb5 Qc8 13. Ng5 a6 14. Qe2 Ndxe5 15. Nxe6 Qxe6 16. Nd5 Ne7
+17. Nxe7+ Qxe7 18. f4 Nd7 19. Qc2 b5 20. Be2 c5 21. Bf3 Bd4
+22. Bxd4 cxd4 23. Kb1 Nc5 24. Rxd4 Ne6 25. Rd2 Nxf4 26. Rc1
+Rad8 27. a3 Ne6 28. Rd5 Nd4 29. Qd3 Nxf3 30. Qxf3 Rc8 31. Rxc8
+Rxc8 32. Qd3 Rc4 33. Rd4 Rxd4 34. Qxd4 h5 35. g4 Qh4 36. gxh5
+Qxh5 37. Qc3 Qe2 38. e5 Kh7 39. Qc7 Qd1+ 40. Ka2 Qd5+ 41. Kb1
+Kh6 42. Qe7 Kh5 43. Ka1 Qe6 44. Qb7 Kh4 45. Qf3 Qf5 46. Qe3 g5
+47. Ka2 Qf4 48. Qa7 Kxh3 49. Qxa6 Qxe5 50. a4 Qd5+ 51. Ka3
+bxa4 52. Qf1+ Kg3 53. Qe1+ Kf4 54. Qc1+ Kf5 55. Kxa4 g4
+56. Qc8+ Kg5 57. b4 g3 58. Qc1+ Kg4 59. b5 Qd4+ 60. Ka5 g2
+61. Qc8+ f5 62. Qg8+ Kf3 63. Qb3+ Kf4 0-1

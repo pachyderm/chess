@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.36"]
+[Result "1-0"]
+[White "Nicolas Lopez Azambuja"]
+[Black "Rijendra Rajbhandari"]
+[ECO "E45"]
+[WhiteElo "2255"]
+[BlackElo "2061"]
+[PlyCount "111"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+
+7. Nxc3 d5 8. b3 O-O 9. Be2 dxc4 10. bxc4 Nc6 11. a4 Na5
+12. Ba3 Re8 13. Nb5 c6 14. Nd6 Re7 15. c5 Bxe2 16. Qxe2 bxc5
+17. dxc5 Nb3 18. Ra2 Qa5+ 19. Kf1 Qxa4 20. Qc2 Nd5 21. g3 Nb4
+22. Qc4 Qxa3 23. Rxa3 Nd2+ 24. Ke2 Nxc4 25. Nxc4 f5 26. Rb1
+Nd5 27. Rba1 Rb7 28. Ne5 Nb4 29. Rb3 Rc8 30. Nc4 Ra8 31. Ne5
+Rab8 32. Rab1 a5 33. Nxc6 Rc8 34. Nxa5 Rb5 35. Nc4 Rbxc5
+36. Nb6 Nd5 37. Nxc8 Rxc8 38. Kd2 Kf7 39. Ra1 Kf6 40. Ra7 h5
+41. Rbb7 g5 42. f4 g4 43. Rf7+ Kg6 44. Rg7+ Kh6 45. Rh7+ Kg6
+46. Rag7+ Kf6 47. Rg5 Ra8 48. Rgxh5 Ne7 49. R5h6+ Ng6 50. Rc7
+Ra2+ 51. Kc1 Ra6 52. Rhh7 e5 53. Rhd7 exf4 54. exf4 Rb6
+55. Kc2 Re6 56. Rf7# 1-0

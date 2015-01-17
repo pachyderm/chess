@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.15"]
+[Result "0-1"]
+[White "Liviu Cerbulenco"]
+[Black "Babu M R Lalith"]
+[ECO "B06"]
+[WhiteElo "2203"]
+[BlackElo "2565"]
+[PlyCount "66"]
+
+1. e4 g6 2. Nc3 Bg7 3. f4 c6 4. Nf3 d5 5. d3 Bg4 6. h3 Bxf3
+7. Qxf3 e6 8. Bd2 Nd7 9. O-O-O Ne7 10. g4 Qb6 11. h4 h5
+12. gxh5 Rxh5 13. Be2 dxe4 14. dxe4 Nc5 15. Qg2 Rh8 16. h5
+O-O-O 17. Bf3 Bd4 18. Qe2 Qc7 19. Kb1 gxh5 20. Bxh5 f5 21. Bf3
+Bxc3 22. Bxc3 Rxh1 23. Rxh1 fxe4 24. Bxe4 Qxf4 25. Bg2 Nf5
+26. Rh8 Rxh8 27. Bxh8 Ne3 28. Bf3 e5 29. a3 Ne6 30. c3 Nc5
+31. Bh5 Nb3 32. Qd3 Nc4 33. Bg6 Qc1+ 0-1

@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.17"]
+[Result "0-1"]
+[White "Helgi Olafsson"]
+[Black "Essam El Gindy"]
+[ECO "E00"]
+[WhiteElo "2555"]
+[BlackElo "2486"]
+[PlyCount "98"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 c5 5. Bg2 O-O 6. Nf3 Nc6
+7. O-O d6 8. a3 Bxd2 9. Qxd2 Qb6 10. Rd1 Na5 11. dxc5 dxc5
+12. Qc2 Qb3 13. Qxb3 Nxb3 14. Ra2 e5 15. Nxe5 Re8 16. f4 Ng4
+17. Nd2 Ne3 18. Nxb3 Nxd1 19. Bf3 f6 20. Nd3 Ne3 21. Nbxc5 Rb8
+22. b3 b6 23. Ne4 Rd8 24. Nc3 Bb7 25. Kf2 Bxf3 26. Kxf3 Re8
+27. g4 Rbd8 28. a4 a5 29. h3 h5 30. Rb2 hxg4+ 31. hxg4 g6
+32. g5 fxg5 33. fxg5 Rd4 34. Nf2 Kg7 35. Rb1 Nc2 36. Nce4 Rdd8
+37. e3 Nb4 38. Nf6 Rh8 39. c5 bxc5 40. Rc1 Rc8 41. Rd1 Rhd8
+42. Rh1 Rh8 43. Rd1 Rcd8 44. Rc1 Na6 45. N2e4 Kf7 46. Kf4 Ke7
+47. Rc3 Rh4+ 48. Ke5 Rhh8 49. Rc1 Nb4 0-1

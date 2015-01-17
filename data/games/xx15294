@@ -1,0 +1,29 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.24"]
+[Result "0-1"]
+[White "Phemelo Khetho"]
+[Black "Stelios Halkias"]
+[ECO "C77"]
+[WhiteElo "2195"]
+[BlackElo "2544"]
+[PlyCount "150"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. c3 b5
+7. Bc2 O-O 8. O-O d6 9. Rd1 Bb7 10. a4 Qb8 11. d4 exd4
+12. Nxd4 Nxd4 13. cxd4 Re8 14. f3 c5 15. Be3 Bf8 16. Qf2 Qc7
+17. Rc1 Qe7 18. d5 Nxd5 19. Bxc5 dxc5 20. exd5 Bxd5 21. Nc3
+Bc6 22. axb5 axb5 23. Rxa8 Rxa8 24. Re1 Qf6 25. Be4 Rd8
+26. Bxc6 Qxc6 27. Qe2 c4 28. Qe4 Qc5+ 29. Kf1 b4 30. Ne2 g6
+31. Rc1 Rc8 32. Rd1 Bg7 33. Rd5 Qa7 34. Qg4 f5 35. Qh4 Qc7
+36. Qe1 c3 37. bxc3 bxc3 38. Nc1 Qc4+ 39. Rd3 Bh6 40. Qe2 Qf7
+41. Rd1 Bd2 42. Rxd2 cxd2 43. Qxd2 Qc4+ 44. Ne2 Re8 45. Kf2
+Qc5+ 46. Kf1 Qe5 47. g3 Rb8 48. Qd4 Qxd4 49. Nxd4 Rb2 50. Ne2
+Kf7 51. h4 Kf6 52. Kf2 Ra2 53. Ke3 Ra3+ 54. Kf2 Ke5 55. Kg2
+Ra2 56. Kf2 Kd5 57. Ke3 Ra3+ 58. Kf4 Ke6 59. Nd4+ Kf6 60. g4
+Ra4 61. g5+ Ke7 62. Ke5 Ra5+ 63. Kf4 Kd6 64. h5 Ra4 65. hxg6
+hxg6 66. Ke3 f4+ 67. Kd3 Ke5 68. Nc6+ Kf5 69. Ke2 Kxg5 70. Ne5
+Ra5 71. Nc4 Rd5 72. Nd2 Rxd2+ 73. Kxd2 Kh4 74. Kd3 Kg3 75. Ke4
+g5 0-1

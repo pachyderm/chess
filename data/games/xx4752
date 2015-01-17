@@ -1,0 +1,22 @@
+[Event "Bundesliga"]
+[Site "Bochum GER"]
+[Date "2014.03.15"]
+[EventDate "2013.10.12"]
+[Round "11"]
+[Result "0-1"]
+[White "Ralf Appel"]
+[Black "Matthias Dann"]
+[ECO "A48"]
+[WhiteElo "2535"]
+[BlackElo "2450"]
+[PlyCount "90"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. Nbd2 c5 5. e3 Nc6 6. c3 b6
+7. e4 cxd4 8. cxd4 d6 9. Rc1 Nb8 10. Bb5+ Bd7 11. Be2 O-O
+12. O-O a5 13. h3 Nc6 14. Be3 e6 15. Qb3 Qb8 16. a3 a4 17. Qd3
+Na5 18. Bg5 h6 19. Bf4 Rd8 20. Qe3 Kh7 21. Nc4 Nxc4 22. Bxc4
+Qb7 23. e5 dxe5 24. Nxe5 Be8 25. Be2 Rac8 26. Nc4 Nd5 27. Qf3
+Nxf4 28. Qxb7 Nxe2+ 29. Kh1 Nxc1 30. Nd6 Rb8 31. Qc7 Nb3
+32. Nxe8 Rxe8 33. Qxf7 Nxd4 34. h4 h5 35. Rc1 Rbc8 36. Rc3 Nf5
+37. g4 Rf8 38. Qd7 Rcd8 39. Qxe6 Rfe8 40. Qxb6 Rd1+ 41. Kg2
+hxg4 42. Rc4 Nxh4+ 43. Kg3 Rg1+ 44. Kxh4 Re5 45. Rxg4 Rh5# 0-1

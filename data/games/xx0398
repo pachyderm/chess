@@ -1,0 +1,18 @@
+[Event "Casino Graz"]
+[Site "Graz AUT"]
+[Date "2014.02.14"]
+[EventDate "2014.02.14"]
+[Round "1.17"]
+[Result "1-0"]
+[White "Lukas Handler"]
+[Black "Alois Gutmann"]
+[ECO "A04"]
+[WhiteElo "2398"]
+[BlackElo "2050"]
+[PlyCount "43"]
+
+1. Nf3 e6 2. c4 b6 3. e4 Bb7 4. Nc3 Bb4 5. Qc2 Nh6 6. d4 f6
+7. Bd3 Nf7 8. O-O Nc6 9. Ne2 a5 10. Be3 Ba6 11. Rad1 Qc8
+12. c5 Bxd3 13. Rxd3 bxc5 14. dxc5 a4 15. a3 Ba5 16. Qxa4 Nce5
+17. Nxe5 Nxe5 18. Rdd1 Bd2 19. Qd4 Bxe3 20. Qxe3 Qb7 21. f4
+Nc4 22. Qd4 1-0

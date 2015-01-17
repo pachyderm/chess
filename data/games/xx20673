@@ -1,0 +1,28 @@
+[Event "Bundesliga"]
+[Site "Berlin GER"]
+[Date "2014.02.23"]
+[EventDate "2013.10.12"]
+[Round "10"]
+[Result "1-0"]
+[White "Hrant Melkumyan"]
+[Black "Andreas Schenk"]
+[ECO "E16"]
+[WhiteElo "2634"]
+[BlackElo "2489"]
+[PlyCount "145"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2
+Bxd2+ 7. Qxd2 O-O 8. O-O d6 9. Qc2 c5 10. Rd1 cxd4 11. Rxd4
+Qe7 12. Nc3 Nc6 13. Rd2 Rfd8 14. Qa4 Na5 15. Qb4 Kf8 16. Ne1
+Bxg2 17. Nxg2 Rac8 18. Ne3 d5 19. Qxe7+ Kxe7 20. cxd5 Nc4
+21. Nxc4 Rxc4 22. Rad1 Nxd5 23. Nb5 a6 24. Nd4 Rdc8 25. e4 Nf6
+26. f3 Rc1 27. Kf2 Rxd1 28. Rxd1 Nd7 29. f4 Rc5 30. Ke3 Nb8
+31. e5 Nd7 32. Kd3 f6 33. b4 Rc8 34. exf6+ gxf6 35. Re1 e5
+36. Nf3 Ke6 37. fxe5 Nxe5+ 38. Nxe5 fxe5 39. Re4 Kd5 40. Rh4
+Rf8 41. Ke2 Rc8 42. Rxh7 Rc2+ 43. Kf3 e4+ 44. Ke3 Rxa2
+45. Rh5+ Kc4 46. g4 Rg2 47. g5 Kd5 48. h4 Ke5 49. Rh6 Rg3+
+50. Kf2 Rg4 51. Rxb6 Rxh4 52. g6 Rg4 53. Ke2 Kd4 54. Rxa6 Rg2+
+55. Kf1 Rg5 56. Kf2 Rf5+ 57. Ke2 Rg5 58. Rd6+ Ke5 59. Rb6 Kd4
+60. b5 Rg2+ 61. Kf1 Rg5 62. Kf2 Rf5+ 63. Ke2 Rg5 64. Rd6+ Ke5
+65. Rc6 Kd5 66. Ke3 Rg4 67. Ra6 Kc5 68. Rf6 Kxb5 69. Kd4 e3+
+70. Kxe3 Kc5 71. Kf3 Rg1 72. Ke4 Re1+ 73. Kf5 1-0

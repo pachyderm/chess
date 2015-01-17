@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.32"]
+[Result "1/2-1/2"]
+[White "Hannes Stefansson"]
+[Black "Alexander Baburin"]
+[ECO "E73"]
+[WhiteElo "2536"]
+[BlackElo "2502"]
+[PlyCount "97"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 Nbd7
+7. Qd2 c6 8. Nf3 e5 9. O-O exd4 10. Nxd4 Nc5 11. f3 Nfxe4
+12. Nxe4 Nxe4 13. fxe4 Bxd4+ 14. Qxd4 Qxg5 15. Qxd6 Qe3+
+16. Rf2 Be6 17. Qd3 Qxd3 18. Bxd3 Rfd8 19. Rf3 Rd4 20. Rc1
+Rad8 21. Rc3 c5 22. Re3 a6 23. e5 b5 24. cxb5 c4 25. Bc2 axb5
+26. a3 Rd2 27. Kf1 Bd5 28. Rg3 Re8 29. Ke1 Rxg2 30. Rxg2 Bxg2
+31. Re3 f6 32. Kf2 Bc6 33. exf6 Kf7 34. Rh3 Rh8 35. Rh4 Kxf6
+36. a4 Rd8 37. Ke3 Rd7 38. axb5 Bxb5 39. Rd4 Ke5 40. Rxd7 Bxd7
+41. b3 c3 42. Kd3 Kf4 43. Kxc3 Be8 44. b4 Kg4 45. Kc4 h5
+46. b5 Bxb5+ 47. Kxb5 g5 48. Bd1+ Kh3 49. Bxh5 1/2-1/2

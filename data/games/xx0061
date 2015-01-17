@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.86"]
+[Result "1-0"]
+[White "Johnny Cueto Chajtur"]
+[Black "Jacek Stachanczyk"]
+[ECO "A00"]
+[WhiteElo "2283"]
+[BlackElo "2299"]
+[PlyCount "39"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 O-O 5. Nf3 Nc6 6. Bb2
+d5 7. cxd5 Nxd5 8. e3 Re8 9. Be2 Rxe3 10. fxe3 Nxe3 11. Qc1
+Qe7 12. Kf2 Ng4+ 13. Kf1 Bf5 14. Nc3 Re8 15. Qe1 Bc5 16. Qh4
+Qd7 17. h3 Nf2 18. d4 Nxd4 19. Qxf2 Nb3 20. Rd1 1-0

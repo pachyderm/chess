@@ -1,0 +1,18 @@
+[Event "Bundesliga"]
+[Site "Hamburg GER"]
+[Date "2014.02.22"]
+[EventDate "2013.10.12"]
+[Round "9"]
+[Result "1/2-1/2"]
+[White "Robert Kempinski"]
+[Black "Daniil Dubov"]
+[ECO "A84"]
+[WhiteElo "2585"]
+[BlackElo "2641"]
+[PlyCount "45"]
+
+1. d4 f5 2. c4 Nf6 3. Nf3 g6 4. e3 d6 5. b4 e5 6. dxe5 dxe5
+7. Qxd8+ Kxd8 8. a3 e4 9. Bb2 Ke7 10. Nd4 Bg7 11. Nd2 a5
+12. Be2 axb4 13. axb4 Rxa1+ 14. Bxa1 Na6 15. Bc3 c5 16. bxc5
+Nxc5 17. O-O Kf7 18. Ra1 Re8 19. Kf1 Bf8 20. N2b3 Nfd7 21. Ke1
+Nxb3 22. Nxb3 Nc5 23. Nxc5 1/2-1/2

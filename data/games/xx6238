@@ -1,0 +1,16 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.62"]
+[Result "1-0"]
+[White "Bader Al-Hajiri"]
+[Black "Manish Hamal"]
+[ECO "B04"]
+[WhiteElo "2123"]
+[BlackElo "2068"]
+[PlyCount "29"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nc6 5. c4 Nb6 6. e6 f6
+7. Bd3 Nb4 8. Bf5 g6 9. Nh4 Bg7 10. d5 O-O 11. Nxg6 hxg6
+12. Bxg6 f5 13. Qh5 Rf6 14. Qh7+ Kf8 15. Bh6 1-0

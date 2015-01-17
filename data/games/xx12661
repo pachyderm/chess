@@ -1,0 +1,18 @@
+[Event "FIDE World Rapid Championship"]
+[Site "Dubai UAE"]
+[Date "2014.06.17"]
+[EventDate "2014.06.16"]
+[Round "7.28"]
+[Result "0-1"]
+[White "Eric Hansen"]
+[Black "Georg Meier"]
+[ECO "C10"]
+[WhiteElo "2584"]
+[BlackElo "2632"]
+[PlyCount "42"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bg5
+h6 7. Nxf6+ Nxf6 8. Be3 Bd6 9. Bd3 O-O 10. Qe2 b6 11. O-O-O
+Bb7 12. Ne5 Nd5 13. Bd2 Qh4 14. Nf3 Qf6 15. Qe4 Qf5 16. Qe1
+Qf6 17. Qe4 Qf5 18. Qe1 Qf6 19. Be4 c5 20. dxc5 bxc5 21. c4
+Rfe8 0-1

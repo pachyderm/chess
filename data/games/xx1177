@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.24"]
+[Result "1-0"]
+[White "Athanasios Mastrovasilis"]
+[Black "Thato Olebile"]
+[ECO "A07"]
+[WhiteElo "2526"]
+[BlackElo "2144"]
+[PlyCount "100"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Nf6 4. O-O Bg4 5. d3 Bxf3 6. Bxf3 e5
+7. Nd2 Nbd7 8. e4 dxe4 9. Nxe4 Nxe4 10. Bxe4 Be7 11. Re1 O-O
+12. Bd2 g6 13. b4 Qc7 14. Qb1 a6 15. a4 Bf6 16. Qb3 Rac8
+17. Rab1 Rfe8 18. Be3 Nf8 19. b5 cxb5 20. axb5 Qxc2 21. Bxb7
+axb5 22. Bxc8 Qxb3 23. Rxb3 Rxc8 24. Rxb5 Kg7 25. Rd5 Ne6
+26. Rc1 Rb8 27. Rd7 g5 28. Rc6 Rd8 29. Rxd8 Bxd8 30. g4 Bf6
+31. Kg2 h5 32. h3 Kg6 33. Kf3 h4 34. Ke4 Nd8 35. Rb6 Ne6
+36. Kd5 Nc7+ 37. Kd6 Ne6 38. Kd7 Nf8+ 39. Ke8 Ne6 40. Rb7 Ng7+
+41. Kf8 Ne6+ 42. Kg8 Bd8 43. Rxf7 Bc7 44. Re7 Kf6 45. Rxe6+
+Kxe6 46. Bxg5 Kd5 47. Bxh4 Kd4 48. g5 Bd8 49. Kf7 Kxd3 50. Ke8
+Kd4 1-0

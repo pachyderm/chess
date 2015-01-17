@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.85"]
+[Result "0-1"]
+[White "Oliver Mueller"]
+[Black "Konstantine Shanava"]
+[ECO "A40"]
+[WhiteElo "2312"]
+[BlackElo "2563"]
+[PlyCount "64"]
+
+1. d4 g6 2. Nf3 Bg7 3. e4 c6 4. Nbd2 d6 5. Be2 Nf6 6. O-O O-O
+7. c3 Nbd7 8. h3 Qc7 9. Qc2 b6 10. a4 a6 11. Re1 Bb7 12. Bf1
+e5 13. dxe5 dxe5 14. Nc4 b5 15. Ncd2 Nc5 16. b3 Rfd8 17. Ba3
+Ne6 18. Bb2 Nd7 19. b4 Nb6 20. axb5 cxb5 21. Rac1 Rac8 22. Qb3
+Bh6 23. Rcd1 Na4 24. c4 Nxb2 25. Qxb2 Nd4 26. cxb5 axb5
+27. Nxd4 exd4 28. Nf3 Qc3 29. Qb1 Bg7 30. Bxb5 Rb8 31. Rc1 Qa3
+32. Red1 Ba8 0-1

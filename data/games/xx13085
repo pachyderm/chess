@@ -1,0 +1,33 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.28"]
+[Result "0-1"]
+[White "Elvira Berend"]
+[Black "Alexander Beliavsky"]
+[ECO "C19"]
+[WhiteElo "2330"]
+[BlackElo "2618"]
+[PlyCount "192"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7
+7. Nf3 Qc7 8. Bd3 b6 9. O-O Ba6 10. Ng5 Bxd3 11. cxd3 cxd4
+12. cxd4 Nbc6 13. Be3 Qd7 14. Kh1 Nf5 15. Qg4 O-O-O 16. a4 Kb7
+17. Rfb1 Ka8 18. Qd1 Nfxd4 19. a5 b5 20. Bxd4 Nxd4 21. a6 Rb8
+22. Qg4 Nf5 23. Nf3 Rhc8 24. Qf4 h5 25. h3 Qe7 26. Ra2 Rb6
+27. Rab2 Rcb8 28. Rb4 h4 29. Qd2 Rxa6 30. Rxb5 Rxb5 31. Rxb5
+Rb6 32. Rxb6 axb6 33. Qb2 Qc5 34. d4 Qc7 35. Qb5 Kb7 36. Qe8
+Qe7 37. Qb5 Qd8 38. Kh2 Qc8 39. Qb4 Qd7 40. Nd2 Ne7 41. Nb3
+Kc7 42. Qa3 Kd8 43. Qb4 Qc7 44. Nd2 Ke8 45. Nf3 Nf5 46. Qa4+
+Qd7 47. Qa8+ Qd8 48. Qa3 f6 49. exf6 gxf6 50. Qa7 b5 51. Kg1
+Qc8 52. Qb6 Qd7 53. Nd2 Kf7 54. Nf3 Kg7 55. Kh1 Kh6 56. Qb8
+Kg7 57. Qb6 Kf8 58. Kg1 Kf7 59. Kh1 Ne7 60. Nxh4 Qc6 61. Qb8
+Qc3 62. Qxb5 Qc1+ 63. Kh2 Qf4+ 64. g3 Qxf2+ 65. Ng2 Qxd4
+66. Qd7 Qc5 67. h4 d4 68. Nf4 Qc2+ 69. Kg1 Qb3 70. Kh2 e5
+71. Ng2 Qd5 72. Qg4 d3 73. Ne3 Qa2+ 74. Kg1 d2 75. Qd1 Nc6
+76. Qh5+ Ke6 77. Qf5+ Ke7 78. Qh7+ Kd8 79. Qd3+ Nd4 80. Nd1
+Ke7 81. Kf2 Qd5 82. Ke3 Qg2 83. Qh7+ Kd6 84. Qh5 Qxg3+
+85. Kxd2 Qh2+ 86. Ke3 Qf4+ 87. Kd3 Qf1+ 88. Kd2 Qg2+ 89. Ke3
+f5 90. Qh6+ Ne6 91. Nc3 Qc2 92. Ne2 f4+ 93. Kf2 e4 94. Ke1
+Qb1+ 95. Kf2 Qb2 96. Qg6 Qb6+ 0-1

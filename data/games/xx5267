@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.82"]
+[Result "0-1"]
+[White "Mamadou Mbaye Leye"]
+[Black "Claudio Coppola"]
+[ECO "A58"]
+[WhiteElo "?"]
+[BlackElo "2190"]
+[PlyCount "133"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. a7 Rxa7
+7. Nc3 Ba6 8. Nf3 Bg7 9. g3 d6 10. Qa4+ Nbd7 11. Qd1 Nb6
+12. Bg2 Bc4 13. e4 Qa8 14. a3 O-O 15. Nd2 Nfd7 16. Ndb1 Ne5
+17. Bf1 f5 18. Bxc4 Nexc4 19. O-O Ne5 20. f4 Ng4 21. Qe2 Bd4+
+22. Kg2 Nf6 23. exf5 Nbxd5 24. Qe6+ Rf7 25. Kh3 Nc7 26. Qe2
+gxf5 27. Qf3 Ng4 28. Qxa8+ Rxa8 29. Kg2 Rb8 30. h3 Ne3+
+31. Bxe3 Bxe3 32. Ra2 c4 33. Kf3 Ba7 34. Rd1 Ne6 35. Nd2 Rc8
+36. Nb5 Bb6 37. Nc3 Nd4+ 38. Kg2 e6 39. Nf3 Nxf3 40. Kxf3 d5
+41. Nb5 Rb8 42. a4 Bc5 43. Raa1 h5 44. Rd2 Rg7 45. Rad1 Kf7
+46. Ra1 Rbg8 47. Rg2 Kf6 48. Re1 h4 49. g4 Re7 50. g5+ Kf7
+51. Rge2 Rc8 52. Re5 Rc6 53. R5e2 Ra6 54. Ra1 Rb7 55. Ree1 Ra5
+56. Red1 Ke7 57. Rdc1 Bd6 58. Nxd6 Kxd6 59. Ra2 Rb4 60. Ke3
+Raxa4 61. Rxa4 Rxa4 62. g6 Ra7 63. g7 Rxg7 64. Rf1 Rg3+
+65. Rf3 d4+ 66. Ke2 Rxf3 67. Kxf3 0-1

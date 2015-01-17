@@ -1,0 +1,26 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.05"]
+[EventDate "2014.03.04"]
+[Round "3.48"]
+[Result "0-1"]
+[White "Carsten Aubert"]
+[Black "Sarasadat Khademalsharieh"]
+[ECO "E42"]
+[WhiteElo "1997"]
+[BlackElo "2294"]
+[PlyCount "120"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O
+7. a3 Be7 8. Nf4 d5 9. cxd5 Nxd5 10. Nfxd5 exd5 11. Be2 Nc6
+12. Be3 Be6 13. O-O Re8 14. Na4 Bd6 15. Nc5 Qc7 16. h3 Bxc5
+17. dxc5 d4 18. Bd2 Red8 19. b4 d3 20. Bg4 Bxg4 21. Qxg4 Nd4
+22. Kh1 f5 23. Qg5 Qf7 24. Rfe1 h6 25. Qh4 Rd7 26. Rad1 Nc2
+27. Re5 Re8 28. Qg3 Rxe5 29. Qxe5 Nxa3 30. Bc3 Qd5 31. Kg1
+Qxe5 32. Bxe5 Kf7 33. Bd6 Nc4 34. Rxd3 Nxd6 35. cxd6 Ke6
+36. Kf1 Rxd6 37. Re3+ Kd7 38. Re5 g6 39. h4 h5 40. b5 Re6
+41. Rc5 a6 42. bxa6 bxa6 43. f3 Kd6 44. Rc8 Kd5 45. g3 Rc6
+46. Ra8 Kd4 47. Kf2 Re6 48. Rc8 Rb6 49. Ke2 Re6+ 50. Kd2 Kd5
+51. Kd3 Rc6 52. Ra8 Kc5 53. Kc3 Kb5+ 54. Kb3 Re6 55. Rb8+ Kc5
+56. Rg8 Kd4 57. Rc8 Re3+ 58. Kc2 Rxf3 59. Rc6 Rxg3 60. Rxa6
+Ke3 0-1

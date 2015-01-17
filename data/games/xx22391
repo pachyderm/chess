@@ -1,0 +1,17 @@
+[Event "Bronstein Memorial"]
+[Site "Minsk BLR"]
+[Date "2014.02.15"]
+[EventDate "2014.02.11"]
+[Round "5.18"]
+[Result "1/2-1/2"]
+[White "Sergey Fedorchuk"]
+[Black "Sergey Pavlov"]
+[ECO "E90"]
+[WhiteElo "2641"]
+[BlackElo "2485"]
+[PlyCount "35"]
+
+1. d4 d6 2. Nf3 Nf6 3. c4 g6 4. Nc3 Bg7 5. e4 O-O 6. h3 e5
+7. dxe5 dxe5 8. Be3 Nbd7 9. Be2 Qe7 10. O-O c6 11. Qc2 Nh5
+12. Rfe1 Nf4 13. Bf1 Qf6 14. Kh2 Re8 15. Ne2 Ne6 16. c5 Qe7
+17. b4 a5 18. a3 1/2-1/2

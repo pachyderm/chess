@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.62"]
+[Result "0-1"]
+[White "Sanmogam Goundar"]
+[Black "Farhan Mohannad"]
+[ECO "D02"]
+[WhiteElo "1952"]
+[BlackElo "2321"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Be2 Bf5
+7. Ne5 Nbd7 8. g4 Be6 9. h4 c5 10. h5 Qa5 11. hxg6 fxg6 12. f3
+cxd4 13. Qxd4 Ne8 14. O-O-O Nc7 15. Bg3 b5 16. Nc6 Bxd4
+17. Nxa5 Bxe3+ 18. Kb1 b4 19. Bxc7 bxc3 20. Nc6 Bc5 21. b4
+Rac8 22. bxc5 Rxc7 23. Nxe7+ Kg7 24. c6 Nb6 25. Rd3 Rxe7
+26. Rxc3 Rc7 27. Bb5 Rb8 28. Ka1 Nc4 29. Ba4 Rb4 30. Re1 Bf7
+31. Bb3 Rxc6 32. Re7 Re6 0-1

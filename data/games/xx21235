@@ -1,0 +1,28 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.65"]
+[Result "1-0"]
+[White "Akira Watanabe"]
+[Black "Mark Bueno"]
+[ECO "E40"]
+[WhiteElo "2252"]
+[BlackElo "1828"]
+[PlyCount "141"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. cxd5 exd5 6. Bd3 O-O
+7. Ne2 c5 8. a3 Bxc3+ 9. bxc3 Nc6 10. O-O Qa5 11. Bd2 c4
+12. Bc2 Ne7 13. Ng3 Re8 14. f3 h5 15. e4 h4 16. Ne2 dxe4
+17. fxe4 Qh5 18. Nf4 Qxd1 19. Raxd1 Bg4 20. Rde1 b5 21. e5
+Nfd5 22. Nxd5 Nxd5 23. Re4 Be6 24. Rxh4 a5 25. Bh7+ Kf8
+26. Be4 Ke7 27. Rf3 Rh8 28. Rxh8 Rxh8 29. h3 Rb8 30. Kf2 Rf8
+31. Ke2 Rc8 32. Kd1 Kd7 33. Kc2 Rb8 34. Rf1 Rb6 35. g4 Rb8
+36. h4 Rh8 37. h5 Nc7 38. Bf3 a4 39. Rb1 Rb8 40. Rf1 Nd5
+41. Rb1 Kc6 42. Kd1 Kb6 43. Ke1 Rf8 44. Kf2 Rh8 45. Kg3 Kc6
+46. Be4 Kb6 47. Rf1 Kc6 48. Bf5 Kd7 49. Rb1 Rb8 50. Bc2 Kc7
+51. Kh4 Ne7 52. Rf1 Rh8 53. Kg5 Nd5 54. Bf5 Kd7 55. Be4 Kc6
+56. Kh4 Kd7 57. Rb1 Rb8 58. g5 Ne7 59. g6 fxg6 60. hxg6 Kc7
+61. Rf1 Rh8+ 62. Kg3 Nd5 63. Bf5 Bg8 64. Bg5 Nxc3 65. e6 Kd6
+66. Re1 Bxe6 67. Bxe6 Re8 68. Bf4+ Kc6 69. d5+ Kb6 70. d6 Nd5
+71. d7 1-0

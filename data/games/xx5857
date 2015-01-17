@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.71"]
+[Result "1-0"]
+[White "Eliman Lemon"]
+[Black "Benjamin Hoareau"]
+[ECO "B00"]
+[WhiteElo "1884"]
+[BlackElo "1875"]
+[PlyCount "69"]
+
+1. e4 b5 2. Bxb5 Bb7 3. Nc3 f5 4. d3 e5 5. Nf3 c6 6. Bc4 Qf6
+7. O-O f4 8. d4 d6 9. dxe5 dxe5 10. Ne1 h5 11. Nd3 Nd7
+12. Bxg8 Rxg8 13. Qxh5+ g6 14. Qf3 Nc5 15. Nxc5 Bxc5 16. Na4
+Bf8 17. Qb3 Rg7 18. Bd2 Rd8 19. Ba5 Rd4 20. Rad1 Rgd7 21. Rxd4
+exd4 22. f3 Qg5 23. Bb4 c5 24. Bd2 Qf6 25. Re1 Bd6 26. Qg8+
+Ke7 27. e5 Bxe5 28. Nxc5 Rc7 29. Nd3 Bxf3 30. Rxe5+ Kd6
+31. Bb4+ Kc6 32. Re6+ Qxe6 33. Qxe6+ Kb5 34. a4+ Kxa4 35. Qa6#
+1-0

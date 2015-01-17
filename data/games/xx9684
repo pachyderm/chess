@@ -1,0 +1,25 @@
+[Event "Bundesliga"]
+[Site "Bochum GER"]
+[Date "2014.03.15"]
+[EventDate "2013.10.12"]
+[Round "11"]
+[Result "1-0"]
+[White "Aleksander Mista"]
+[Black "Eric Hansen"]
+[ECO "B42"]
+[WhiteElo "2584"]
+[BlackElo "2567"]
+[PlyCount "111"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Be7
+7. Qg4 g6 8. Qe2 d6 9. O-O Nd7 10. Nc3 Qc7 11. Bd2 b6 12. Rae1
+Bb7 13. f4 Ngf6 14. e5 Nd5 15. Ne4 dxe5 16. fxe5 O-O 17. Nf2
+h5 18. a3 b5 19. Bh6 b4 20. a4 N5b6 21. Bxf8 Bxf8 22. Ne4 Bg7
+23. Nf6+ Bxf6 24. exf6 Nd5 25. Bxg6 Qb6+ 26. Kh1 fxg6 27. Na5
+Nf8 28. Nxb7 Qxb7 29. f7+ Kh7 30. Qd3 Ne7 31. a5 Qd5 32. Qe4
+Qxe4 33. Rxe4 Nd5 34. c4 bxc3 35. bxc3 Nxc3 36. Rc4 Nd5
+37. Rc6 Kg7 38. g3 Ra7 39. Kg1 Ne7 40. Rb6 Nd5 41. Rc6 Ne7
+42. Rb6 Nf5 43. Rfb1 Nd4 44. Kg2 Nf5 45. Kg1 Nd4 46. Kg2 Rc7
+47. Rxa6 Rc2+ 48. Kf1 Nf3 49. Rb8 e5 50. Raa8 Rd2 51. Rb3
+Nxh2+ 52. Ke1 Ra2 53. Rbb8 Nf3+ 54. Kd1 e4 55. Rxf8 Rxa5
+56. Rfd8 1-0

@@ -1,0 +1,18 @@
+[Event "Cappelle-la-Grande"]
+[Site "Cappelle-la-Grande FRA"]
+[Date "2014.03.01"]
+[EventDate "2014.03.01"]
+[Round "1.102"]
+[Result "1-0"]
+[White "Deimante Daulyte"]
+[Black "Paulo Costa"]
+[ECO "B25"]
+[WhiteElo "2357"]
+[BlackElo "2123"]
+[PlyCount "43"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Nf3 g6 5. Bc4 Bg7 6. Nxd4
+cxd4 7. Qf3 Nh6 8. Ne2 O-O 9. d3 Ng4 10. Qg3 Ne5 11. Bb3 a5
+12. a4 Qb6 13. f4 Nc6 14. O-O Qc7 15. Qf2 d6 16. f5 Kh8
+17. fxg6 Ne5 18. gxf7 e6 19. Qh4 Rxf7 20. Bh6 Ng6 21. Rxf7
+Qxf7 22. Qd8+ 1-0

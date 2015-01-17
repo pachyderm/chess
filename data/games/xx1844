@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.23"]
+[Result "1-0"]
+[White "Krishnan Sasikiran"]
+[Black "Milan Drasko"]
+[ECO "A11"]
+[WhiteElo "2669"]
+[BlackElo "2437"]
+[PlyCount "43"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 a6 4. Nc3 d5 5. cxd5 exd5 6. Bg2 Bd6
+7. O-O O-O 8. d3 Re8 9. Bg5 h6 10. Bxf6 Qxf6 11. Nxd5 Qxb2
+12. Nd2 Ra7 13. e3 b5 14. Ne4 Be7 15. Nxe7+ Rxe7 16. a4 c6
+17. d4 Be6 18. Qh5 Bc4 19. Rfb1 Qc2 20. Qf5 Kf8 21. Rc1 Qb2
+22. Nd6 1-0

@@ -1,0 +1,21 @@
+[Event "Bundesliga"]
+[Site "Hockenheim GER"]
+[Date "2014.03.15"]
+[EventDate "2013.10.12"]
+[Round "11"]
+[Result "0-1"]
+[White "Luke McShane"]
+[Black "Richard Rapport"]
+[ECO "C03"]
+[WhiteElo "2697"]
+[BlackElo "2676"]
+[PlyCount "72"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 4. c3 c5 5. dxc5 Bxc5 6. Bd3 Nf6
+7. Qe2 Qc7 8. Ngf3 O-O 9. O-O Nbd7 10. Bc2 b6 11. exd5 exd5
+12. Nb3 Re8 13. Qd3 a5 14. Nxc5 bxc5 15. Re1 Rxe1+ 16. Nxe1
+Ba6 17. Qd1 Re8 18. Nd3 Qb6 19. h3 h6 20. Rb1 Bc4 21. a4 Ne4
+22. Bd2 Bxd3 23. Bxd3 Nxf2 24. Qf3 Nxd3 25. Qxd3 c4+ 26. Qd4
+Re2 27. Rd1 Qxb2 28. Qxd5 Qc2 29. Bf4 Rxg2+ 30. Kh1 Re2
+31. Rg1 Qd3 32. Qxd3 cxd3 33. Bxh6 d2 34. Rxg7+ Kh8 35. Rg1
+Ne5 36. Bf4 Nf3 0-1

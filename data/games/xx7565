@@ -1,0 +1,17 @@
+[Event "Bundesliga"]
+[Site "Muelheim GER"]
+[Date "2014.02.09"]
+[EventDate "2013.10.12"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Thomas Thiel"]
+[Black "Matthias Bluebaum"]
+[ECO "B13"]
+[WhiteElo "2296"]
+[BlackElo "2510"]
+[PlyCount "39"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4
+7. cxd5 Nxd5 8. Qb3 Bxf3 9. gxf3 Nb6 10. Be3 e6 11. O-O-O Qc7
+12. Kb1 Be7 13. d5 Nxd5 14. Nxd5 exd5 15. Rxd5 O-O 16. f4 Rad8
+17. Bg2 Bf6 18. Rhd1 Rxd5 19. Rxd5 Rc8 20. Qc4 1/2-1/2

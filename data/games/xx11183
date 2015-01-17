@@ -1,0 +1,19 @@
+[Event "TCEC - Season 6 - Stage 3"]
+[Site "http://tcec.chessdom.com"]
+[Date "2014.04.29"]
+[EventDate "2014.04.10"]
+[Round "26"]
+[Result "1-0"]
+[White "Critter (Computer)"]
+[Black "Shredder (Computer)"]
+[ECO "B80"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6
+7. f3 b5 8. g4 Nfd7 9. Qd2 Be7 10. O-O-O O-O 11. g5 Bb7 12. h4
+b4 13. Nce2 d5 14. g6 hxg6 15. h5 g5 16. exd5 Bxd5 17. Rg1 Nb6
+18. Bxg5 Bf6 19. h6 g6 20. h7+ Kxh7 21. Qf4 Kg7 22. Bh6+ Kg8
+23. Qg4 N8d7 24. Nf4 Ne5 25. Qh5 Qc7 26. Re1 Nbd7 27. Bc4 Bg5
+28. Rxg5 Nf6 29. Qh4 Bxc4 30. Rexe5 Nh7 31. Nxg6 1-0

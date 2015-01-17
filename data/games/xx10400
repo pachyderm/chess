@@ -1,0 +1,21 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.04"]
+[EventDate "2014.03.04"]
+[Round "1.13"]
+[Result "0-1"]
+[White "Henrik Carlsen"]
+[Black "Nils Grandelius"]
+[ECO "B50"]
+[WhiteElo "2027"]
+[BlackElo "2600"]
+[PlyCount "76"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. e5 dxe5 5. Nxe5 Nbd7 6. Bb5 a6
+7. Nxd7 axb5 8. Nxf6+ gxf6 9. d4 Qd5 10. Qf3 Qxf3 11. gxf3
+cxd4 12. cxd4 Be6 13. Nc3 b4 14. d5 Bd7 15. Ne4 Ra5 16. Bd2
+Rxd5 17. Bxb4 Bc6 18. Rd1 Rxd1+ 19. Kxd1 f5 20. Nd2 Rg8
+21. Ke2 Rg6 22. Rc1 Rh6 23. Rg1 Rxh2 24. b3 f6 25. a4 Kf7
+26. Bc5 Bh6 27. Nf1 Rh3 28. Rg3 Rh1 29. Nd2 Bf4 30. Rg2 h5
+31. Be3 Bd6 32. Bh6 h4 33. Rg7+ Ke6 34. Nc4 h3 35. Rh7 h2
+36. Be3 Bc7 37. Bc5 Rc1 38. Bd6 Bxd6 0-1

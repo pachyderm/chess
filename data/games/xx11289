@@ -1,0 +1,19 @@
+[Event "Riga Technical University Open"]
+[Site "Riga LAT"]
+[Date "2014.08.16"]
+[EventDate "2014.08.16"]
+[Round "1.5"]
+[Result "0-1"]
+[White "Leonid Sandler"]
+[Black "Igor Kovalenko"]
+[ECO "B84"]
+[WhiteElo "2264"]
+[BlackElo "2650"]
+[PlyCount "54"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6
+7. O-O Nbd7 8. Be3 Qc7 9. Kh1 b6 10. f3 Bb7 11. Qe1 Be7
+12. Qg3 g6 13. Rae1 h5 14. Bd3 h4 15. Qf2 b5 16. Kg1 b4
+17. Nce2 e5 18. Nb3 d5 19. exd5 Nxd5 20. Be4 f5 21. Bxd5 Bxd5
+22. f4 h3 23. gxh3 Rxh3 24. Ng3 Bh4 25. Qd2 Bb7 26. Bf2 O-O-O
+27. Qxb4 exf4 0-1

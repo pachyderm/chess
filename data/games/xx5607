@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.65"]
+[Result "0-1"]
+[White "Dennis Gonzales"]
+[Black "Jonathan Molod"]
+[ECO "A84"]
+[WhiteElo "1720"]
+[BlackElo "?"]
+[PlyCount "112"]
+
+1. d4 f5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Be7 5. Nc3 d6 6. e3 O-O
+7. Be2 Nbd7 8. O-O e5 9. dxe5 dxe5 10. Nd5 Nxd5 11. Qxd5+ Kh8
+12. Bxe7 Qxe7 13. Rfd1 Re8 14. Rd2 Nf6 15. Qb5 a6 16. Qb3 b6
+17. Rad1 Bb7 18. a3 Bc6 19. Ne1 Ne4 20. Bf3 Nxd2 21. Rxd2 Bxf3
+22. Nxf3 Rad8 23. Qc2 Rxd2 24. Qxd2 Rd8 25. Qe2 Qd6 26. g3
+Qd1+ 27. Qxd1 Rxd1+ 28. Kg2 e4 29. Nd4 g6 30. b3 c5 31. Nc6
+Ra1 32. a4 Ra3 33. b4 Rxa4 34. bxc5 bxc5 35. Ne5 Rb4 36. g4
+Kg7 37. Kg3 Rb6 38. Kf4 a5 39. gxf5 gxf5 40. Nd7 Rc6 41. Ke5
+a4 42. Kd5 Rc7 43. Nxc5 Rxc5+ 44. Kxc5 a3 45. Kd6 a2 46. c5
+a1=Q 47. c6 Qf6+ 48. Kd7 Qf7+ 49. Kc8 Qe6+ 50. Kb7 Qd5 51. Kb6
+Qb3+ 52. Kc7 Qd5 53. Kb6 Qd6 54. Kb7 Qxh2 55. c7 Qxc7+
+56. Kxc7 h5 0-1

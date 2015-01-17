@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.15"]
+[Result "0-1"]
+[White "Hans Tikkanen"]
+[Black "David Howell"]
+[ECO "E60"]
+[WhiteElo "2559"]
+[BlackElo "2650"]
+[PlyCount "98"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. e3 O-O 5. Be2 b6 6. O-O Bb7
+7. d5 e6 8. Nc3 exd5 9. cxd5 Re8 10. Rb1 c6 11. Bc4 Na6 12. b4
+b5 13. Bb3 Nxb4 14. e4 Nfxd5 15. Nxd5 cxd5 16. exd5 a5 17. d6
+h6 18. Bb2 Be4 19. Bxg7 Kxg7 20. Rc1 Qf6 21. Rc7 a4 22. Bxf7
+Kxf7 23. Qd2 Nd5 24. Rxd7+ Kg8 25. Qxh6 Qh8 26. Qd2 Nf6
+27. Rc7 Bxf3 28. gxf3 Qh5 29. Rfc1 Rad8 30. Qf4 Rf8 31. R1c5
+Qh3 32. Rg5 Rd7 33. Rxg6+ Kh7 34. Rg3 Qh5 35. Rg5 Qh6 36. Qf5+
+Kh8 37. Rg6 Qxg6+ 38. Qxg6 Rg8 39. Rc8 Rg7 40. Qxg7+ Kxg7
+41. Rc7+ Kf8+ 42. Kf1 Rg5 43. Rb7 Ke8 44. Re7+ Kd8 45. Rf7 Ne8
+46. d7 Nd6 47. Rh7 Re5 48. h4 b4 49. f4 Rb5 0-1

@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.30"]
+[Result "0-1"]
+[White "Max Baron Nitzborn"]
+[Black "Van Huy Nguyen"]
+[ECO "D04"]
+[WhiteElo "?"]
+[BlackElo "2439"]
+[PlyCount "60"]
+
+1. d4 Nf6 2. Nf3 d5 3. e3 c5 4. c3 Qb6 5. Be2 g6 6. O-O Bg7
+7. Nbd2 O-O 8. Ne5 Nc6 9. Ndf3 Bf5 10. h3 Rfd8 11. Nh4 Be6
+12. f4 Nxe5 13. fxe5 Ne4 14. Bg4 f6 15. Bxe6+ Qxe6 16. exf6
+exf6 17. Qb3 b6 18. a4 c4 19. Qd1 Bh6 20. Qf3 Bg5 21. g3 Qxh3
+22. Qg2 Qxg3 23. Nf3 Qxg2+ 24. Kxg2 Kg7 25. Nxg5 fxg5 26. Ra3
+Rf8 27. b4 Rxf1 28. Kxf1 a6 29. b5 axb5 30. axb5 Rxa3 0-1

@@ -1,0 +1,19 @@
+[Event "Bundesliga"]
+[Site "Berlin GER"]
+[Date "2014.02.22"]
+[EventDate "2013.10.12"]
+[Round "9"]
+[Result "0-1"]
+[White "Aleksander Mista"]
+[Black "Csaba Balogh"]
+[ECO "C65"]
+[WhiteElo "2584"]
+[BlackElo "2632"]
+[PlyCount "60"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O Re8
+7. Re1 a6 8. Ba4 b5 9. Bb3 Bb6 10. a4 Bb7 11. Bg5 h6 12. Bh4
+d6 13. Bd5 g5 14. Nxg5 Nxd5 15. exd5 hxg5 16. Qg4 Bc8 17. Qg3
+f6 18. dxc6 Kf7 19. Bxg5 Rg8 20. h4 fxg5 21. h5 Qf6 22. d4 Qf4
+23. Qd3 Bf5 24. Qd1 exd4 25. Qb3+ Kf6 26. g3 Qf3 27. Nd2 Qxh5
+28. Ne4+ Kg6 29. Nxd6 cxd6 30. Qd5 Raf8 0-1

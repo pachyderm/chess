@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.34"]
+[Result "1-0"]
+[White "Federico Perez Ponsa"]
+[Black "Renato Frick"]
+[ECO "D85"]
+[WhiteElo "2541"]
+[BlackElo "2057"]
+[PlyCount "49"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Nf3 c5 8. Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Bd2
+Qxa2 12. O-O Bg4 13. Bg5 Nc6 14. d5 Bxf3 15. Bxf3 Ne5 16. Bxe7
+Rfe8 17. Rxb7 Qa6 18. Rc7 Rab8 19. Be2 Qb6 20. d6 Bf8 21. Qd5
+Bg7 22. Rfc1 Qb2 23. Bf1 Ng4 24. Qxf7+ Kh8 25. d7 1-0

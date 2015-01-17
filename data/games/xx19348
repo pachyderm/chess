@@ -1,0 +1,23 @@
+[Event "Norway Chess Tournament"]
+[Site "Stavanger NOR"]
+[Date "2014.06.07"]
+[EventDate "2014.06.02"]
+[Round "4"]
+[Result "1-0"]
+[White "Sergey Karjakin"]
+[Black "Alexander Grischuk"]
+[ECO "D85"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "107"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7
+7.Be3 c5 8.Rc1 Qa5 9.Qd2 O-O 10.Nf3 Bg4 11.Ng5 Na6 12.h3 Bd7
+13.Bd3 Rac8 14.d5 c4 15.Bb1 Nc5 16.Bd4 Bxd4 17.cxd4 c3 18.Rxc3
+Nd3+ 19.Rxd3 Rc1+ 20.Ke2 Qxd2+ 21.Kxd2 Rxh1 22.Rb3 b5 23.Nf3
+f6 24.Ne1 a5 25.Rc3 Rc8 26.Rc5 b4 27.Bd3 a4 28.Ra5 b3 29.axb3
+axb3 30.Ra7 Rd8 31.Rb7 Ra8 32.Rxd7 Ra2+ 33.Kc3 Rxe1 34.Kxb3
+Rxf2 35.Rxe7 Re3 36.Kc4 Rd2 37.Bb1 Rb2 38.d6 Kf8 39.Bd3 Rd2
+40.Bf1 Ra3 41.Kb4 Ra1 42.Bc4 Rc1 43.Rf7+ Ke8 44.d7+ Kd8 45.Kc5
+Kc7 46.Rxh7 Rcd1 47.d5 Rc1 48.g4 g5 49.d8=Q+ Kxd8 50.Kd6 Ke8
+51.Bb5+ Kf8 52.Ke6 Re1 53.Kxf6 Rf2+ 54.Kg6 1-0

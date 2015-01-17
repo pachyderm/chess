@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.69"]
+[Result "1-0"]
+[White "Enrico Grassi"]
+[Black "Joseph Caluag"]
+[ECO "C51"]
+[WhiteElo "2020"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4 exd4
+7. O-O d6 8. cxd4 Bb6 9. Nc3 Nge7 10. Ng5 d5 11. exd5 Na5
+12. d6 Nxc4 13. Qa4+ Qd7 14. Qxc4 Nf5 15. Re1+ Kf8 16. Re7
+Nxd6 17. Rxd7 Nxc4 18. Rd8+ Ke7 19. Rxh8 Bxd4 20. Nd5+ Kd6
+21. Rd8+ Kc5 22. Ne4+ 1-0

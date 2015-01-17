@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.71"]
+[Result "0-1"]
+[White "Graham Mooney"]
+[Black "Sergio Huguet"]
+[ECO "A04"]
+[WhiteElo "1880"]
+[BlackElo "2055"]
+[PlyCount "40"]
+
+1. Nf3 Nf6 2. g3 c5 3. Bg2 d5 4. O-O g6 5. c4 Bg7 6. d4 dxc4
+7. Nc3 O-O 8. dxc5 Qc7 9. Bf4 Qxc5 10. Rc1 Nc6 11. Na4 Qh5
+12. Rxc4 Rd8 13. Qc1 Be6 14. Rc5 Rd5 15. Ng5 Nd4 16. Bxd5
+Nxe2+ 17. Kg2 Bxd5+ 18. f3 Nxc1 19. Rfxc1 h6 20. g4 Qxg4+ 0-1

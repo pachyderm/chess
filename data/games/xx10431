@@ -1,0 +1,17 @@
+[Event "Chess Olympiad (Women)"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.60"]
+[Result "0-1"]
+[White "Dalal Al Mutar"]
+[Black "Shrook Wafa"]
+[ECO "B50"]
+[WhiteElo "?"]
+[BlackElo "2065"]
+[PlyCount "36"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 Nc6 4. O-O Nf6 5. Nc3 Bg4 6. d3 Nd4
+7. Bg5 e6 8. Bb5+ Nxb5 9. Nxb5 Be7 10. c3 O-O 11. d4 Nxe4
+12. Be3 Qb6 13. Qd3 Bxf3 14. gxf3 Ng5 15. dxc5 Nxf3+ 16. Kh1
+Qc6 17. cxd6 Ne1+ 18. Kg1 Qg2# 0-1

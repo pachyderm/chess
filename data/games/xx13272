@@ -1,0 +1,23 @@
+[Event "TCEC - Season 6 Superfinal"]
+[Site "http://tcec.chessdom.com"]
+[Date "2014.06.01"]
+[EventDate "2014.05.01"]
+[Round "16"]
+[Result "1-0"]
+[White "Komodo (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "C35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "99"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Nc3 Bh4+ 5. Ke2 d6 6. d4 Bg4
+7. Bxf4 Nc6 8. Qd3 Nge7 9. Kd2 Bf6 10. e5 Bf5 11. exf6 Bxd3
+12. fxe7 Qd7 13. Bxd3 Nxe7 14. Raf1 O-O 15. Kc1 a6 16. h4 b5
+17. h5 b4 18. Nd1 Nd5 19. Bd2 a5 20. Nh4 c6 21. Rf3 Nc7
+22. Nf5 Ne6 23. d5 cxd5 24. Nde3 Nc5 25. Nxd5 Nxd3+ 26. Rxd3
+Rae8 27. Rf1 f6 28. h6 g6 29. Nfe3 f5 30. Nc4 f4 31. Rxf4 Rxf4
+32. Bxf4 Re1+ 33. Kd2 Re6 34. b3 Qd8 35. Kc1 g5 36. Rg3 Rg6
+37. Be3 Kf7 38. Rf3+ Ke6 39. Ncb6 Rxh6 40. Bd4 g4 41. Rf1 Qh4
+42. Nc7+ Ke7 43. Kb2 Qg5 44. a4 bxa3+ 45. Kxa3 Qg6 46. c4 a4
+47. Ncd5+ Ke8 48. Re1+ Kd8 49. Re7 Qd3 50. Bc3 1-0

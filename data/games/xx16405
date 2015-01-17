@@ -1,0 +1,18 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.04"]
+[EventDate "2014.03.04"]
+[Round "1.78"]
+[Result "0-1"]
+[White "Adalsteinn Thorarensen"]
+[Black "Michael Langer"]
+[ECO "D05"]
+[WhiteElo "1737"]
+[BlackElo "2248"]
+[PlyCount "44"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. c3 d5 5. Bd3 Nc6 6. O-O Bd6
+7. Re1 O-O 8. b3 e5 9. dxe5 Nxe5 10. Be2 Ne4 11. Nfd2 Nxf2
+12. Kxf2 Qh4+ 13. Kf1 Qxh2 14. Bf3 Nd3 15. Bxd5 Nxe1 16. Kxe1
+Bg3+ 17. Ke2 Bg4+ 18. Nf3 Qxg2+ 19. Kd3 Rfd8 20. Kc4 Rxd5
+21. Qxd5 Bxf3 22. Qxc5 Qf1+ 0-1

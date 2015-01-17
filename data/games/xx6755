@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.12"]
+[Result "1-0"]
+[White "Maxime Vachier-Lagrave"]
+[Black "Fernando Peralta"]
+[ECO "B07"]
+[WhiteElo "2768"]
+[BlackElo "2574"]
+[PlyCount "78"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 c6 6. Bh6 Bxh6
+7. Qxh6 Qa5 8. Bd3 c5 9. d5 Nbd7 10. Nf3 c4 11. Bxc4 Qc5
+12. Bd3 Qxf2+ 13. Kxf2 Ng4+ 14. Kg3 Nxh6 15. Rhe1 O-O 16. e5
+dxe5 17. Nxe5 Nc5 18. Bf1 e6 19. Rad1 f6 20. Nc4 e5 21. b4 Na6
+22. a3 Bd7 23. Nd6 Nf5+ 24. Nxf5 gxf5 25. Nb1 b5 26. c4 bxc4
+27. Bxc4 Nc7 28. d6+ Ne6 29. Rc1 Rfd8 30. Nc3 Kg7 31. Nd5 Ng5
+32. Ne7 Ne4+ 33. Rxe4 fxe4 34. Bd5 Rab8 35. Rc7 f5 36. Nc6 f4+
+37. Kf2 e3+ 38. Ke1 Kf6 39. Nxb8 Bg4 1-0

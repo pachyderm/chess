@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.22"]
+[Result "0-1"]
+[White "Samir Nadir"]
+[Black "Ehsan Ghaem Maghami"]
+[ECO "D02"]
+[WhiteElo "2141"]
+[BlackElo "2594"]
+[PlyCount "54"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 g6 4. e3 Bg7 5. h3 O-O 6. Nbd2 c5
+7. c3 Nc6 8. Be2 b6 9. O-O Bb7 10. a4 Nd7 11. Qb3 Re8 12. Rfd1
+e6 13. Bd6 Rc8 14. Qa3 e5 15. dxc5 e4 16. Nd4 bxc5 17. N4b3 c4
+18. Nc5 Nxc5 19. Bxc5 Qg5 20. b4 Ra8 21. b5 Ne5 22. f4 exf3
+23. Nxf3 Qg3 24. Nxe5 Bxe5 25. Bf3 d4 26. Bxb7 Qxe3+ 27. Kf1
+Bh2 0-1

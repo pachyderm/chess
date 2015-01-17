@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.70"]
+[Result "1-0"]
+[White "Kristian Stuvik Holm"]
+[Black "Cecil Moncur"]
+[ECO "A40"]
+[WhiteElo "2275"]
+[BlackElo "1689"]
+[PlyCount "77"]
+
+1. d4 g6 2. c4 Bg7 3. Nf3 d6 4. Nc3 Nc6 5. d5 Ne5 6. Nxe5 Bxe5
+7. e4 Nf6 8. Bd3 O-O 9. O-O c6 10. Kh1 cxd5 11. exd5 Bd7
+12. Qb3 Qb6 13. Qc2 Bd4 14. f3 Kg7 15. Bg5 h6 16. Bd2 Rac8
+17. Rae1 Rce8 18. b3 Rh8 19. Ne2 h5 20. Nxd4 Qxd4 21. Be3 Qh4
+22. Bxa7 e5 23. dxe6 Rxe6 24. Rxe6 Bxe6 25. Bf2 Qg5 26. Bd4
+Qf4 27. Qb2 h4 28. Kg1 Ra8 29. a4 Ra5 30. Kf2 Rg5 31. Re1 d5
+32. c5 Rh5 33. a5 g5 34. Be5 Qb4 35. Bxf6+ Kg8 36. Qc3 Qxc3
+37. Bxc3 g4 38. fxg4 Bxg4 39. Re8# 1-0

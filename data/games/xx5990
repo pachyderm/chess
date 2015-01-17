@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.1"]
+[Result "1-0"]
+[White "David Smerdon"]
+[Black "William van Rensselaer"]
+[ECO "B01"]
+[WhiteElo "2513"]
+[BlackElo "1908"]
+[PlyCount "33"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. Nc3 cxd5 5. cxd5 Nxd5 6. Nf3
+Nc6 7. Bb5 e6 8. O-O Bd6 9. d4 O-O 10. Re1 Qa5 11. Bd3 Nxc3
+12. bxc3 Qxc3 13. Rb1 Nxd4 14. Nxd4 Kh8 15. Nb5 Qc6 16. Be4
+Rd8 17. Bxc6 1-0

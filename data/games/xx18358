@@ -1,0 +1,31 @@
+[Event "Norway Chess Tournament"]
+[Site "Stavanger NOR"]
+[Date "2014.06.08"]
+[EventDate "2014.06.02"]
+[Round "5"]
+[Result "1-0"]
+[White "Magnus Carlsen"]
+[Black "Levon Aronian"]
+[ECO "D38"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "185"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.cxd5 exd5 6.Bg5 h6 7.Bh4
+Nbd7 8.e3 g5 9.Bg3 Ne4 10.Nd2 Nxg3 11.fxg3 Nb6 12.Bd3 Qe7
+13.Qf3 Be6 14.a3 Bxc3 15.bxc3 O-O-O 16.a4 Bd7 17.a5 Na4 18.a6
+Rhe8 19.Kf2 Kb8 20.Rhe1 Nxc3 21.axb7 Qb4 22.Kg1 Qb2 23.Nf1 f5
+24.Ra5 Ba4 25.Rc5 Rf8 26.h3 Rf6 27.Nh2 Rdf8 28.Qf1 Ne4 29.Re2
+Qa3 30.Bxe4 fxe4 31.Qe1 c6 32.Ra5 Qb3 33.Qa1 Qd1+ 34.Qxd1 Bxd1
+35.Re1 Bh5 36.g4 Be8 37.Rea1 Rf2 38.Rxa7 Rb2 39.Nf1 Kc7 40.Ra8
+Kxb7 41.R1a7+ Kb6 42.Re7 Rbf2 43.Rb8+ Ka6 44.Ng3 Bg6 45.Rxf8
+Rxf8 46.Re6 Be8 47.Rxh6 Kb5 48.Rh7 Kc4 49.Ra7 Bg6 50.Ra6 Rf6
+51.Ra3 Kb4 52.Ra1 Kc3 53.Rf1 Re6 54.Rf8 Kd2 55.Nf1+ Kd3 56.Kf2
+Re7 57.Rg8 Re6 58.Ke1 Rf6 59.Rg7 Re6 60.Ra7 Re8 61.Ra3+ Kc2
+62.Ra6 Rc8 63.Ke2 Be8 64.Ra5 Kc3 65.Ng3 Rb8 66.Rc5+ Kb2 67.Nh5
+Bxh5 68.gxh5 Rh8 69.g4 Rh6 70.Kf2 Re6 71.Kg3 Rf6 72.h4 Rf3+
+73.Kg2 gxh4 74.h6 Rxe3 75.h7 h3+ 76.Kh2 Re2+ 77.Kxh3 Re1
+78.Kg2 Re2+ 79.Kg3 Re3+ 80.Kh4 Re1 81.Kg5 Rh1 82.Kg6 Rh4
+83.Rxc6 e3 84.Re6 Rxg4+ 85.Kh5 Rg1 86.Rxe3 Rh1+ 87.Kg6 Rg1+
+88.Kf7 Rh1 89.Kg8 Rg1+ 90.Kh8 Rg4 91.Re5 Rxd4 92.Kg7 Rg4+
+93.Kh6 1-0

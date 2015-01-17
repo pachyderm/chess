@@ -1,0 +1,18 @@
+[Event "Rilton Cup"]
+[Site "Stockholm SWE"]
+[Date "2014.01.04"]
+[EventDate "2013.12.27"]
+[Round "8.13"]
+[Result "0-1"]
+[White "Per Soderberg"]
+[Black "Johan Furhoff"]
+[ECO "C44"]
+[WhiteElo "2183"]
+[BlackElo "2318"]
+[PlyCount "46"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 f6 5. d3 Ne7 6. Be2 Be6
+7. O-O Ng6 8. Be3 a6 9. exd5 Qxd5 10. d4 e4 11. Nfd2 f5 12. f3
+exf3 13. Bxf3 Qd7 14. c4 Be7 15. Nc3 Bf7 16. Rae1 O-O 17. Nb3
+Be8 18. Bf2 Rb8 19. c5 Nce5 20. Bd5+ Qxd5 21. Qxe8 Nf3+
+22. gxf3 Qxf3 23. Qxe7 Nf4 0-1

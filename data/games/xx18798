@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.4"]
+[Result "0-1"]
+[White "Krasimir Rusev"]
+[Black "Anton Korobov"]
+[ECO "D45"]
+[WhiteElo "2548"]
+[BlackElo "2680"]
+[PlyCount "70"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 b6
+7. b3 Bb7 8. Bb2 Bd6 9. Be2 O-O 10. O-O Re8 11. Rad1 Qe7
+12. Rfe1 c5 13. dxc5 bxc5 14. cxd5 exd5 15. Nb5 Bb8 16. Nc3 d4
+17. Na4 a6 18. Qf5 Be4 19. Qh3 dxe3 20. Bd3 Bxd3 21. Rxe3 Be4
+22. Ng5 Be5 23. Nxe4 Bxb2 24. Nxf6+ Qxf6 25. Rxe8+ Rxe8
+26. Qxd7 Qe5 27. Qd3 Bd4 28. Qxa6 h5 29. Qd3 Re6 30. b4 Qf4
+31. Qf3 Qd2 32. g3 Qxb4 33. Qb3 Re1+ 34. Rxe1 Qxe1+ 35. Kg2
+Qxf2+ 0-1

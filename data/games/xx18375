@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.4"]
+[Result "1-0"]
+[White "Romain Edouard"]
+[Black "Bayarsaikhan Gundavaa"]
+[ECO "D38"]
+[WhiteElo "2680"]
+[BlackElo "2501"]
+[PlyCount "63"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 d5 5. cxd5 exd5 6. Bg5 h6
+7. Bh4 Nbd7 8. Qc2 c6 9. e3 g5 10. Bg3 Ne4 11. Bd3 Nxg3
+12. hxg3 Nb6 13. a3 Bd6 14. O-O-O Be6 15. e4 g4 16. Nh4 dxe4
+17. Bxe4 Qg5+ 18. Kb1 O-O-O 19. d5 cxd5 20. Bxd5 Bxd5 21. Ne4+
+Kb8 22. Nxg5 hxg5 23. Nf5 Rxh1 24. Rxh1 Be5 25. Rd1 Rc8
+26. Qxc8+ Kxc8 27. Ne7+ Kd7 28. Nxd5 Nxd5 29. Rxd5+ Ke6
+30. Rb5 b6 31. Kc2 f5 32. Kd3 1-0

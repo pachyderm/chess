@@ -1,0 +1,17 @@
+[Event "Bundesliga"]
+[Site "Viernheim GER"]
+[Date "2014.03.15"]
+[EventDate "2013.10.12"]
+[Round "11"]
+[Result "1/2-1/2"]
+[White "Ronald Koehler"]
+[Black "Thomas Reich"]
+[ECO "E70"]
+[WhiteElo "2269"]
+[BlackElo "2386"]
+[PlyCount "38"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f4 d6 6. Nf3 Na6
+7. Be2 e5 8. dxe5 dxe5 9. Nxe5 Nc5 10. Bf3 Qxd1+ 11. Kxd1 Rd8+
+12. Kc2 Nfxe4 13. Nxe4 Bf5 14. Re1 Bxe5 15. fxe5 Rd4 16. Kc3
+Rd3+ 17. Kc2 Rd4 18. Kc3 Rd3+ 19. Kc2 Rd4 1/2-1/2

@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.16"]
+[Result "0-1"]
+[White "Junta Ikeda"]
+[Black "Ulugbek Tillyaev"]
+[ECO "B43"]
+[WhiteElo "2402"]
+[BlackElo "2367"]
+[PlyCount "126"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6
+7. O-O Bd6 8. Kh1 Nc6 9. Nxc6 dxc6 10. f4 e5 11. f5 b5 12. a4
+b4 13. Nb1 a5 14. Nd2 Bc5 15. Qf3 h5 16. Qg3 Ng4 17. Nf3 Bb7
+18. h3 O-O-O 19. hxg4 hxg4+ 20. Nh4 Qe7 21. f6 gxf6 22. Rf5
+Kb8 23. Qxg4 Bc8 24. g3 Rdg8 25. Qf3 Bxf5 26. exf5 Qd6 27. Be3
+Kb7 28. Rg1 Bd4 29. Be4 Bxb2 30. Rd1 Rxg3 31. Qxg3 Qxd1+
+32. Kg2 Qe2+ 33. Kh3 Bc3 34. Bd3 Qe1 35. Bf2 Qd1 36. Kg2 Rh5
+37. Qf3 Rg5+ 38. Kh3 Qxf3+ 39. Nxf3 Rg8 40. Be4 Rd8 41. Bh4
+Rd6 42. Kg4 Kc7 43. Kh5 c5 44. Kh6 c4 45. Kg7 b3 46. cxb3 cxb3
+47. Bxf6 Rb6 48. Kxf7 Rb4 49. Ng5 b2 50. Bb1 Rxa4 51. Ne4 Bd4
+52. Ke6 Rc4 53. Be7 Rc1 54. Ba2 Ra1 55. Bd6+ Kb6 56. f6 Rxa2
+57. f7 b1=Q 58. f8=Q Qxe4 59. Qd8+ Kb5 60. Qb8+ Bb6 61. Qe8+
+Qc6 62. Qg6 Rd2 63. Qb1+ Ka6 0-1

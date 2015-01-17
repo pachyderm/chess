@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.2"]
+[Result "0-1"]
+[White "Zoubaier Amdouni"]
+[Black "Pavel Eljanov"]
+[ECO "C28"]
+[WhiteElo "2350"]
+[BlackElo "2723"]
+[PlyCount "116"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Bc5 5. f4 d5 6. exd5 Bg4
+7. Qd2 exf4 8. Qxf4 Qe7+ 9. Kf1 Ne5 10. Bb5+ c6 11. dxc6 bxc6
+12. d4 Bxd4 13. Qxd4 Rd8 14. Bxc6+ Nxc6 15. Qa4 Qe6 16. Bg5
+Rd4 17. Re1 Rxa4 18. Rxe6+ fxe6 19. Nxa4 Ne4 20. Be3 O-O+
+21. Nf3 Ne5 22. Ke1 Nxf3+ 23. gxf3 Rxf3 24. Bc5 e5 25. Rf1
+Rxf1+ 26. Kxf1 Bd7 27. Bxa7 Bxa4 28. b3 Bc6 29. Bb8 Nd2+
+30. Ke2 Nf3 31. c4 Kf7 32. b4 Nd4+ 33. Kd3 Ke6 34. b5 Bf3
+35. Ba7 Nf5 36. a4 g5 37. a5 e4+ 38. Kc3 e3 39. a6 e2 40. Bf2
+Ne3 41. Kd3 Ng4 42. Bg3 h5 43. h4 gxh4 44. Bxh4 Ne5+ 45. Ke3
+Kf5 46. c5 Kg4 47. Be1 h4 48. c6 Nc4+ 49. Kf2 h3 50. Kg1 Nb6
+51. Bd2 Kg3 52. Be1+ Kf4 53. Kh2 Bg2 54. a7 Ke3 55. Ba5 Na8
+56. Kg3 Kd3 57. Kf2 Kc4 58. Kxe2 h2 0-1

@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.23"]
+[Result "1-0"]
+[White "Zdenko Kozul"]
+[Black "Patrick Aizpurua"]
+[ECO "D10"]
+[WhiteElo "2608"]
+[BlackElo "2172"]
+[PlyCount "109"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 g6 5. Nf3 Bg7 6. Bd3 O-O
+7. O-O Nbd7 8. b3 e5 9. cxd5 cxd5 10. dxe5 Ng4 11. Ba3 Re8
+12. Bb5 Qa5 13. Bb2 Ngxe5 14. Nxe5 Bxe5 15. Qd2 a6 16. Be2 Nf6
+17. Rfd1 Bd7 18. Bf3 Bc6 19. Nxd5 Qxd2 20. Nxf6+ Bxf6 21. Rxd2
+Bxb2 22. Rxb2 Bxf3 23. gxf3 Rac8 24. Rd1 Re5 25. f4 Rb5
+26. Kg2 Kg7 27. Rd7 Rc6 28. Rbd2 Kf8 29. Kg3 Rc1 30. e4 Rc6
+31. e5 Rb4 32. h4 h5 33. Rd8+ Ke7 34. R2d7+ Ke6 35. Rd6+ Rxd6
+36. Rxd6+ Ke7 37. Kf3 a5 38. Ke3 a4 39. Rd4 Rxd4 40. Kxd4 axb3
+41. axb3 Ke6 42. Ke4 f6 43. b4 Kd7 44. Kd5 Ke7 45. b5 b6
+46. exf6+ Kxf6 47. Kc6 Kf5 48. Kxb6 Kxf4 49. Kc5 Kf3 50. b6
+Kxf2 51. b7 Kg3 52. b8=Q+ Kxh4 53. Kd4 g5 54. Ke3 g4 55. Qf4
+1-0

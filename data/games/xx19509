@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.74"]
+[Result "0-1"]
+[White "Jose Manuel Santos da Costa"]
+[Black "Sanghoon Lee"]
+[ECO "D87"]
+[WhiteElo "?"]
+[BlackElo "2114"]
+[PlyCount "132"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Bc4 O-O 8. Ne2 c5 9. Be3 Nc6 10. O-O Bg4 11. f3 Bd7
+12. Rb1 Qc7 13. Bf4 Qc8 14. Qd2 cxd4 15. cxd4 Nxd4 16. Rfc1
+Nxe2+ 17. Bxe2 Bc6 18. Bb5 Rd8 19. Qb4 Qe6 20. Bc4 Bd4+
+21. Kh1 Qf6 22. Bg3 h5 23. h3 Qg5 24. Bh2 Be5 25. Bxe5 Qxe5
+26. Rd1 Rd6 27. Rxd6 Qxd6 28. Qxd6 exd6 29. h4 Rd8 30. Kh2 b6
+31. Rd1 Kf8 32. Kg3 Ke7 33. Kf4 f6 34. Bb3 Bd7 35. g4 hxg4
+36. fxg4 Rh8 37. Kg3 Rc8 38. Kf4 Rc5 39. Bd5 Rc3 40. Rh1 Be6
+41. Bxe6 Kxe6 42. g5 Rc2 43. a3 Rf2+ 44. Ke3 Ra2 45. gxf6 Kxf6
+46. Kf4 Rxa3 47. Rd1 Ke7 48. Rg1 Kf7 49. Rd1 b5 50. Rxd6 b4
+51. Ke5 Ra5+ 52. Kd4 Ra2 53. Kc4 a5 54. Ra6 Ra3 55. Ra7+ Ke6
+56. Ra6+ Kf7 57. e5 b3 58. Kd5 b2 59. Ra7+ Kf8 60. Rb7 Rd3+
+61. Ke6 Rd2 62. Kf6 Rf2+ 63. Kxg6 a4 64. h5 a3 65. h6 Rh2
+66. e6 a2 0-1

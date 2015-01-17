@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.55"]
+[Result "0-1"]
+[White "Manoj Kumar"]
+[Black "Mikael Agopov"]
+[ECO "A46"]
+[WhiteElo "1987"]
+[BlackElo "2431"]
+[PlyCount "70"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 c5 4. Bg2 cxd4 5. O-O Nc6 6. Nxd4
+Qb6 7. Nb3 d5 8. Be3 Qd8 9. c4 Be7 10. cxd5 Nxd5 11. Bd2 a5
+12. Nc3 a4 13. Nc1 Nb6 14. Nd3 O-O 15. Ne4 f5 16. Nec5 e5
+17. Rc1 e4 18. Nf4 Rf6 19. Be3 Rd6 20. Qc2 Nb4 21. Qb1 g5
+22. Nh3 N6d5 23. b3 Nxe3 24. fxe3 Nd5 25. Rfd1 Nxe3 26. Rxd6
+Qxd6 27. bxa4 Nxg2 28. Kxg2 b6 29. Nb3 e3 30. Rxc8+ Rxc8
+31. Qxf5 Qc6+ 32. Kg1 Rd8 33. Qb1 Qxa4 34. Kg2 Qc6+ 35. Kg1
+Rd6 0-1

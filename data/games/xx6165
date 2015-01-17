@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.77"]
+[Result "0-1"]
+[White "Samuel Jhon"]
+[Black "David Gluckman"]
+[ECO "B02"]
+[WhiteElo "?"]
+[BlackElo "2236"]
+[PlyCount "34"]
+
+1. e4 Nf6 2. d3 e5 3. Nf3 Nc6 4. Nc3 Bb4 5. Bd2 O-O 6. Be2 d5
+7. a3 Bxc3 8. Bxc3 Re8 9. O-O dxe4 10. Nd2 Bf5 11. dxe4 Nxe4
+12. Nxe4 Bxe4 13. Qxd8 Raxd8 14. Rac1 Nd4 15. Bd3 Bxd3
+16. Bxd4 Bxf1 17. Bxa7 Be2 0-1

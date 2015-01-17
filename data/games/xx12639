@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.14"]
+[Result "1-0"]
+[White "Bartosz Socko"]
+[Black "Joao Simoes"]
+[ECO "C10"]
+[WhiteElo "2612"]
+[BlackElo "2245"]
+[PlyCount "67"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3
+Nd7 7. O-O Ngf6 8. Ng3 Bd6 9. Re1 O-O 10. Ne5 Re8 11. Bg5 h6
+12. Bd2 Bf8 13. Nxc6 bxc6 14. c3 c5 15. dxc5 Nxc5 16. Bb5 Ncd7
+17. Be3 c5 18. Qa4 Qc7 19. Rad1 Nb6 20. Qh4 g5 21. Bxg5 hxg5
+22. Qxg5+ Bg7 23. Bxe8 Rxe8 24. Rd3 Nh7 25. Qh4 Qe7 26. Qxe7
+Rxe7 27. Nf5 Re8 28. Rg3 exf5 29. Rxe8+ Nf8 30. Rf3 f6 31. Rb8
+Kf7 32. Rb7+ Nfd7 33. a4 a5 34. b4 1-0

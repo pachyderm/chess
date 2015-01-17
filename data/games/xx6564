@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.73"]
+[Result "0-1"]
+[White "Andrew Hale"]
+[Black "Rurik Capella"]
+[ECO "B06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "116"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. Be3 Nf6 5. Qd2 Ng4 6. Bg5 h6
+7. Bh4 Nc6 8. h3 Nf6 9. f4 a6 10. Nf3 b5 11. Bd3 O-O 12. Ne2
+Nxd4 13. Nexd4 c5 14. e5 dxe5 15. Nc6 Qc7 16. Ncxe5 Bb7 17. c4
+Rad8 18. Qc2 Nh5 19. O-O-O Nxf4 20. Rhe1 Bxf3 21. Nxf3 g5
+22. Bh7+ Kh8 23. Rxd8 Rxd8 24. Bg3 bxc4 25. Kb1 Rb8 26. Bxf4
+gxf4 27. b3 cxb3 28. axb3 c4 29. Nd2 Qa5 30. Qa2 Qxa2+
+31. Kxa2 cxb3+ 32. Nxb3 Kxh7 33. Rxe7 Kg6 34. Rc7 Rb6 35. Ka3
+Be5 36. Rc4 f6 37. Ka4 Rd6 38. Rc2 Kg5 39. Nc5 Kf5 40. Ka5 Rc6
+41. Rc1 Bc7+ 42. Ka4 Bd6 43. Nd3 Rxc1 44. Nxc1 f3 45. gxf3 Kf4
+46. Ka5 Kxf3 47. Kxa6 Kg3 48. Kb5 Kxh3 49. Kc4 Kg3 50. Kd3 f5
+51. Ne2+ Kg2 52. Nd4 f4 53. Ke2 Bc5 54. Nf3 Bf2 55. Ne5 h5
+56. Nd3 f3+ 57. Kd1 Bg3 58. Kd2 f2 0-1

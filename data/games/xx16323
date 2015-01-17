@@ -1,0 +1,29 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.68"]
+[Result "0-1"]
+[White "Hamidullah Sarwary"]
+[Black "Jo-Kai Liao"]
+[ECO "D03"]
+[WhiteElo "1920"]
+[BlackElo "1606"]
+[PlyCount "150"]
+
+1. Nf3 Nf6 2. d4 d5 3. Bg5 e6 4. e3 Be7 5. c4 c6 6. Nbd2 Nbd7
+7. Bd3 h6 8. Bh4 O-O 9. O-O c5 10. Re1 cxd4 11. exd4 dxc4
+12. Nxc4 Nb6 13. Nce5 Nfd5 14. Bxe7 Qxe7 15. Rc1 Rd8 16. Bb1
+Bd7 17. Qd3 Nf6 18. Ng4 Nbd5 19. Rc5 Bc6 20. Nfe5 Rac8
+21. Nxc6 Rxc6 22. Ne5 Rxc5 23. dxc5 Qxc5 24. h3 Rc8 25. a3 a6
+26. Qd2 Qb6 27. Nd3 Rc7 28. Ne5 Qd6 29. Nf3 Qd7 30. Ne5 Qc8
+31. Nf3 Nb6 32. Qe3 Nc4 33. Qc3 Rc5 34. Rc1 b6 35. Qd3 b5
+36. Qc2 g6 37. b3 Nd7 38. Qa2 Nxa3 39. Rxc5 Qxc5 40. Qd2 Nxb1
+41. Qxd7 Qc1+ 42. Kh2 Qf4+ 43. Kg1 Qc1+ 44. Kh2 Qc5 45. Qd3
+Nc3 46. Qc2 Qd6+ 47. g3 b4 48. Nd2 Kg7 49. Nc4 Qd4 50. Ne3 Ne4
+51. Kg2 Nc5 52. h4 Qe4+ 53. Qxe4 Nxe4 54. Nc4 Nc5 55. Na5 Kf6
+56. f4 e5 57. Nc6 exf4 58. Nxb4 a5 59. Nd5+ Ke5 60. Nxf4 Nxb3
+61. Kf3 a4 62. Nd3+ Kd4 63. Nb4 a3 64. Nc2+ Kd3 65. Nxa3 Nd4+
+66. Kf4 Ke2 67. g4 Kf2 68. Nc4 Ne6+ 69. Ke4 Kg3 70. Ne5 Kxh4
+71. Nxf7 Ng5+ 72. Nxg5 Kxg5 73. Kf3 Kh4 74. Kf4 g5+ 75. Kf5
+Kg3 0-1

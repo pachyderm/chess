@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.2"]
+[Result "1-0"]
+[White "Frode Olav Olsen Urkedal"]
+[Black "Vassily Ivanchuk"]
+[ECO "A04"]
+[WhiteElo "2500"]
+[BlackElo "2744"]
+[PlyCount "57"]
+
+1. Nf3 f5 2. d3 Nc6 3. d4 e6 4. g3 d5 5. Bg2 Rb8 6. O-O Nf6
+7. Bf4 b5 8. b3 Ba6 9. Qc1 Bd6 10. Nbd2 O-O 11. e3 Ne4 12. Re1
+Qe7 13. a3 Na5 14. Bf1 Rb6 15. c3 g5 16. Bxd6 cxd6 17. b4 Nb7
+18. a4 Rc8 19. Nxe4 fxe4 20. Nd2 Nd8 21. axb5 Bxb5 22. Bxb5
+Rxb5 23. Ra3 Rxb4 24. cxb4 Rxc1 25. Rxc1 Qb7 26. Rac3 Nf7
+27. Rc8+ Kg7 28. R1c7 Qxb4 29. Nf1 1-0

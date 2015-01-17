@@ -1,0 +1,31 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.19"]
+[Result "0-1"]
+[White "Mindaugas Beinoras"]
+[Black "Alexander Ipatov"]
+[ECO "D11"]
+[WhiteElo "2402"]
+[BlackElo "2614"]
+[PlyCount "166"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 g6 5. Nbd2 Bg7 6. b3 c5
+7. Bb2 cxd4 8. Bxd4 Nc6 9. Bb2 O-O 10. Be2 Bf5 11. Nd4 Nxd4
+12. exd4 Qa5 13. O-O Rfd8 14. a3 dxc4 15. bxc4 Ne4 16. Nxe4
+Bxe4 17. Bf3 Bxf3 18. Qxf3 Rac8 19. Rac1 b6 20. Rfd1 Qa4
+21. Qe2 Rd7 22. g3 Rdc7 23. c5 bxc5 24. dxc5 Bxb2 25. Qxb2
+Rxc5 26. Re1 Rxc1 27. Rxc1 Rxc1+ 28. Qxc1 Qd4 29. h4 h5
+30. Kg2 Kg7 31. Qc6 a5 32. a4 e6 33. Kg1 Qd5 34. Qc3+ e5
+35. Qe1 Kf6 36. Qe2 Kf5 37. Kh2 Qb3 38. Qd2 Qxa4 39. Qd5 Kf6
+40. Qd6+ Kg7 41. Qxe5+ Kg8 42. Qb8+ Kh7 43. Qc7 Qa2 44. Qf4 a4
+45. g4 hxg4 46. h5 a3 47. hxg6+ fxg6 48. Qc7+ Kh6 49. Qf4+ g5
+50. Qf8+ Kg6 51. Qe8+ Qf7 52. Qc6+ Kh5 53. Kg1 a2 54. Qh1+ Kg6
+55. Qe4+ Kg7 56. Qa8 Qb3 57. Kh2 g3+ 58. Kg2 gxf2 59. Qa7+ Qf7
+60. Qd4+ Qf6 61. Qd7+ Qf7 62. Qd4+ Kh6 63. Qd6+ Kh5 64. Qh2+
+Kg6 65. Qd6+ Kf5 66. Qd3+ Ke6 67. Qc4+ Ke7 68. Qc7+ Kf8
+69. Qd8+ Kg7 70. Qd4+ Kg8 71. Qd8+ Qf8 72. Qd5+ Kh7 73. Qd7+
+Kg6 74. Qd3+ Qf5 75. Qd6+ Kf7 76. Qc7+ Kg8 77. Qd8+ Kg7
+78. Qd4+ Kf7 79. Qc4+ Qe6 80. Qc7+ Kg6 81. Qc2+ Kh6 82. Qb2
+f1=Q+ 83. Kxf1 Qa6+ 0-1

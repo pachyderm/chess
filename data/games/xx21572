@@ -1,0 +1,23 @@
+[Event "Norway Chess Tournament"]
+[Site "Stavanger NOR"]
+[Date "2014.06.08"]
+[EventDate "2014.06.02"]
+[Round "5"]
+[Result "1-0"]
+[White "Vladimir Kramnik"]
+[Black "Fabiano Caruana"]
+[ECO "E60"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "103"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 c5 6.Nc3 cxd4 7.Nxd4
+Qc7 8.Qd3 Nc6 9.O-O d6 10.b3 Nxd4 11.Qxd4 Ne4 12.Nd5 Bxd4
+13.Nxc7 Bxa1 14.Be3 Bf6 15.Nxa8 Nc3 16.Bxa7 Nxa2 17.Nc7 Nb4
+18.Rd1 Kg7 19.f4 h5 20.Kf2 h4 21.c5 hxg3+ 22.hxg3 dxc5 23.Bxc5
+Na6 24.Nxa6 bxa6 25.e4 Bg4 26.Rd5 Bb2 27.Bxe7 Re8 28.Bd8 Be6
+29.Rd3 Bf6 30.Bxf6+ Kxf6 31.Bf3 Rb8 32.Bd1 Rb4 33.Ke3 Ke7
+34.g4 f6 35.g5 fxg5 36.fxg5 a5 37.Kf4 Rb5 38.Rc3 Kd6 39.Bc2
+Rb4 40.Rg3 Ke7 41.Rd3 Rb5 42.Rc3 Kd7 43.Bd1 Kd6 44.Rd3+ Ke7
+45.Rd2 Bxb3 46.Bxb3 Rxb3 47.Rd5 a4 48.Ra5 a3 49.Ke5 Kf7
+50.Ra7+ Ke8 51.Kf6 Rb6+ 52.Kg7 1-0

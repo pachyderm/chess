@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.1"]
+[Result "1-0"]
+[White "Teimour Radjabov"]
+[Black "Lazaro Bruzon"]
+[ECO "E00"]
+[WhiteElo "2724"]
+[BlackElo "2664"]
+[PlyCount "113"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 d5 6. Bg2
+c6 7. Nf3 Nbd7 8. O-O b6 9. Ne5 Bb7 10. Nc3 O-O 11. Rac1 Qe7
+12. cxd5 cxd5 13. Nb5 a6 14. Rc7 Rab8 15. Rxb7 Rxb7 16. Nc6
+Qe8 17. Nd6 Qa8 18. Rc1 Nb8 19. Nxb7 Qxb7 20. Qc3 Nxc6
+21. Qxc6 Qxc6 22. Rxc6 Rb8 23. f3 Kf8 24. e4 dxe4 25. fxe4 Rd8
+26. d5 exd5 27. exd5 Nxd5 28. Bxd5 Rxd5 29. Rxb6 Rd2 30. a4 g5
+31. b4 Rb2 32. g4 Kg7 33. a5 f6 34. h3 Kg6 35. Kf1 h5
+36. gxh5+ Kxh5 37. Rxf6 Rxb4 38. Rxa6 Rb1+ 39. Ke2 Rb2+
+40. Kd1 Ra2 41. Kc1 Ra3 42. Ra8 Kg6 43. a6 Kg7 44. Kb2 Ra5
+45. Kb3 Ra1 46. Kb4 Rb1+ 47. Kc5 Rc1+ 48. Kb6 Rb1+ 49. Ka7 Rb3
+50. Rb8 Rxh3 51. Rb5 Kf6 52. Kb6 g4 53. a7 Rh8 54. Kb7 Rh7+
+55. Ka6 Rh8 56. Rb8 Rh1 57. Rb6+ 1-0

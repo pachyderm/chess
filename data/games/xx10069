@@ -1,0 +1,19 @@
+[Event "Sinquefield Cup"]
+[Site "Saint Louis USA"]
+[Date "2014.09.02"]
+[EventDate "2014.08.27"]
+[Round "6"]
+[Result "1-0"]
+[White "Fabiano Caruana"]
+[Black "Veselin Topalov"]
+[ECO "B46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "61"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Nxc6 bxc6
+7.Bd3 d5 8.O-O Nf6 9.Re1 Be7 10.e5 Nd7 11.Qg4 Kf8 12.Na4 Qa5
+13.Re2 h5 14.Qf4 g5 15.Bd2 Qc7 16.Qg3 h4 17.Qg4 Rg8 18.Rae1 c5
+19.c4 dxc4 20.Bxc4 Bb7 21.h3 Rd8 22.Bc3 Nb8 23.Re3 Nc6 24.Bxe6
+fxe6 25.Rf3+ Ke8 26.Qxe6 Rg7 27.Qh6 Nd4 28.e6 Nxf3+ 29.gxf3
+Bf8 30.Qh5+ Ke7 31.Bxg7 1-0

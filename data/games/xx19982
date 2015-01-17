@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.42"]
+[Result "1/2-1/2"]
+[White "John Rodgaard"]
+[Black "Abdelaziz Onkoud"]
+[ECO "E06"]
+[WhiteElo "2361"]
+[BlackElo "2383"]
+[PlyCount "125"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4
+7. Qa4 a6 8. Qxc4 b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Qc8
+12. Bg5 Nbd7 13. Nbd2 Bb7 14. Nb3 c5 15. Nxc5 Nxc5 16. dxc5
+Qxc5 17. Qxc5 Bxc5 18. Bxf6 gxf6 19. Ne1 Bxg2 20. Kxg2 Rfc8
+21. Nd3 Rc7 22. a4 b4 23. Rac1 Rac8 24. Rc4 Bd6 25. Rxc7 Rxc7
+26. Rc1 Rxc1 27. Nxc1 f5 28. Kf3 Kg7 29. e3 Kf6 30. Nd3 e5
+31. e4 h5 32. h3 Ke6 33. g4 fxg4+ 34. hxg4 Kf6 35. gxh5 Kg5
+36. h6 Kxh6 37. Kg4 Kg6 38. b3 Kf6 39. f3 Ke6 40. Kg5 Be7+
+41. Kg4 Bd6 42. Kh5 Bf8 43. Kg5 Be7+ 44. Kh6 Kf6 45. Nf2 Bf8+
+46. Kh5 Bc5 47. Ng4+ Ke6 48. Nh6 Kf6 49. Nf5 Bf8 50. Ne3 Ke6
+51. Nd5 a5 52. Ne3 Bd6 53. Kg5 Be7+ 54. Kg4 Bd6 55. Kg3 Kf6
+56. Kg2 Kg5 57. Kf1 Bc7 58. Ke2 Bb8 59. Nf5 Bc7 60. Ne7 Bd6
+61. Nc6 Bc7 62. Ne7 Bd6 63. Nc6 1/2-1/2

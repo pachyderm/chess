@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.68"]
+[Result "0-1"]
+[White "Tokelo Klaas"]
+[Black "Ben Magana"]
+[ECO "D08"]
+[WhiteElo "1653"]
+[BlackElo "2085"]
+[PlyCount "64"]
+
+1. d4 d5 2. c4 e5 3. cxd5 Qxd5 4. dxe5 Qxd1+ 5. Kxd1 Nc6
+6. Nf3 Bf5 7. Bd2 O-O-O 8. Nc3 Nge7 9. e4 Bg4 10. Be2 Ng6
+11. Kc2 Bxf3 12. gxf3 Nd4+ 13. Kc1 Nxe5 14. f4 Nxe2+ 15. Nxe2
+Nd3+ 16. Kc2 Nxf2 17. Rhf1 Nxe4 18. Be3 Bc5 19. Bc1 f5 20. a3
+Rhe8 21. b4 Bb6 22. Ra2 Nd2 23. Bxd2 Rxe2 24. Kc1 Rdxd2
+25. Rxd2 Be3 26. Rd1 Rxh2 27. Kc2 Rxd2+ 28. Rxd2 Bxd2 29. Kxd2
+h6 30. Ke3 g5 31. a4 Kd7 32. fxg5 hxg5 0-1

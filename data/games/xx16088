@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.78"]
+[Result "1-0"]
+[White "Benjamin Hoareau"]
+[Black "Koffi Botsoe"]
+[ECO "D02"]
+[WhiteElo "1875"]
+[BlackElo "?"]
+[PlyCount "135"]
+
+1. d4 d5 2. Nf3 Nf6 3. Ne5 e6 4. Nd2 c5 5. e3 cxd4 6. exd4 Bd6
+7. Bb5+ Nfd7 8. Qg4 O-O 9. Nxd7 Nxd7 10. O-O a6 11. Ba4 b5
+12. Bb3 Nf6 13. Qh4 Be7 14. c3 Qc7 15. Nf3 Ne4 16. Bf4 Qd8
+17. Qh5 f5 18. Ne5 Nf6 19. Qe2 Qb6 20. Bc2 Ra7 21. Kh1 Bd6
+22. Rad1 Re8 23. Rd3 Ng4 24. h3 Nxe5 25. dxe5 Be7 26. Qh5 Qd8
+27. Rg3 Bf8 28. Bg5 Qd7 29. Rd1 g6 30. Bf6 Bg7 31. Rxg6 hxg6
+32. Qxg6 Qf7 33. Qg5 Kf8 34. Rd4 Qg8 35. Qe3 Bxf6 36. exf6 Rf7
+37. Qh6+ Rg7 38. Rh4 Kf7 39. fxg7 Qxg7 40. Qh5+ Ke7 41. Qe2
+Rg8 42. g3 Kd6 43. Qe3 Bb7 44. Kh2 Rc8 45. Rh6 Qe5 46. Qb6+
+Bc6 47. Qe3 Qxe3 48. fxe3 Ke5 49. g4 fxg4 50. hxg4 Bd7 51. Rh7
+Kd6 52. Kg3 e5 53. Rh6+ Be6 54. Bf5 Re8 55. Kh4 e4 56. Kh5 Ke5
+57. Rxe6+ Rxe6 58. Bxe6 Kxe6 59. Kg6 a5 60. a3 b4 61. axb4
+axb4 62. g5 bxc3 63. bxc3 Kd6 64. Kf5 Kc5 65. g6 Kc4 66. g7
+Kd3 67. g8=Q Kxe3 68. Qxd5 1-0

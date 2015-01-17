@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.16"]
+[Result "0-1"]
+[White "Mika Karttunen"]
+[Black "Anton Filippov"]
+[ECO "A20"]
+[WhiteElo "2437"]
+[BlackElo "2615"]
+[PlyCount "72"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Nc6 4. Nc3 Bc5 5. a3 a6 6. e3 d6
+7. Nge2 Ba7 8. d4 exd4 9. exd4 O-O 10. h3 h6 11. O-O Ne7
+12. b4 c6 13. a4 Be6 14. d5 cxd5 15. cxd5 Bf5 16. g4 Bh7
+17. Kh2 Ng6 18. f4 Rc8 19. Qe1 Rc4 20. b5 Re8 21. Qg3 Qa5
+22. f5 Ne5 23. Rf4 Rxf4 24. Bxf4 Bf2 25. Qxf2 Nfxg4+ 26. hxg4
+Nxg4+ 27. Kg1 Nxf2 28. Kxf2 Bxf5 29. Be3 Qd8 30. Rh1 Bg4
+31. Bd4 Qg5 32. Re1 h5 33. Bb6 h4 34. Rf1 h3 35. Bh1 Qh4+
+36. Ng3 Qf6+ 0-1

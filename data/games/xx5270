@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.86"]
+[Result "0-1"]
+[White "Oliver Mueller"]
+[Black "Javier A Monroy G"]
+[ECO "A58"]
+[WhiteElo "2312"]
+[BlackElo "2150"]
+[PlyCount "70"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6
+7. Nf3 g6 8. g3 Bg7 9. Bg2 Nbd7 10. Rb1 Qa5 11. O-O O-O
+12. Bd2 Rfb8 13. b3 Ra7 14. Qc2 Qc7 15. Rfd1 Ng4 16. h3 Nge5
+17. Ne1 Nb6 18. f4 Ned7 19. e3 Qc8 20. Kh2 Rba8 21. a4 Rb8
+22. e4 Na8 23. Nf3 Rab7 24. Na2 Nab6 25. Bf1 Bxf1 26. Rxf1
+Nxa4 27. b4 cxb4 28. Qxa4 Ra8 29. Rfc1 Nc5 30. Rxc5 dxc5
+31. Qc2 Ra3 32. Nxb4 Rxf3 33. Kg2 Rc3 34. Bxc3 cxb4 35. e5
+bxc3 0-1

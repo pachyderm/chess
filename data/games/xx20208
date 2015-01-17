@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.5"]
+[Result "1-0"]
+[White "Alexander Grischuk"]
+[Black "Anton Filippov"]
+[ECO "E11"]
+[WhiteElo "2795"]
+[BlackElo "2615"]
+[PlyCount "55"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. e4 d5
+7. e5 Nfd7 8. Bd3 c5 9. Qc2 h6 10. O-O Nc6 11. Nb3 cxd4
+12. Re1 Qb6 13. Bf4 a5 14. Rad1 Nc5 15. Nxc5 Qxc5 16. Qe2 Rd8
+17. h4 Kf8 18. Rc1 Qb6 19. cxd5 exd5 20. Ng5 hxg5 21. Qh5 Ke8
+22. e6 Bxe6 23. Rxe6 gxf4 24. Bf5 g6 25. Rxg6 Qc7 26. Re1 fxg6
+27. Qh8+ Kf7 28. Be6# 1-0

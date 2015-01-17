@@ -1,0 +1,20 @@
+[Event "TCEC - Season 6 - Stage 2"]
+[Site "http://tcec.chessdom.com"]
+[Date "2014.03.17"]
+[EventDate "2014.03.16"]
+[Round "1"]
+[Result "1-0"]
+[White "Critter (Computer)"]
+[Black "Naum (Computer)"]
+[ECO "C04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "70"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Bd3 f6
+7. Ng5 Ndxe5 8. dxe5 fxg5 9. Qh5+ g6 10. Bxg6+ Kd7 11. c4 Nxe5
+12. Bc2 Qf6 13. O-O c6 14. cxd5 cxd5 15. Ne4 dxe4 16. Rd1+ Bd6
+17. Bxg5 Qg6 18. Rxd6+ Kxd6 19. Rd1+ Nd3 20. Qh4 e5 21. Bxd3
+exd3 22. Qb4+ Ke6 23. Qc4+ Kf5 24. h4 Qe6 25. Qxd3+ e4 26. Qc3
+Rg8 27. Qc5+ Kg6 28. Rd6 h6 29. Be3 Re8 30. Rxe6+ Bxe6 31. Qe5
+Bxa2 32. Qf4 h5 33. g4 Re7 34. Bd4 Kh7 35. Qf5+ Kg8 1-0

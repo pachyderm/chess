@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.32"]
+[Result "1-0"]
+[White "Ulugbek Tillyaev"]
+[Black "Antonis Antoniou"]
+[ECO "C41"]
+[WhiteElo "2367"]
+[BlackElo "2188"]
+[PlyCount "63"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. g3 Be7 6. Bg2 O-O
+7. O-O Re8 8. h3 c6 9. Nh4 Nf8 10. Re1 Qb6 11. Nf3 Ng6 12. b3
+h6 13. Bb2 Bf8 14. Qd2 Qc7 15. a4 Bd7 16. a5 Rad8 17. Nd1 Bc8
+18. c4 Nh5 19. Ne3 Qe7 20. Qc2 Nf6 21. Rad1 Nh7 22. Nf5 Qc7
+23. Bc3 Nf6 24. Nh2 d5 25. exd5 cxd5 26. dxe5 Nxe5 27. f4 Ng6
+28. Rxe8 Rxe8 29. Bxf6 gxf6 30. Ng4 dxc4 31. Nxf6+ Kh8
+32. Nxe8 1-0

@@ -1,0 +1,31 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.54"]
+[Result "1-0"]
+[White "Damion Davy"]
+[Black "Roy Jean Noel Phillips"]
+[ECO "C41"]
+[WhiteElo "2164"]
+[BlackElo "2272"]
+[PlyCount "179"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O
+7. Re1 a6 8. a4 b6 9. h3 c6 10. d5 c5 11. Bd3 Ne8 12. Ne2 g6
+13. Bh6 Ng7 14. g4 Nf6 15. Ng3 Kh8 16. Qd2 Ng8 17. Kh2 Nxh6
+18. Qxh6 f5 19. gxf5 gxf5 20. Nxf5 Bf6 21. Rg1 Ra7 22. Ne3
+Raf7 23. Rg3 Ne8 24. Rag1 Qe7 25. Be2 Bg7 26. Qh5 Nf6 27. Qh4
+Ng8 28. Qxe7 Nxe7 29. Nc4 Rd8 30. Nxb6 a5 31. R1g2 Bh6 32. Ng5
+Bxg5 33. Rxg5 Rf6 34. Bh5 Ba6 35. Rg7 Ng6 36. Ra7 Bf1 37. Bxg6
+Bxg2 38. Bf5 Bf3 39. Rxh7+ Kg8 40. Ra7 Kh8 41. Rxa5 Rg8
+42. Ra8 Rxa8 43. Nxa8 Bd1 44. a5 Bxc2 45. Nb6 Bd3 46. Kg3 Kg7
+47. b3 Ba6 48. f4 exf4+ 49. Kxf4 Bd3 50. Kg5 Be2 51. h4 Rh6
+52. Bc8 Rh5+ 53. Kf4 Rxh4+ 54. Ke3 Bb5 55. a6 Bxa6 56. Bxa6
+Rh3+ 57. Kf4 Rxb3 58. Nc4 Kf8 59. e5 dxe5+ 60. Kxe5 Rd3
+61. Kd6 Kg7 62. Kxc5 Kf6 63. d6 Rxd6 64. Kxd6 Kf7 65. Ke5 Ke7
+66. Bb5 Kf7 67. Bc6 Ke7 68. Bd5 Kf8 69. Kf6 Ke8 70. Bc6+ Kf8
+71. Ne5 Kg8 72. Nf7 Kh7 73. Be4+ Kg8 74. Bd3 Kf8 75. Bh7 Ke8
+76. Ne5 Kd8 77. Ke6 Kc7 78. Nd7 Kc6 79. Bd3 Kc7 80. Be4 Kc8
+81. Kd6 Kd8 82. Bg6 Kc8 83. Nc5 Kb8 84. Kc6 Ka7 85. Kc7 Ka8
+86. Kb6 Kb8 87. Bf5 Ka8 88. Bg4 Kb8 89. Na6+ Ka8 90. Bf3# 1-0

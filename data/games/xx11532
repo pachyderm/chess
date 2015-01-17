@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.75"]
+[Result "0-1"]
+[White "Don Kaituu"]
+[Black "Emmanuel Mwaisumbe"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "1685"]
+[PlyCount "100"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Nc6
+7. Qd2 e6 8. Be2 Be7 9. Rd1 O-O 10. O-O Ne5 11. f4 Neg4
+12. Bc4 Qc7 13. b3 b5 14. Bd3 Bb7 15. Bf2 Nxf2 16. Rxf2 Rac8
+17. Nde2 b4 18. Na4 Bxe4 19. Bxa6 Ra8 20. Bc4 Bc6 21. Ng3 Bxa4
+22. f5 Bd7 23. fxe6 fxe6 24. Re2 d5 25. Bd3 Ng4 26. Qe1 Bc5+
+27. Kh1 Nf2+ 28. Rxf2 Bxf2 29. Qe2 Bxg3 30. Qh5 Rf5 31. Bxf5
+exf5 32. hxg3 Qxg3 33. Rd3 Qe1+ 34. Kh2 Qe5+ 35. Rg3 Ra6
+36. Qg5 Rxa2 37. Qd8+ Qe8 38. Qg5 g6 39. Re3 Qb8+ 40. g3 Rxc2+
+41. Kh1 d4 42. Rf3 Qa8 43. Qf4 Bc6 44. Qxd4 Bxf3+ 45. Kg1 Rg2+
+46. Kf1 Qa6+ 47. Qc4+ Qxc4+ 48. bxc4 b3 49. Ke1 b2 50. Kf1
+b1=R# 0-1

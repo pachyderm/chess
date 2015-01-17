@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.49"]
+[Result "1-0"]
+[White "Saad Belouadah"]
+[Black "Suradj Hanoeman"]
+[ECO "A45"]
+[WhiteElo "2320"]
+[BlackElo "2024"]
+[PlyCount "65"]
+
+1. d4 Nf6 2. Bf4 e6 3. e3 c5 4. Nf3 Qb6 5. Qc1 Nc6 6. c3 h6
+7. Nbd2 d5 8. h3 Be7 9. Bd3 O-O 10. O-O Nh5 11. Bh2 Bd7
+12. Ne5 Nf6 13. Rb1 Rac8 14. Qd1 Rfd8 15. f4 cxd4 16. exd4
+Nxd4 17. cxd4 Qxd4+ 18. Kh1 Ne4 19. Ndf3 Nf2+ 20. Rxf2 Qxf2
+21. Bg1 Qg3 22. Qd2 Bc5 23. Nd4 Bxd4 24. Bxd4 Qh4 25. Bxa7 Bc6
+26. Bb6 Re8 27. b4 f6 28. Bf2 Qxf2 29. Qxf2 fxe5 30. fxe5 Re7
+31. Qb6 Be8 32. Rf1 Rcc7 33. Qd6 1-0

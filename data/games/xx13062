@@ -1,0 +1,27 @@
+[Event "Bundesliga"]
+[Site "Hockenheim GER"]
+[Date "2014.03.16"]
+[EventDate "2013.10.12"]
+[Round "12"]
+[Result "1/2-1/2"]
+[White "Robin van Kampen"]
+[Black "Richard Rapport"]
+[ECO "C18"]
+[WhiteElo "2607"]
+[BlackElo "2676"]
+[PlyCount "134"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Nc6
+7. Qg4 g6 8. Bd2 Bd7 9. Nf3 c4 10. a4 f5 11. Qg3 Nge7 12. Bg5
+Qb6 13. Be2 Qb2 14. Kd2 Nb4 15. cxb4 c3+ 16. Ke3 f4+ 17. Qxf4
+Nf5+ 18. Qxf5 exf5 19. Rhb1 h6 20. Bf4 Qxc2 21. Bd3 Qxb1
+22. Bxb1 g5 23. Bd3 Rg8 24. g3 Rc8 25. Ne1 gxf4+ 26. Kxf4 Rg4+
+27. Ke3 h5 28. f3 f4+ 29. gxf4 Rg1 30. b5 Ke7 31. f5 Rcg8
+32. h4 a6 33. Kf4 Rh1 34. Nc2 Rxh4+ 35. Ke3 a5 36. e6 Bxe6
+37. fxe6 Kxe6 38. Ra3 Rc8 39. Ra1 Kf6 40. Be2 Rh2 41. Kd3 h4
+42. Ne3 c2 43. Rc1 Rh1 44. Nxd5+ Kf7 45. Rxh1 c1=Q 46. Rxc1
+Rxc1 47. f4 h3 48. Bf3 Rf1 49. Ke2 Ra1 50. Nb6 h2 51. Bxb7 Ke6
+52. Be4 h1=Q 53. Bxh1 Rxh1 54. Kd3 Rd1+ 55. Kc3 Rf1 56. Nc4
+Rf3+ 57. Kd2 Kd5 58. Nxa5 Kxd4 59. b6 Rxf4 60. b7 Rf2+ 61. Ke1
+Rb2 62. Nc6+ Kc5 63. b8=Q Rxb8 64. Nxb8 Kb6 65. Nd7+ Ka5
+66. Nc5 Kb4 67. Nd3+ Kxa4 1/2-1/2

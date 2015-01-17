@@ -1,0 +1,30 @@
+[Event "Bundesliga"]
+[Site "Eppingen GER"]
+[Date "2014.04.06"]
+[EventDate "2013.10.12"]
+[Round "15"]
+[Result "1-0"]
+[White "Michail Feygin"]
+[Black "Dietmar Kolbus"]
+[ECO "B12"]
+[WhiteElo "2512"]
+[BlackElo "2302"]
+[PlyCount "163"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O Ne7
+7. Nbd2 h6 8. Nb3 Bh7 9. a4 a5 10. Bd2 Nc8 11. c4 dxc4
+12. Bxc4 Ne7 13. Rc1 Nd5 14. Bxd5 exd5 15. Qe1 Bd3 16. e6 fxe6
+17. Qxe6+ Qe7 18. Rfe1 Qxe6 19. Rxe6+ Kf7 20. Re3 Ba6 21. Nxa5
+Be7 22. b4 Rhc8 23. Nb3 Bc4 24. a5 Bf8 25. Nc5 Bxc5 26. dxc5
+Re8 27. Bc3 Rxe3 28. fxe3 Re8 29. Kf2 g5 30. h3 Kg6 31. Bd4
+Bd3 32. Rc3 Bb5 33. Rb3 Bc4 34. Rb2 Rf8 35. Kg3 Bd3 36. Rb3
+Bc4 37. Rb2 Bd3 38. Rf2 Re8 39. Ng1 Rf8 40. Nf3 Re8 41. Ng1
+Rf8 42. Ne2 Rxf2 43. Kxf2 h5 44. g4 hxg4 45. hxg4 Nb8 46. Bc3
+Na6 47. Nd4 Nc7 48. Nf3 Ba6 49. Ne5+ Kh7 50. Nf7 Ne6 51. Kf3
+Kg6 52. Ne5+ Kh7 53. Nf7 Kg6 54. Nd6 Nc7 55. Bb2 Nb5 56. Nf5
+Kf7 57. e4 Nc7 58. Be5 dxe4+ 59. Kxe4 Ne6 60. Bc3 Nc7 61. Ke5
+Kg6 62. Bd2 Nd5 63. Nd6 Nf6 64. Ke6 Nxg4 65. Ne4 Bc4+ 66. Kd6
+Nf6 67. Nxg5 Kf5 68. Kc7 Ba6 69. Nf7 Nd5+ 70. Kb8 Ke4 71. Nd6+
+Kd3 72. Be1 Ke2 73. Bh4 Nxb4 74. Nxb7 Kd3 75. Ka7 Bc4 76. Nd6
+Kd4 77. Bf2+ Kd5 78. Nxc4 Kxc4 79. Kb6 Nd5+ 80. Kb7 Nb4 81. a6
+Nxa6 82. Kxa6 1-0

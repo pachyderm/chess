@@ -1,0 +1,19 @@
+[Event "Sinquefield Cup"]
+[Site "Saint Louis USA"]
+[Date "2014.08.28"]
+[EventDate "2014.08.27"]
+[Round "2"]
+[Result "1-0"]
+[White "Fabiano Caruana"]
+[Black "Maxime Vachier-Lagrave"]
+[ECO "B12"]
+[WhiteElo "2801"]
+[BlackElo "2768"]
+[PlyCount "59"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Qb6
+7. Nc3 Nc6 8. O-O Qxb2 9. Qe1 cxd4 10. Bxd4 Nxd4 11. Nxd4 Bb4
+12. Ndb5 Ba5 13. Rb1 Qxc2 14. Rc1 Qb2 15. g4 Bg6 16. f4 Be4
+17. Rf2 Nh6 18. Bd3 Qb4 19. Rb1 Qc5 20. Nxe4 dxe4 21. Qxa5 O-O
+22. Be2 e3 23. Rff1 Rfc8 24. Qe1 Qd5 25. Rb2 f6 26. Qg3 fxe5
+27. fxe5 Rf8 28. Rxf8+ Rxf8 29. Qxe3 Nf7 30. Nc3 1-0

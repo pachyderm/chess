@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.9"]
+[Result "1-0"]
+[White "Emil Sutovsky"]
+[Black "Mladen Palac"]
+[ECO "B90"]
+[WhiteElo "2624"]
+[BlackElo "2563"]
+[PlyCount "127"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6
+7. g4 h6 8. Bg2 Be7 9. h4 g6 10. g5 hxg5 11. Bxg5 Bd7 12. Qe2
+Nc6 13. O-O-O Qc7 14. Rhe1 Nh5 15. Nd5 Bxg5+ 16. hxg5 Qd8
+17. Qe3 Nxd4 18. Qxd4 e5 19. Qb6 Qxb6 20. Nxb6 Rd8 21. Rxd6
+Be6 22. Rxd8+ Kxd8 23. Rh1 Kc7 24. Na4 Rd8 25. Bf3 Nf4 26. Nc5
+Kc6 27. Nxe6 Nxe6 28. Rg1 Rh8 29. Kd2 Rh2 30. Ke1 b5 31. Rg3
+Nf4 32. Bg4 Rh1+ 33. Kd2 Rf1 34. Rc3+ Kb6 35. Ke3 Rg1 36. Bd7
+Re1+ 37. Kf3 Rd1 38. Bg4 Rb1 39. b3 Ra1 40. Bd7 Rxa2 41. Rc6+
+Ka5 42. Rc5 Kb4 43. Rxe5 Nh5 44. Be8 Rxc2 45. Re7 Rc3+ 46. Kg4
+Rc1 47. Bxf7 Rg1+ 48. Kf3 Rxg5 49. Re6 a5 50. Rxg6 Rxg6
+51. Bxg6 Ng7 52. Bf7 Kc5 53. e5 Nf5 54. Ke4 Ne7 55. f4 a4
+56. bxa4 bxa4 57. f5 a3 58. Bb3 Kc6 59. f6 Ng6 60. Kf5 Nh4+
+61. Ke6 Ng6 62. f7 Kc5 63. Kf6 Nf8 64. Kg7 1-0

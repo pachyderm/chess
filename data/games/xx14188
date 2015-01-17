@@ -1,0 +1,21 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.06"]
+[EventDate "2014.03.04"]
+[Round "4.111"]
+[Result "0-1"]
+[White "Sindri Snaer Kristofersson"]
+[Black "Oyvind Morkedal"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "1704"]
+[PlyCount "72"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 d6 5. h3 Nf6 6. d3 Be6
+7. b3 h6 8. O-O Qd7 9. Bxe6 fxe6 10. Re1 O-O-O 11. Be3 Bxe3
+12. Rxe3 Nd4 13. Rb1 Rdf8 14. Ne2 Nxf3+ 15. Rxf3 Nh5 16. Ng3
+Nf4 17. Kh1 Qe8 18. d4 g5 19. Qd2 h5 20. Ne2 g4 21. Re3 gxh3
+22. g3 Ng2 23. Rc3 Rxf2 24. Rd1 Qf8 25. Qc1 Rxe2 26. Rcd3 Qf2
+27. R3d2 Rxd2 28. Rxd2 Qxg3 29. Qd1 Rf8 30. Qg1 Qf3 31. Rd1
+Ne3+ 32. Kh2 Ng4+ 33. Qxg4 hxg4 34. Rd2 Qf4+ 35. Kg1 Qxd2
+36. dxe5 Qg2# 0-1

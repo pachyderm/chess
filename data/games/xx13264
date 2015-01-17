@@ -1,0 +1,17 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.05"]
+[EventDate "2014.03.04"]
+[Round "3.100"]
+[Result "1-0"]
+[White "Ralf Rache"]
+[Black "Sindri Snaer Kristofersson"]
+[ECO "C34"]
+[WhiteElo "1862"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g6 4. Bc4 Nc6 5. d4 d6 6. Bxf4 b6
+7. O-O Bb7 8. Ng5 Bg7 9. Bxf7+ Kd7 10. Qg4+ Ke7 11. Qe6+ Kf8
+12. Bxg8 Qe7 13. Bxd6+ Ke8 14. Bxe7 Nxe7 15. Qf7+ Kd8 16. Qxg7
+Nxg8 17. Rf8# 1-0

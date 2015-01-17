@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.36"]
+[Result "1-0"]
+[White "Leonid Gerzhoy"]
+[Black "Patrick Li Ying"]
+[ECO "D43"]
+[WhiteElo "2473"]
+[BlackElo "2125"]
+[PlyCount "81"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 e6 5. Qb3 Bd6 6. Bg5 h6
+7. Bh4 Nbd7 8. e3 O-O 9. cxd5 exd5 10. Bd3 Re8 11. O-O Qc7
+12. Qc2 a6 13. a3 b6 14. b4 Bb7 15. Rac1 Qb8 16. Rb1 Qa7
+17. Bf5 a5 18. e4 dxe4 19. Nxe4 Be7 20. Nxf6+ Nxf6 21. Rfe1
+axb4 22. axb4 g5 23. Bg3 Qa4 24. Qd2 Nd5 25. Bc2 Qb5 26. Ne5
+Bxb4 27. Qd1 Nf6 28. h4 Qa5 29. hxg5 hxg5 30. Re3 c5 31. d5
+Bd2 32. Re2 Bc3 33. Qd3 Ba6 34. Qf5 Bxe2 35. Qxg5+ Kf8
+36. Qxf6 Bxe5 37. Bxe5 Rxe5 38. Qh8+ Ke7 39. Qxe5+ Kf8 40. d6
+Qd2 41. Qh8# 1-0

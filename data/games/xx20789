@@ -1,0 +1,29 @@
+[Event "London Match"]
+[Site "???"]
+[Date "2014.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Komodo (Computer)"]
+[Black "Rybka (Computer)"]
+[ECO "E19"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "161"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3
+Ne4 8.Qc2 Nxc3 9.Qxc3 Be4 10.Bf4 c6 11.Rfd1 d5 12.Rac1 Na6
+13.Ne5 Nb4 14.Qb3 f6 15.Bxe4 dxe4 16.Ng4 h5 17.a3 g5 18.Bd2
+hxg4 19.Bxb4 Bxb4 20.axb4 Rc8 21.b5 cxb5 22.Qxb5 Rf7 23.Qb3
+Kg7 24.c5 Qd5 25.Qxd5 exd5 26.b4 f5 27.Ra1 f4 28.Ra6 Rb8 29.c6
+Kf6 30.Rda1 Rc8 31.b5 Rcc7 32.h3 gxh3 33.gxf4 gxf4 34.R6a3
+Rg7+ 35.Kh1 Kf5 36.Rxh3 Rh7 37.Rxh7 Rxh7+ 38.Kg2 Rg7+ 39.Kf1
+Ke6 40.Ra2 Kd6 41.Ra3 a5 42.Rh3 Kc7 43.Rh4 Rf7 44.Rh8 f3
+45.Ke1 Rg7 46.Kd2 fxe2 47.Kxe2 Rf7 48.Ra8 Kd6 49.Rd8+ Ke6
+50.Kd1 Rg7 51.Kc2 Rh7 52.Kb3 Rh3+ 53.Kb2 Rh7 54.Rb8 Rf7 55.Kb3
+Kd6 56.Rxb6 Rxf2 57.Rb7 Rf3+ 58.Ka4 e3 59.Rd7+ Ke6 60.Rd8 Rf7
+61.b6 e2 62.c7 e1=Q 63.Re8+ Re7 64.c8=Q+ Kf6 65.Rf8+ Rf7
+66.Qc6+ Kg7 67.Rxf7+ Kxf7 68.Qxd5+ Kf8 69.Qd6+ Kg8 70.b7 Qa1+
+71.Kb5 Qb2+ 72.Kc6 Qc2+ 73.Kd7 Qh7+ 74.Qe7 Qh2 75.Qe8+ Kg7
+76.b8=Q Qh3+ 77.Qe6 Qxe6+ 78.Kxe6 Kg6 79.Qg3+ Kh7 80.Kf6 a4
+81.Qg7# 1-0

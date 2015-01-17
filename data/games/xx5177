@@ -1,0 +1,29 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.60"]
+[Result "1-0"]
+[White "Jorge Baules"]
+[Black "Yeh Yang Liu"]
+[ECO "A57"]
+[WhiteElo "2317"]
+[BlackElo "1920"]
+[PlyCount "157"]
+
+1. d4 c5 2. d5 Nf6 3. c4 b5 4. Nd2 Qa5 5. Qc2 bxc4 6. e4 d6
+7. Bxc4 g6 8. b3 Nxe4 9. b4 Qxb4 10. Rb1 Qa5 11. Bb5+ Kd8
+12. Qxe4 Bf5 13. Qa4 Qxa4 14. Bxa4 Bxb1 15. Nxb1 Na6 16. Bd2
+Nb4 17. Nc3 Bg7 18. Ke2 Rf8 19. Nd1 Nxa2 20. h4 Rb8 21. h5 Nb4
+22. Ne3 f5 23. f4 Bd4 24. Nf3 Bxe3 25. Kxe3 Nxd5+ 26. Kd3 c4+
+27. Kd4 c3 28. Kxd5 cxd2 29. Ng5 Rg8 30. Rd1 Rb2 31. h6 Kc7
+32. Kc4 Kb6 33. Kc3 Ra2 34. Kb3 Rxa4 35. Kxa4 Rc8 36. Kb3 Rc1
+37. Rxd2 Rh1 38. Nf7 Kc6 39. Rd3 Kd7 40. Re3 Rh2 41. Kc3 a5
+42. g3 e6 43. Rd3 d5 44. Kd4 Ke7 45. Ng5 Rxh6 46. Re3 Rh1
+47. Rxe6+ Kd7 48. Ra6 h6 49. Nf3 g5 50. Rxa5 gxf4 51. gxf4 Rf1
+52. Ne5+ Kc7 53. Nd3 Kd7 54. Kxd5 Rd1 55. Ra7+ Kd8 56. Kd4 Ke8
+57. Rh7 Ra1 58. Ke5 Ra5+ 59. Kf6 Ra6+ 60. Kxf5 Kf8 61. Ne5 Kg8
+62. Rd7 Rb6 63. Ng4 Kf8 64. Nf6 Rb1 65. Ne4 Rb6 66. Rd6 Rb5+
+67. Kf6 Ke8 68. f5 h5 69. Ke6 Kf8 70. Nf6 Kg7 71. Nxh5+ Kh6
+72. Nf4 Rb4 73. Ke5+ Kg7 74. f6+ Kf8 75. Rd7 Rb5+ 76. Ke6 Kg8
+77. Rg7+ Kf8 78. Ng6+ Ke8 79. Rg8# 1-0

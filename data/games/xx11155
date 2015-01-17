@@ -1,0 +1,19 @@
+[Event "Bundesliga"]
+[Site "Viernheim GER"]
+[Date "2014.02.22"]
+[EventDate "2013.10.12"]
+[Round "9"]
+[Result "1-0"]
+[White "Michail Feygin"]
+[Black "Pierre Carbonnel"]
+[ECO "B78"]
+[WhiteElo "2512"]
+[BlackElo "2210"]
+[PlyCount "55"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7
+7. f3 Nc6 8. Qd2 O-O 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Nxd4
+12. Bxd4 b5 13. h4 a5 14. h5 a4 15. Bxf6 exf6 16. Bd5 f5
+17. hxg6 hxg6 18. g4 fxg4 19. fxg4 Re8 20. Bxf7+ Kxf7
+21. Rdf1+ Kg8 22. Qh2 Qg5+ 23. Rf4 Bf5 24. gxf5 Be5 25. Nd5
+Rc7 26. Kb1 Bxf4 27. Qh8+ Kf7 28. Rh7# 1-0

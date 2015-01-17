@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.64"]
+[Result "0-1"]
+[White "Faisal Khairallah"]
+[Black "Danilo Volpinari"]
+[ECO "A00"]
+[WhiteElo "2307"]
+[BlackElo "2001"]
+[PlyCount "96"]
+
+1. g3 d5 2. Bg2 Nf6 3. d3 c6 4. f4 Nbd7 5. Nf3 Qc7 6. d4 Ne4
+7. e3 Ndf6 8. Ne5 g6 9. g4 h5 10. g5 Ng4 11. Bxe4 dxe4 12. Nc4
+f6 13. h3 b5 14. Nca3 fxg5 15. hxg4 Bxg4 16. Qd2 Bh6 17. Qh2
+gxf4 18. exf4 O-O-O 19. c3 Rhf8 20. Nc2 e5 21. a4 Bxf4
+22. Bxf4 Rxf4 23. axb5 Rdf8 24. Ne3 Rf2 25. Rf1 Rxh2 26. Rxf8+
+Kb7 27. bxc6+ Qxc6 28. Rf7+ Bd7 29. d5 Qb5 30. Rxd7+ Qxd7
+31. Nd2 Qh3 32. Nef1 Rh1 33. O-O-O Qd3 34. d6 e3 35. Nxe3
+Rxd1+ 36. Nxd1 Qxd6 37. Nc4 Qc5 38. Nde3 h4 39. b4 Qc7
+40. Na5+ Kc8 41. Nd5 Qf7 42. Nc6 h3 43. c4 h2 44. Kc2 h1=Q
+45. b5 Qf2+ 46. Kc3 Qhe1+ 47. Kb3 Qb1+ 48. Ka3 Qfa2# 0-1

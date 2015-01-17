@@ -1,0 +1,18 @@
+[Event "Riga Technical University Open"]
+[Site "Riga LAT"]
+[Date "2014.08.16"]
+[EventDate "2014.08.16"]
+[Round "1.18"]
+[Result "1-0"]
+[White "Vasily Yemelin"]
+[Black "Christopher Brookes"]
+[ECO "A45"]
+[WhiteElo "2573"]
+[BlackElo "2231"]
+[PlyCount "43"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 g6 4. Bd3 Bg7 5. Nd2 c5 6. c3 Nc6
+7. dxc5 O-O 8. Ngf3 e5 9. e4 Be6 10. O-O Qc7 11. Bxf6 Bxf6
+12. exd5 Bxd5 13. Bc4 Rfd8 14. Bxd5 Rxd5 15. Qb3 Rad8 16. Ne4
+Be7 17. Nd6 Rxc5 18. Qxf7+ Kh8 19. Ne8 Rxe8 20. Qxe8+ Kg7
+21. Rad1 Nb8 22. Rfe1 1-0

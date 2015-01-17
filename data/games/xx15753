@@ -1,0 +1,55 @@
+[Event "TCEC - Season 6 - Stage 2"]
+[Site "http://tcec.chessdom.com"]
+[Date "2014.03.27"]
+[EventDate "2014.03.16"]
+[Round "7"]
+[Result "1/2-1/2"]
+[White "Spike (Computer)"]
+[Black "Chiron (Computer)"]
+[ECO "C97"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "393"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6
+7. c3 Be7 8. h3 O-O 9. Re1 Na5 10. Bc2 c5 11. d4 Qc7 12. d5
+Nd7 13. b3 Nb6 14. Qe2 h6 15. Bd2 c4 16. Be3 Bd7 17. Nbd2 Nb7
+18. bxc4 Nc5 19. cxb5 axb5 20. Rec1 Nba4 21. Bxa4 Rxa4 22. c4
+b4 23. Bxc5 dxc5 24. Nb3 Bd6 25. Rab1 f5 26. Rb2 Ra3 27. Re1
+f4 28. Rd1 Qd8 29. Rdb1 Qf6 30. Ne1 Qh4 31. f3 h5 32. Nd3 Rc8
+33. Rd2 g5 34. Qf2 Qxf2+ 35. Kxf2 h4 36. Rbb2 Be8 37. Rdc2 Kg7
+38. Kf1 Bg6 39. Rb1 Ra4 40. Ra1 Ra3 41. Ke1 Bh5 42. Rd1 Bf7
+43. Ndc1 Rca8 44. Rb2 Bg6 45. Nd3 Rc8 46. Rdd2 Kf6 47. Nbc1
+Rca8 48. Rb3 R3a7 49. Nf2 Kg7 50. Ng4 Bh5 51. Rdb2 Be8 52. Rd3
+Bg6 53. Rdd2 Bh5 54. Kf2 Bxg4 55. fxg4 Kf8 56. Nb3 Kg7 57. Ke2
+Kf6 58. Rdc2 Kg6 59. Kd3 Kf6 60. Kd2 Ra3 61. Kd1 R3a7 62. Ke1
+Kg6 63. Rd2 Kg7 64. Kd1 Kf7 65. Re2 Ra3 66. Rbd2 Kf6 67. Rc2
+R3a7 68. Ke1 Rd8 69. Rb2 Rda8 70. Rf2 Kf7 71. Rbc2 Ke7
+72. Rfd2 Kf6 73. Kd1 Kg7 74. Kc1 Kf6 75. Kb1 Ke7 76. Rd1 Ke8
+77. Rf1 Kd7 78. Rg1 Kc8 79. Rf2 Kc7 80. Rd2 Kb7 81. Rc1 Ra6
+82. Rf1 Ra3 83. Re1 Kc8 84. Ree2 Kb7 85. Rb2 Kb6 86. Kc1 R8a7
+87. Rbc2 Be7 88. Rcd2 Bd6 89. Rb2 Ra8 90. Red2 R3a7 91. Rbc2
+Rd7 92. Kd1 Rda7 93. Re2 Rd7 94. Nd2 Ra3 95. Nf3 Rg7 96. Rc1
+Rg8 97. Rb2 Rd3+ 98. Nd2 Ra8 99. Rcc2 Raa3 100. Rb3 Raxb3
+101. axb3 Re3 102. Ra2 Kb7 103. Nf3 Rxf3 104. gxf3 Bc7
+105. Ke1 Bd6 106. Kf1 Bc7 107. Ke2 Bd6 108. Kd3 Bc7 109. Rf2
+Bd6 110. Rc2 Ka6 111. Ra2+ Kb7 112. Rd2 Ka6 113. Rd1 Kb6
+114. Rc1 Ka6 115. Re1 Kb6 116. Ra1 Kb7 117. Kc2 Bc7 118. Ra2
+Bd6 119. Kc1 Bc7 120. Rh2 Bd6 121. Kd1 Ka6 122. Rh1 Ka5
+123. Ke1 Ka6 124. Kf1 Ka5 125. Kf2 Ka6 126. Rc1 Kb6 127. Ke2
+Ka6 128. Rb1 Kb6 129. Rd1 Ka6 130. Ra1+ Kb7 131. Kf1 Bc7
+132. Ke1 Bd6 133. Rc1 Ka6 134. Kf1 Kb6 135. Re1 Ka6 136. Ra1+
+Kb7 137. Ke2 Bf8 138. Kf2 Bd6 139. Ra4 Be7 140. Kg1 Bd6
+141. Kf1 Bc7 142. Kf2 Bd6 143. Ke2 Bc7 144. Kd2 Bd6 145. Kd3
+Bf8 146. Ra5 Bd6 147. Ke2 Be7 148. Ra4 Bd6 149. Ra2 Bf8
+150. Kd2 Bd6 151. Ra1 Bb8 152. d6 Bxd6 153. Kd3 Bc7 154. Ra4
+Bb6 155. Ra2 Ba7 156. Ke2 Bb6 157. Ra1 Bc7 158. Ke1 Bb6
+159. Rd1 Bc7 160. Rd2 Kb6 161. Ra2 Bd6 162. Ra8 Kc6 163. Ra6+
+Kd7 164. Ra7+ Ke6 165. Ra4 Bc7 166. Ra6+ Kd7 167. Ke2 Bd6
+168. Ra2 Bc7 169. Kf1 Bb6 170. Ra8 Bc7 171. Ke1 Bb6 172. Kd1
+Bc7 173. Ra6 Bd6 174. Ra7+ Ke6 175. Ke1 Be7 176. Ra2 Bd6
+177. Kd2 Bc7 178. Rb2 Ba5 179. Kc1 Bb6 180. Ra2 Bc7 181. Ra6+
+Kd7 182. Ra1 Bb6 183. Kd2 Bc7 184. Ra7 Kc6 185. Kc1 Bb6
+186. Ra8 Kd7 187. Kc2 Bc7 188. Ra1 Bb6 189. Ra2 Bc7 190. Kd1
+Bb6 191. Ke1 Bc7 192. Rc2 Ba5 193. Rd2+ Kc6 194. Ra2 Bb6
+195. Ra6 Kb7 196. Ra2 Bc7 197. Kd1 1/2-1/2

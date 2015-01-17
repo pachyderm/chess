@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.47"]
+[Result "0-1"]
+[White "Patrick van Hoolandt"]
+[Black "Dritan Mehmeti"]
+[ECO "E10"]
+[WhiteElo "2236"]
+[BlackElo "2416"]
+[PlyCount "44"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. dxe6 fxe6 6. cxb5 d5
+7. Bg5 h6 8. Bxf6 Qxf6 9. Nc3 Bb7 10. e3 Nd7 11. Be2 Bd6
+12. a4 O-O 13. O-O Rad8 14. Qc2 Ne5 15. Nd2 Qh4 16. f4 d4
+17. Nce4 d3 18. Bxd3 Nxd3 19. Qxd3 Bxf4 20. Rxf4 Rxf4 21. Qc3
+Rxe4 22. g3 Qg4 0-1

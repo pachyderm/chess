@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.20"]
+[Result "0-1"]
+[White "Sergio Rocha"]
+[Black "Zoltan Almasi"]
+[ECO "C20"]
+[WhiteElo "2392"]
+[BlackElo "2690"]
+[PlyCount "140"]
+
+1. e4 e5 2. Bb5 Nf6 3. d4 c6 4. dxe5 Nxe4 5. Bd3 Nc5 6. Nf3 d5
+7. O-O Be7 8. h3 O-O 9. Nc3 Nbd7 10. Ne2 f6 11. exf6 Nxf6
+12. Ned4 Nxd3 13. Qxd3 Ne4 14. Ne5 Bd6 15. f4 Bxe5 16. fxe5
+Rxf1+ 17. Qxf1 c5 18. Nf3 Be6 19. Bf4 Qb6 20. Qc1 Rf8 21. Kh2
+d4 22. a4 c4 23. Ra3 Qc5 24. c3 d3 25. Qe3 Qd5 26. Ra1 Bd7
+27. Nd2 Nxd2 28. Qxd2 a5 29. Bg3 Re8 30. Bf4 Bc6 31. Bg3 h6
+32. Bf4 Re6 33. Rf1 Bxa4 34. Rf3 Rg6 35. Rg3 Rxg3 36. Bxg3 Bc6
+37. Bf4 g5 38. Be3 Qxe5+ 39. Kg1 Qg3 40. Qf2 Qxf2+ 41. Kxf2
+Kh7 42. g3 Kg6 43. Bb6 Kh5 44. Be3 Bd7 45. h4 gxh4 46. gxh4 b5
+47. Ke1 b4 48. cxb4 axb4 49. Kd2 c3+ 50. bxc3 b3 51. Kc1 Be6
+52. c4 Bxc4 53. Bd2 Kg6 54. Bc3 Kf5 55. Bg7 h5 56. Bh8 Kg4
+57. Bf6 Ba6 58. Kd2 b2 59. Bxb2 Kxh4 60. Ke3 Kg4 61. Bf6 h4
+62. Bc3 Kg3 63. Be1+ Kh3 64. Bf2 Kg4 65. Bg1 h3 66. Bh2 Kf5
+67. Bc7 Ke6 68. Bh2 Kd5 69. Bg1 Kc4 70. Kd2 Bb7 0-1

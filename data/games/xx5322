@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.25"]
+[Result "1-0"]
+[White "Helgi Olafsson"]
+[Black "Iqbal Mudasir"]
+[ECO "A60"]
+[WhiteElo "2555"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 d6 5. e4 Be7 6. f4 exd5
+7. cxd5 O-O 8. Nf3 Bg4 9. Be2 Nfd7 10. O-O Bf6 11. Be3 Re8
+12. Nd2 Bxe2 13. Qxe2 Na6 14. g4 h6 15. Rae1 Nb4 16. Nc4 Nb6
+17. Nxb6 Qxb6 18. g5 hxg5 19. e5 dxe5 20. fxg5 Be7 21. a3 Na6
+22. Rf5 Qg6 23. Ref1 f6 24. Ne4 fxg5 25. d6 Rf8 26. Qc4+ Kh8
+27. Rxf8+ Bxf8 28. Qd5 Rd8 29. Nxg5 Bxd6 30. Rf3 Qb1+ 31. Kg2
+Qc2+ 32. Bf2 1-0

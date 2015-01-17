@@ -1,0 +1,16 @@
+[Event "Chess Olympiad (Women)"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.39"]
+[Result "1-0"]
+[White "Natalia Khoudgarian"]
+[Black "Maria M Domingos"]
+[ECO "C47"]
+[WhiteElo "2136"]
+[BlackElo "1576"]
+[PlyCount "31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4
+c5 7. Qa4 h6 8. e5 Nh7 9. Bd3 g6 10. e6 Qe7 11. O-O fxe6
+12. Bxg6+ Kd8 13. Bf4 Rg8 14. Bh5 d6 15. Bxd6 Qg5 16. Qe8# 1-0

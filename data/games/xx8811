@@ -1,0 +1,18 @@
+[Event "Casino Graz"]
+[Site "Graz AUT"]
+[Date "2014.02.15"]
+[EventDate "2014.02.14"]
+[Round "2.9"]
+[Result "1-0"]
+[White "R Rajpara Ankit"]
+[Black "Walter Wittmann"]
+[ECO "B30"]
+[WhiteElo "2455"]
+[BlackElo "2218"]
+[PlyCount "45"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 a6 6. Bf1 Nf6
+7. c3 Bg4 8. h3 Bh5 9. g4 Bg6 10. d4 e5 11. d5 Nb8 12. Nbd2
+Nbd7 13. a4 h5 14. g5 Nh7 15. h4 f6 16. Nc4 Be7 17. gxf6 Ndxf6
+18. Nfxe5 dxe5 19. d6 Nxe4 20. Nxe5 Nxf2 21. d7+ Kf8 22. Nxg6+
+Kg8 23. Bc4# 1-0

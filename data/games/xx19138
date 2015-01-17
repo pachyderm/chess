@@ -1,0 +1,26 @@
+[Event "Norway Chess Tournament"]
+[Site "Stavanger NOR"]
+[Date "2014.06.05"]
+[EventDate "2014.06.02"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Magnus Carlsen"]
+[Black "Fabiano Caruana"]
+[ECO "D70"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "134"]
+
+1.d4 Nf6 2.c4 g6 3.f3 d5 4.cxd5 Nxd5 5.e4 Nb6 6.Nc3 Bg7 7.Be3
+O-O 8.Qd2 Nc6 9.O-O-O Qd6 10.Nb5 Qd7 11.Kb1 Rd8 12.d5 a6
+13.Nc3 Qe8 14.Qc1 Na5 15.Bh6 Bxh6 16.Qxh6 e6 17.Nh3 Qe7 18.Bd3
+e5 19.Nf2 Nbc4 20.h4 Rd6 21.Bxc4 Nxc4 22.Qc1 b5 23.Nd3 Bd7
+24.b3 Nb6 25.h5 g5 26.g3 c6 27.f4 cxd5 28.Nxe5 d4 29.Qa3 a5
+30.Nxb5 Bxb5 31.Rxd4 Re6 32.Qxe7 Rxe7 33.Rc1 Nd7 34.Rc7 Nxe5
+35.Rxe7 Nc6 36.Rd5 Bd3+ 37.Rxd3 Nxe7 38.fxg5 Rb8 39.Rd7 Kf8
+40.Ra7 Rb5 41.Ra8+ Kg7 42.Re8 Re5 43.g4 Rxe4 44.Kc2 Re5 45.Kd3
+f6 46.gxf6+ Kxf6 47.Rh8 Kg7 48.Re8 Kh6 49.a3 Kg5 50.Rh8 h6
+51.Rh7 Re6 52.Rg7+ Kf6 53.Rh7 Ke5 54.Rg7 Kf4 55.b4 axb4
+56.axb4 Nc6 57.b5 Ne5+ 58.Kd4 Nxg4 59.Kc5 Re5+ 60.Kc6 Rxh5
+61.b6 Ne5+ 62.Kc7 Nc4 63.b7 Rc5+ 64.Kd8 Rb5 65.Kc7 Rc5+ 66.Kd8
+Rb5 67.Kc7 Ke5 1/2-1/2

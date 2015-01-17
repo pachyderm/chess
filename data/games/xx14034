@@ -1,0 +1,16 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.04"]
+[EventDate "2014.03.04"]
+[Round "1.98"]
+[Result "0-1"]
+[White "Bjorn Holm Birkisson"]
+[Black "Arlette van Weersel"]
+[ECO "C47"]
+[WhiteElo "1598"]
+[BlackElo "2176"]
+[PlyCount "24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Nxe4 5. Bxf7+ Kxf7
+6. Nxe4 d5 7. Ng3 e4 8. Ng1 Bc5 9. N1e2 Rf8 10. Nc3 Kg8
+11. O-O Ne5 12. h3 Qh4 0-1

@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.52"]
+[Result "0-1"]
+[White "Delisle Warner"]
+[Black "Bilal Samhouri"]
+[ECO "A58"]
+[WhiteElo "2243"]
+[BlackElo "2256"]
+[PlyCount "104"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. g3 Bxa6
+7. Bg2 d6 8. Nf3 Bg7 9. Nc3 O-O 10. Rb1 Nbd7 11. O-O Qa5
+12. Bd2 Bb7 13. Ne1 Nb6 14. Nc2 Qa7 15. Be1 Rad8 16. b4 c4
+17. Ne3 Qa3 18. Bd2 Ne8 19. Qc1 Ra8 20. Ned1 Nc7 21. e4 e6
+22. Be3 Nd7 23. Qc2 exd5 24. exd5 Ne5 25. Bb6 Ne8 26. Ba5 Bc8
+27. f4 Ng4 28. Nb5 Qd3 29. Qxd3 cxd3 30. h3 Ngf6 31. Nf2 Ba6
+32. a4 Rb8 33. Rfd1 Bxb5 34. axb5 Rxb5 35. Rxd3 Nd7 36. Rc1 f5
+37. Rc6 g5 38. Bf1 gxf4 39. gxf4 Kh8 40. Rd1 Rb8 41. Ba6 Bh6
+42. Nd3 Ndf6 43. Bc4 Rg8+ 44. Kh2 Ne4 45. Rg1 N8f6 46. Bc7 Nd2
+47. Rg5 Bxg5 48. Bxb8 Bxf4+ 49. Kh1 Be3 50. Ne1 Nfe4 51. Ng2
+Ng3+ 52. Kh2 Nf3# 0-1

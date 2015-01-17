@@ -1,0 +1,17 @@
+[Event "KL Chess Open 2014"]
+[Site "Kuala Lumpur MAS"]
+[Date "2014.04.05"]
+[EventDate "2014.04.04"]
+[Round "3.38"]
+[Result "0-1"]
+[White "Martin C Greenwood"]
+[Black "Ahmad Ismail"]
+[ECO "B01"]
+[WhiteElo "1587"]
+[BlackElo "2035"]
+[PlyCount "40"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. Be2 Bxe2 5. Qxe2 Qxd5 6. Nf3
+e6 7. O-O Bd6 8. Nc3 Qh5 9. Qb5+ Qxb5 10. Nxb5 a6 11. Nxd6+
+cxd6 12. Bf4 Kd7 13. h3 Nc6 14. c3 h6 15. Rfe1 g5 16. Bg3 Rhg8
+17. Rad1 b5 18. Ne5+ dxe5 19. dxe5+ Nd5 20. b3 Ke7 0-1

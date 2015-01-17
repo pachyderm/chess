@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.51"]
+[Result "0-1"]
+[White "Jorge Baules"]
+[Black "Oswaldo Zambrana"]
+[ECO "A60"]
+[WhiteElo "2317"]
+[BlackElo "2472"]
+[PlyCount "54"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6
+7. Bf4 a6 8. a4 Bg7 9. h3 O-O 10. e3 Qe7 11. Nd2 Nbd7 12. Nc4
+Ne8 13. Be2 Ne5 14. Bxe5 Bxe5 15. Ra3 Rb8 16. a5 Bd7 17. O-O
+Nc7 18. Rb3 Bg7 19. Rb6 Bxc3 20. bxc3 Bb5 21. Qd2 Na8 22. Rxb5
+axb5 23. Na3 Nc7 24. Bxb5 Nxb5 25. Nxb5 Ra8 26. Ra1 Ra6 27. c4
+Rfa8 0-1

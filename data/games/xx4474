@@ -1,0 +1,25 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.06"]
+[EventDate "2014.03.04"]
+[Round "4.80"]
+[Result "0-1"]
+[White "Olafur Gisli Jonsson"]
+[Black "Michael Grove"]
+[ECO "A46"]
+[WhiteElo "1890"]
+[BlackElo "2097"]
+[PlyCount "112"]
+
+1. d4 Nf6 2. Nf3 c5 3. e3 g6 4. Bd3 Bg7 5. O-O O-O 6. c4 d6
+7. Nc3 Na6 8. a3 Bd7 9. Qe2 e6 10. b3 Qe7 11. Bb2 Bc6 12. e4
+cxd4 13. Nxd4 Nc5 14. Nxc6 bxc6 15. Bc2 e5 16. b4 Ne6 17. Ba4
+Nd4 18. Qd3 Nh5 19. Ne2 Nxe2+ 20. Qxe2 Nf4 21. Qf3 Rac8
+22. Rad1 Rfd8 23. g3 Ne6 24. Qe3 Qb7 25. Rd3 c5 26. b5 f5
+27. f3 Kh8 28. Rfd1 Nd4 29. R1d2 Rf8 30. Bd1 f4 31. Qe1 fxg3
+32. hxg3 Qf7 33. Rc3 Qe6 34. Rh2 Bf6 35. Qf1 Qf7 36. Qh3 Rce8
+37. Bc1 Bd8 38. Be3 Ne6 39. Qh6 Qg7 40. Rcc2 Qxh6 41. Rxh6 Bg5
+42. Bxg5 Nxg5 43. Rch2 Kg8 44. Kg2 Re7 45. a4 Ref7 46. a5 Nxf3
+47. Bxf3 Rxf3 48. Kh3 Ra3 49. a6 Rff3 50. Kg2 Rxg3+ 51. Kf2
+Rgc3 52. Ke1 Rxc4 53. Rxh7 Rxe4+ 54. Kd2 Ra2+ 55. Kd3 Rxh2
+56. Rh8+ Kxh8 0-1

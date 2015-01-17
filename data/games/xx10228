@@ -1,0 +1,24 @@
+[Event "Bundesliga"]
+[Site "Eppingen GER"]
+[Date "2014.04.04"]
+[EventDate "2013.10.12"]
+[Round "13"]
+[Result "1-0"]
+[White "Alexander Markgraf"]
+[Black "Merijn van Delft"]
+[ECO "B48"]
+[WhiteElo "2483"]
+[BlackElo "2425"]
+[PlyCount "105"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6
+7. Qd2 Nf6 8. O-O-O Be7 9. f3 b5 10. g4 Nxd4 11. Qxd4 Bb7
+12. g5 Nh5 13. Bh3 Rc8 14. Qd2 b4 15. Ne2 d5 16. Bg4 dxe4
+17. Bxh5 exf3 18. Nd4 O-O 19. Bxf3 e5 20. Bxb7 exd4 21. Bxc8
+dxe3 22. Qxe3 Rxc8 23. Rd2 Bd6 24. Rf1 Qc4 25. Qh3 Be7 26. Rg1
+Rc5 27. Qe3 Bf8 28. Kb1 g6 29. Rgd1 h6 30. gxh6 Kh7 31. b3 Qc3
+32. Qxc3 Rxc3 33. Rd3 Rc6 34. Rf3 f5 35. Rh3 Rc7 36. c3 bxc3
+37. Kc2 Bb4 38. a3 Bxa3 39. Rxc3 Re7 40. Rc6 a5 41. Rg1 Kxh6
+42. Rcxg6+ Kh7 43. R6g5 Re2+ 44. Kd3 Rxh2 45. Rxf5 Rh3+
+46. Kc4 Bb4 47. Rfg5 Rc3+ 48. Kb5 Kh6 49. R5g2 Rc5+ 50. Ka4
+Rh5 51. Rg6+ Kh7 52. Rg7+ Kh6 53. R1g6# 1-0

@@ -1,0 +1,25 @@
+[Event "Casino Graz"]
+[Site "Graz AUT"]
+[Date "2014.02.19"]
+[EventDate "2014.02.14"]
+[Round "7.21"]
+[Result "0-1"]
+[White "Johannes Hatzl"]
+[Black "Robert Peter Deutschmann"]
+[ECO "C47"]
+[WhiteElo "2141"]
+[BlackElo "2014"]
+[PlyCount "110"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6
+bxc6 7. Bd3 d5 8. exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Qf3 Be7
+12. Rfe1 Rb8 13. Qe3 Bd6 14. Bxf6 Qxf6 15. Nd1 c5 16. c3 Bd7
+17. Qd2 Bf4 18. Qc2 Qh6 19. g3 Rfe8 20. Ne3 Bxe3 21. fxe3 c4
+22. Bf1 Re5 23. Rad1 Bf5 24. Qf2 Be4 25. Bg2 Rf5 26. Qe2 Bd3
+27. Rxd3 cxd3 28. Qxd3 Rh5 29. Bxd5 Rxh2 30. Qf5 Rhxb2
+31. Qxf7+ Kh8 32. Bg2 Qf6 33. Rf1 Qxf7 34. Rxf7 Rxa2 35. Bd5
+Rb1+ 36. Rf1 Rxf1+ 37. Kxf1 Rc2 38. c4 g5 39. Ke1 Kg7 40. Kd1
+Rf2 41. e4 Kf6 42. Ke1 Rb2 43. Kd1 Ke5 44. c5 Rb8 45. Kc2 h5
+46. Kd3 h4 47. gxh4 gxh4 48. Ke3 h3 49. Kf2 h2 50. Kg2 Rb2+
+51. Kh1 Kf4 52. e5 Kg3 53. Be4 Re2 54. Bg2 Re1+ 55. Bf1 Rxf1#
+0-1

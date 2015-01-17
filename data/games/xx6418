@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.37"]
+[Result "1-0"]
+[White "Olaf Berg"]
+[Black "Hasan Omrani"]
+[ECO "B06"]
+[WhiteElo "2320"]
+[BlackElo "2085"]
+[PlyCount "101"]
+
+1. e4 c6 2. Nf3 g6 3. d4 Bg7 4. Nc3 d6 5. Bc4 Nf6 6. Bb3 O-O
+7. h3 Qc7 8. Bg5 e5 9. Qd2 b5 10. a3 a6 11. dxe5 dxe5
+12. O-O-O Nbd7 13. Qe3 Re8 14. Nh2 Nf8 15. Qf3 Nh5 16. Ng4 Be6
+17. Nd5 cxd5 18. exd5 e4 19. Qe3 Bxg4 20. hxg4 Qe5 21. gxh5
+Qxb2+ 22. Kd2 Rac8 23. Ke1 a5 24. d6 a4 25. Bd5 Qxc2 26. Qa7
+Ne6 27. Bd2 Bc3 28. hxg6 hxg6 29. d7 Bxd2+ 30. Rxd2 Qc1+
+31. Rd1 Qc3+ 32. Kf1 Qc2 33. Ke1 Qc3+ 34. Rd2 Qc1+ 35. Rd1
+Qc3+ 36. Kf1 Qc2 37. dxe8=Q+ Rxe8 38. Re1 Qd3+ 39. Kg1 Qxd5
+40. Qe3 Ng5 41. Qc3 Nh7 42. Qh3 Qh5 43. Qxh5 gxh5 44. Rxh5 Nf6
+45. Rxb5 Ra8 46. Reb1 Kg7 47. Rb8 Ra5 48. R1b5 Ra6 49. R8b6
+Ra7 50. Rg5+ Kh6 51. Rf5 1-0

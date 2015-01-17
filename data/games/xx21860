@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.13"]
+[Result "1-0"]
+[White "Daniel Fridman"]
+[Black "Rune Djurhuus"]
+[ECO "E63"]
+[WhiteElo "2639"]
+[BlackElo "2436"]
+[PlyCount "103"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. g3 d6 6. Bg2 Nc6
+7. O-O a6 8. d5 Na5 9. b3 c5 10. dxc6 Nxc6 11. Bb2 Ne4 12. Qc1
+Nxc3 13. Bxc3 Bxc3 14. Qxc3 Qa5 15. Qe3 Bg4 16. Rfd1 Rac8
+17. Nd4 Rc7 18. Nxc6 bxc6 19. Rd4 Be6 20. Rh4 h5 21. Bf3 Qe5
+22. Qxe5 dxe5 23. Re4 f6 24. c5 Rd8 25. Ra4 f5 26. e4 Rd3
+27. exf5 gxf5 28. Bxh5 Rc3 29. Rxa6 Rxc5 30. b4 Rc2 31. b5 Bc4
+32. Bd1 Rc3 33. Rxc6 Bxb5 34. Rxc7 Rxc7 35. a4 Ba6 36. Bf3 e4
+37. Bg2 Bd3 38. a5 Ra7 39. Bf1 Ra6 40. Bxd3 exd3 41. Kf1 e5
+42. f3 Kf7 43. Kf2 f4 44. gxf4 exf4 45. Ke1 Ke7 46. Kd2 Rh6
+47. a6 Rxh2+ 48. Kxd3 Rh8 49. Ke4 Kd7 50. a7 Ra8 51. Kxf4 Kc6
+52. Ke4 1-0

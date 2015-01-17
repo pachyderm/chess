@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.3"]
+[Result "1-0"]
+[White "Magnus Carlsen"]
+[Black "Radoslaw Wojtaszek"]
+[ECO "A07"]
+[WhiteElo "2877"]
+[BlackElo "2735"]
+[PlyCount "65"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. Be3 e5
+7. Nh3 Nge7 8. f4 Nd4 9. O-O O-O 10. Qd2 Bd7 11. Nd1 Qc8
+12. Ndf2 Ndc6 13. c3 b5 14. fxe5 Nxe5 15. Bh6 N7c6 16. Bxg7
+Kxg7 17. Nf4 Qd8 18. Rad1 Rc8 19. Qe2 h5 20. d4 cxd4 21. cxd4
+Ng4 22. h3 Nxf2 23. Qxf2 Ne7 24. Rd3 b4 25. Rf3 Qe8 26. g4
+hxg4 27. hxg4 Bb5 28. Re1 Qd8 29. g5 Qb6 30. Bh3 Rcd8 31. Be6
+Be8 32. Nd5 Nxd5 33. Bxd5 1-0

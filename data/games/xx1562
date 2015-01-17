@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.60"]
+[Result "1/2-1/2"]
+[White "Sergio Huguet"]
+[Black "Fabian Ferster"]
+[ECO "A07"]
+[WhiteElo "2055"]
+[BlackElo "2137"]
+[PlyCount "45"]
+
+1. e4 e6 2. d3 d5 3. Qe2 Be7 4. Nf3 c5 5. g3 Nc6 6. Bg2 Nf6
+7. O-O O-O 8. e5 Ne8 9. Re1 Rb8 10. a4 a6 11. h4 b5 12. axb5
+axb5 13. Bf4 Qb6 14. Nbd2 Nc7 15. c3 Ba6 16. Ng5 b4 17. Bf1
+bxc3 18. bxc3 Qb2 19. Rec1 Ra8 20. Rab1 Qa3 21. Ra1 Qb2
+22. Rab1 Qa3 23. Ra1 1/2-1/2

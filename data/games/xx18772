@@ -1,0 +1,32 @@
+[Event "TCEC - Season 6 - Stage 2"]
+[Site "http://tcec.chessdom.com"]
+[Date "2014.04.03"]
+[EventDate "2014.03.16"]
+[Round "12"]
+[Result "0-1"]
+[White "Stockfish (Computer)"]
+[Black "Houdini (Computer)"]
+[ECO "D45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "180"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6
+7. b3 O-O 8. Bb2 b6 9. Bd3 Bb7 10. O-O h6 11. Rad1 Qe7 12. e4
+dxe4 13. Bxe4 Rfe8 14. Rfe1 Rab8 15. Bd3 Rbc8 16. Qc1 Rcd8
+17. Bb1 Nf8 18. a3 Qc7 19. Ne5 a6 20. Na4 c5 21. dxc5 bxc5
+22. Qe3 N6d7 23. Ng4 f6 24. Qh3 Re7 25. Bc2 Rb8 26. Bc3 Rf7
+27. Rd3 Bf4 28. g3 Qc6 29. f3 Bc7 30. f4 f5 31. Nf2 Re8
+32. Bd1 e5 33. Bf3 e4 34. Rde3 Nf6 35. Bh1 Bc8 36. Rd1 Be6
+37. Qf1 N8d7 38. Qe2 Rfe7 39. Qc2 Bf7 40. Bg2 Bh5 41. Rf1 Bb8
+42. Nd1 Qd6 43. Bh3 g6 44. Qc1 Bf3 45. Ree1 h5 46. Ne3 h4
+47. Bg2 Bh5 48. gxh4 Rf7 49. Ba1 Nf8 50. Qb2 Ne6 51. Nd5 Ref8
+52. Re3 Kh7 53. Nac3 Nxd5 54. Nxd5 Nc7 55. Nc3 Ne8 56. Na4 Nf6
+57. Rg3 Qe7 58. Qf2 Re8 59. Nc3 e3 60. Qe1 e2 61. Rf2 Qd8
+62. Bc6 Re6 63. Bd5 Nxd5 64. cxd5 Re8 65. Nxe2 Qxd5 66. Be5
+Bxe5 67. Re3 Rfe7 68. fxe5 Rxe5 69. Nc3 Qd4 70. Rxe5 Rxe5
+71. Qd2 Qg4+ 72. Rg2 Qxh4 73. Rf2 Qg4+ 74. Rg2 Qd4+ 75. Rf2
+Kg7 76. Qxd4 cxd4 77. Na4 Bd1 78. Rd2 Bxb3 79. Rxd4 Ra5
+80. Nc3 Rxa3 81. h4 Bf7 82. Na4 Ra2 83. Nc3 Rc2 84. Nd1 a5
+85. Ne3 Ra2 86. Rd7 a4 87. Kf1 a3 88. Ra7 Ra1+ 89. Ke2 a2
+90. Nc2 Rh1 0-1

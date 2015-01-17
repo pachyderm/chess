@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.28"]
+[Result "1-0"]
+[White "Jure Borisek"]
+[Black "Fred Berend"]
+[ECO "C65"]
+[WhiteElo "2569"]
+[BlackElo "2380"]
+[PlyCount "133"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O Re8
+7. Bg5 h6 8. Bh4 Be7 9. Nbd2 d6 10. Re1 Bd7 11. Nf1 Nh7
+12. Bg3 g6 13. d4 Bf6 14. dxe5 Nxe5 15. Bxd7 Nxd7 16. Qd5 Qb8
+17. Rad1 Bg7 18. Qd2 a5 19. Nd4 a4 20. f3 Nhf6 21. Ne3 Nh5
+22. Bf2 Kh7 23. Nb5 Nf4 24. c4 Nc5 25. Qc2 Nce6 26. Nd5 Be5
+27. Be3 c6 28. Nxf4 Nxf4 29. Nc3 a3 30. g3 Ne6 31. f4 Bg7
+32. b3 Re7 33. Kg2 Qh8 34. Ne2 Rd8 35. h4 Bb2 36. h5 Nf8
+37. Rh1 Kg8 38. hxg6 fxg6 39. e5 Rdd7 40. Rh4 g5 41. Rh5 Qg7
+42. Rdh1 Re6 43. c5 Bxe5 44. fxg5 Qg6 45. Qxg6+ Nxg6 46. gxh6
+Kh7 47. Bc1 dxc5 48. Rf1 Bb2 49. Nf4 Nxf4+ 50. Bxf4 Bd4
+51. Kf3 Rf7 52. Rh2 Re3+ 53. Kg4 Rc3 54. Re2 c4 55. bxc4 Rxc4
+56. Re4 c5 57. Rf3 Rc3 58. Rxc3 Bxc3 59. Kh5 Rf5+ 60. Kg4 Rf7
+61. Kg5 b5 62. g4 b4 63. Kh5 b3 64. g5 Rxf4 65. Rxf4 Kg8
+66. Kg6 Bh8 67. h7# 1-0

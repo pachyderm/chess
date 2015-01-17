@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.71"]
+[Result "0-1"]
+[White "Tito Kahn"]
+[Black "Juan Carlos Hernandez"]
+[ECO "A45"]
+[WhiteElo "2000"]
+[BlackElo "1964"]
+[PlyCount "124"]
+
+1. d4 Nf6 2. Bf4 e6 3. e3 d5 4. Nf3 Be7 5. h3 b6 6. Nbd2 Nbd7
+7. Bb5 a6 8. Bc6 Ra7 9. Ne5 O-O 10. O-O Nxe5 11. dxe5 Ne8
+12. Qg4 Bd7 13. Bxd7 Qxd7 14. Rfd1 f5 15. Qg3 Qb5 16. b3 Qe2
+17. Qf3 Qxf3 18. Nxf3 c5 19. c4 Nc7 20. a4 h6 21. h4 Rb7
+22. h5 Rfb8 23. Nd2 b5 24. axb5 axb5 25. Ra2 Kf8 26. Rda1 Ke8
+27. Kf1 Kd7 28. Bg3 bxc4 29. bxc4 Rb2 30. Ke1 R8b7 31. Kd1 Kc6
+32. Kc1 Rxa2 33. Rxa2 Rb4 34. cxd5+ exd5 35. Nb1 Rb7 36. Nc3
+Rb6 37. Ra7 Ra6 38. Rxa6+ Nxa6 39. f4 Nc7 40. Be1 Ne6 41. Ne2
+d4 42. exd4 cxd4 43. Bd2 Bh4 44. g3 Be7 45. g4 fxg4 46. f5 d3
+47. Nf4 Nxf4 48. Bxf4 Kd5 49. f6 gxf6 50. e6 Kxe6 51. Kd2 Bf8
+52. Kxd3 f5 53. Kc4 Bg7 54. Kc5 Bf8+ 55. Kc6 Bg7 56. Kc5 Be5
+57. Bxh6 f4 58. Bg5 Kf5 59. Bh4 g3 60. Kd5 Bg7 61. Be7 f3
+62. Bc5 f2 0-1

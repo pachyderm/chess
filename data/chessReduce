@@ -1,0 +1,1 @@
+{"type" : "reduce", "input" : "job/chessMap", "image" : "pachyderm/chess", "command" : ["/bin/reduce"]}

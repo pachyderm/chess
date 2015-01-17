@@ -1,0 +1,26 @@
+[Event "Bronstein Memorial"]
+[Site "Minsk BLR"]
+[Date "2014.02.16"]
+[EventDate "2014.02.11"]
+[Round "6.17"]
+[Result "0-1"]
+[White "Maksim Chigaev"]
+[Black "Sergey Fedorchuk"]
+[ECO "B83"]
+[WhiteElo "2510"]
+[BlackElo "2641"]
+[PlyCount "126"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. Be2 Nf6
+7. O-O Be7 8. Kh1 O-O 9. f4 Bd7 10. Bf3 Nxd4 11. Qxd4 Bc6
+12. Be3 Qc7 13. a4 b6 14. e5 dxe5 15. fxe5 Bxf3 16. Rxf3 Nd7
+17. Rh3 Rfd8 18. Qe4 Nf8 19. Rf1 Ng6 20. Qf3 Bf8 21. Nb5 Qe7
+22. Nd4 Qe8 23. Qh5 h6 24. Rhf3 Rd7 25. c3 Rc8 26. Ne2 Rc4
+27. Nf4 Nxf4 28. Bxf4 Rxa4 29. Rg3 Kh7 30. Qe2 g6 31. b3 Ra5
+32. c4 Bg7 33. h4 Qd8 34. b4 Ra1 35. Rxa1 Qxh4+ 36. Rh3 Qxf4
+37. Re1 Rc7 38. b5 Qxc4 39. Qxc4 Rxc4 40. Ra3 Rc7 41. g4 g5
+42. Kg2 Kg6 43. Re2 Rc5 44. Rxa7 Bxe5 45. Rd2 Rxb5 46. Rdd7 f5
+47. Re7 Rb2+ 48. Kf1 fxg4 49. Rxe6+ Kf5 50. Rxh6 g3 51. Rd7
+Bf4 52. Rd3 Ke4 53. Ra3 g2+ 54. Kg1 Be3+ 55. Rxe3+ Kxe3
+56. Re6+ Kd4 57. Rg6 b5 58. Rxg5 b4 59. Rg4+ Kc3 60. Rg3+ Kc4
+61. Rg4+ Kb5 62. Rg5+ Ka4 63. Rg8 Rc2 0-1

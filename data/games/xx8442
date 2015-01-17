@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.26"]
+[Result "0-1"]
+[White "Bator Sambuev"]
+[Black "Baskaran Adhiban"]
+[ECO "B23"]
+[WhiteElo "2528"]
+[BlackElo "2619"]
+[PlyCount "125"]
+
+1. e4 c5 2. Nc3 e6 3. f4 d5 4. Nf3 dxe4 5. Nxe4 Nd7 6. g3 Ngf6
+7. Nxf6+ Nxf6 8. Bg2 g6 9. d4 Bg7 10. dxc5 Qa5+ 11. c3 Qxc5
+12. Qd4 Qc7 13. Be3 O-O 14. Qc5 Qb8 15. Qe5 b6 16. Qxb8 Rxb8
+17. Ne5 Bb7 18. Bxb7 Rxb7 19. a4 Nd5 20. Bd2 Rc8 21. Ke2 a6
+22. Rhc1 Ne7 23. Nd3 Nc6 24. Be3 Na5 25. Rd1 Nc4 26. Bf2 h5
+27. Ra2 Rd8 28. b3 Na5 29. Nc1 Rc8 30. c4 Kf8 31. Rad2 Ke8
+32. Rd6 Nc6 33. Na2 Bf8 34. R6d2 Na5 35. Rd3 b5 36. cxb5 axb5
+37. Be1 Rc2+ 38. R1d2 Rxd2+ 39. Bxd2 Nc6 40. axb5 Rxb5 41. Kd1
+f6 42. b4 e5 43. fxe5 fxe5 44. Rc3 Kd7 45. Rc4 Rd5 46. Nc3 Rd3
+47. Ne4 Bxb4 48. Rxb4 Nxb4 49. Nc5+ Kc6 50. Nxd3 Nxd3 51. Ke2
+e4 52. h3 Kd5 53. Bc3 Ne5 54. Ba5 Nf3 55. Kf2 Ke5 56. Bd8 Kf5
+57. Ke3 Ne5 58. Bc7 g5 59. Kd4 Nc6+ 60. Ke3 g4 61. hxg4+ hxg4
+62. Bd6 Ne5 63. Bc7 0-1

@@ -1,0 +1,22 @@
+[Event "Stockfish Nakamura Match"]
+[Site "Burlingame, California"]
+[Date "2014.08.23"]
+[EventDate "?"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Hikaru Nakamura"]
+[Black "Stockfish (Computer)"]
+[ECO "000"]
+[WhiteElo "2785"]
+[BlackElo "?"]
+[PlyCount "63"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppppp1/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 e5 6. Ndb5
+d6 7. Nd5 Nxd5 8. exd5 Ne7 9. c4 Nf5 10. Bd3 Bd7 11. Bxf5 Bxf5
+12. Qa4 Bd7 13. Qb4 Qb8 14. Be3 a6 15. Nc3 b5 16. cxb5 Bxb5
+17. Nxb5 Qxb5 18. Qxb5+ axb5 19. Ke2 Kd7 20. b3 Be7 21. a4
+bxa4 22. Rxa4 Rhc8 23. Rha1 Rab8 24. Rc4 Rc7 25. Rxc7+ Kxc7
+26. Ra7+ Kd8 27. Bd2 Rxb3 28. Ba5+ Ke8 29. Ra8+ Kd7 30. Ra7+
+Ke8 31. Ra8+ Kd7 32. Ra7+ 1/2-1/2

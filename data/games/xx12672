@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.70"]
+[Result "0-1"]
+[White "Colin Pace"]
+[Black "Charles Sidney Eichab"]
+[ECO "C10"]
+[WhiteElo "2139"]
+[BlackElo "2048"]
+[PlyCount "58"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3
+Nd7 7. O-O Ngf6 8. Nxf6+ Qxf6 9. Be2 h6 10. c4 b6 11. Be3 Bd6
+12. c5 Be7 13. cxb6 axb6 14. Rc1 Bd5 15. Rxc7 Bd8 16. Rc1 Rxa2
+17. Ne5 Nxe5 18. dxe5 Qxe5 19. Bb5+ Ke7 20. Re1 Bc7 21. Bc5+
+bxc5 22. Rxe5 Bxe5 23. Rxc5 Rxb2 24. Qc1 Rb8 25. Bf1 Bd6
+26. Ra5 Rb1 27. Qc3 R8b7 28. Qc8 Rc7 29. Qa6 Bc4 0-1

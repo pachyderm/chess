@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.21"]
+[Result "0-1"]
+[White "Guillermo Vazquez"]
+[Black "Samuel Shankland"]
+[ECO "B12"]
+[WhiteElo "2323"]
+[BlackElo "2624"]
+[PlyCount "44"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Qxd4
+7. Nf3 Qg4 8. O-O Bxd3 9. Qxd3 e6 10. Nbd2 Be7 11. c4 Bxg5
+12. Nxg5 Ne7 13. Qb3 b6 14. cxd5 cxd5 15. Rac1 Nbc6 16. f4 Rc8
+17. Qd3 Nf5 18. Ndf3 O-O 19. Nh2 Qg3 20. Qd1 Nxe5 21. Rxc8
+Rxc8 22. fxe5 Qe3+ 0-1

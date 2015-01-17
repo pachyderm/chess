@@ -1,0 +1,20 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.05"]
+[EventDate "2014.03.04"]
+[Round "2.90"]
+[Result "0-1"]
+[White "Hrund Hauksdottir"]
+[Black "Carsten Aubert"]
+[ECO "C55"]
+[WhiteElo "1668"]
+[BlackElo "1997"]
+[PlyCount "66"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O d6 6. c3 O-O
+7. Nbd2 a6 8. Bb3 b5 9. Re1 Nd7 10. Nf1 Nc5 11. Bc2 f5 12. d4
+Nxe4 13. dxe5 dxe5 14. Bb3+ Kh8 15. Bd5 Qd6 16. Nxe5 Qxe5
+17. Bxc6 Rb8 18. Ng3 Bb7 19. Bxb7 Rxb7 20. Qf3 Bd6 21. Be3 c5
+22. Rad1 Rbf7 23. Bc1 c4 24. Re2 Bc5 25. Bf4 Qf6 26. Be3 Ng5
+27. Bxg5 Qxg5 28. Qc6 Ba7 29. Qxa6 f4 30. Ne4 Qg4 31. Kf1 f3
+32. gxf3 Qxf3 33. Qd6 Qh1# 0-1

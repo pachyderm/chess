@@ -1,0 +1,18 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.05"]
+[EventDate "2014.03.04"]
+[Round "2.113"]
+[Result "1-0"]
+[White "Gerd Meier"]
+[Black "Thorsteinn Magnusson"]
+[ECO "C02"]
+[WhiteElo "1901"]
+[BlackElo "1234"]
+[PlyCount "43"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bd3 Qb6 6. O-O cxd4
+7. Re1 Bc5 8. a3 a5 9. a4 Nge7 10. Bf4 Bd7 11. Na3 Qxb2
+12. Nb5 Bb6 13. Nd6+ Kf8 14. Rb1 Qa3 15. Rxb6 Qxa4 16. Rxb7
+Nb4 17. Nxd4 Bc6 18. Rb6 g6 19. Bh6+ Kg8 20. Nxc6 Nexc6
+21. Bb5 Qxc2 22. Qf3 1-0

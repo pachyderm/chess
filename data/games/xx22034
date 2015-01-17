@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.5"]
+[Result "1-0"]
+[White "Pavel Eljanov"]
+[Black "Marat Dzhumaev"]
+[ECO "E70"]
+[WhiteElo "2723"]
+[BlackElo "2510"]
+[PlyCount "67"]
+
+1. d4 g6 2. c4 Nf6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 c6 6. Bd3 d6
+7. O-O Nbd7 8. Re1 e5 9. d5 Nh5 10. Bg5 Bf6 11. Be3 c5 12. Rb1
+Be7 13. Qc2 Ng7 14. Bh6 Nf6 15. h3 Nfe8 16. b4 b6 17. bxc5
+bxc5 18. Qd2 f5 19. Bc2 Bd7 20. Ng5 Qc8 21. f4 exf4 22. Ne6
+Rf7 23. exf5 Nxf5 24. Bxf4 Nd4 25. Bh6 Nxc2 26. Qxc2 Rb8
+27. Ne4 Rxb1 28. Qxb1 Bxe6 29. dxe6 Rf5 30. Nc3 Re5 31. Nd5
+Qxe6 32. Rf1 Bf6 33. Nxf6+ Nxf6 34. Qb8+ 1-0

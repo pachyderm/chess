@@ -1,0 +1,29 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.05"]
+[EventDate "2014.03.04"]
+[Round "2.106"]
+[Result "0-1"]
+[White "Soley Lind Palsdottir"]
+[Black "Siguringi Sigurjonsson"]
+[ECO "B06"]
+[WhiteElo "1450"]
+[BlackElo "1948"]
+[PlyCount "154"]
+
+1. e4 d6 2. d4 g6 3. Nf3 Bg7 4. Bd3 Nd7 5. Be3 Ngf6 6. O-O e5
+7. c3 O-O 8. Nbd2 Re8 9. h3 c6 10. Re1 Nh5 11. Qc1 Nf8 12. Bc2
+Ne6 13. Nf1 Qf6 14. Ng3 Nhf4 15. Ne2 Nxh3+ 16. Kh2 Nhf4
+17. Nxf4 Nxf4 18. Bxf4 Qxf4+ 19. Qxf4 exf4 20. Rad1 Bg4
+21. Rd3 a5 22. a4 b5 23. Bd1 b4 24. cxb4 axb4 25. b3 Re7
+26. Nd2 Bxd1 27. Rxd1 d5 28. e5 f6 29. Rc1 Ra6 30. Nf3 fxe5
+31. dxe5 Bxe5 32. Nxe5 Rxe5 33. Rd4 Re4 34. Rxe4 dxe4 35. Rc4
+e3 36. fxe3 fxe3 37. Rxb4 e2 38. Re4 Rb6 39. Rxe2 Rxb3 40. Ra2
+Kf7 41. Rc2 Rb6 42. Kg3 Ke6 43. Kg4 Rb4+ 44. Kg5 Kd6 45. a5
+Ra4 46. Kh6 Rxa5 47. Kxh7 Rg5 48. Kh6 Rg3 49. Rd2+ Ke5 50. Rc2
+Kd5 51. Rd2+ Kc4 52. Rc2+ Kb5 53. Rb2+ Ka6 54. Rc2 Kb6
+55. Rb2+ Kc7 56. Rc2 Rg4 57. Kg7 Kd6 58. Rd2+ Ke6 59. Rc2 Kd5
+60. Rd2+ Rd4 61. Rxd4+ Kxd4 62. Kxg6 c5 63. g4 c4 64. g5 c3
+65. Kf7 c2 66. g6 c1=Q 67. g7 Qc4+ 68. Kf8 Qc8+ 69. Kf7 Qf5+
+70. Ke7 Qg6 71. Kf8 Qf6+ 72. Kg8 Ke5 73. Kh7 Qf7 74. Kh8 Qh5+
+75. Kg8 Kf6 76. Kf8 Qh6 77. Kg8 Qxg7# 0-1

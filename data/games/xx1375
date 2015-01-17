@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.20"]
+[Result "0-1"]
+[White "David Anton Guijarro"]
+[Black "Csaba Balogh"]
+[ECO "A07"]
+[WhiteElo "2624"]
+[BlackElo "2637"]
+[PlyCount "78"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 c6 4. d3 e6 5. Nbd2 Bd6 6. e4 Ne7
+7. O-O O-O 8. b3 a5 9. a3 c5 10. exd5 exd5 11. h3 Bh5 12. Re1
+Nbc6 13. Bb2 Re8 14. c4 Qd7 15. Qc1 d4 16. Ne4 Bxf3 17. Bxf3
+Ne5 18. Qd1 Nxf3+ 19. Qxf3 Nc6 20. Rad1 Bf8 21. g4 Ra6 22. Bc1
+Rb6 23. Bf4 Rxb3 24. Nd6 Re6 25. Nb5 Ne7 26. Nc7 Rf6 27. Qe4
+Rxf4 28. Qxf4 Ng6 29. Qg3 Bd6 30. Re8+ Nf8 31. Qh4 Bxc7
+32. Rde1 Rb6 33. Qe7 Qxe7 34. R1xe7 Bd6 35. Rd7 g5 36. Red8
+Bf4 37. Re7 Kg7 38. Ra8 Rb1+ 39. Kg2 Ng6 0-1

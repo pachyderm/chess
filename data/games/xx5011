@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.72"]
+[Result "1-0"]
+[White "Kendrick Knowles"]
+[Black "Roberto Cecchetti"]
+[ECO "A53"]
+[WhiteElo "1688"]
+[BlackElo "1933"]
+[PlyCount "93"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. d5 Be7 6. Bd3 c6
+7. Nge2 O-O 8. O-O Nc5 9. Bc2 a5 10. b3 Na6 11. a3 Bg4 12. Qd3
+Nc5 13. Qe3 Nh5 14. f3 Bd7 15. Bd2 Nf6 16. b4 axb4 17. axb4
+Na6 18. Na4 Be8 19. Nb6 Rb8 20. Ra3 Nc7 21. Rfa1 cxd5 22. exd5
+Nd7 23. Qd3 f5 24. Be3 Bg6 25. f4 Bf6 26. R1a2 Na6 27. Nxd7
+Qxd7 28. Qd2 Rfc8 29. Ba4 Qd8 30. Rc2 Bf7 31. Bb5 Ra8 32. Rca2
+Qc7 33. c5 dxc5 34. bxc5 Qd8 35. Bc4 Nc7 36. fxe5 Rxa3
+37. Rxa3 Bxe5 38. Qa2 Qh4 39. g3 Qf6 40. d6 Ne6 41. Ra8 Rxa8
+42. Qxa8+ Nf8 43. Bxf7+ Qxf7 44. Bg5 Qd5 45. Be7 Qxc5+ 46. Kf1
+Bxd6 47. Qxf8# 1-0

@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.3"]
+[Result "1-0"]
+[White "Kjetil A Lie"]
+[Black "Sabino Brunello"]
+[ECO "B48"]
+[WhiteElo "2528"]
+[BlackElo "2560"]
+[PlyCount "35"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6
+7. Qf3 Nf6 8. Nxc6 dxc6 9. Qg3 e5 10. Be2 Be6 11. f4 Qa5
+12. O-O-O exf4 13. Bxf4 Rc8 14. Rhe1 b5 15. e5 b4 16. exf6
+bxc3 17. Bc4 gxf6 18. Qg4 1-0

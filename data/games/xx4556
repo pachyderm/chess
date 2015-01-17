@@ -1,0 +1,28 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.64"]
+[Result "0-1"]
+[White "Roberto Cecchetti"]
+[Black "Antoine Kassis"]
+[ECO "A46"]
+[WhiteElo "1933"]
+[BlackElo "2157"]
+[PlyCount "144"]
+
+1. d4 Nf6 2. Nf3 c5 3. e3 g6 4. c3 b6 5. Qb3 Bg7 6. Be2 O-O
+7. O-O d6 8. a4 a6 9. Na3 Nbd7 10. Rd1 Qc7 11. Bd2 Bb7
+12. Rac1 Ne4 13. Be1 Rfc8 14. Bc4 e6 15. Qc2 d5 16. Bf1 Qd6
+17. Qb1 c4 18. Nd2 Nxd2 19. Bxd2 Nf6 20. f3 Qd7 21. b3 Bf8
+22. Nc2 Bc6 23. bxc4 Bxa4 24. cxd5 Qxd5 25. c4 Qd8 26. Re1 b5
+27. Qa2 Qd7 28. Bc3 bxc4 29. e4 Bb3 30. Qa1 Qa4 31. Ne3 Qxa1
+32. Rxa1 Bg7 33. Ra5 Nd7 34. Rea1 Nb8 35. f4 Nc6 36. Rxa6 Rxa6
+37. Rxa6 Nxd4 38. Kf2 Nb5 39. Bd2 Bd4 40. Kf3 c3 41. Bc1 Bxe3
+42. Kxe3 Bc4 43. Bxc4 Rxc4 44. Kd3 Rd4+ 45. Kc2 Rxe4 46. Rb6
+Re2+ 47. Kd3 Re1 48. Rxb5 Rxc1 49. Rg5 Kg7 50. Rg3 Rf1
+51. Kxc3 Rxf4 52. Kd3 Ra4 53. Ke2 Ra2+ 54. Ke1 h5 55. Kf1 h4
+56. Re3 g5 57. Re5 Kf6 58. Re3 e5 59. Rc3 g4 60. h3 gxh3
+61. Rf3+ Kg5 62. Rxh3 f5 63. Rc3 e4 64. Rc8 e3 65. Rg8+ Kf4
+66. Rh8 Kg3 67. Rg8+ Kh2 68. g3 Rf2+ 69. Ke1 hxg3 70. Rh8+ Kg2
+71. Rg8 f4 72. Rg6 f3 0-1

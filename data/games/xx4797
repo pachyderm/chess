@@ -1,0 +1,29 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.67"]
+[Result "0-1"]
+[White "John Kojo Hasford"]
+[Black "Sergio Huguet"]
+[ECO "A48"]
+[WhiteElo "2055"]
+[BlackElo "2055"]
+[PlyCount "154"]
+
+1. d4 Nf6 2. Nf3 g6 3. b3 Bg7 4. Bb2 O-O 5. e3 d6 6. Be2 c5
+7. d5 e6 8. c4 exd5 9. cxd5 b5 10. O-O a6 11. a4 b4 12. Bc4
+Re8 13. Nbd2 Bb7 14. Nb1 Nbd7 15. a5 Ne4 16. Qc2 Bxb2 17. Qxb2
+Qf6 18. Ra2 Qf5 19. Ne1 Bxd5 20. Bxd5 Qxd5 21. f3 Nef6 22. e4
+Qe5 23. Nd3 Qxb2 24. Rxb2 d5 25. e5 Nxe5 26. Nxc5 Rec8 27. Na4
+Rc6 28. Rd2 Ned7 29. Rd4 Rb8 30. Rf4 Rb5 31. g4 g5 32. Rf5 h6
+33. Nd2 Rxa5 34. Ne4 Rb5 35. Nxg5 hxg5 36. Rxg5+ Kf8 37. Rf5
+d4 38. Rf4 d3 39. Rd1 Rd5 40. Rxb4 Rc2 41. Rc4 Ne5 42. Rf4
+Nfd7 43. h4 d2 44. Kf1 Nd3 45. Rc4 Rc1 46. Nc3 Rxc3 47. Rxc3
+Nb2 48. Rc8+ Kg7 49. Ke2 Nxd1 50. Kxd1 Ne5 51. Rc3 Kf6 52. Re3
+Rd3 53. Rxd3 Nxd3 54. Kxd2 Ne5 55. Ke3 Nc6 56. Kd3 Ke5 57. Kc4
+Kf4 58. Kc5 Ne5 59. Kb6 Nxf3 60. h5 Kxg4 61. h6 Ng5 62. Kxa6
+f5 63. b4 f4 64. b5 f3 65. b6 f2 66. b7 f1=Q+ 67. Kb6 Qb1+
+68. Kc7 Qc2+ 69. Kd7 Qd3+ 70. Kc7 Qc4+ 71. Kb6 Qb4+ 72. Kc6
+Kh5 73. h7 Nxh7 74. Kc7 Qc5+ 75. Kd8 Qb6+ 76. Kc8 Qc6+ 77. Kb8
+Nf8 0-1

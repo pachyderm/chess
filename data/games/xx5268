@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.21"]
+[Result "0-1"]
+[White "Nicolas Lopez Azambuja"]
+[Black "Milos Perunovic"]
+[ECO "A58"]
+[WhiteElo "2255"]
+[BlackElo "2602"]
+[PlyCount "50"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bg7
+7. e4 O-O 8. Nf3 Qa5 9. Bd2 Bxa6 10. Be2 Bxe2 11. Qxe2 d6
+12. a4 Qb4 13. O-O Nbd7 14. b3 c4 15. bxc4 Rfc8 16. Rfe1 Rxc4
+17. Rab1 Qc5 18. Rb3 Rc8 19. h3 Nh5 20. Nb5 Rxa4 21. Rc1 Ng3
+22. Qd3 Qxc1+ 23. Bxc1 Rxc1+ 24. Kh2 Nf1+ 25. Kg1 Nc5 0-1

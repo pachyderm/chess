@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.81"]
+[Result "0-1"]
+[White "Roberto Hernandez"]
+[Black "Godfrey Kabera"]
+[ECO "A03"]
+[WhiteElo "1845"]
+[BlackElo "1909"]
+[PlyCount "82"]
+
+1. f4 d5 2. Nf3 c5 3. e3 Bg4 4. d4 e6 5. Bb5+ Nd7 6. O-O Bxf3
+7. Qxf3 f5 8. c4 Nf6 9. Nc3 a6 10. Bxd7+ Qxd7 11. b3 Be7
+12. dxc5 dxc4 13. Na4 Rd8 14. Ba3 Qc6 15. Qxc6+ bxc6 16. bxc4
+Rd3 17. Bb2 Rxe3 18. Be5 Ra3 19. Rab1 Kf7 20. Nc3 Ng4 21. Bd4
+Rd8 22. Ne2 Rxa2 23. Nc3 Rc2 24. Nd5 exd5 25. h3 Rxc4 26. hxg4
+Rxd4 27. Rb7 fxg4 28. Re1 Re4 29. Ra1 g3 30. Kf1 Re8 31. Rxa6
+Kg6 32. Rxc6+ Bf6 33. Rb1 Rxf4+ 34. Kg1 Kg5 35. Rxf6 gxf6
+36. c6 Rfe4 37. Kf1 Rc4 38. Rd1 d4 39. c7 d3 40. c8=Q Rcxc8
+41. Ra1 d2 0-1

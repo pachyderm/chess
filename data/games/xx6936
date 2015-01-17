@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.27"]
+[Result "1-0"]
+[White "Hrvoje Stevic"]
+[Black "Samy Shoker"]
+[ECO "B08"]
+[WhiteElo "2606"]
+[BlackElo "2487"]
+[PlyCount "67"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O Bg4
+7. Be3 Nc6 8. d5 Bxf3 9. Bxf3 Ne5 10. Be2 c6 11. f4 Ned7
+12. dxc6 bxc6 13. Qe1 Rb8 14. b3 Qc7 15. Rd1 Rfe8 16. Bf3 e5
+17. Qd2 exf4 18. Bxf4 Ne5 19. Bxe5 dxe5 20. Na4 Bf8 21. Qe3
+Rbd8 22. c3 Kg7 23. g3 Qe7 24. Rc1 Rd7 25. Rc2 Red8 26. Rcf2
+h5 27. b4 Qe6 28. Nc5 Bxc5 29. Qxc5 h4 30. Qe3 hxg3 31. hxg3
+Rh8 32. Qg5 Qh3 33. Qxe5 Re8 34. Qxf6+ 1-0

@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.29"]
+[Result "0-1"]
+[White "Roderick M McKay"]
+[Black "Athanasios Mastrovasilis"]
+[ECO "B46"]
+[WhiteElo "2349"]
+[BlackElo "2526"]
+[PlyCount "54"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. g3 d6
+7. Bg2 Bd7 8. O-O Rc8 9. Nxc6 Bxc6 10. f4 Nf6 11. a4 h5 12. a5
+d5 13. exd5 Bc5+ 14. Kh1 exd5 15. Qe1+ Kf8 16. Na4 d4 17. Qe2
+h4 18. g4 Bb5 19. Qd1 Bxf1 20. Bxf1 Ne4 21. Qf3 Qd5 22. Bg2 h3
+23. Qxe4 hxg2+ 24. Qxg2 Qxg2+ 25. Kxg2 Bb4 26. c3 Bxa5 27. Bd2
+Re8 0-1

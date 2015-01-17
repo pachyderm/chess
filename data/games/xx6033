@@ -1,0 +1,21 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.04"]
+[EventDate "2014.03.04"]
+[Round "1.120"]
+[Result "0-1"]
+[White "Sindri Snaer Kristofersson"]
+[Black "Stefan Bergsson"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "2099"]
+[PlyCount "72"]
+
+1. e4 d5 2. Nc3 d4 3. Na4 e5 4. Bc4 Nf6 5. d3 c6 6. Nf3 Bd6
+7. Bb3 b5 8. O-O bxa4 9. Bxa4 O-O 10. Bg5 Bg4 11. h3 Bh5
+12. Re1 h6 13. Bh4 c5 14. b3 Nbd7 15. Bc6 Rc8 16. Bxd7 Qxd7
+17. Rc1 g5 18. Bg3 Rfe8 19. c3 Bb8 20. Qd2 Bxf3 21. gxf3 Qxh3
+22. cxd4 exd4 23. Bxb8 Rxb8 24. Rxc5 Nh5 25. Rf5 Nf4 26. Rxf4
+gxf4 27. Qxf4 Rb6 28. Qg3+ Rg6 29. Qxg6+ fxg6 30. f4 Qxd3
+31. Kg2 g5 32. fxg5 hxg5 33. f3 Qd2+ 34. Kf1 Rc8 35. e5 Rc2
+36. e6 Qf2# 0-1

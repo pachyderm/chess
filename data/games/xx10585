@@ -1,0 +1,27 @@
+[Event "Najdorf Mem Open A"]
+[Site "Warsaw POL"]
+[Date "2014.07.17"]
+[EventDate "?"]
+[Round "5"]
+[Result "0-1"]
+[White "Janez Barle"]
+[Black "Aleksandar Indjic"]
+[ECO "B51"]
+[WhiteElo "2345"]
+[BlackElo "2542"]
+[PlyCount "134"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 Nf6 5. O-O a6 6. Bxd7+
+Nxd7 7. Nc3 e6 8. Bg5 Qc7 9. Re1 cxd4 10. Nxd4 Qc5 11. Be3 Qc4
+12. Qd2 Nf6 13. Rad1 Be7 14. Qd3 Qxd3 15. cxd3 Bd7 16. a4 O-O
+17. h3 Rfc8 18. f4 Bd8 19. Nb3 b5 20. axb5 axb5 21. e5 b4
+22. Ne4 dxe5 23. fxe5 Nd5 24. Bd4 Ba4 25. Nec5 Rxc5 26. Nxc5
+Bxd1 27. Rxd1 Bb6 28. Nb3 Ra2 29. Rd2 Bxd4+ 30. Nxd4 Ra1+
+31. Kf2 h6 32. Rc2 Rb1 33. Nb3 Nf4 34. Ke3 g5 35. d4 Kg7
+36. Nc5 Rd1 37. Ke4 Kg6 38. b3 Re1+ 39. Kf3 Nd5 40. Rd2 Re3+
+41. Kf2 Rc3 42. Kg1 h5 43. Kf2 h4 44. Kg1 Nf4 45. Kf2 Kf5
+46. Kg1 Rg3 47. Kf1 Rc3 48. Kf2 Rc1 49. Na6 Nd5 50. Nc5 Rc3
+51. Re2 Rc1 52. Rd2 Rb1 53. Ke2 g4 54. hxg4+ Kxg4 55. Kf2 Nf4
+56. Ra2 Rd1 57. Ke3 Nd5+ 58. Kf2 Rxd4 59. Ra7 Rd2+ 60. Kg1 Ne3
+61. Rxf7 Rd1+ 62. Kh2 Nf1+ 63. Rxf1 Rxf1 64. Nxe6 Re1 65. Nc5
+Rxe5 66. Nd3 Rb5 67. Kg1 Kg3 0-1

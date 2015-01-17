@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.20"]
+[Result "0-1"]
+[White "Firman Syah Farid"]
+[Black "Manuel Leon Hoyos"]
+[ECO "A49"]
+[WhiteElo "2400"]
+[BlackElo "2517"]
+[PlyCount "102"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O c5 6. d5 d6
+7. c4 e6 8. Nc3 exd5 9. cxd5 Re8 10. Bf4 Na6 11. Re1 Bg4
+12. h3 Bxf3 13. Bxf3 Nc7 14. e4 Bf8 15. Qb3 b5 16. a4 bxa4
+17. Qxa4 Nd7 18. e5 dxe5 19. d6 Ne6 20. Bxa8 exf4 21. Bc6 fxg3
+22. fxg3 Nd4 23. Bxd7 Rxe1+ 24. Rxe1 Nf3+ 25. Kf2 Nxe1
+26. Kxe1 Bxd6 27. Ne4 Qe7 28. Kd1 Bxg3 29. Qc6 Be5 30. Kc2 Bd4
+31. Qd5 a5 32. Bb5 Kg7 33. Bc4 f5 34. Nd6 Kf6 35. h4 a4
+36. Bb5 Qe6 37. Ne8+ Ke7 38. Qb7+ Kf8 39. Qf3 Qe5 40. Qg2 c4
+41. Bxa4 Bxb2 42. Qd2 Ba3 43. Qc3 Qe2+ 44. Qd2 Qe4+ 45. Kc3
+Qxh4 46. Bb5 Be7 47. Qd4 Qh3+ 48. Kxc4 Qf1+ 49. Qd3 Qe1
+50. Qc3 Qe6+ 51. Kd3 Qe4+ 0-1

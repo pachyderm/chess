@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.52"]
+[Result "0-1"]
+[White "Antoine Goorsahye"]
+[Black "Martin Martinez Romero"]
+[ECO "B50"]
+[WhiteElo "1760"]
+[BlackElo "2387"]
+[PlyCount "76"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. Bb5+ Bd7 5. Bxd7+ Nbxd7 6. d4
+cxd4 7. Nxd4 g6 8. Be3 Bg7 9. f3 O-O 10. Qd2 Ne5 11. b3 Rc8
+12. O-O a6 13. a4 Qa5 14. Nd5 Qxd2 15. Nxe7+ Kh8 16. Bxd2 Rc7
+17. Nd5 Nxd5 18. exd5 Nc4 19. bxc4 Bxd4+ 20. Kh1 Bxa1 21. Rxa1
+Rxc4 22. c3 Re8 23. Bg5 Kg7 24. h4 h6 25. Bd2 Re2 26. Be1 f5
+27. Kg1 Kf6 28. Kf1 Rc2 29. a5 Rc5 30. Bf2 Rxd5 31. Bd4+ Ke6
+32. Kg1 Rb5 33. Re1+ Kd7 34. Ra1 Rbb2 35. c4 Rxg2+ 36. Kf1
+Rbc2 37. Be3 Rh2 38. Kg1 Rxh4 0-1

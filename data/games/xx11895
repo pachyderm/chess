@@ -1,0 +1,29 @@
+[Event "FIDE World Rapid Championship"]
+[Site "Dubai UAE"]
+[Date "2014.06.17"]
+[EventDate "2014.06.16"]
+[Round "6.1"]
+[Result "0-1"]
+[White "Ian Nepomniachtchi"]
+[Black "Fabiano Caruana"]
+[ECO "C00"]
+[WhiteElo "2730"]
+[BlackElo "2791"]
+[PlyCount "156"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. g3 dxe4 5. dxe4 e5 6. Ngf3 Bc5
+7. Bg2 Qe7 8. O-O O-O 9. b3 Nc6 10. Bb2 a5 11. a4 Rd8 12. Qe2
+b6 13. Nc4 Ba6 14. Rad1 Rxd1 15. Rxd1 Qe6 16. h3 h6 17. Bf1
+Re8 18. Kg2 Bb7 19. c3 Ne7 20. Ncd2 Rd8 21. Re1 Ng6 22. Kh2
+Nh5 23. Nc4 Nf6 24. Nfd2 h5 25. Bg2 Ba6 26. Bc1 h4 27. Qf3 Nh7
+28. Re2 Qe7 29. Nf1 Bxc4 30. bxc4 Rd1 31. Be3 Nf6 32. Bg5 Qe6
+33. Rd2 Rxd2 34. Nxd2 hxg3+ 35. fxg3 Nh7 36. Be3 Qd7 37. Bxc5
+bxc5 38. Qe3 Nf6 39. Nf3 Qd6 40. Ne1 Nf8 41. Nd3 Ne6 42. Qe2
+Nd7 43. h4 Nb6 44. Nb2 Nf8 45. Bh3 Nh7 46. Bg2 Nf6 47. Bf3 Qd7
+48. Qc2 Ne8 49. Be2 Nd6 50. Bd3 Kf8 51. Kg2 Ke7 52. Kh2 f6
+53. Be2 Kd8 54. Bd3 Kc8 55. Bf1 Kb8 56. Bd3 g6 57. Qf2 Nxa4
+58. Nxa4 Qxa4 59. Qxc5 Qa2+ 60. Kh3 Qa1 61. Qd5 Qh1+ 62. Kg4
+Qd1+ 63. Kh3 f5 64. exf5 gxf5 65. c5 e4 66. Bxe4 Qg4+ 67. Kh2
+Nxe4 68. Qd3 Nxc5 69. Qb5+ Nb7 70. Qe8+ Ka7 71. h5 f4 72. gxf4
+Qxf4+ 73. Kh3 Nd6 74. Qg6 Nf5 75. Qg4 Qxg4+ 76. Kxg4 Nh6+
+77. Kg5 a4 78. Kxh6 a3 0-1

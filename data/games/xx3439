@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.40"]
+[Result "0-1"]
+[White "Christopher Holland"]
+[Black "Markus Ragger"]
+[ECO "A37"]
+[WhiteElo "2270"]
+[BlackElo "2644"]
+[PlyCount "42"]
+
+1. c4 g6 2. Nc3 c5 3. Nf3 Bg7 4. g3 Nc6 5. Bg2 d6 6. O-O Bf5
+7. e4 Bg4 8. h3 Bxf3 9. Qxf3 e6 10. d3 Nge7 11. Bg5 O-O
+12. Bxe7 Qxe7 13. Qe2 Rab8 14. Qd2 a6 15. Rae1 b5 16. f4 Nd4
+17. f5 Be5 18. b3 gxf5 19. exf5 Nxf5 20. Nd5 Qd8 21. Be4 Ng7
+0-1

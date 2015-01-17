@@ -1,0 +1,27 @@
+[Event "Zurich Chess Challenge"]
+[Site "Zurich SUI"]
+[Date "2014.02.03"]
+[EventDate "2014.01.30"]
+[Round "5.2"]
+[Result "1-0"]
+[White "Fabiano Caruana"]
+[Black "Levon Aronian"]
+[ECO "C89"]
+[WhiteElo "2782"]
+[BlackElo "2812"]
+[PlyCount "131"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 O-O 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+12. d3 Bd6 13. Re1 Bf5 14. Qf3 Qh4 15. g3 Qh3 16. Be3 Bxd3
+17. Nd2 Qf5 18. Bd4 Rfe8 19. a4 h6 20. Kg2 Kf8 21. Rxe8+ Rxe8
+22. axb5 axb5 23. Qxf5 Bxf5 24. Bxd5 cxd5 25. Ra6 Be7 26. Nf1
+b4 27. Ne3 Bd3 28. Ra5 bxc3 29. bxc3 Bd8 30. Ra8 f6 31. f3 Be7
+32. Ra7 Bd6 33. Rd7 Ba3 34. Rxd5 Kg8 35. h4 Bc1 36. Ng4 Bc4
+37. Rc5 Be6 38. Nf2 Ra8 39. g4 Ra2 40. Kg3 Ra6 41. Rc7 Bd2
+42. Ne4 Be1+ 43. Bf2 Bxf2+ 44. Kxf2 Ra2+ 45. Kg3 Rc2 46. Kf4
+Ra2 47. h5 Ra5 48. Nc5 Bd5 49. Rc8+ Kf7 50. c4 Ba8 51. Rc7+
+Kg8 52. Ne6 Ra3 53. Rxg7+ Kh8 54. Kf5 Bxf3 55. Rg6 Be2
+56. Rxh6+ Kg8 57. Rg6+ Kh8 58. Rxf6 Rf3+ 59. Nf4 Bxc4 60. Kg5
+Kg8 61. Kh6 Ra3 62. g5 Ra7 63. g6 Rc7 64. Nh3 Rc8 65. Ng5 Rd8
+66. Nh7 1-0

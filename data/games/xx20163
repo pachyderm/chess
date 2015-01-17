@@ -1,0 +1,22 @@
+[Event "Bundesliga"]
+[Site "Hockenheim GER"]
+[Date "2014.03.15"]
+[EventDate "2013.10.12"]
+[Round "11"]
+[Result "1-0"]
+[White "Matthias Bluebaum"]
+[Black "Hannes Rau"]
+[ECO "E11"]
+[WhiteElo "2510"]
+[BlackElo "2458"]
+[PlyCount "87"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. a3 Bxd2+ 6. Qxd2
+Bb7 7. g3 O-O 8. Bg2 d6 9. O-O Nbd7 10. b4 a5 11. Bb2 Be4
+12. b5 a4 13. Bh3 d5 14. Ne5 dxc4 15. Nxc4 Bd5 16. Qc2 Ne4
+17. Ne3 Ndf6 18. Rac1 Ng5 19. Bg2 Bxg2 20. Kxg2 Nd5 21. Nxd5
+exd5 22. h4 Ne4 23. Qxc7 Nd2 24. Rfd1 Nc4 25. Rxc4 dxc4
+26. Qxc4 Rc8 27. Qd3 Qd5+ 28. e4 Qc4 29. d5 Qxd3 30. Rxd3 Rc5
+31. Bc3 Rd8 32. Bb4 Rxb5 33. Rd4 f6 34. Rc4 Rd7 35. Kf1 Kf7
+36. Ke2 Ra7 37. Kd3 f5 38. f3 fxe4+ 39. fxe4 Rd7 40. Kc3 Kg6
+41. Rc6+ Kf7 42. Kc4 Rxb4+ 43. Kxb4 Re7 44. Re6 1-0

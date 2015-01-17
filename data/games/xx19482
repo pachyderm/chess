@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.28"]
+[Result "1-0"]
+[White "Akira Watanabe"]
+[Black "Peter Schreiner"]
+[ECO "D86"]
+[WhiteElo "2252"]
+[BlackElo "2460"]
+[PlyCount "49"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Bc4 c5 8. Ne2 Nc6 9. Be3 O-O 10. O-O Bg4 11. f3 Bd7
+12. Rb1 Qc7 13. Bd3 Rad8 14. Bf4 Qc8 15. Rc1 b5 16. Qd2 c4
+17. Bc2 b4 18. cxb4 c3 19. Nxc3 Bxd4+ 20. Kh1 Be6 21. Nd5 Bb2
+22. Ba4 Bxc1 23. Rxc1 Qa6 24. Bxc6 Kh8 25. Bh6 1-0

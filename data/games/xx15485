@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.6"]
+[Result "1-0"]
+[White "Judit Polgar"]
+[Black "Yamine Seddaoui"]
+[ECO "C80"]
+[WhiteElo "2676"]
+[BlackElo "2105"]
+[PlyCount "57"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. Bb3 d5 8. dxe5 Be6 9. Be3 Be7 10. Nbd2 O-O 11. c3 Qd7
+12. Re1 Rad8 13. Bc2 Bf5 14. Nb3 Bg6 15. Nbd4 Nxd4 16. Nxd4
+Nc5 17. b4 Ne6 18. f4 c5 19. bxc5 Bxc2 20. Qxc2 Nxc5 21. f5
+Ne4 22. Qe2 Bc5 23. e6 fxe6 24. Nxe6 Bxe3+ 25. Qxe3 Rxf5
+26. Nxd8 Qxd8 27. Rf1 Qf6 28. Rxf5 Qxf5 29. Qd4 1-0

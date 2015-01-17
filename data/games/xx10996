@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.42"]
+[Result "0-1"]
+[White "Renato Frick"]
+[Black "Vladimir Klasan"]
+[ECO "B63"]
+[WhiteElo "2057"]
+[BlackElo "2365"]
+[PlyCount "44"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6
+7. Qd2 Be7 8. O-O-O O-O 9. h4 h6 10. Nxc6 bxc6 11. Bf4 e5
+12. Be3 Ng4 13. g3 Be6 14. Kb1 Nxe3 15. Qxe3 Qa5 16. Bh3 Rab8
+17. Ka1 d5 18. exd5 cxd5 19. Qe1 Rxb2 20. Rb1 Rxb1+ 21. Nxb1
+Qxe1 22. Rxe1 Bxh3 0-1

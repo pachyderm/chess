@@ -1,0 +1,23 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.05"]
+[EventDate "2014.03.04"]
+[Round "2.72"]
+[Result "0-1"]
+[White "Gunnar Runarsson"]
+[Black "Vignir Vatnar Stefansson"]
+[ECO "D01"]
+[WhiteElo "2048"]
+[BlackElo "1844"]
+[PlyCount "90"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Nbd7 5. e3 h6 6. Bh4 c6
+7. Bd3 Bxd3 8. Qxd3 e5 9. Nge2 Be7 10. O-O O-O 11. e4 exd4
+12. Nxd4 Ne5 13. Qe2 dxe4 14. Nb3 Qc7 15. Bxf6 exf3 16. Qxe5
+Qb6+ 17. Rf2 Bxf6 18. Qc5 Qxc5 19. Nxc5 Bd4 20. Nb3 Bxf2+
+21. Kxf2 fxg2 22. Kxg2 Rad8 23. Rd1 b6 24. Kf3 g5 25. Re1 c5
+26. Re2 f5 27. a4 Rd7 28. a5 Rfd8 29. axb6 axb6 30. Re6 c4
+31. Nc1 Rd6 32. Re2 Rd2 33. b3 R2d4 34. Nb5 Rf4+ 35. Kg2 Rd1
+36. Na2 Rg4+ 37. Kf2 Rh1 38. Kf3 Rh4 39. bxc4 Rh3+ 40. Kf2 f4
+41. Re6 R1xh2+ 42. Kg1 f3 43. Re8+ Kh7 44. Re7+ Kg6 45. Re6+
+Kh5 0-1

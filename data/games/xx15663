@@ -1,0 +1,28 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.20"]
+[Result "0-1"]
+[White "Sergei Zhigalko"]
+[Black "Susanto Megaranto"]
+[ECO "C92"]
+[WhiteElo "2678"]
+[BlackElo "2527"]
+[PlyCount "144"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5
+7. Bb3 d6 8. c3 O-O 9. h3 Nd7 10. d4 Bf6 11. a4 Rb8 12. axb5
+axb5 13. Be3 Nb6 14. d5 Ne7 15. Na3 Bd7 16. Nc2 Na4 17. Bxa4
+bxa4 18. Nb4 Qc8 19. Nd2 Bh4 20. Nf3 Ng6 21. Nc6 Bxc6 22. dxc6
+Rxb2 23. Qxa4 h6 24. c4 f5 25. c5 f4 26. Bd2 Qe6 27. cxd6 Qxd6
+28. Ra2 Rfb8 29. Qc4+ Kh7 30. Rxb2 Rxb2 31. Qd5 Rc2 32. Rc1
+Rxc1+ 33. Bxc1 Qb4 34. Bd2 Qb1+ 35. Be1 Bf6 36. Kf1 Qc2
+37. Bb4 Qb1+ 38. Be1 Ne7 39. Qc4 Qb6 40. Bc3 Qxc6 41. Qxc6
+Nxc6 42. Ke2 Kg8 43. Kd3 Kf7 44. Kc4 Ke6 45. Kb5 Nd8 46. Bb2
+h5 47. Nd2 g5 48. f3 Be7 49. Nc4 Nf7 50. Kc6 Bd6 51. Bc3 Nh8
+52. Be1 Ng6 53. Bf2 Ne7+ 54. Kb5 Ng8 55. Kc6 Ne7+ 56. Kb5 Kd7
+57. Be1 Ng8 58. Bc3 Ke6 59. Kc6 g4 60. hxg4 hxg4 61. fxg4 Nf6
+62. Nd2 Nxg4 63. Nc4 Ne3 64. Nxe3 fxe3 65. Kb5 Kf6 66. Kc4 Kg5
+67. Kd3 Kf4 68. g3+ Kf3 69. g4 e2 70. g5 Kf2 71. Kc4 c6 72. g6
+Bf8 0-1

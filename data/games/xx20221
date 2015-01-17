@@ -1,0 +1,20 @@
+[Event "Riga Technical University Open"]
+[Site "Riga LAT"]
+[Date "2014.08.18"]
+[EventDate "2014.08.16"]
+[Round "3.15"]
+[Result "1-0"]
+[White "Alexei Gavrilov"]
+[Black "Stavros Fidrilakis"]
+[ECO "E11"]
+[WhiteElo "2505"]
+[BlackElo "1641"]
+[PlyCount "67"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. g3 d5 6. Qb3 Nc6
+7. Bg2 dxc4 8. Qxc4 Qd5 9. Qxd5 exd5 10. O-O Ne4 11. Bf4 Kd8
+12. Rc1 f6 13. a3 Bd6 14. Nc3 Bxf4 15. gxf4 Be6 16. e3 a4
+17. Nxe4 dxe4 18. Nd2 f5 19. Rc5 Na5 20. Rac1 c6 21. Re5 Kd7
+22. Bh3 g6 23. Nxe4 Bd5 24. Nf6+ Kd6 25. Nxd5 cxd5 26. Rc5 Nc6
+27. Rexd5+ Ke6 28. Bf1 Ne7 29. Re5+ Kd7 30. Rb5 Nc6 31. Rxb7+
+Kd6 32. Bg2 Rac8 33. Rd5+ Ke6 34. Rbd7 1-0

@@ -1,0 +1,20 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.07"]
+[EventDate "2014.03.04"]
+[Round "5.123"]
+[Result "1-0"]
+[White "Felix Steinthorsson"]
+[Black "Thorsteinn Magnusson"]
+[ECO "D52"]
+[WhiteElo "1530"]
+[BlackElo "1234"]
+[PlyCount "67"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. e3 Qa5
+7. Nd2 Bb4 8. Qc2 O-O 9. Be2 Bxc3 10. bxc3 b6 11. O-O Ba6
+12. a4 Bxc4 13. Bxc4 dxc4 14. Bxf6 Nxf6 15. Nxc4 Qh5 16. Nd2
+Rfd8 17. c4 c5 18. Nb3 cxd4 19. exd4 Rac8 20. Rac1 Qh4 21. Qa2
+Ne4 22. f3 Nd6 23. c5 bxc5 24. dxc5 Ne8 25. Rfe1 Qb4 26. Re4
+Qb7 27. Rec4 Rd3 28. Nd2 Qd5 29. R4c2 Qxa2 30. Rxa2 Nd6
+31. Kf2 Nf5 32. Ne4 Rd7 33. Rb2 g6 34. Nf6+ 1-0

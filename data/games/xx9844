@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.66"]
+[Result "1-0"]
+[White "Jo-Kai Liao"]
+[Black "Joslin Bazil"]
+[ECO "B43"]
+[WhiteElo "1606"]
+[BlackElo "1911"]
+[PlyCount "39"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Bc5 6. Nb3 Bb6
+7. Bf4 Qf6 8. Qd2 Nc6 9. Bd3 h6 10. h3 Ne5 11. Bxe5 Qxe5
+12. O-O-O g5 13. g3 Bc7 14. Rhf1 b5 15. f4 Qg7 16. e5 f5
+17. Be2 Ne7 18. Bh5+ Kf8 19. Nc5 b4 20. Nxe6+ 1-0

@@ -1,0 +1,20 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.11"]
+[EventDate "2014.03.04"]
+[Round "9.123"]
+[Result "1-0"]
+[White "Bjorgvin Kristbergsson"]
+[Black "Johann Arnar Finnsson"]
+[ECO "A00"]
+[WhiteElo "1175"]
+[BlackElo "1471"]
+[PlyCount "65"]
+
+1. c3 g6 2. g3 Bg7 3. b3 d6 4. Bg2 Nf6 5. h3 O-O 6. Bb2 c6
+7. Nf3 Bf5 8. d3 d5 9. g4 Bd7 10. O-O Re8 11. Nbd2 Qc7 12. c4
+e6 13. Be5 Qd8 14. Nh2 Bc8 15. Bxb8 Rxb8 16. Rb1 h5 17. g5 Nd7
+18. f4 Qa5 19. Qc2 Qb6+ 20. Kh1 Qe3 21. Rbe1 Qb6 22. Rf3 Qb4
+23. Rd1 dxc4 24. dxc4 Nb6 25. Ne4 e5 26. Nf6+ Bxf6 27. gxf6
+Bf5 28. e4 Bc8 29. f5 gxf5 30. Qc1 f4 31. Rg3+ fxg3 32. Qg5+
+Kh7 33. Qg7# 1-0

@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.5"]
+[Result "1-0"]
+[White "Gabriel Sargissian"]
+[Black "Ryosuke Nanjo"]
+[ECO "D30"]
+[WhiteElo "2686"]
+[BlackElo "2344"]
+[PlyCount "73"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. e3 Nf6 5. Bd3 Nbd7 6. b3 Bb4+
+7. Nbd2 Bc3 8. Rb1 e5 9. Qc2 Qa5 10. cxd5 Nxd5 11. O-O exd4
+12. exd4 Nf8 13. Nc4 Qc7 14. Ne3 Nxe3 15. Bxe3 Ba5 16. b4 Bb6
+17. b5 Ne6 18. bxc6 bxc6 19. Rfc1 Bd7 20. Qa4 O-O 21. d5 Bxe3
+22. fxe3 Nd8 23. Qh4 h6 24. Qe4 g6 25. Qe5 Qc8 26. Qf4 Kg7
+27. Ne5 c5 28. Nxd7 Qxd7 29. Rxc5 Kh7 30. Rbc1 a6 31. Rc7 Qe8
+32. h4 h5 33. Qg5 Kg8 34. Re7 f6 35. Qxg6+ Qxg6 36. Bxg6 f5
+37. Rcc7 1-0

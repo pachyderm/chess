@@ -1,0 +1,16 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.06"]
+[EventDate "2014.03.04"]
+[Round "4.62"]
+[Result "1-0"]
+[White "Magnus Teitsson"]
+[Black "Emil Sigurdarson"]
+[ECO "B12"]
+[WhiteElo "2207"]
+[BlackElo "1867"]
+[PlyCount "25"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 h5 6. O-O c5
+7. c4 Nc6 8. cxd5 Qxd5 9. Nc3 Qd8 10. Be3 cxd4 11. Nxd4 Nxd4
+12. Bxd4 Nh6 13. Bb5+ 1-0

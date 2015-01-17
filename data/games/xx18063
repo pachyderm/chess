@@ -1,0 +1,16 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.11"]
+[EventDate "2014.03.04"]
+[Round "9.124"]
+[Result "1-0"]
+[White "Erlingur Atli Palmarsson"]
+[Black "Bjarki Arnaldarson"]
+[ECO "D35"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "29"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. e3 Be7 5. Bd3 b6 6. Nge2 O-O
+7. Nf4 Bb7 8. cxd5 exd5 9. Qc2 g6 10. Nce2 Nbd7 11. Ng3 h5
+12. Bxg6 fxg6 13. Qxg6+ Kh8 14. Ne6 Qc8 15. Qg7# 1-0

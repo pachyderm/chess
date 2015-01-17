@@ -1,0 +1,28 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.16"]
+[Result "0-1"]
+[White "Daniel Ebeling"]
+[Black "Jahongir Vakhidov"]
+[ECO "B06"]
+[WhiteElo "2445"]
+[BlackElo "2471"]
+[PlyCount "142"]
+
+1. e4 g6 2. d4 Nf6 3. e5 Nh5 4. Be2 d6 5. f4 Ng7 6. Nf3 h5
+7. O-O Nf5 8. Na3 Bh6 9. c3 O-O 10. Bd3 c5 11. dxc5 dxc5
+12. Qe2 Nc6 13. Nc4 b6 14. Be4 Qc7 15. Ne3 e6 16. Bxf5 exf5
+17. Nd5 Qb7 18. Nf6+ Kg7 19. Qf2 Be6 20. Qg3 Kh8 21. Ng5 Qe7
+22. Qh4 Kg7 23. Rf3 Rh8 24. Rg3 Bxg5 25. Qxg5 Kf8 26. Rd3 Rd8
+27. Rxd8+ Qxd8 28. Be3 Qd3 29. Qg3 Kg7 30. a3 Ne7 31. Bf2 Qxg3
+32. Bxg3 Rd8 33. b4 c4 34. Ra2 Rd1+ 35. Kf2 Rc1 36. Rd2 Rxc3
+37. Rd8 Rc2+ 38. Ke3 g5 39. fxg5 h4 40. Bxh4 f4+ 41. Ke4 Rxg2
+42. Re8 Rxh2 43. Nh5+ Kh7 44. Rxe7 Rxh4 45. Nxf4 Kg8 46. g6
+Kf8 47. Rxa7 fxg6 48. Ke3 Bf5 49. e6 c3 50. e7+ Kf7 51. Ra8
+Kxe7 52. Nd5+ Kd6 53. Nxc3 Kc6 54. Rf8 Rh3+ 55. Kd4 Rd3+
+56. Kc4 Rd6 57. b5+ Kd7 58. Rf7+ Ke8 59. Rc7 Be6+ 60. Nd5 Rxd5
+61. Kb4 g5 62. Rc6 Rxb5+ 63. Kxb5 Bd7 64. Kxb6 Bxc6 65. Kxc6
+g4 66. a4 g3 67. a5 g2 68. a6 g1=Q 69. Kb7 Kd7 70. a7 Qb1+
+71. Ka8 Qc2 0-1

@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.42"]
+[Result "0-1"]
+[White "Fabian Ferster"]
+[Black "Yehuda Gruenfeld"]
+[ECO "B43"]
+[WhiteElo "2137"]
+[BlackElo "2448"]
+[PlyCount "50"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 b5 6. Be2 Bb7
+7. Bf3 Qc7 8. O-O Nc6 9. Re1 Ne5 10. Bf4 d6 11. Bh5 g6 12. Be2
+Nf6 13. Bg5 Ned7 14. Bd3 Be7 15. Bh6 b4 16. Na4 d5 17. exd5
+Nxd5 18. c4 bxc3 19. bxc3 Bd6 20. Rb1 Bxh2+ 21. Kh1 Be5 22. c4
+N5f6 23. Nf3 Ng4 24. Qd2 Bxf3 25. gxf3 Bc3 0-1

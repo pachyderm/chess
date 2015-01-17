@@ -1,0 +1,20 @@
+[Event "Casino Graz"]
+[Site "Graz AUT"]
+[Date "2014.02.16"]
+[EventDate "2014.02.14"]
+[Round "3.24"]
+[Result "0-1"]
+[White "Kiaras Pretterhofer"]
+[Black "Marco Stagl"]
+[ECO "E06"]
+[WhiteElo "2005"]
+[BlackElo "2155"]
+[PlyCount "60"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. c4 Be7 5. d4 O-O 6. Qc2 c6
+7. Nbd2 b5 8. b3 Na6 9. a3 Bb7 10. Bb2 bxc4 11. bxc4 c5
+12. O-O dxc4 13. dxc5 Nxc5 14. Ng5 Bxg2 15. Bxf6 g6 16. Nxf7
+Rxf7 17. Bxe7 Qd5 18. Rfd1 Rxe7 19. Nf3 Bxf3 20. Rxd5 Bxd5
+21. f3 Nb3 22. Rb1 e5 23. Kf2 e4 24. f4 e3+ 25. Ke1 Nd2
+26. Rb5 Rd8 27. Qc3 Bc6 28. Re5 Rb7 29. Rxe3 Rb1+ 30. Kf2 Rf1#
+0-1

@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.83"]
+[Result "1-0"]
+[White "Diego Caceres"]
+[Black "Jowie Angiki"]
+[ECO "D00"]
+[WhiteElo "2128"]
+[BlackElo "?"]
+[PlyCount "69"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 a6 4. Bd3 e6 5. Nf3 Be7 6. Nbd2 Nc6
+7. c3 O-O 8. Ne5 Nxe5 9. dxe5 Ne4 10. Nxe4 dxe4 11. Bxe4 Qxd1+
+12. Rxd1 c6 13. Ke2 f5 14. exf6 Bxf6 15. Bd6 Rd8 16. f4 g6
+17. h4 Kg7 18. g4 Rd7 19. g5 Be7 20. Be5+ Kf7 21. h5 Rxd1
+22. hxg6+ hxg6 23. Rh7+ Ke8 24. Bxg6+ Kd7 25. Kxd1 c5 26. Bf6
+Kc6 27. Be4+ Kb5 28. Rxe7 e5 29. f5 a5 30. g6 Ra6 31. Bxe5
+Bxf5 32. Bxf5 Ra8 33. Rxb7+ Ka6 34. Rb8 Rxb8 35. Bxb8 1-0

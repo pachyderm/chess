@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.13"]
+[Result "0-1"]
+[White "Toms Kantans"]
+[Black "Gilberto Milos"]
+[ECO "A10"]
+[WhiteElo "2496"]
+[BlackElo "2583"]
+[PlyCount "40"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 e5 4. Bg2 d6 5. d3 f5 6. e4 Nc6
+7. Nge2 Nf6 8. O-O O-O 9. exf5 Bxf5 10. d4 Nxd4 11. Nxd4 exd4
+12. Qxd4 c6 13. Qd1 Ng4 14. Qb3 Bd3 15. Re1 Rxf2 16. Be3 Qf8
+17. c5+ d5 18. Bxd5+ cxd5 19. Qxd5+ Kh8 20. Qxd3 Qf3 0-1

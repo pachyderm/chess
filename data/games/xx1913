@@ -1,0 +1,27 @@
+[Event "Zurich Chess Challenge"]
+[Site "Zurich SUI"]
+[Date "2014.01.30"]
+[EventDate "2014.01.29"]
+[Round "1"]
+[Result "1-0"]
+[White "Levon Aronian"]
+[Black "Viswanathan Anand"]
+[ECO "A13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "145"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 dxc4 5.Qa4+ Nbd7 6.Qxc4 a6
+7.Qb3 Rb8 8.O-O b5 9.a4 Bb7 10.axb5 axb5 11.d3 Be7 12.Bf4 Nd5
+13.Bd2 O-O 14.Rc1 c5 15.Ba5 Qe8 16.Nbd2 N5f6 17.Rab1 Bd5
+18.Qd1 Ra8 19.b4 Ra6 20.e4 Bc6 21.Nb3 cxb4 22.Qd2 Bxe4 23.dxe4
+Nxe4 24.Qc2 Nc3 25.Ra1 Nf6 26.Ne5 Nfd5 27.Nd3 Rc6 28.Bxd5 exd5
+29.Re1 Rc4 30.f3 Qd7 31.Qf2 Bd6 32.Bb6 Qf5 33.Qe3 h5 34.Bd4
+Rc7 35.Ra7 Rxa7 36.Bxa7 Ra8 37.Bc5 d4 38.Nxd4 Bxc5 39.Nxf5
+Bxe3+ 40.Nxe3 b3 41.Nd1 Rc8 42.Nxc3 Rxc3 43.Rd1 b2 44.Nxb2
+Rxf3 45.Rd8+ Kh7 46.Rd5 Rb3 47.Nd3 g6 48.Rd7 Kg7 49.Kf2 Ra3
+50.Ke3 Ra2 51.h4 Kf6 52.Rb7 Ra5 53.Nc5 Ra3+ 54.Kf4 Ra1 55.Ne4+
+Kg7 56.Nd6 Rf1+ 57.Ke3 Kf8 58.Rxb5 Ke7 59.Ne4 Re1+ 60.Kf4 Kf8
+61.Rb8+ Kg7 62.Rb7 Rf1+ 63.Ke3 Kf8 64.Nd6 Rf6 65.Rb8+ Ke7
+66.Ne4 Rf1 67.Ke2 Rf5 68.Rc8 Re5 69.Kf3 Rf5+ 70.Kg2 Re5 71.Ng5
+Re2+ 72.Kh3 Rf2 73.Rc4 1-0

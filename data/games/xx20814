@@ -1,0 +1,25 @@
+[Event "Zurich Chess Challenge"]
+[Site "Zurich SUI"]
+[Date "2014.02.01"]
+[EventDate "2014.01.29"]
+[Round "3"]
+[Result "0-1"]
+[White "Hikaru Nakamura"]
+[Black "Magnus Carlsen"]
+[ECO "E20"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "122"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 d5 5.a3 Be7 6.e4 dxe4 7.fxe4
+e5 8.d5 Bc5 9.Bg5 O-O 10.Nf3 Bg4 11.h3 Bxf3 12.Qxf3 Nbd7
+13.O-O-O Bd4 14.Ne2 c5 15.g4 a5 16.Kb1 Ra6 17.Ng3 g6 18.h4 a4
+19.Rh2 Qa5 20.Bd2 Qc7 21.g5 Ne8 22.h5 Rb6 23.Bc1 Rb3 24.Qg4
+Nb6 25.Be2 Nd6 26.Rdh1 Bxb2 27.Bxb2 Nbxc4 28.Bxc4 Nxc4 29.hxg6
+Qb6 30.g7 Rd8 31.Qh4 Rxb2+ 32.Ka1 Rxh2 33.Rxh2 Qg6 34.Nf5 Re8
+35.Qg4 Qb6 36.Qh3 Qg6 37.d6 Nxd6 38.Nxd6 Rd8 39.Nc4 Qxe4
+40.Qh5 Rd3 41.Rh4 Qf5 42.Qe2 b5 43.Nd2 Qxg5 44.Qxd3 Qxh4
+45.Ne4 Kxg7 46.Qf3 Qf4 47.Qg2+ Kf8 48.Kb2 h5 49.Nd2 h4 50.Kc2
+b4 51.axb4 cxb4 52.Qa8+ Kg7 53.Qxa4 h3 54.Qb3 h2 55.Qd5 e4
+56.Qh5 e3 57.Nf3 e2 58.Kb3 f6 59.Ne1 Qg3+ 60.Ka4 Qg1 61.Qxe2
+Qa7+ 0-1

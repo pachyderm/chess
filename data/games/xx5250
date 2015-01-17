@@ -1,0 +1,22 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.31"]
+[Result "1-0"]
+[White "Markus Ragger"]
+[Black "Viktor Bologan"]
+[ECO "A58"]
+[WhiteElo "2644"]
+[BlackElo "2654"]
+[PlyCount "79"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bg7
+7. e4 O-O 8. Nf3 Qa5 9. Bd2 Bxa6 10. Be2 d6 11. O-O Bxe2
+12. Qxe2 Qa6 13. Rfe1 Nbd7 14. Nb5 Nxe4 15. Qxe4 Qxb5 16. Qxe7
+Nb6 17. Qxd6 Nc4 18. Qc6 Qxc6 19. dxc6 Bxb2 20. Rab1 Rfc8
+21. Bf4 Rxc6 22. Re4 Bd4 23. Rc1 Na5 24. Nxd4 cxd4 25. Rxd4 f6
+26. h4 Rxc1+ 27. Bxc1 Nc6 28. Rd6 Ne5 29. a3 Rb8 30. Bf4 Ra8
+31. Rxf6 Ng4 32. Rd6 Rxa3 33. Kf1 Ra1+ 34. Ke2 Ra2+ 35. Kf3
+Nxf2 36. Be3 Ng4 37. Kxg4 Rxg2+ 38. Kf4 Ra2 39. Rd8+ Kf7
+40. Rd7+ 1-0

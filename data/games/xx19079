@@ -1,0 +1,20 @@
+[Event "Casino Graz"]
+[Site "Graz AUT"]
+[Date "2014.02.17"]
+[EventDate "2014.02.14"]
+[Round "5.14"]
+[Result "1-0"]
+[White "Georg Danner"]
+[Black "Wolfgang Scholzen"]
+[ECO "D61"]
+[WhiteElo "2336"]
+[BlackElo "2127"]
+[PlyCount "67"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 Be7 5. e3 O-O 6. Nc3 Nbd7
+7. Qc2 c6 8. Rc1 Re8 9. Bd3 dxc4 10. Bxc4 Nd5 11. Bxe7 Qxe7
+12. Ne4 e5 13. Ng3 exd4 14. Bxd5 Qb4+ 15. Kf1 cxd5 16. Nxd4
+Nf6 17. a3 Qb6 18. Qb3 Qxb3 19. Nxb3 Bd7 20. Nd4 Ne4 21. Ke2
+Rac8 22. f3 Nd6 23. b3 a5 24. Nh5 a4 25. Nf4 axb3 26. Rxc8
+Rxc8 27. Rb1 Nb5 28. Rxb3 Nxd4+ 29. exd4 Bc6 30. Nd3 f6
+31. Nc5 Ra8 32. Kd2 Kf7 33. Nxb7 Ra4 34. Nd8+ 1-0

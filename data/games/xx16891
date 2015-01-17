@@ -1,0 +1,26 @@
+[Event "Sinquefield Cup"]
+[Site "Saint Louis USA"]
+[Date "2014.08.31"]
+[EventDate "2014.08.27"]
+[Round "5"]
+[Result "0-1"]
+[White "Hikaru Nakamura"]
+[Black "Fabiano Caruana"]
+[ECO "D11"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "134"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nbd2 Bf5 5.Nh4 Be4 6.f3 Bg6 7.e3
+e6 8.g3 Be7 9.a3 Nbd7 10.cxd5 cxd5 11.Nxg6 hxg6 12.Bd3 e5
+13.O-O O-O 14.Qb3 Qc8 15.Nb1 exd4 16.exd4 Nb8 17.Nc3 Nc6
+18.Be3 Qd7 19.Rad1 Rfd8 20.Rfe1 Ne8 21.Bf2 Nc7 22.Bf1 Bf6
+23.Qa2 g5 24.b4 g6 25.Qd2 Kg7 26.b5 Ne7 27.Be3 Ne6 28.Bh3 Nf5
+29.Bxf5 gxf5 30.f4 g4 31.Qd3 Rac8 32.Rc1 Rc4 33.Ne2 Nc7 34.Nc3
+Rc8 35.h3 gxh3 36.Kh2 Nxb5 37.Nxb5 Qxb5 38.Kxh3 Qd7 39.Kg2 b5
+40.Rb1 a6 41.Rbc1 Qe6 42.Bf2 Rxc1 43.Rxe6 fxe6 44.g4 fxg4
+45.Qe2 Kf7 46.Qd3 R1c2 47.Qh7+ Ke8 48.f5 Bxd4 49.Qg6+ Kd8
+50.Qxe6 Rxf2+ 51.Kg3 Rc3+ 52.Kxg4 Rg2+ 53.Kf4 Rf2+ 54.Kg4 Kc7
+55.Qe7+ Kb6 56.Qd8+ Rc7 57.Qxd5 Bc5 58.Qd8 Kb7 59.f6 Bxa3
+60.Qd5+ Kb6 61.Qd8 Bc5 62.Qb8+ Rb7 63.Qd8+ Ka7 64.Qd5 Bb6
+65.Kg5 Rc7 66.Kg6 b4 67.Qe6 Bd4 0-1

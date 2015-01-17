@@ -1,0 +1,17 @@
+[Event "Chess Olympiad (Women)"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.54"]
+[Result "1-0"]
+[White "Aleksandra Milovic"]
+[Black "Elza Hoareau"]
+[ECO "A00"]
+[WhiteElo "2170"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1. Nc3 e5 2. Nf3 Nc6 3. d4 f6 4. e4 d6 5. Bc4 Bg4 6. Bxg8 Rxg8
+7. d5 Ne7 8. h3 Bh5 9. g4 Bg6 10. Be3 a6 11. Nh4 Bf7 12. Qd2
+Qd7 13. a4 O-O-O 14. b4 h6 15. b5 a5 16. b6 c5 17. Nb5 Kb8
+18. Qxa5 Nc8 19. Na7 Nxa7 20. Qxa7+ Kc8 21. Qa8# 1-0

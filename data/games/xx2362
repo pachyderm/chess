@@ -1,0 +1,30 @@
+[Event "Bundesliga"]
+[Site "Bochum GER"]
+[Date "2014.03.16"]
+[EventDate "2013.10.12"]
+[Round "12"]
+[Result "0-1"]
+[White "Andreas Breier"]
+[Black "Thomas Thiel"]
+[ECO "A15"]
+[WhiteElo "2387"]
+[BlackElo "2296"]
+[PlyCount "166"]
+
+1. Nf3 Nf6 2. c4 c6 3. g3 d5 4. Bg2 Bg4 5. Qb3 Qb6 6. Qxb6
+axb6 7. cxd5 Nxd5 8. O-O Nd7 9. b3 Nb4 10. Nc3 g6 11. a3 Bg7
+12. Bb2 Nc2 13. Rac1 Bxf3 14. Rxc2 Bxg2 15. Kxg2 O-O 16. b4 b5
+17. Bc1 f5 18. d3 Rfd8 19. Nb1 Nb6 20. Nd2 e5 21. Nb3 Bf8
+22. h4 e4 23. dxe4 fxe4 24. Nc5 Bxc5 25. Rxc5 Nc4 26. h5 Rd5
+27. Rxd5 cxd5 28. hxg6 hxg6 29. f3 exf3+ 30. Rxf3 Re8 31. Kf2
+Ne5 32. Rf4 Rc8 33. Bb2 Nc4 34. Bf6 Nxa3 35. Rd4 Rf8 36. Rf4
+Nc2 37. g4 Nxb4 38. g5 Nc6 39. Rh4 b4 40. Rh8+ Kf7 41. Rh7+
+Ke6 42. Rxb7 Rb8 43. Rg7 b3 44. Bb2 Ne5 45. Ke1 Nc4 46. Rxg6+
+Kf5 47. Rf6+ Kxg5 48. Bd4 b2 49. Bxb2 Rxb2 50. Rf8 d4 51. Rd8
+Ne3 52. Kf2 Nf5 53. Kf3 Rb3+ 54. Kf2 Kf4 55. Ke1 Rb2 56. Kf2
+Ra2 57. Ke1 Ra5 58. Kf2 Ke4 59. Re8+ Re5 60. Rg8 Ne3 61. Ke1
+Nd5 62. Kd2 Nf4 63. Rd8 Re7 64. Rf8 Ne6 65. Ra8 Rb7 66. Ke1
+Rb2 67. Kd1 Nc7 68. Rh8 Nd5 69. Re8+ Kf5 70. Kc1 Ra2 71. Kd1
+Nc3+ 72. Ke1 Rc2 73. Rf8+ Ke4 74. Re8+ Kf4 75. Rf8+ Ke3
+76. Rf3+ Ke4 77. Rf2 Rc1+ 78. Kd2 Rd1+ 79. Kc2 Ke3 80. Rf8
+Rd2+ 81. Kb3 Nxe2 82. Kc4 Rc2+ 83. Kd5 d3 0-1

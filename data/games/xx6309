@@ -1,0 +1,18 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.05"]
+[EventDate "2014.03.04"]
+[Round "2.105"]
+[Result "1-0"]
+[White "Jonathan Farine"]
+[Black "Johann Arnar Finnsson"]
+[ECO "B06"]
+[WhiteElo "1953"]
+[BlackElo "1471"]
+[PlyCount "47"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Bc4 Nf6 5. Qe2 O-O 6. O-O c6
+7. Bb3 b5 8. a4 b4 9. Re1 a5 10. Bg5 h6 11. Bh4 Ba6 12. Qe3
+Nh7 13. h3 g5 14. Bg3 Nd7 15. Nbd2 c5 16. c3 Rc8 17. cxb4 cxb4
+18. Rad1 Qb6 19. e5 Rfe8 20. e6 Ndf6 21. exf7+ Kf8 22. fxe8=Q+
+Rxe8 23. Qe6 Qxd4 24. Qf7# 1-0

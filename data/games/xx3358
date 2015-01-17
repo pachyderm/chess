@@ -1,0 +1,16 @@
+[Event "Cappelle-la-Grande"]
+[Site "Cappelle-la-Grande FRA"]
+[Date "2014.03.03"]
+[EventDate "2014.03.01"]
+[Round "3.46"]
+[Result "0-1"]
+[White "Yannis Aubry"]
+[Black "Vereslav Eingorn"]
+[ECO "A36"]
+[WhiteElo "2231"]
+[BlackElo "2556"]
+[PlyCount "24"]
+
+1. c4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nc6 5. e3 e5 6. Nge2 Nge7
+7. d4 cxd4 8. exd4 exd4 9. Nb5 d5 10. Bf4 O-O 11. Nc7 g5
+12. Nxa8 gxf4 0-1

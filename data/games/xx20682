@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.13"]
+[Result "1-0"]
+[White "Maxim Rodshtein"]
+[Black "Andrey Zhigalko"]
+[ECO "E16"]
+[WhiteElo "2671"]
+[BlackElo "2580"]
+[PlyCount "65"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2
+Bxd2+ 7. Qxd2 O-O 8. O-O d6 9. Qf4 Nbd7 10. Nc3 Re8 11. Rfe1
+a6 12. e4 e5 13. Qd2 exd4 14. Nxd4 Nc5 15. f3 g6 16. Rad1 a5
+17. b3 h5 18. a3 Kh7 19. b4 axb4 20. axb4 Ncd7 21. f4 Ra3
+22. Ncb5 Ra4 23. Nf3 Kg8 24. e5 Ne4 25. Qc2 Rxb4 26. Rxe4 Bxe4
+27. Qxe4 Nc5 28. Qc6 Re7 29. exd6 cxd6 30. Ne5 Nb7 31. Bd5 Kg7
+32. Bxf7 Na5 33. Qe4 1-0

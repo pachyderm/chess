@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.28"]
+[Result "1-0"]
+[White "Guillermo Vazquez"]
+[Black "Joshua D Ruiz C"]
+[ECO "B51"]
+[WhiteElo "2323"]
+[BlackElo "2382"]
+[PlyCount "69"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O Nf6 5. Re1 a6 6. Bd3 g6
+7. c3 Ne5 8. Nxe5 dxe5 9. Bc2 Bg7 10. d3 O-O 11. a4 b6 12. Na3
+Ne8 13. Be3 Qc7 14. b4 cxb4 15. cxb4 Be6 16. Bb3 Bxb3 17. Qxb3
+Nd6 18. Rec1 Qb7 19. b5 Rfc8 20. h3 h5 21. Rxc8+ Nxc8 22. Rc1
+Nd6 23. Nc4 axb5 24. axb5 Nc8 25. Nd2 Na7 26. Ra1 Rd8 27. Nc4
+Nc8 28. Ra6 Qd7 29. Nxb6 Nxb6 30. Rxb6 Qxd3 31. Qxd3 Rxd3
+32. Rb7 Rb3 33. b6 f5 34. Rc7 f4 35. Bc5 1-0

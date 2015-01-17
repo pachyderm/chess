@@ -1,0 +1,23 @@
+[Event "Bundesliga"]
+[Site "Viernheim GER"]
+[Date "2014.02.22"]
+[EventDate "2013.10.12"]
+[Round "9"]
+[Result "0-1"]
+[White "Ivan Farago"]
+[Black "Ralf Appel"]
+[ECO "A55"]
+[WhiteElo "2484"]
+[BlackElo "2535"]
+[PlyCount "94"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. e4 Be7 6. Be2 O-O
+7. O-O c6 8. Be3 a6 9. d5 c5 10. Ne1 Ne8 11. Qd2 Nc7 12. a4 h6
+13. a5 Bg5 14. Na4 Rb8 15. Nd3 Bxe3 16. Qxe3 Ne8 17. b4 cxb4
+18. c5 dxc5 19. Naxc5 Nd6 20. Rfb1 Nxc5 21. Nxc5 Bd7 22. Nxd7
+Qxd7 23. Rxb4 Rbc8 24. h3 Rc7 25. Rb6 Rd8 26. Rb4 Qe7 27. Rab1
+Rdc8 28. Bg4 Rc3 29. Qe1 R8c5 30. Kh2 g6 31. R4b3 Rc2 32. R3b2
+R2c4 33. Bf3 Qg5 34. g3 h5 35. Rb6 Qf6 36. R1b3 h4 37. Bg2
+hxg3+ 38. fxg3 Rc2 39. Qe3 Rxa5 40. Rb2 Ra2 41. Rxa2 Rxa2
+42. Kg1 Nc4 43. Rxf6 Nxe3 44. Bf3 Nc4 45. Bg4 Kg7 46. Rf3 b5
+47. Bd7 b4 0-1

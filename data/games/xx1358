@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.31"]
+[Result "0-1"]
+[White "Robert Zerafa"]
+[Black "Mircea-Emilian Parligras"]
+[ECO "A07"]
+[WhiteElo "2084"]
+[BlackElo "2574"]
+[PlyCount "64"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bg4 5. d4 Nbd7 6. b3 e6
+7. Bb2 Be7 8. c4 O-O 9. Nbd2 a5 10. Re1 a4 11. e4 dxe4
+12. Nxe4 Bb4 13. Nxf6+ Qxf6 14. Re3 a3 15. Bc3 Bxc3 16. Rxc3
+Rfd8 17. h3 Bh5 18. g4 Bg6 19. Qe1 c5 20. Rd1 cxd4 21. Nxd4
+Nc5 22. Nb5 Nd3 23. Qe2 Nf4 24. Rxd8+ Rxd8 25. Qf3 Rd2 26. Kh2
+h5 27. Re3 hxg4 28. hxg4 Rxa2 29. b4 Qh4+ 30. Kg1 Ra1+ 31. Bf1
+a2 32. Ra3 Bd3 0-1

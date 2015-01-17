@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.56"]
+[Result "1-0"]
+[White "Ibrahim Chahrour"]
+[Black "Yimam Abera Belachew"]
+[ECO "C44"]
+[WhiteElo "2170"]
+[BlackElo "2194"]
+[PlyCount "113"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Be7 5. c3 d6 6. Qb3 Ne5
+7. Nxe5 dxe5 8. Bxf7+ Kf8 9. cxd4 Qxd4 10. Nc3 Nf6 11. Be3 Qb4
+12. O-O-O a5 13. f3 Bd7 14. g4 h6 15. h4 Be8 16. Be6 Qxb3
+17. axb3 Bf7 18. Bxf7 Kxf7 19. Rhg1 c6 20. g5 hxg5 21. hxg5
+Ne8 22. Na4 Rh3 23. Nb6 Rd8 24. Nc4 Rxd1+ 25. Kxd1 Ke6 26. Ke2
+Rh2+ 27. Kd3 Bb4 28. Ra1 Nd6 29. Nxd6 Kxd6 30. Rb1 c5 31. f4
+b5 32. f5 Rh3 33. Rd1 Ke7 34. Ke2 Rh2+ 35. Bf2 c4 36. Rd5 cxb3
+37. Rxe5+ Kd6 38. Rxb5 Kc6 39. Rb6+ Kc7 40. Rb5 Kc6 41. Rb6+
+Kd7 42. Rxb4 axb4 43. Kf3 Ke8 44. Bd4 Kf8 45. g6 Rc2 46. Kf4
+Rc8 47. Ke5 Rc2 48. Kd5 Kg8 49. e5 Rc8 50. f6 Kh8 51. Bc5 Rb8
+52. Kc4 Re8 53. f7 Rf8 54. e6 Rc8 55. f8=Q+ Rxf8 56. Bxf8 Kg8
+57. e7 1-0

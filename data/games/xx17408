@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.16"]
+[Result "1-0"]
+[White "Hannes Stefansson"]
+[Black "Dragan Solak"]
+[ECO "D17"]
+[WhiteElo "2536"]
+[BlackElo "2632"]
+[PlyCount "117"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bf5 6. Nh4 Be6
+7. e4 Na6 8. Nf3 Nb4 9. Be3 g6 10. Ne5 Bg7 11. Bxc4 Bxc4
+12. Nxc4 a5 13. O-O O-O 14. h3 Ne8 15. d5 cxd5 16. Nb6 Ra6
+17. Ncxd5 Nxd5 18. Nxd5 Nd6 19. Qb3 Qd7 20. Rad1 Rc6 21. Bg5
+Re8 22. e5 Bxe5 23. Rfe1 e6 24. Rxe5 exd5 25. Qxd5 Rxe5
+26. Qxe5 Qf5 27. Bf4 Qxe5 28. Bxe5 Ne8 29. Rd8 Kf8 30. Rb8 Ke7
+31. Rxb7+ Ke6 32. Bg3 Nd6 33. Bxd6 Rxd6 34. g4 Rd5 35. Kg2 h5
+36. Kg3 hxg4 37. hxg4 Rd4 38. b3 g5 39. f3 Rd2 40. Ra7 Rd5
+41. Kf2 Rc5 42. Rb7 Rc3 43. Rb5 f6 44. Rxa5 Rxb3 45. Rf5 Rd3
+46. a5 Rd6 47. Ke3 Rd1 48. Ke4 Rd2 49. Rb5 Rd1 50. Rb6+ Kf7
+51. a6 Rd2 52. Rb7+ Ke6 53. a7 Ra2 54. Kd4 Kd6 55. Kc4 Ke5
+56. Kb4 Kd6 57. Rh7 Ke5 58. Kb5 Kf4 59. Rf7 1-0

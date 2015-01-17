@@ -1,0 +1,29 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.8"]
+[Result "0-1"]
+[White "Dritan Mehmeti"]
+[Black "Yangyi Yu"]
+[ECO "D00"]
+[WhiteElo "2416"]
+[BlackElo "2668"]
+[PlyCount "154"]
+
+1. d4 d5 2. Bg5 f6 3. Bh4 Nh6 4. e3 Nf5 5. Bd3 Nxh4 6. Qh5+ g6
+7. Qxh4 Bg7 8. c4 Nc6 9. cxd5 Nb4 10. Be4 f5 11. a3 Nxd5
+12. Bf3 O-O 13. Ne2 e5 14. Qxd8 Rxd8 15. Bxd5+ Rxd5 16. Nbc3
+Rd8 17. O-O-O Be6 18. dxe5 Bxe5 19. Rxd8+ Rxd8 20. Rd1 Rxd1+
+21. Kxd1 Bc4 22. f4 Bg7 23. Kc2 Bf8 24. Nd4 c6 25. e4 Bf1
+26. exf5 Bxg2 27. fxg6 hxg6 28. Kd3 Bd6 29. Ke3 Bh3 30. Ne4
+Be7 31. Ng5 Bg4 32. Ndf3 Kg7 33. Ne4 Kh6 34. Ne5 Be6 35. Kf3
+Kg7 36. Ke3 Kh6 37. Kf3 a5 38. Ke3 Bd5 39. Kd4 b6 40. Nd7 b5
+41. Ndf6 Be6 42. Ke5 Bb3 43. f5 gxf5 44. Kxf5 c5 45. Ke5 b4
+46. axb4 cxb4 47. Nd2 Ba2 48. b3 Kg5 49. Nd5 Bf8 50. Kd4 Kh4
+51. Kc4 Kh3 52. Nf3 Kg2 53. Nd4 Kxh2 54. Nc6 a4 55. Ncxb4
+Bxb3+ 56. Kc3 Bg7+ 57. Kd2 a3 58. Nc3 Kg2 59. Nba2 Kf1 60. Kd3
+Bh6 61. Nb4 Kf2 62. Nba2 Kf3 63. Kd4 Bc2 64. Nb5 Bb3 65. Nbc3
+Bg7+ 66. Kd3 Bf7 67. Nb4 Bg6+ 68. Kc4 Bf7+ 69. Kd3 Kf2
+70. Nba2 Ke1 71. Kc2 Bf8 72. Nc1 Bg6+ 73. Kb3 Kd2 74. N1a2
+Bf7+ 75. Ka4 Kc2 76. Ne2 Bxa2 77. Nd4+ Kb2 0-1

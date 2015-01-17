@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.18"]
+[Result "1-0"]
+[White "Alexey Shirov"]
+[Black "Anuar Ismagambetov"]
+[ECO "E10"]
+[WhiteElo "2709"]
+[BlackElo "2531"]
+[PlyCount "65"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6
+7. Bf4 a6 8. e4 b5 9. Bd3 Bg7 10. h3 O-O 11. O-O Nh5 12. Bh2
+Qb6 13. a4 c4 14. Be2 Bb7 15. Nd2 Nf6 16. b3 Ne8 17. Rc1 Nd7
+18. axb5 axb5 19. bxc4 b4 20. Nb5 Nc5 21. Rb1 Ra2 22. Bf4 b3
+23. Be3 b2 24. Nb3 Ba6 25. Nxc5 dxc5 26. Qb3 Ra1 27. Rxb2
+Rxf1+ 28. Bxf1 Bxb2 29. Qxb2 Bxb5 30. cxb5 Ng7 31. Qa3 Rc8
+32. Qa6 Qb8 33. Bf4 1-0

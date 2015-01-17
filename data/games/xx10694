@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.7"]
+[Result "1-0"]
+[White "Sergey Karjakin"]
+[Black "Aleksandar Indjic"]
+[ECO "B52"]
+[WhiteElo "2786"]
+[BlackElo "2539"]
+[PlyCount "69"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6
+6. Re1 e6 7. d4 cxd4 8. Nxd4 Be7 9. c4 O-O 10. Nc3 a6 11. b3
+Rc8 12. Bb2 Qa5 13. Qd2 Rfd8 14. Rad1 Qh5 15. h3 Bf8 16. Qe3
+Nc5 17. g4 Qg6 18. f4 Re8 19. Nf3 h6 20. e5 dxe5 21. fxe5 Nfd7
+22. b4 Nb6 23. bxc5 Bxc5 24. Nd4 Nxc4 25. Qe2 Red8 26. Ne4 Ba7
+27. Ba1 Nxe5 28. Kh1 Nc4 29. Nc6 bxc6 30. Qxc4 h5 31. gxh5
+Qxh5 32. Qc3 f6 33. Qg3 Kf8 34. Nxf6 gxf6 35. Bxf6 1-0

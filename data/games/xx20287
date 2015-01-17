@@ -1,0 +1,26 @@
+[Event "Riga Technical University Open"]
+[Site "Riga LAT"]
+[Date "2014.08.17"]
+[EventDate "2014.08.16"]
+[Round "2.5"]
+[Result "0-1"]
+[White "Andreas Bruehl"]
+[Black "Daniel Fridman"]
+[ECO "E11"]
+[WhiteElo "2374"]
+[BlackElo "2639"]
+[PlyCount "126"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. e4 d5
+7. e5 Nfd7 8. cxd5 exd5 9. Bd3 c5 10. O-O Nc6 11. Re1 Qb6
+12. b4 cxb4 13. Nf1 Re8 14. Ne3 Qa5 15. Bd2 Nf8 16. axb4 Qd8
+17. Qb3 Be6 18. b5 Nb8 19. Ba5 Qd7 20. Rec1 Bd8 21. Qc2 Qe7
+22. Bc7 a5 23. Bd6 Qd7 24. Qc5 b6 25. Qc2 Be7 26. Nf5 Bxf5
+27. Bxf5 Qxb5 28. Rab1 Qa6 29. Bd3 Qb7 30. Bb5 Rd8 31. Qc7
+Qxc7 32. Bxc7 Rc8 33. Bxb6 Rxc1+ 34. Rxc1 Nbd7 35. Bc5 Rc8
+36. Bxd7 Nxd7 37. Ne1 Nxe5 38. f4 Nd7 39. Nd3 Bf6 40. Rb1 Rb8
+41. Rxb8+ Nxb8 42. Kf2 Nc6 43. Ke3 g5 44. fxg5 Bxg5+ 45. Ke2
+Kg7 46. g3 f5 47. Nb2 Kf7 48. Na4 Ke6 49. Nc3 Be7 50. Bb6 Bb4
+51. Na4 Nb8 52. Bc7 Nd7 53. Nb2 Nf6 54. Nd3 Kd7 55. Bb6 Kc6
+56. Bd8 Ne4 57. Nf4 a4 58. Kd3 Bd2 59. Ng2 Kb5 60. Nh4 a3
+61. Kc2 Ka4 62. Be7 a2 63. Kb2 Nc3 0-1

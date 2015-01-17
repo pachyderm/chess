@@ -1,0 +1,28 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.76"]
+[Result "0-1"]
+[White "Binod Rai"]
+[Black "Haifeng Su"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "1724"]
+[PlyCount "140"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bb5+ Bd7 6. Bxd7+
+Nbxd7 7. Nf3 e6 8. a3 Be7 9. O-O O-O 10. Be3 Rc8 11. Ne5 Qb6
+12. Rb1 a6 13. Bg5 Qc7 14. Qe1 b5 15. Qe3 Nxe5 16. dxe5 Ng4
+17. Qf4 Bxg5 18. Qxg4 Qxe5 19. Rbe1 Qf4 20. Qe2 Bf6 21. Nd1
+Qa4 22. c3 d4 23. Qd3 Rfd8 24. Qf3 dxc3 25. Nxc3 Bxc3 26. bxc3
+Qxa3 27. Ra1 Qxc3 28. Qxc3 Rxc3 29. Rxa6 Rb8 30. h3 b4 31. Rb1
+h6 32. Rb2 Rc1+ 33. Kh2 Kh7 34. Kg3 e5 35. Kf3 f6 36. Ke2 h5
+37. Ra4 Rc4 38. g3 g5 39. Kd3 Rd4+ 40. Ke3 Kg6 41. f3 Rb6
+42. Ke2 f5 43. Kf2 Kf6 44. Rb3 h4 45. g4 fxg4 46. fxg4 e4
+47. Rb2 Ke5 48. Ra5+ Rd5 49. Ra4 b3 50. Ra3 Rd3 51. Kg2 e3
+52. Kf3 Kd4 53. Ra4+ Kc3 54. Rb1 Kc2 55. Rba1 Rf6+ 56. Ke2
+Rf2+ 57. Ke1 Rh2 58. Rc4+ Kb2 59. Raa4 Rc3 60. Rxc3 Kxc3
+61. Ra8 Ra2 62. Rc8+ Kb2 63. Ke2 Ka1+ 64. Kxe3 b2 65. Rb8 Ra3+
+66. Ke4 b1=Q+ 67. Rxb1+ Kxb1 68. Kf5 Rxh3 69. Kxg5 Rh1 70. Kf4
+Rg1 0-1

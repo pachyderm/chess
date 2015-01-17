@@ -1,0 +1,33 @@
+[Event "European Individual Championships"]
+[Site "Yerevan ARM"]
+[Date "2014.03.08"]
+[EventDate "2014.03.03"]
+[Round "6.123"]
+[Result "0-1"]
+[White "Artur Davtyan"]
+[Black "Anastasia Bykova"]
+[ECO "A07"]
+[WhiteElo "1843"]
+[BlackElo "2132"]
+[PlyCount "192"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bg4 5. b3 Nbd7 6. Bb2 e6
+7. d3 Bd6 8. Nbd2 O-O 9. e4 e5 10. Qe1 Re8 11. h3 Bh5 12. Nh4
+dxe4 13. dxe4 b5 14. Kh1 Qc7 15. a4 a6 16. Nf5 Bb4 17. Qe3 Bg6
+18. Bc3 Bf8 19. Nh4 Nc5 20. Bb4 Ncxe4 21. Nxe4 Bxe4 22. Bxf8
+Bxg2+ 23. Kxg2 Rxf8 24. Nf5 Nd5 25. Qc5 g6 26. c4 bxc4
+27. bxc4 Nf6 28. Qe7 Qxe7 29. Nxe7+ Kg7 30. Nxc6 e4 31. Rac1
+Rfc8 32. Nd4 Rab8 33. c5 Rb4 34. Rfd1 Rxa4 35. c6 Ne8 36. Rb1
+Kf6 37. Rb7 Rc7 38. Rb8 Ke7 39. Ra8 Nd6 40. Rb8 Rc4 41. Rb6 a5
+42. Ra6 a4 43. g4 Nc8 44. Ra5 Kf6 45. g5+ Ke7 46. Re5+ Kf8
+47. Nb5 Re7 48. Rd8+ Kg7 49. Rxe7 Nxe7 50. c7 a3 51. Nd6 Rc5
+52. Ne8+ Kf8 53. Nf6+ Kg7 54. Ne8+ Kf8 55. Nf6+ Kg7 56. h4 h6
+57. gxh6+ Kxh6 58. Ng8+ Kg7 59. Nxe7 Rxc7 60. Ra8 Rxe7
+61. Rxa3 Kh6 62. Kg3 Re5 63. Ra8 e3 64. fxe3 Rxe3+ 65. Kg4 f5+
+66. Kf4 Rh3 67. h5 Rh4+ 68. Ke5 Kxh5 69. Ra1 Kg5 70. Rg1+ Rg4
+71. Rh1 Rg2 72. Re1 Rg4 73. Rh1 Re4+ 74. Kd5 Re8 75. Rg1+ Kf6
+76. Kd4 g5 77. Ra1 g4 78. Rg1 Kg5 79. Kd3 f4 80. Rf1 g3
+81. Rg1 Kg4 82. Rf1 g2 83. Rg1 f3 84. Kd4 Kg3 85. Ra1 Kf2
+86. Ra2+ Re2 87. Ra1 g1=Q 88. Rxg1 Kxg1 89. Kd3 Re7 90. Kd4 f2
+91. Kd5 f1=Q 92. Kd4 Qd1+ 93. Kc5 Rc7+ 94. Kb6 Rc2 95. Kb5
+Qb1+ 96. Ka4 Ra2# 0-1

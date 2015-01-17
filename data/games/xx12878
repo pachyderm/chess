@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.16"]
+[Result "1-0"]
+[White "Rustam Kasimdzhanov"]
+[Black "David Smerdon"]
+[ECO "C12"]
+[WhiteElo "2700"]
+[BlackElo "2513"]
+[PlyCount "133"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bc1 Ne4
+7. Qg4 g6 8. a3 Bxc3+ 9. bxc3 c5 10. Ne2 cxd4 11. cxd4 Nc6
+12. c3 Qa5 13. Be3 Ne7 14. Qh3 f6 15. f3 Ng5 16. Qg4 Nf7
+17. exf6 e5 18. Qg3 Nf5 19. Qf2 O-O 20. Bd2 Re8 21. g4 N5d6
+22. Bg2 Nc4 23. Ra2 exd4 24. Qxd4 Bd7 25. Kf2 Qb5 26. Nf4 Qb3
+27. Rha1 Nce5 28. Qb4 Qc4 29. Qxc4 dxc4 30. Nd5 Rad8 31. Kg3
+Ba4 32. f4 Nd3 33. Ne7+ Rxe7 34. fxe7 Re8 35. Be3 Rxe7
+36. Bxa7 Nd6 37. Bd4 Ne4+ 38. Bxe4 Rxe4 39. Rf1 Kf7 40. Rd2
+Bd7 41. Rf3 Re1 42. Rfxd3 cxd3 43. Rxd3 Bb5 44. Rd2 Bc6 45. h3
+Ra1 46. Be5 g5 47. Rd6 Ra2 48. h4 h5 49. hxg5 Rg2+ 50. Kh4
+Rh2+ 51. Kg3 Rg2+ 52. Kh3 Rxg4 53. Rf6+ Ke7 54. Rh6 Rg1
+55. Bd4 Rg4 56. f5 Bd7 57. f6+ Ke6 58. Rxh5 Kf5 59. Rh7 Be6
+60. f7 Rf4 61. f8=N Rf3+ 62. Kg2 Bd5 63. Rf7+ Kxg5 64. Rxf3
+Kg4 65. Nd7 Bxf3+ 66. Kf2 Bh1 67. Ke3 1-0

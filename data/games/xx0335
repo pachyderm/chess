@@ -1,0 +1,16 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.46"]
+[Result "0-1"]
+[White "Charles Sidney Eichab"]
+[Black "Dritan Mehmeti"]
+[ECO "A02"]
+[WhiteElo "2048"]
+[BlackElo "2416"]
+[PlyCount "24"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 g4 6. Nh4 Ne7
+7. e4 Nbc6 8. Be2 Ng6 9. Nxg6 hxg6 10. O-O Bc5+ 11. d4 Qxd4+
+12. Kh1 Rxh2+ 0-1

@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.25"]
+[Result "0-1"]
+[White "Persson Abrantes"]
+[Black "Alexander Ipatov"]
+[ECO "A07"]
+[WhiteElo "1986"]
+[BlackElo "2614"]
+[PlyCount "133"]
+
+1. e4 g6 2. Nc3 Bg7 3. g3 d6 4. Bg2 Nc6 5. d3 h5 6. h3 e5
+7. Be3 h4 8. g4 Bh6 9. Qd2 Bxe3 10. fxe3 f5 11. exf5 gxf5
+12. Bxc6+ bxc6 13. Qg2 fxg4 14. Qxc6+ Bd7 15. Qe4 Ne7 16. d4
+g3 17. O-O-O Bc6 18. d5 Bd7 19. Rf1 Qc8 20. Rf6 Bf5 21. Qc4
+Ng8 22. Re6+ Bxe6 23. dxe6 Qb7 24. Qa4+ c6 25. Nf3 O-O-O
+26. Nxh4 Ne7 27. Ng2 d5 28. h4 Rdf8 29. Qa3 Rf2 30. Rg1 Rhf8
+31. Nd1 R2f6 32. e4 Rxe6 33. Qxg3 Rg6 34. Qxe5 Qc7 35. Qc3 Qh2
+36. Qc5 Rf7 37. Qxa7 Rxg2 38. Qa8+ Kc7 39. Qa7+ Kd8 40. Qa5+
+Kd7 41. Qa7+ Ke6 42. exd5+ Nxd5 43. Re1+ Re2 44. Qa5 Rxe1
+45. Qxe1+ Qe5 46. Qg1 Rg7 47. Qc5 Qf4+ 48. Kb1 Qd2 49. Qxc6+
+Ke5 50. Qe8+ Kf6 51. Qf8+ Rf7 52. Qd6+ Kg7 53. Qg3+ Kh7
+54. Qd3+ Qxd3 55. cxd3 Rf1 56. Kc2 Nb4+ 57. Kd2 Nxa2 58. b3
+Rh1 59. d4 Rxh4 60. Kd3 Nc1+ 61. Kc2 Ne2 62. d5 Nd4+ 63. Kc3
+Nb5+ 64. Kc2 Kg6 65. Ne3 Kf6 66. Nc4 Rd4 67. d6 0-1

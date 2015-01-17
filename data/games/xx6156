@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.38"]
+[Result "1-0"]
+[White "Zhong Zhang"]
+[Black "Jose Lisandro Munoz Santana"]
+[ECO "B02"]
+[WhiteElo "2611"]
+[BlackElo "2438"]
+[PlyCount "59"]
+
+1. e4 Nf6 2. d3 c5 3. f4 Nc6 4. Nf3 g6 5. g3 Bg7 6. Bg2 O-O
+7. O-O d6 8. h3 c4 9. Nc3 cxd3 10. cxd3 Qb6+ 11. Kh2 e5 12. f5
+d5 13. fxg6 hxg6 14. exd5 Nb4 15. Nxe5 Nh5 16. d4 Bf5 17. Rxf5
+gxf5 18. Qxh5 Qxd4 19. Nf3 Qf6 20. Nh4 Nc2 21. Bg5 Qe5 22. Bf4
+Qf6 23. Nxf5 Rfe8 24. Rf1 Re1 25. d6 Rxf1 26. Bxf1 Ne1
+27. Nxg7 Kxg7 28. Qe2 Qe6 29. Qxe6 fxe6 30. Be2 1-0

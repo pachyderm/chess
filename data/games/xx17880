@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.52"]
+[Result "1-0"]
+[White "Dragisa Blagojevic"]
+[Black "Herman Hou-Meng Ho"]
+[ECO "D31"]
+[WhiteElo "2505"]
+[BlackElo "1910"]
+[PlyCount "42"]
+
+1. d4 e6 2. c4 d5 3. Nc3 f5 4. e3 Nf6 5. Bd3 c6 6. Nge2 Bd6
+7. Qc2 O-O 8. f3 Kh8 9. O-O Qe8 10. Bd2 Qh5 11. h3 g6 12. c5
+Bc7 13. e4 e5 14. exd5 Nxd5 15. Nxd5 cxd5 16. dxe5 f4 17. Nxf4
+Qxe5 18. Rae1 Qg7 19. Nxd5 Qd4+ 20. Kh1 Qxd5 21. Bc4 Qd7 1-0

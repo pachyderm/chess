@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.48"]
+[Result "1-0"]
+[White "Pavel Kotsur"]
+[Black "Ibrahim Shehab"]
+[ECO "D33"]
+[WhiteElo "2559"]
+[BlackElo "2036"]
+[PlyCount "45"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 e6 4. Nc3 d5 5. cxd5 exd5 6. g3 Nc6
+7. Bg2 h6 8. O-O Be6 9. b3 Rc8 10. Bb2 Nxd4 11. Nxd4 cxd4
+12. Qxd4 Bc5 13. Qa4+ Rc6 14. e4 O-O 15. Rad1 d4 16. e5 Ra6
+17. Qb5 Nd7 18. Na4 Ra5 19. Qxb7 Qg5 20. f4 Qg6 21. Bxd4 Bxd4+
+22. Rxd4 Rd8 23. Qc7 1-0

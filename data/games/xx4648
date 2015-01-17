@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.4"]
+[Result "1/2-1/2"]
+[White "Vladimir Kramnik"]
+[Black "Maxime Vachier-Lagrave"]
+[ECO "A46"]
+[WhiteElo "2760"]
+[BlackElo "2768"]
+[PlyCount "113"]
+
+1. d4 d6 2. Nf3 Nf6 3. c4 g6 4. Nc3 Bf5 5. Ng5 Bg7 6. e4 Bd7
+7. f4 e5 8. fxe5 dxe5 9. dxe5 Ng4 10. e6 Bxe6 11. Qxd8+ Kxd8
+12. Be2 Ne5 13. Bf4 h6 14. O-O-O+ Ke7 15. Nf3 Nxc4 16. Nd4 Ne5
+17. Nd5+ Bxd5 18. exd5 Rd8 19. Rhe1 Kf8 20. Nb5 Na6 21. Bf1
+Re8 22. d6 cxd6 23. Nxd6 Re7 24. Nxb7 Rxb7 25. Bxe5 Bxe5
+26. Rxe5 Rc8+ 27. Kb1 Nc5 28. Rc1 Rbc7 29. Re3 f5 30. Rec3 Ke7
+31. b4 Ne6 32. Kb2 h5 33. h4 Rxc3 34. Rxc3 Rxc3 35. Kxc3 g5
+36. hxg5 Nxg5 37. a4 Kd6 38. Kc4 f4 39. Kb5 Kc7 40. Ka6 Kb8
+41. b5 f3 42. gxf3 Nxf3 43. Be2 Nd4 44. Bxh5 Nb3 45. Be2 Nc5+
+46. Ka5 Kc7 47. Kb4 Na6+ 48. Ka5 Nc5 49. Bf3 Kd6 50. Bh1 Kc7
+51. Bg2 Nd3 52. Bf1 Nc5 53. Kb4 Na6+ 54. Kc4 Kb6 55. Bg2 Nc7
+56. Kb4 a5+ 57. bxa6 1/2-1/2

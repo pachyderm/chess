@@ -1,0 +1,30 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.45"]
+[Result "0-1"]
+[White "Ryan Harper"]
+[Black "Manish Hamal"]
+[ECO "C12"]
+[WhiteElo "2236"]
+[BlackElo "2068"]
+[PlyCount "160"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bc1 Ne4
+7. Qg4 g6 8. Ne2 c5 9. a3 Qa5 10. axb4 Qxa1 11. Nxe4 dxe4
+12. bxc5 Bd7 13. Qxe4 Bc6 14. Qe3 Na6 15. f3 Nb4 16. Kf2 Qb1
+17. Qd2 a5 18. c4 Nd3+ 19. Ke3 Nxc1 20. Qxc1 Qxc1+ 21. Nxc1
+Ke7 22. Na2 Rhd8 23. Be2 Rab8 24. b4 axb4 25. Nxb4 Ra8 26. Rb1
+Rd7 27. Rb2 f6 28. exf6+ Kxf6 29. Nc2 g5 30. Bd3 Ra4 31. Rb6
+Ra8 32. Nb4 Rad8 33. Nc2 Ke7 34. Rb4 Ra8 35. Be4 Rc8 36. Rb6
+Bxe4 37. fxe4 Rc6 38. Rb5 Ra6 39. d5 e5 40. Nb4 Ra3+ 41. Nd3
+Kd8 42. Rb6 Rf7 43. Rb1 g4 44. Rg1 Rf4 45. Re1 Kc8 46. Kd2 Rf6
+47. Kc2 h5 48. Rd1 Ra2+ 49. Kb3 Rxg2 50. Nxe5 Rff2 51. c6 bxc6
+52. Nxc6 Rxh2 53. Kb4 Rd2 54. Rf1 Rhf2 55. Rh1 Rh2 56. Rf1
+Rdf2 57. Ra1 Ra2 58. Rf1 Rhf2 59. Rh1 g3 60. Rxh5 g2 61. Rg5
+Rf1 62. Rg8+ Kd7 63. Rg7+ Ke8 64. d6 Rd1 65. Kc5 g1=Q+
+66. Rxg1 Rxg1 67. e5 Kd7 68. Nb8+ Ke6 69. Nc6 Rd1 70. Kb6 Kd7
+71. Nb8+ Kc8 72. Nc6 Rb2+ 73. Kc5 Kd7 74. Ne7 Rb8 75. Nd5 Rc8+
+76. Kb4 Ke6 77. Nb6 Rb1+ 78. Ka5 Rc5+ 79. Ka6 Rxb6+ 80. Kxb6
+Rxc4 0-1

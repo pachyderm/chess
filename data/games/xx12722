@@ -1,0 +1,20 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.08"]
+[EventDate "2014.03.04"]
+[Round "6.72"]
+[Result "1-0"]
+[White "Jonathan Farine"]
+[Black "Oskar A Hackner"]
+[ECO "C11"]
+[WhiteElo "1953"]
+[BlackElo "2105"]
+[PlyCount "64"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nf3 c5 6. dxc5 Nc6
+7. Bf4 Be7 8. Qd2 g5 9. Bxg5 Ncxe5 10. Bxe7 Nxf3+ 11. gxf3
+Qxe7 12. b4 Qf6 13. Rb1 Ne5 14. Be2 Bd7 15. Rg1 Nxf3+ 16. Bxf3
+Qxf3 17. Qd4 Ke7 18. b5 Rhg8 19. Kd2 f6 20. Rbe1 Kf7 21. Qh4
+Qf5 22. Qd4 a6 23. a4 h5 24. Ne4 Qf4+ 25. Kd1 Qf3+ 26. Kc1
+axb5 27. Nd6+ Ke7 28. axb5 e5 29. Rxe5+ fxe5 30. Qxe5+ Be6
+31. Re1 Qa3+ 32. Kd2 Rg6 1-0

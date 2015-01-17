@@ -1,0 +1,23 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.6"]
+[Result "1-0"]
+[White "Krishnan Sasikiran"]
+[Black "Marat Dzhumaev"]
+[ECO "B07"]
+[WhiteElo "2669"]
+[BlackElo "2510"]
+[PlyCount "93"]
+
+1. d4 d6 2. e4 Nf6 3. f3 d5 4. e5 Nfd7 5. f4 c5 6. c3 Nc6
+7. Be3 cxd4 8. cxd4 Nb6 9. Nc3 Bf5 10. Bd3 Bxd3 11. Qxd3 Nc4
+12. Bc1 e6 13. Nf3 a5 14. O-O a4 15. f5 Qb6 16. Kh1 Be7
+17. Rb1 Kd7 18. f6 gxf6 19. exf6 Bd6 20. Bh6 Nb4 21. Qd1 Qa6
+22. Nxa4 Qxa4 23. b3 Ne3 24. bxa4 Nxd1 25. Rfxd1 Rxa4 26. Ng5
+Ke8 27. Rdc1 Ra8 28. a3 Nd3 29. Rc3 Nf2+ 30. Kg1 Ne4 31. Nxe4
+dxe4 32. Rxb7 Rg8 33. Bg7 Bf8 34. Bxf8 Kxf8 35. Rcc7 Rg6
+36. Rxf7+ Kg8 37. Rg7+ Rxg7 38. Rxg7+ Kf8 39. Rxh7 Rxa3
+40. Kf2 Rd3 41. Ke2 Rxd4 42. g4 Rd3 43. g5 Rf3 44. h4 Kg8
+45. Rg7+ Kh8 46. Re7 Kg8 47. h5 1-0

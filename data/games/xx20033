@@ -1,0 +1,25 @@
+[Event "Bundesliga"]
+[Site "Bochum GER"]
+[Date "2014.03.16"]
+[EventDate "2013.10.12"]
+[Round "12"]
+[Result "1-0"]
+[White "Pavel Tregubov"]
+[Black "Andrei Maksimenko"]
+[ECO "E10"]
+[WhiteElo "2606"]
+[BlackElo "2543"]
+[PlyCount "117"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. e3 Be7 5. b3 c5 6. dxc5 Bxc5
+7. Bb2 O-O 8. Nc3 Nc6 9. a3 Qe7 10. cxd5 Rd8 11. Be2 a6 12. b4
+Ba7 13. O-O exd5 14. Na4 Bg4 15. Rc1 Ne4 16. Nd4 Bxd4 17. Bxd4
+Bxe2 18. Qxe2 Nxd4 19. exd4 Qf6 20. Rfd1 Rac8 21. Nc5 Nxc5
+22. dxc5 d4 23. Qf3 Qxf3 24. gxf3 Rd5 25. Kf1 Kf8 26. Rc4 d3
+27. Ke1 b6 28. Kd2 bxc5 29. Re1 Rb8 30. Rxc5 Rxc5 31. bxc5 Rb5
+32. Re5 f6 33. Rd5 Ke7 34. Kxd3 Rb3+ 35. Kc4 Rxa3 36. c6 Ra2
+37. Rd7+ Ke6 38. Kc5 Rxf2 39. Rxg7 Rxh2 40. Kb6 h5 41. c7 Rb2+
+42. Kxa6 Rc2 43. Rh7 h4 44. Kb7 Rb2+ 45. Kc8 Rb4 46. Kd8 Rd4+
+47. Ke8 Rc4 48. Re7+ Kf5 49. Kd7 Rd4+ 50. Kc6 Rc4+ 51. Kd6 Rc2
+52. Re4 h3 53. Rh4 Kg5 54. Rxh3 Rd2+ 55. Ke6 Re2+ 56. Kd7 Rd2+
+57. Kc8 f5 58. Rh8 Kf4 59. Rf8 1-0

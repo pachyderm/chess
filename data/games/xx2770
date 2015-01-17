@@ -1,0 +1,27 @@
+[Event "TCEC - Season 6 - Stage 2"]
+[Site "http://tcec.chessdom.com"]
+[Date "2014.03.31"]
+[EventDate "2014.03.16"]
+[Round "10"]
+[Result "0-1"]
+[White "Naum (Computer)"]
+[Black "Houdini (Computer)"]
+[ECO "A21"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "133"]
+
+1. c4 e5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. e3 Nc6 6. Nge2 h5
+7. d4 h4 8. d5 Nb8 9. Bd2 a5 10. e4 Na6 11. Nc1 Nf6 12. Nd3
+Nb4 13. Bg5 Bh6 14. gxh4 Bxg5 15. hxg5 Bh3 16. Rg1 Nd7 17. Bf3
+Kf8 18. Na4 Kg7 19. Be2 Rh4 20. a3 Nxd3+ 21. Qxd3 Qe7 22. Qe3
+b6 23. Kd2 Nc5 24. Nxc5 bxc5 25. Rg3 Bd7 26. Rh1 Rah8 27. Rg2
+c6 28. f3 Bh3 29. Rgg1 Rb8 30. Qc3 cxd5 31. cxd5 c4 32. Bxc4
+Qa7 33. Ke2 a4 34. Qd2 Qc5 35. Bd3 Rb3 36. Rc1 Qb6 37. Rc6 Qb8
+38. Rc2 Qh8 39. Rg1 Qh5 40. Rg3 Bg4 41. h3 Bxh3 42. Rc3 Bf5
+43. Ke3 Rh2 44. Rg2 Rh3 45. Rf2 Bg4 46. Bf1 Rxc3+ 47. bxc3
+Qxg5+ 48. Kd3 Rxf3+ 49. Rxf3 Qxd2+ 50. Kxd2 Bxf3 51. Ke3 Bd1
+52. Bd3 Kf6 53. Kd2 Bb3 54. Bb5 Kg5 55. Ke3 f5 56. Kd3 f4
+57. Kd2 f3 58. Ke3 Kg4 59. Kf2 Kf4 60. c4 g5 61. c5 dxc5
+62. d6 Be6 63. d7 Bxd7 64. Bxd7 g4 65. Kf1 g3 66. Bxa4 Kxe4
+67. Bc6+ 0-1

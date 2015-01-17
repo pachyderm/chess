@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.25"]
+[Result "1-0"]
+[White "Guillermo Vazquez"]
+[Black "Vladimir Hamitevici"]
+[ECO "B10"]
+[WhiteElo "2323"]
+[BlackElo "2467"]
+[PlyCount "73"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 a6 4. d4 Bg4 5. h3 Bh5 6. g4 Bg6
+7. Ne5 Bxe4 8. Nxe4 dxe4 9. c3 Qb6 10. Bg2 Nf6 11. g5 Nfd7
+12. Nc4 Qd8 13. Qg4 b5 14. Nd2 h5 15. Qe2 g6 16. Nxe4 Bg7
+17. f4 e6 18. Nd6+ Ke7 19. f5 Kxd6 20. Bf4+ Ke7 21. f6+ Nxf6
+22. gxf6+ Bxf6 23. O-O Rh7 24. Qf2 Nd7 25. Bxc6 Rc8 26. d5
+exd5 27. Rae1+ Kf8 28. Bd6+ Kg8 29. Bxd7 Qxd7 30. Qxf6 Qxh3
+31. Re7 Rf8 32. Rf3 Qg4+ 33. Rg3 Qd1+ 34. Kh2 Qb1 35. Re1 Qxe1
+36. Rxg6+ fxg6 37. Qxf8# 1-0

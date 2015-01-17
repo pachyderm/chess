@@ -1,0 +1,38 @@
+[Event "Fagernes GM Open"]
+[Site "Fagernes NOR"]
+[Date "2014.04.13"]
+[EventDate "2014.04.13"]
+[Round "1.1"]
+[Result "1-0"]
+[White "Nicolai Getz"]
+[Black "Jon Ludvig Hammer"]
+[ECO "B10"]
+[WhiteElo "2388"]
+[BlackElo "2647"]
+[PlyCount "239"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Qa4+ Nbd7 6. Nc3
+g6 7. Nf3 Bg7 8. Bc4 O-O 9. d3 a6 10. Qa3 b6 11. O-O Bb7
+12. Re1 Re8 13. d6 e6 14. Ne4 b5 15. Bb3 a5 16. Bg5 h6
+17. Bxf6 Nxf6 18. Rac1 Nxe4 19. dxe4 b4 20. Qa4 Qxd6 21. Qb5
+Qe7 22. Rc2 Reb8 23. Qe2 a4 24. Bc4 Rd8 25. Qe3 Rac8 26. h4
+Rc5 27. Rec1 g5 28. hxg5 hxg5 29. g4 Kf8 30. Be2 Rxc2 31. Rxc2
+b3 32. axb3 axb3 33. Rc1 Bxb2 34. Rb1 Ba3 35. Rxb3 Bd6 36. e5
+Bc5 37. Rxb7 Bxe3 38. Rxe7 Bxf2+ 39. Kxf2 Kxe7 40. Nxg5 Rd5
+41. Nf3 f6 42. exf6+ Kxf6 43. Ke3 Ra5 44. Bd3 e5 45. g5+ Ke6
+46. Nd2 Ra3 47. Ke4 Rc3 48. Bc4+ Ke7 49. Bd5 Rg3 50. Nf3 Kf8
+51. Kxe5 Kg7 52. Kf5 Rg2 53. Be4 Ra2 54. Nh4 Ra4 55. Kf4 Rb4
+56. Nf5+ Kf7 57. Ng3 Ke6 58. Nh5 Rb5 59. Nf6 Rb4 60. Kg4 Ke5
+61. Kh5 Rb5 62. Kh6 Ra5 63. Bh7 Ra6 64. Kg6 Kf4 65. Bg8 Rc6
+66. Kh5 Kf5 67. Nd5 Rc1 68. Ne7+ Kf4 69. Nd5+ Kf5 70. Bh7+ Ke5
+71. Ne7 Rh1+ 72. Kg6 Kf4 73. Nd5+ Ke5 74. Bg8 Rg1 75. Bf7 Rg3
+76. Kh6 Rh3+ 77. Kg7 Kf5 78. Be6+ Kxg5 79. Bxh3 Kh4 80. Bf5
+Kg3 81. Kf6 Kf3 82. Bd3 Kf2 83. Ke5 Ke1 84. Nf4 Kd2 85. Kd4
+Kc1 86. Kc3 Kd1 87. Ng2 Kc1 88. Be2 Kb1 89. Nf4 Kc1 90. Nd3+
+Kb1 91. Bd1 Ka1 92. Nc5 Kb1 93. Nb3 Ka2 94. Bc2 Ka3 95. Bb1
+Ka4 96. Nd4 Ka5 97. Kc4 Kb6 98. Nb5 Kc6 99. Bf5 Kb6 100. Bd7
+Ka5 101. Nc3 Kb6 102. Nd5+ Ka5 103. Kc5 Ka6 104. Bf5 Ka5
+105. Nb6 Ka6 106. Bc8+ Ka5 107. Bd7 Ka6 108. Nd5 Ka5 109. Be8
+Ka6 110. Bb5+ Ka5 111. Bc6 Ka6 112. Ne3 Ka5 113. Nc4+ Ka6
+114. Kd6 Ka7 115. Kc7 Ka6 116. Bd7 Ka7 117. Bb5 Ka8 118. Nb6+
+Ka7 119. Nc8+ Ka8 120. Bc6# 1-0

@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.65"]
+[Result "1-0"]
+[White "Andrew Greet"]
+[Black "Yusuf Mdoe"]
+[ECO "B52"]
+[WhiteElo "2431"]
+[BlackElo "1707"]
+[PlyCount "113"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Qg4 6. O-O
+Qxe4 7. d4 cxd4 8. Nxd4 Nc6 9. Nb5 O-O-O 10. Be3 a6 11. Nd2
+Qe5 12. Na7+ Nxa7 13. Bxa7 Nf6 14. Nf3 Qa5 15. b4 Qc7 16. Qa4
+e5 17. Be3 Ne4 18. b5 axb5 19. cxb5 Nc5 20. Bxc5 dxc5 21. Qa8+
+Kd7 22. Rfd1+ Bd6 23. Qa4 Ke7 24. Rd5 Rhe8 25. Qh4+ f6
+26. Qxh7 Kf7 27. Rad1 e4 28. Nh4 Bxh2+ 29. Kh1 Rxd5 30. Rxd5
+Bf4 31. Qh5+ Kf8 32. Rxc5 Qb8 33. Nf5 Qd8 34. Qh8+ Kf7
+35. Qxg7+ Ke6 36. Qg4 Rh8+ 37. Nh4+ Kd6 38. Rc4 Kd5 39. Ra4
+Qd6 40. g3 Be5 41. Qxe4+ Kc5 42. Qb4+ Kb6 43. Qa5+ Kc5 44. Kg2
+Kd5 45. Nf5 Qc5 46. Ne3+ Ke6 47. Rc4 Qd6 48. Qa4 f5 49. Qc2
+Rf8 50. Rc8 Rf7 51. Re8+ Kf6 52. Qxf5+ Kg7 53. Qg5+ Qg6
+54. Rg8+ Kxg8 55. Qxg6+ Kf8 56. a4 Bf6 57. a5 1-0

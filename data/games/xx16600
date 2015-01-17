@@ -1,0 +1,29 @@
+[Event "Casino Graz"]
+[Site "Graz AUT"]
+[Date "2014.02.16"]
+[EventDate "2014.02.14"]
+[Round "4.6"]
+[Result "0-1"]
+[White "Marco Baldauf"]
+[Black "Ruben Felgaer"]
+[ECO "D10"]
+[WhiteElo "2396"]
+[BlackElo "2569"]
+[PlyCount "150"]
+
+1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e4 b5 5. a4 b4 6. Nce2 e6
+7. Nf3 Ba6 8. Ng3 c5 9. d5 exd5 10. exd5 Nf6 11. Bg5 Qxd5
+12. Qxd5 Nxd5 13. O-O-O h6 14. Re1+ Be7 15. Bxe7 Nxe7 16. Nf5
+Nc6 17. Nd6+ Kf8 18. Ne5 Nxe5 19. Rxe5 Rd8 20. Nxc4 Rd5
+21. Rxd5 Nxd5 22. Ne5 Bxf1 23. Rxf1 Ke7 24. Re1 Ra8 25. Kc2 f6
+26. Nc4+ Kf8 27. Kb3 Nf4 28. g3 Nd3 29. Rd1 Nxf2 30. Rd7 Ne4
+31. Ne3 Re8 32. Kc4 Re5 33. Rxa7 Nd6+ 34. Kd3 c4+ 35. Kd4 Re4+
+36. Kd5 Rxe3 37. Kxd6 Re2 38. Rc7 Rxh2 39. Rxc4 Rxb2 40. Kc5
+b3 41. Rb4 Ra2 42. Kb6 b2 43. a5 h5 44. a6 g5 45. a7 h4
+46. gxh4 gxh4 47. Kc5 Rxa7 48. Rxb2 Rh7 49. Kd4 h3 50. Rh2 Kf7
+51. Ke4 Kg6 52. Kf4 Rh4+ 53. Kf3 Kf5 54. Kf2 Kf4 55. Kg1 Rg4+
+56. Kh1 Rg3 57. Ra2 Rf3 58. Kh2 Kg4 59. Ra8 Rf2+ 60. Kg1 Rg2+
+61. Kh1 Re2 62. Rg8+ Kf4 63. Rh8 Re3 64. Kh2 f5 65. Rf8 Kg4
+66. Rg8+ Kf3 67. Rg3+ Ke2 68. Rg5 f4 69. Ra5 f3 70. Ra2+ Kf1
+71. Kg3 f2+ 72. Kh2 Ke1 73. Rb2 f1=Q 74. Rb1+ Kf2 75. Rxf1+
+Kxf1 0-1

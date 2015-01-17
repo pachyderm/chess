@@ -1,0 +1,17 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.06"]
+[EventDate "2014.03.04"]
+[Round "4.65"]
+[Result "0-1"]
+[White "Elise Forsa"]
+[Black "Tobias Hellwig"]
+[ECO "B03"]
+[WhiteElo "1830"]
+[BlackElo "2180"]
+[PlyCount "36"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. exd6 exd6 6. Nc3 Nc6
+7. h3 Bf5 8. Nf3 Nb4 9. Qe2+ Be7 10. Ne4 d5 11. cxd5 Qxd5
+12. Nfg5 O-O-O 13. a3 Bxg5 14. Bxg5 Bxe4 15. axb4 Qxg5 16. Ra5
+Qc1+ 17. Qd1 Qxb2 18. Qg4+ f5 0-1

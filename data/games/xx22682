@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.33"]
+[Result "0-1"]
+[White "Marc Simonet"]
+[Black "Sam E Collins"]
+[ECO "E97"]
+[WhiteElo "2222"]
+[BlackElo "2495"]
+[PlyCount "43"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5
+7. O-O Nc6 8. d5 Ne7 9. b4 a5 10. bxa5 c5 11. a4 Rxa5 12. Bd2
+Ra6 13. Qc2 Ne8 14. Nb5 Bd7 15. Ra3 f5 16. exf5 gxf5 17. Ng5
+Ng6 18. h3 Qe7 19. g4 e4 20. gxf5 Bxf5 21. Bg4 e3 22. Bxf5 0-1

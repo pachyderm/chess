@@ -1,0 +1,20 @@
+[Event "Bronstein Memorial"]
+[Site "Minsk BLR"]
+[Date "2014.02.17"]
+[EventDate "2014.02.11"]
+[Round "7.15"]
+[Result "1-0"]
+[White "Sergey Fedorchuk"]
+[Black "Daniil Lintchevski"]
+[ECO "C11"]
+[WhiteElo "2641"]
+[BlackElo "2537"]
+[PlyCount "66"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6
+7. Nf3 cxd4 8. cxd4 f6 9. exf6 Nxf6 10. Nc3 Bd6 11. Bb5 O-O
+12. O-O Qc7 13. Re1 a6 14. Bxc6 Qxc6 15. Ne5 Bxe5 16. Rxe5 h6
+17. Re1 b5 18. Bf4 b4 19. Ne2 a5 20. Rc1 Qa6 21. Be5 Bd7
+22. Nf4 Rac8 23. Ng6 Rf7 24. Rxc8+ Bxc8 25. Bxf6 Rxf6 26. Ne5
+Rf8 27. h3 Qb5 28. Qg4 Bd7 29. Re3 Rf5 30. Rg3 Rg5 31. Qf4 Be8
+32. Rxg5 hxg5 33. Qxg5 Kf8 1-0

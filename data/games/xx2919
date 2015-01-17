@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.18"]
+[Result "0-1"]
+[White "Allan Stig Rasmussen"]
+[Black "Lenin Guerra Tulcan"]
+[ECO "A25"]
+[WhiteElo "2522"]
+[BlackElo "2374"]
+[PlyCount "64"]
+
+1. c4 e5 2. Nc3 Nc6 3. e3 Bc5 4. Nf3 a6 5. Nxe5 Nxe5 6. d4 Bd6
+7. c5 Be7 8. dxe5 Bxc5 9. Bc4 Ne7 10. Qh5 g6 11. Qh6 Nf5
+12. Qf4 O-O 13. Nd5 Be7 14. Bd2 Bg5 15. Qf3 c6 16. Nc3 d5
+17. exd6 Nh4 18. Qe2 Nxg2+ 19. Kd1 Nh4 20. Rg1 Bf6 21. Kc1 Bg7
+22. e4 Qxd6 23. Bg5 Bf6 24. Kc2 Bxg5 25. Rxg5 Qf4 26. Rg3 b5
+27. Bb3 a5 28. a3 a4 29. Ba2 Nf5 30. exf5 Bxf5+ 31. Kd1 Rfe8
+32. Re3 Bg4 0-1

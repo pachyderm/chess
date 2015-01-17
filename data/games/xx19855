@@ -1,0 +1,22 @@
+[Event "TCEC - Season 6 - Stage 4"]
+[Site "http://tcec.chessdom.com"]
+[Date "2014.05.11"]
+[EventDate "2014.05.01"]
+[Round "25"]
+[Result "0-1"]
+[White "Critter (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "E04"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "83"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. d4 dxc4 5. Bg2 Nc6 6. O-O Rb8
+7. Nc3 Bb4 8. Qc2 O-O 9. Rd1 Re8 10. a3 Bxc3 11. bxc3 b6
+12. Ne5 Na5 13. Bg5 h6 14. Bxf6 gxf6 15. Nc6 Nxc6 16. Bxc6 Bd7
+17. d5 Qe7 18. Rd4 f5 19. Bxd7 Qxd7 20. Qd2 exd5 21. Rxd5 Qe6
+22. Rd1 Qf6 23. e3 Kg7 24. Rd7 Re7 25. Rxe7 Qxe7 26. Qd4+ Qf6
+27. Qxc4 Rd8 28. Rxd8 Qxd8 29. Qd4+ Qxd4 30. exd4 Kf6 31. Kf1
+b5 32. Ke2 Ke6 33. Ke3 Kd5 34. Kd3 h5 35. h3 f4 36. gxf4 f5
+37. a4 bxa4 38. c4+ Kc6 39. Kc2 Kb6 40. Kb2 Ka5 41. Kc3 h4
+42. c5 0-1

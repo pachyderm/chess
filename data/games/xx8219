@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.4"]
+[Result "0-1"]
+[White "Levente Vajda"]
+[Black "Richard Rapport"]
+[ECO "B22"]
+[WhiteElo "2561"]
+[BlackElo "2704"]
+[PlyCount "67"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 a6 6. Be3 cxd4
+7. Bxd4 Nc6 8. Be2 Nxd4 9. Qxd4 Nf6 10. O-O Bd6 11. Nbd2 O-O
+12. Bd3 h6 13. Rfe1 Qc7 14. Nb3 Bd7 15. h3 Rfe8 16. Rxe8+ Rxe8
+17. Re1 Re6 18. Rd1 Bc6 19. Bf1 Ne4 20. c4 dxc4 21. Bxc4 Bh2+
+22. Nxh2 Rd6 23. Nf1 Rxd4 24. Nxd4 Qf4 25. f3 Nf6 26. Be2 Ba4
+27. Rd2 Nd5 28. g3 Qc7 29. Kf2 Bd7 30. h4 Bh3 31. Nc2 Bxf1
+32. Kxf1 Qa5 33. Rd4 Qxa2 34. Kf2 0-1

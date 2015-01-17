@@ -1,0 +1,29 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.73"]
+[Result "1-0"]
+[White "Edward Nii Lamptey Thompson"]
+[Black "Alexis Ruzigura"]
+[ECO "B30"]
+[WhiteElo "1854"]
+[BlackElo "?"]
+[PlyCount "155"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. g3 d6 5. Bg2 g6 6. d4 cxd4
+7. Nxd4 a6 8. O-O Bg7 9. Be3 Nge7 10. Nb3 O-O 11. Qd2 Qc7
+12. Na4 b5 13. Nc3 Bb7 14. a3 Ne5 15. Bd4 Nc4 16. Qc1 Bxd4
+17. Nxd4 Rac8 18. Nde2 d5 19. exd5 Nxd5 20. Nxd5 Bxd5 21. Bxd5
+exd5 22. Nd4 Qe5 23. c3 Rfe8 24. Rb1 Qe4 25. b3 Ne5 26. Re1
+Qg4 27. Re3 Nd7 28. Qd2 Nf6 29. f3 Qd7 30. Rbe1 Qc7 31. Kg2
+Kg7 32. b4 h5 33. Nb3 Rxe3 34. Rxe3 Rd8 35. Nc5 Rd6 36. Qe2 d4
+37. cxd4 Rxd4 38. Re7 Qd6 39. Ne6+ Kg8 40. Nxd4 Qxd4 41. Qe5
+Qd2+ 42. Kh3 Nh7 43. Re8+ Nf8 44. Qe7 Qh6 45. Qf6 Qc1 46. Qd6
+Qh6 47. Qxa6 Qg5 48. Qd6 Qf5+ 49. Kg2 Qc2+ 50. Kf1 Qc1+
+51. Ke2 Qc2+ 52. Qd2 Qc4+ 53. Qd3 Qc6 54. Rd8 Qe6+ 55. Kf1 h4
+56. Kg2 h3+ 57. Kf2 Qb6+ 58. Qd4 Qe6 59. g4 Qa2+ 60. Qd2 Qxa3
+61. Kg3 Qa1 62. Qd6 Qg7 63. g5 f5 64. gxf6 Qf7 65. Qe7 g5
+66. Kg4 Qc4+ 67. Qe4 Qxe4+ 68. fxe4 Kf7 69. Rxf8+ Kxf8
+70. Kxg5 Kf7 71. Kf5 Kf8 72. Ke6 Ke8 73. e5 Kf8 74. f7 Kg7
+75. Ke7 Kh7 76. Kf6 Kh8 77. f8=Q+ Kh7 78. Qg7# 1-0

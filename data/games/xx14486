@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.83"]
+[Result "0-1"]
+[White "Leslie Ngiumoana"]
+[Black "Jose Daniel Gemy"]
+[ECO "C54"]
+[WhiteElo "?"]
+[BlackElo "2332"]
+[PlyCount "54"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4
+Bb4+ 7. Bd2 Bxd2+ 8. Nbxd2 d5 9. exd5 Nxd5 10. O-O O-O 11. Ne4
+Bg4 12. h3 Bxf3 13. Qxf3 Nb6 14. d5 Ne5 15. Qh5 Nexc4 16. Ng5
+h6 17. Ne4 Qxd5 18. Qg4 f5 19. Nc3 fxg4 20. Nxd5 Nxd5 21. hxg4
+Rae8 22. b3 Nd2 23. Rfd1 Re2 24. f3 Ne3 25. Re1 Rxg2+ 26. Kh1
+Nxf3 27. Rxe3 Rh2# 0-1

@@ -1,0 +1,20 @@
+[Event "Casino Graz"]
+[Site "Graz AUT"]
+[Date "2014.02.18"]
+[EventDate "2014.02.14"]
+[Round "6.15"]
+[Result "1-0"]
+[White "Robert Perhinig"]
+[Black "Johannes Hatzl"]
+[ECO "D30"]
+[WhiteElo "2273"]
+[BlackElo "2141"]
+[PlyCount "61"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Nc3 c6 5. Nf3 Bf5 6. g3 Nf6
+7. Bg2 h6 8. O-O Bd6 9. Ne5 Nbd7 10. Bf4 Qe7 11. Nd3 Bxf4
+12. Nxf4 g5 13. Nd3 Qe6 14. Re1 O-O-O 15. b4 Ne4 16. Qb3 Kb8
+17. b5 Nxc3 18. Qxc3 cxb5 19. a4 bxa4 20. Rxa4 Rc8 21. Qa5 Qb6
+22. Qxd5 Bxd3 23. exd3 Rc7 24. Raa1 Nf6 25. Qf3 Qc6 26. Qf5
+Qd6 27. Reb1 Rd8 28. Qa5 b6 29. Rxb6+ Qxb6 30. Qxb6+ axb6
+31. Ra8# 1-0

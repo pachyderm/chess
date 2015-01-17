@@ -1,0 +1,32 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.81"]
+[Result "1-0"]
+[White "Jacques Muller Luxama"]
+[Black "Cyril Tomas Montel Jr"]
+[ECO "B13"]
+[WhiteElo "1893"]
+[BlackElo "1848"]
+[PlyCount "185"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Nf3 Bg4
+7. Bf4 e6 8. Nbd2 Bd6 9. Bg3 Qc7 10. Qa4 O-O 11. O-O a6
+12. Qc2 Bxg3 13. fxg3 Ne7 14. Ne5 Bf5 15. Bxf5 Nxf5 16. Qd3
+Nd6 17. Rf4 Nfe4 18. Re1 Nxd2 19. Qxd2 Ne4 20. Qd3 Rad8
+21. Ng4 f6 22. Nf2 e5 23. dxe5 Nxf2 24. Rxf2 fxe5 25. Rxf8+
+Kxf8 26. Qxh7 Qb6+ 27. Kh1 Qf6 28. Qh8+ Kf7 29. Qh5+ Ke6
+30. Qg4+ Kd6 31. Qb4+ Kc7 32. Qc5+ Kb8 33. Kg1 Rf8 34. h3 Rd8
+35. Rf1 Qd6 36. Qxd6+ Rxd6 37. Rf7 g6 38. Kf2 Ka7 39. g4 Rb6
+40. b3 Rc6 41. Rf3 e4 42. Re3 Rf6+ 43. Kg3 b5 44. b4 Kb6
+45. Kh4 Kc6 46. Kg5 Re6 47. h4 Kd6 48. h5 gxh5 49. gxh5 Ke7
+50. Kf5 Kf7 51. a3 Re8 52. g4 Re6 53. g5 Re8 54. h6 Re6 55. h7
+Re8 56. Rh3 Kg7 57. g6 e3 58. h8=Q+ Rxh8 59. Rxe3 Rh5+ 60. Ke6
+Kxg6 61. Rd3 Kg7 62. Rxd5 Rh1 63. Rd6 Rh3 64. Rc6 Rd3 65. Ke5
+Kf7 66. Ke4 Rd1 67. Rxa6 Ke7 68. Ra5 Ra1 69. Rxb5 Rxa3 70. Rc5
+Kd6 71. Kd4 Ra1 72. Kc4 Ra8 73. Rh5 Rc8+ 74. Kb3 Rg8 75. c4
+Kc6 76. b5+ Kb6 77. Kb4 Rg4 78. Rh6+ Kb7 79. Rd6 Rh4 80. Kc5
+Rh5+ 81. Rd5 Rh8 82. Rd7+ Kb8 83. b6 Rh5+ 84. Kb4 Rh4 85. Kb5
+Rh5+ 86. c5 Rg5 87. Kc6 Rg6+ 88. Rd6 Rg8 89. Kb5 Rg5 90. Ka6
+Rxc5 91. Rd8+ Rc8 92. Rxc8+ Kxc8 93. Ka7 1-0

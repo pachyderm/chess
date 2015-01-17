@@ -1,0 +1,35 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.44"]
+[Result "0-1"]
+[White "Farai Mandizha"]
+[Black "Amir Zaibi"]
+[ECO "D02"]
+[WhiteElo "2388"]
+[BlackElo "2297"]
+[PlyCount "216"]
+
+1. Nf3 d5 2. d4 c6 3. Bf4 Qb6 4. Qc1 Bf5 5. e3 Nf6 6. Nh4 Bd7
+7. Be2 e6 8. O-O c5 9. Nf3 Nc6 10. c3 Nh5 11. Bg5 h6 12. Bh4
+g5 13. Bg3 Nxg3 14. hxg3 Bg7 15. Nbd2 cxd4 16. exd4 Rc8
+17. Qb1 g4 18. Ne1 h5 19. Nd3 Ne7 20. Re1 Bb5 21. a4 Bxd3
+22. Bxd3 a6 23. Nf1 Qd6 24. Qd1 Rh6 25. Qd2 Kf8 26. Ra3 Nc6
+27. Re2 Rh8 28. Qg5 Qe7 29. Qxe7+ Kxe7 30. Ne3 Kd6 31. Ra1 Rb8
+32. Bc2 Rhc8 33. f3 gxf3 34. gxf3 Rh8 35. Rh2 Bf6 36. Kf2 h4
+37. g4 Bg5 38. Rh3 b5 39. axb5 axb5 40. Ng2 b4 41. f4 Bd8
+42. Ke2 bxc3 43. bxc3 Ba5 44. Kd3 Rhc8 45. Ne3 Bd8 46. Ra6 Ra8
+47. Ra4 Rxa4 48. Bxa4 Na5 49. g5 f6 50. g6 f5 51. Be8 Bf6
+52. Bf7 Rh8 53. Ke2 Nc6 54. Ng2 Ke7 55. Ne1 Nd8 56. Nf3 Nxf7
+57. gxf7 Kxf7 58. Rh2 Ke7 59. Rg2 Ra8 60. Kd3 Rh8 61. Ke3 Kf7
+62. Ke2 Rc8 63. Kd3 Rg8 64. Rxg8 Kxg8 65. Ke2 Kg7 66. Ng1 Kg6
+67. Nh3 Bd8 68. Nf2 Ba5 69. Kd3 Kh5 70. Kd2 Bc7 71. Ke3 Bb6
+72. Kd2 Ba7 73. Ke3 Bb8 74. Kf3 Bd6 75. Nh3 Be7 76. Nf2 Bd8
+77. Ke3 Bc7 78. Kf3 Ba5 79. Nd1 h3 80. Kg3 h2 81. Kxh2 Kg4
+82. Kg2 Kxf4 83. Kf2 Bd8 84. Ke2 Kg3 85. Ne3 f4 86. Nf1+ Kg2
+87. Nd2 Ba5 88. Nf3 Bxc3 89. Nh4+ Kg3 90. Nf3 Bb2 91. Ng5 Bxd4
+92. Nxe6 f3+ 93. Kf1 Be3 94. Nc7 d4 95. Nd5 Kg4 96. Ke1 Kf5
+97. Nb6 Ke4 98. Nc4 Kd5 99. Nb2 Bg5 100. Nd1 Bh4+ 101. Kd2 Ke4
+102. Nb2 Be7 103. Ke1 d3 104. Nd1 Bb4+ 105. Kf1 d2 106. Nb2
+Bc3 107. Nd1 Bd4 108. Ne3 Kxe3 0-1

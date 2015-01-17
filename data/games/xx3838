@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.18"]
+[Result "0-1"]
+[White "Kenneth T Solomon"]
+[Black "Fabiano Caruana"]
+[ECO "A41"]
+[WhiteElo "2378"]
+[BlackElo "2801"]
+[PlyCount "68"]
+
+1. d4 d6 2. Nf3 g6 3. c4 Bg7 4. Nc3 e5 5. dxe5 dxe5 6. Qxd8+
+Kxd8 7. Bd2 Be6 8. O-O-O Nd7 9. Ng5 Bxc4 10. b3 Be6 11. g3
+Ngf6 12. Bg2 c6 13. Nxe6+ fxe6 14. Ne4 Nd5 15. h4 h6 16. Nd6
+Kc7 17. Nc4 b5 18. Ba5+ Kb7 19. Nd6+ Ka6 20. Bd2 Bf8 21. Ne4
+Kb6 22. Bh3 Ba3+ 23. Kb1 Rae8 24. Rhg1 a5 25. f4 Bb4 26. Bc1
+Nc5 27. Nd6 Rd8 28. Nf7 Nc3+ 29. Kc2 Rxd1 30. Rxd1 Rf8 31. Rd8
+Rxf7 32. a3 Nxe2 33. axb4 axb4 34. Be3 exf4 0-1

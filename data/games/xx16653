@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.44"]
+[Result "0-1"]
+[White "Mario Kobler"]
+[Black "Antoine Kassis"]
+[ECO "D10"]
+[WhiteElo "2113"]
+[BlackElo "2157"]
+[PlyCount "40"]
+
+1. c4 c6 2. d4 d5 3. Qc2 e6 4. Nf3 f5 5. g4 fxg4 6. Ne5 Nf6
+7. h3 g3 8. fxg3 Nbd7 9. Nf3 Bd6 10. Bf4 Qc7 11. e3 e5
+12. dxe5 Nxe5 13. Nxe5 Bxe5 14. Nc3 g5 15. Bxg5 Bxc3+ 16. Qxc3
+Qxg3+ 17. Kd1 Qxg5 18. Rh2 Rf8 19. Rg2 Qf5 20. Bd3 Ne4 0-1

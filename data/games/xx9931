@@ -1,0 +1,39 @@
+[Event "TCEC - Season 6 - Stage 4"]
+[Site "http://tcec.chessdom.com"]
+[Date "2014.05.17"]
+[EventDate "2014.05.01"]
+[Round "44"]
+[Result "1/2-1/2"]
+[White "Komodo (Computer)"]
+[Black "Stockfish (Computer)"]
+[ECO "B43"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "249"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6
+7. O-O d6 8. a4 b6 9. Be3 Nbd7 10. f4 Bb7 11. f5 e5 12. Nb3
+Be7 13. Qf3 O-O 14. Bf2 Rfc8 15. Rad1 h6 16. Rfe1 Bc6 17. Qe2
+Qb7 18. h3 Bd8 19. Bc4 Bxa4 20. Rxd6 Bc6 21. Red1 Be7 22. R6d2
+Bf8 23. Nc1 b5 24. Bd5 Bxd5 25. Nxd5 Nxd5 26. exd5 Bd6 27. Na2
+Rc4 28. b3 Rf4 29. Be3 Re4 30. Rd3 b4 31. c4 a5 32. Qf3 Nc5
+33. Kh1 Rxc4 34. bxc4 e4 35. Bxc5 exf3 36. Bxd6 Qa6 37. c5 f2
+38. Nc1 b3 39. Rf3 b2 40. Nd3 Qb5 41. Nxb2 Qxb2 42. Rf1 Qd4
+43. Kh2 h5 44. R3xf2 a4 45. Ra2 Qxd5 46. Ra3 Qc6 47. f6 g6
+48. Re1 h4 49. Re7 Qd5 50. Ree3 Kh7 51. Rad3 Qc4 52. Rc3 Qb4
+53. Rcd3 Qb5 54. Rc3 Qc6 55. Re7 Qd5 56. Rce3 Kg8 57. R7e5 Qd2
+58. Re8+ Rxe8 59. Rxe8+ Kh7 60. Re7 Qd5 61. Ra7 Qc4 62. c6 Qe6
+63. Bb4 Qxc6 64. Rxf7+ Kh6 65. Bf8+ Kg5 66. Rh7 Kxf6 67. Rxh4
+Ke6 68. Rf4 Qc7 69. g3 Qc2+ 70. Kg1 Qb1+ 71. Rf1 Qb3 72. Kg2
+g5 73. Rf2 a3 74. Bxa3 Qxa3 75. Kh2 Qc5 76. Kg2 Qc6+ 77. Kh2
+Qe4 78. Rf1 Kd5 79. Kg1 Kd4 80. Rf2 Ke3 81. g4 Kd3 82. Kh2 Qc4
+83. Kg3 Qc5 84. Kg2 Qc6+ 85. Kh2 Qe4 86. Kg1 Qe1+ 87. Kg2 Qa1
+88. Rf3+ Ke4 89. Rf5 Qd1 90. Rf6 Qc2+ 91. Rf2 Qc4 92. Rf5 Qe2+
+93. Kg3 Qd1 94. Kg2 Qb3 95. Rf2 Kd4 96. Rf5 Qa2+ 97. Kg3 Qb2
+98. Rf2 Qa3+ 99. Rf3 Qd6+ 100. Kg2 Qc6 101. Kg3 Ke5 102. Rf5+
+Ke4 103. Rf3 Qa6 104. Kg2 Qa2+ 105. Rf2 Qa8 106. Rf3 Qa6
+107. Rf5 Qd6 108. Rf3 Qd2+ 109. Rf2 Qd5 110. Rf3 Qe5 111. Rf5
+Qb2+ 112. Rf2 Qa3 113. Rf5 Qa7 114. Rf3 Qa8 115. Rf5 Ke3+
+116. Kg1 Qa1+ 117. Rf1 Qc3 118. Kg2 Qc4 119. Rf2 Qd4 120. Kg1
+Qd6 121. Kg2 Qd1 122. Rf5 Qa1 123. Rf3+ Kd2 124. Rf2+ Kc3
+125. Rf3+ 1/2-1/2

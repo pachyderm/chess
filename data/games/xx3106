@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.25"]
+[Result "1-0"]
+[White "Daniel Ebeling"]
+[Black "Johan Salomon"]
+[ECO "A30"]
+[WhiteElo "2445"]
+[BlackElo "2353"]
+[PlyCount "53"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7
+7. Re1 d5 8. cxd5 Nxd5 9. e4 Nxc3 10. bxc3 O-O 11. d4 cxd4
+12. cxd4 Nc6 13. Bb2 Na5 14. Qe2 Rc8 15. Ne5 f6 16. Nd3 Nc4
+17. Nf4 Nxb2 18. Nxe6 Qd6 19. Nxf8 Qxd4 20. Ne6 Qc3 21. Qg4 g6
+22. Nf4 Qd4 23. Qe6+ Kf8 24. e5 Rc2 25. Qxf6+ Kg8 26. Ne6 Bxf6
+27. Nxd4 1-0

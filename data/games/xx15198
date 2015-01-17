@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.16"]
+[Result "0-1"]
+[White "Krikor Sevag Mekhitarian"]
+[Black "Marat Dzhumaev"]
+[ECO "C70"]
+[WhiteElo "2568"]
+[BlackElo "2510"]
+[PlyCount "112"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 5. c3 g6 6. d4 exd4
+7. cxd4 Bg7 8. d5 b5 9. Bc2 Nb4 10. Bb3 a5 11. a3 Na6 12. O-O
+O-O 13. d6 cxd6 14. Qxd6 Bb7 15. Bg5 Nc8 16. Qd2 Qb6 17. Nc3
+Nc5 18. Bc2 Nd6 19. Nd5 Qa6 20. Nc7 Qc6 21. Nxa8 Ndxe4
+22. Bxe4 Nxe4 23. Qe3 Rxa8 24. Rac1 Qe6 25. Rc2 Nd6 26. Re2
+Nc4 27. Qd3 Nxb2 28. Qxb5 Ba6 29. Rxe6 Bxb5 30. Rd6 Bxf1
+31. Kxf1 Nc4 32. Rxd7 Nxa3 33. Be7 Nb5 34. Rb7 Nc3 35. Ba3 a4
+36. Ng5 Rd8 37. g3 h6 38. Nxf7 Rd1+ 39. Kg2 Nb1 40. Bb4 a3
+41. Ra7 Rd3 42. Nd6 Bf8 43. Ra8 a2 44. Ne4 Rd8 45. Rxd8 a1=Q
+46. Rxf8+ Kg7 47. Nf6 h5 48. Ne8+ Kh6 49. Nf6 Qa4 50. Bd6 Qc6+
+51. Kh3 g5 52. Ne8 Qd5 53. Rf6+ Kh7 54. Rf8 Qc4 55. Nf6+ Kg6
+56. Ne8 Qf1# 0-1

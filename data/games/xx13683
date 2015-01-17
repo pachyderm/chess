@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.10"]
+[EventDate "2014.08.02"]
+[Round "8.25"]
+[Result "1-0"]
+[White "Thibaut Vandenbussche"]
+[Black "Jingyao Tin"]
+[ECO "C44"]
+[WhiteElo "2411"]
+[BlackElo "2251"]
+[PlyCount "63"]
+
+1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d3 Bc5 5. O-O d5 6. Nbd2 O-O
+7. c3 Bb6 8. b4 a6 9. h3 Nh5 10. exd5 Qxd5 11. c4 Qd8 12. c5
+Ba7 13. Ne4 Nxb4 14. Nxe5 Qd4 15. Rb1 Qxe5 16. Rxb4 Nf4
+17. Bb2 Nxe2+ 18. Qxe2 Qe6 19. Nf6+ Kh8 20. Rh4 Qf5 21. g4 Qg6
+22. Rxh7+ Qxh7 23. Nxh7 Kxh7 24. Qe5 f6 25. Qe7 Kg8 26. Re1 c6
+27. Re3 b6 28. g5 Bf5 29. gxf6 Rf7 30. Qd6 bxc5 31. Qxc6 Rb8
+32. Re8+ 1-0

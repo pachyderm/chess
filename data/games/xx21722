@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.68"]
+[Result "1-0"]
+[White "Sameer Mansour"]
+[Black "Robert Zerafa"]
+[ECO "E61"]
+[WhiteElo "2249"]
+[BlackElo "2084"]
+[PlyCount "50"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bg5 d6 6. e3 Nfd7
+7. Be2 c5 8. O-O cxd4 9. exd4 Nc6 10. Qd2 Re8 11. Rfe1 Nb6
+12. d5 Ne5 13. Nxe5 Bxe5 14. Bf1 a5 15. c5 Nd7 16. c6 bxc6
+17. dxc6 Nc5 18. f4 Bxc3 19. Qxc3 Qb6 20. Kh1 Ra7 21. Bh6 f6
+22. Qxf6 exf6 23. Rxe8+ Kf7 24. Rxc8 d5 25. Re1 Ne4 1-0

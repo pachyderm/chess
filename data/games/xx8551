@@ -1,0 +1,17 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.05"]
+[EventDate "2014.03.04"]
+[Round "2.45"]
+[Result "0-1"]
+[White "Stefan Bergsson"]
+[Black "Daniel J Cawdery"]
+[ECO "B25"]
+[WhiteElo "2099"]
+[BlackElo "2362"]
+[PlyCount "34"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Bc4 g6 5. Nf3 Bg7 6. Nxd4
+cxd4 7. Qf3 Nh6 8. Ne2 O-O 9. c3 e6 10. Nxd4 d5 11. Bb3 e5
+12. Nb5 dxe4 13. Qxe4 Bf5 14. Qb4 Re8 15. Qc5 Bd3 16. Na3 Qg5
+17. Rg1 Qh5 0-1

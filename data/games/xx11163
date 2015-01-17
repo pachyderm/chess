@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.46"]
+[Result "1-0"]
+[White "Erald Dervishi"]
+[Black "Leonhard Mueller"]
+[ECO "B78"]
+[WhiteElo "2581"]
+[BlackElo "2183"]
+[PlyCount "53"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7
+7. Bc4 O-O 8. f3 Nc6 9. Qd2 Bd7 10. O-O-O Rb8 11. Nxc6 bxc6
+12. Bh6 Qb6 13. b3 Bxh6 14. Qxh6 Qb4 15. Qe3 a5 16. g4 a4
+17. h4 d5 18. exd5 cxd5 19. Nxd5 Nxd5 20. Rxd5 Rfc8 21. Rd4
+Qa3+ 22. Kb1 axb3 23. cxb3 Rc7 24. Qf4 Ra8 25. Qxf7+ Kh8
+26. Rh2 e5 27. Qf6# 1-0

@@ -1,0 +1,30 @@
+[Event "Riga Technical University Open"]
+[Site "Riga LAT"]
+[Date "2014.08.17"]
+[EventDate "2014.08.16"]
+[Round "2.15"]
+[Result "0-1"]
+[White "Julien Lamorelle"]
+[Black "Arturs Neiksans"]
+[ECO "B42"]
+[WhiteElo "2352"]
+[BlackElo "2572"]
+[PlyCount "162"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Be7
+7. c4 d6 8. O-O Nf6 9. Nc3 Nbd7 10. f4 Qc7 11. Qe2 b6 12. Bd2
+Bb7 13. Rae1 O-O 14. e5 Ne8 15. Kh1 g6 16. Nd4 dxe5 17. fxe5
+Bh4 18. Rd1 Qxe5 19. Nf3 Qxe2 20. Bxe2 Bxf3 21. Bxf3 Rd8
+22. Be3 Ng7 23. Bc6 Ne5 24. Bb7 Nxc4 25. Bc1 Nf5 26. g3 Be7
+27. Bxa6 Nce3 28. Rxd8 Rxd8 29. Re1 Ng4 30. Bf4 e5 31. Bc1 Bc5
+32. Kg2 Bd4 33. h3 Nge3+ 34. Bxe3 Nxe3+ 35. Kf3 Nc2 36. Re2
+Nb4 37. Bc4 Rc8 38. Bb3 Bxc3 39. bxc3 Rxc3+ 40. Ke4 Kg7 41. g4
+Nd3 42. Rc2 Nc5+ 43. Kxe5 Rxh3 44. Bd5 Nd3+ 45. Kd6 Nb4
+46. Rb2 Nxd5 47. Kxd5 Rg3 48. Rb4 Ra3 49. Rb2 Ra4 50. g5 Ra5+
+51. Kc6 Rxg5 52. Kxb6 Rg4 53. Kb5 Rg3 54. a4 Ra3 55. a5 h5
+56. Rb4 g5 57. a6 g4 58. Ra4 Rxa4 59. Kxa4 g3 60. a7 g2
+61. a8=Q g1=Q 62. Qd5 Qg4+ 63. Kb5 h4 64. Qe5+ Kh7 65. Qf6
+Qh5+ 66. Kb4 h3 67. Qf4 h2 68. Qe4+ Kg7 69. Qd4+ f6 70. Qd7+
+Qf7 71. Qg4+ Kf8 72. Qf3 Qe7+ 73. Kb3 Qe5 74. Ka2 f5 75. Qa8+
+Kf7 76. Qf3 Kf6 77. Qg2 Qa5+ 78. Kb3 Qb6+ 79. Ka2 Qa7+ 80. Kb3
+Qg1 81. Qb2+ Kg6 0-1

@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.29"]
+[Result "0-1"]
+[White "Jun Hyeok Lee"]
+[Black "Felipe de Cresce El Debs"]
+[ECO "D10"]
+[WhiteElo "1884"]
+[BlackElo "2522"]
+[PlyCount "34"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 Bf5 5. cxd5 cxd5 6. Qb3 Nc6
+7. Qxb7 Bd7 8. Bb5 Rb8 9. Qa6 Nb4 10. Qa4 Rxb5 11. Nxb5 e5
+12. Bd2 Nd3+ 13. Ke2 Qb8 14. Qxa7 Qxb5 15. Qa8+ Ke7 16. a4
+Nf4+ 17. Kf3 Qd3 0-1

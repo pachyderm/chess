@@ -1,0 +1,24 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.27"]
+[Result "1-0"]
+[White "Dejan Marjanovic"]
+[Black "Pierre Gengler"]
+[ECO "B33"]
+[WhiteElo "2373"]
+[BlackElo "2173"]
+[PlyCount "101"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5
+d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4
+12. Nc2 O-O 13. Qf3 Be6 14. Nxf6+ Qxf6 15. Qxf6 gxf6 16. Bd3
+Rfb8 17. b3 a5 18. Kd2 a4 19. g3 Na5 20. Rhb1 Nb7 21. Nxb4 Nc5
+22. Nc2 axb3 23. axb3 Rxa1 24. Nxa1 Ra8 25. Nc2 Ra2 26. Kc3
+Nxd3 27. Kxd3 f5 28. f3 fxe4+ 29. fxe4 f5 30. Ne3 fxe4+
+31. Kxe4 Kf8 32. h4 Ke7 33. Rd1 Rb2 34. Rd3 Bc8 35. Nd5+ Ke8
+36. c5 Bb7 37. cxd6 Re2+ 38. Kf5 e4 39. Re3 Rd2 40. Nf6+ Kf7
+41. Nxh7 Rd5+ 42. Kxe4 Kg7 43. Kf4 Rd4+ 44. Kf5 Rd5+ 45. Ke6
+Kxh7 46. Rc3 Kg6 47. Rc7 Ba8 48. d7 Rd3 49. Rc8 Re3+ 50. Kd6
+Rd3+ 51. Kc7 1-0

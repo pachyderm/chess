@@ -1,0 +1,17 @@
+[Event "Bundesliga"]
+[Site "Katernberg GER"]
+[Date "2014.03.15"]
+[EventDate "2013.10.12"]
+[Round "11"]
+[Result "1-0"]
+[White "Laszlo Gonda"]
+[Black "Stefan Kuipers"]
+[ECO "A09"]
+[WhiteElo "2535"]
+[BlackElo "2411"]
+[PlyCount "39"]
+
+1. Nf3 d5 2. c4 c6 3. e3 Nf6 4. Nc3 e6 5. b3 Nbd7 6. Qc2 Bd6
+7. Bb2 O-O 8. Be2 Qe7 9. O-O a6 10. d4 e5 11. dxe5 Nxe5
+12. cxd5 Bg4 13. Nd4 Bxe2 14. Ncxe2 Nxd5 15. Nf5 Qc7 16. Rad1
+Rad8 17. e4 Ng4 18. exd5 Bxh2+ 19. Kh1 Bg1 20. d6 1-0

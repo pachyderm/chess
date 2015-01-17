@@ -1,0 +1,26 @@
+[Event "Casino Graz"]
+[Site "Graz AUT"]
+[Date "2014.02.14"]
+[EventDate "2014.02.14"]
+[Round "1.10"]
+[Result "0-1"]
+[White "Andreas Wieser"]
+[Black "Evandro Amorim Barbosa"]
+[ECO "B44"]
+[WhiteElo "2107"]
+[BlackElo "2459"]
+[PlyCount "122"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. g3 Qc7 6. Bg2 a6
+7. O-O Nf6 8. Be3 Be7 9. c4 O-O 10. h3 d6 11. b3 Rb8 12. Nc3
+Nxd4 13. Qxd4 b6 14. Rac1 Nd7 15. Rfd1 Bb7 16. Kh2 Rfe8
+17. Qd2 Rbd8 18. Bg5 Nf6 19. Be3 Ba8 20. Qd4 Nd7 21. Qd2 Qb8
+22. Qe2 Bc6 23. a4 Nc5 24. Qc2 Nd7 25. Qe2 Qa8 26. f4 Bf8
+27. Qf2 Nc5 28. Qc2 Qb8 29. Ra1 g6 30. Bd4 Nd7 31. Bg1 Bg7
+32. Rac1 h5 33. Re1 Rc8 34. Qd2 Nc5 35. Rb1 Qb7 36. Bd4 Bh6
+37. h4 e5 38. Bxc5 exf4 39. gxf4 dxc5 40. Nd5 Qb8 41. Rf1 Bg7
+42. e5 Rcd8 43. Qf2 Bd7 44. Rbd1 Bf5 45. Rd2 Kh8 46. Rfd1 Bh6
+47. Qg3 Rd7 48. Bh3 Bxh3 49. Kxh3 b5 50. axb5 axb5 51. Qc3 Bg7
+52. Qe3 bxc4 53. bxc4 Rb7 54. Qxc5 Rb3+ 55. Rd3 Rxd3+ 56. Rxd3
+Qb1 57. Qe3 Ra8 58. Ra3 Rb8 59. Rd3 Qh1+ 60. Kg3 Rb1 61. Qf3
+Rg1+ 0-1

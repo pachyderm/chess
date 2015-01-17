@@ -1,0 +1,17 @@
+[Event "Bundesliga"]
+[Site "Eppingen GER"]
+[Date "2014.04.04"]
+[EventDate "2013.10.12"]
+[Round "13"]
+[Result "0-1"]
+[White "Thomas Reich"]
+[Black "Zoltan Medvegy"]
+[ECO "E15"]
+[WhiteElo "2386"]
+[BlackElo "2536"]
+[PlyCount "37"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 Bxd2+ 6. Qxd2
+Bb7 7. Bg2 O-O 8. Nc3 Ne4 9. Qe3 Nxc3 10. Qxc3 d6 11. O-O Nd7
+12. d5 exd5 13. Nd4 c5 14. Nf5 d4 15. Qc2 Bxg2 16. Kxg2 Nf6
+17. e3 g6 18. Nh4 dxe3 19. Rae1 0-1

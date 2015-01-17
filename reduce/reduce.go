@@ -23,7 +23,10 @@ func bucket(rating int) string {
 func handler(w http.ResponseWriter, r *http.Request) {
 	dec := json.NewDecoder(r.Body)
 
+	i := 0
 	for {
+		log.Printf("Counter: %d.", i)
+		i++
 		var g Game
 		if err := dec.Decode(&g); err == io.EOF {
 			break
@@ -47,7 +50,8 @@ func handler(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
-	log.Print("Listening on port 80...")
+	log.SetFlags(log.Lshortfile)
+	log.Print("Listening on port 8080...")
 	http.HandleFunc("/", handler)
-	log.Fatal(http.ListenAndServe(":80", nil))
+	log.Fatal(http.ListenAndServe(":8080", nil))
 }

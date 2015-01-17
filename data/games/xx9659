@@ -1,0 +1,21 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.3"]
+[Result "0-1"]
+[White "Kjetil A Lie"]
+[Black "Zdenko Kozul"]
+[ECO "B41"]
+[WhiteElo "2528"]
+[BlackElo "2608"]
+[PlyCount "70"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 d6
+7. Bd3 Qb6 8. Be3 Qc7 9. O-O Nbd7 10. f4 b6 11. Rc1 Be7
+12. Qf3 O-O 13. g4 g6 14. g5 Nh5 15. b4 Re8 16. e5 dxe5 17. f5
+Bb7 18. Nd5 exd5 19. fxg6 fxg6 20. Qf7+ Kh8 21. Bxg6 hxg6
+22. Qxg6 Ndf6 23. Qh6+ Kg8 24. Qg6+ Kh8 25. Ne6 Bc5 26. Nxc7
+Bxe3+ 27. Kg2 Bxg5 28. Nxe8 Rxe8 29. Qf7 Ba8 30. c5 bxc5
+31. bxc5 Bc6 32. Qc7 Bb5 33. c6 Rg8 34. Kh3 Bxc1 35. Qxe5
+Bxf1+ 0-1

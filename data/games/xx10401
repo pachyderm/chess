@@ -1,0 +1,17 @@
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2014.03.06"]
+[EventDate "2014.03.04"]
+[Round "4.8"]
+[Result "0-1"]
+[White "Luis Galego"]
+[Black "Li Chao"]
+[ECO "B50"]
+[WhiteElo "2463"]
+[BlackElo "2700"]
+[PlyCount "40"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. g3 Nc6 5. Bg2 g6 6. d4 cxd4
+7. Nxd4 Nxd4 8. Qxd4 Bg7 9. Bg5 O-O 10. Qd2 Qb6 11. O-O-O Be6
+12. Be3 Qa6 13. a3 Rfc8 14. Bd4 b5 15. Bf1 Rab8 16. Kb1 Bg4
+17. Bxf6 Bxf6 18. Nd5 Bxd1 19. Qxd1 Qa4 20. f3 b4 0-1

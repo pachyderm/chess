@@ -1,0 +1,18 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.52"]
+[Result "1-0"]
+[White "Joshua D Ruiz C"]
+[Black "Patrick Li Ying"]
+[ECO "C10"]
+[WhiteElo "2382"]
+[BlackElo "2125"]
+[PlyCount "45"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bg5
+Be7 7. Nxf6+ Bxf6 8. Bxf6 Qxf6 9. Bd3 O-O 10. Qe2 c5 11. c3 b6
+12. Qe4 Qg6 13. Qxa8 Qxd3 14. Rd1 Qa6 15. Qc6 Qxa2 16. O-O
+Qxb2 17. dxc5 Nxc5 18. Qc7 Ba6 19. Rd8 Qb5 20. Rfd1 Nb7
+21. Rxf8+ Kxf8 22. Ne5 Qe8 23. Rd7 1-0

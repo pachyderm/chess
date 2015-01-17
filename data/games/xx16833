@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.11"]
+[EventDate "2014.08.02"]
+[Round "9.55"]
+[Result "1-0"]
+[White "Puchen Wang"]
+[Black "Antoine Kassis"]
+[ECO "D11"]
+[WhiteElo "2449"]
+[BlackElo "2157"]
+[PlyCount "51"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 g6 5. Nc3 Bg7 6. Bd3 Bg4
+7. h3 Bxf3 8. Qxf3 O-O 9. O-O dxc4 10. Bxc4 Nbd7 11. Rd1 e5
+12. d5 e4 13. Nxe4 Nxe4 14. Qxe4 Nb6 15. Bb3 cxd5 16. Bxd5
+Nxd5 17. Rxd5 Qc7 18. Bd2 Bxb2 19. Rb1 Bg7 20. Rc1 Qb6 21. Rd7
+Qa6 22. Qd5 Qf6 23. Bc3 Qxc3 24. Rxc3 Bxc3 25. Rxb7 Rad8
+26. Qb3 1-0

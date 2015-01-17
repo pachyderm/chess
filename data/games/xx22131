@@ -1,0 +1,30 @@
+[Event "TCEC - Season 6 - Stage 4"]
+[Site "http://tcec.chessdom.com"]
+[Date "2014.05.09"]
+[EventDate "2014.05.01"]
+[Round "21"]
+[Result "0-1"]
+[White "Critter (Computer)"]
+[Black "Komodo (Computer)"]
+[ECO "E73"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "163"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 Na6
+7. Nf3 h6 8. Bh4 e5 9. dxe5 dxe5 10. O-O Qxd1 11. Rfxd1 Nc5
+12. Nd2 Ne6 13. f3 Nd4 14. Nb3 g5 15. Bg3 Nxe2+ 16. Nxe2 Nh5
+17. Bf2 g4 18. Nc3 c6 19. fxg4 Bxg4 20. Rd6 Rfe8 21. Na5 Nf4
+22. Rf1 Rec8 23. Be3 Rab8 24. c5 Be6 25. Nb3 Re8 26. Kf2 Kh7
+27. Na5 Rg8 28. g3 Nh5 29. Kg2 Bf8 30. Rd3 Be7 31. b3 Nf6
+32. h3 Kg6 33. Rb1 Rgd8 34. Rbd1 Rxd3 35. Rxd3 Nd7 36. b4 h5
+37. Kh2 Bd8 38. Rd2 Nf6 39. Rd1 Bc7 40. Bc1 Nh7 41. a3 f5
+42. exf5+ Kxf5 43. Rf1+ Kg6 44. Rd1 Nf6 45. Bb2 Bg8 46. Kg1
+Bf7 47. Bc1 Bxa5 48. bxa5 Rg8 49. Rd6 Kf5 50. Kf2 a6 51. Be3
+Bb3 52. Bh6 Bd5 53. a4 Rg6 54. Bd2 Rg7 55. Bc1 Rf7 56. Kg1 Ne4
+57. Nxd5 cxd5 58. Rxd5 Nxg3 59. Bb2 Ne2+ 60. Kh2 Re7 61. Rd6
+Rg7 62. Rh6 Nf4 63. Bc1 Rg2+ 64. Kh1 Rc2 65. Bxf4 Kxf4
+66. Rxh5 Kg3 67. Rg5+ Kxh3 68. Kg1 Rxc5 69. Rg7 Rxa5 70. Kf2
+Rxa4 71. Rxb7 Kg4 72. Ke3 a5 73. Rb8 Ra1 74. Ke4 Re1+ 75. Kd3
+a4 76. Rg8+ Kf5 77. Rf8+ Ke6 78. Ra8 Ra1 79. Ke4 Kd6 80. Rd8+
+Kc7 81. Rd2 a3 82. Kf5 0-1

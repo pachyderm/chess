@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[EventDate "2014.08.02"]
+[Round "7.22"]
+[Result "1-0"]
+[White "Firman Syah Farid"]
+[Black "Rune Djurhuus"]
+[ECO "E62"]
+[WhiteElo "2400"]
+[BlackElo "2436"]
+[PlyCount "57"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nc6
+7. Nc3 Bf5 8. d5 Na5 9. Nd2 c6 10. dxc6 Nxc6 11. b3 d5 12. Bb2
+d4 13. Nd5 Nxd5 14. cxd5 Nb4 15. Nf3 Be4 16. Qd2 Nc2 17. Rac1
+Rc8 18. Ne1 Bxg2 19. Nxg2 Qc7 20. Ne1 d3 21. Bxg7 dxe2
+22. Qxe2 Nd4 23. Bxd4 Qxc1 24. Qxe7 f6 25. Qe6+ Kg7 26. Nf3
+Qc2 27. Ng5 Kh6 28. Qh3+ Kxg5 29. f4# 1-0

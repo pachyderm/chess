@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[EventDate "2014.08.02"]
+[Round "6.71"]
+[Result "0-1"]
+[White "Peter Meier"]
+[Black "Ebrima Bah"]
+[ECO "D11"]
+[WhiteElo "2039"]
+[BlackElo "2070"]
+[PlyCount "120"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. e3 Bd6 5. Bd3 Ne7 6. Qc2 h6
+7. b3 Nd7 8. Bb2 Nf6 9. Nbd2 a5 10. O-O O-O 11. e4 Bc7
+12. Rac1 b6 13. cxd5 exd5 14. e5 Ne8 15. Ba3 Bb7 16. Rfe1 Rc8
+17. Nf1 b5 18. Bc5 Bb6 19. Ng3 Bxc5 20. Qxc5 Qd7 21. Nh4 Nc7
+22. Nhf5 Nxf5 23. Nxf5 Ne6 24. Qc3 b4 25. Qd2 f6 26. Nd6 Nxd4
+27. Nxc8 Bxc8 28. Bh7+ Kxh7 29. Qxd4 fxe5 30. Rxe5 Qd6
+31. Rce1 Qf6 32. Qe3 Bf5 33. Qf4 Qd6 34. Qd2 Rf6 35. f3 Be4
+36. Re8 Bf5 37. Rd1 Qd7 38. Re2 Qa7+ 39. Qe3 Qxe3+ 40. Rxe3
+Rd6 41. Re5 Kg6 42. g4 Be6 43. Kf2 Kf6 44. Rde1 g5 45. R5e2 c5
+46. Rd2 Rc6 47. Ke3 c4 48. Kd4 c3 49. Rc2 a4 50. Rb1 Bf7
+51. Rf1 Re6 52. Kc5 Bg6 53. Rcf2 axb3 54. axb3 c2 55. Kxd5 Re3
+56. f4 Rxb3 57. f5 Bf7+ 58. Kc5 Rb1 59. Rxc2 Rxf1 60. Kxb4
+Rf4+ 0-1

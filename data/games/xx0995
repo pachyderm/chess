@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.54"]
+[Result "0-1"]
+[White "Attallah Tamra"]
+[Black "Andrew Mellace"]
+[ECO "A06"]
+[WhiteElo "2081"]
+[BlackElo "2087"]
+[PlyCount "66"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 Nbd7 4. c4 e6 5. g3 Be7 6. Bg2 O-O
+7. O-O c6 8. Nc3 Re8 9. d3 e5 10. e3 a6 11. Rc1 Bd6 12. Qc2
+Nf8 13. h3 Ng6 14. a3 Qe7 15. b4 a5 16. c5 Bc7 17. Rfe1 Bd7
+18. Nd2 axb4 19. axb4 b6 20. cxb6 Bxb6 21. b5 Rac8 22. bxc6
+Bxc6 23. Qb3 Qb7 24. Nb5 Bxe3 25. Rxc6 Qxc6 26. Rc1 Qb6
+27. Rxc8 Bxf2+ 28. Kh2 Rxc8 29. Bxd5 Nxd5 30. Qxd5 Bg1+
+31. Kh1 Qf2 32. Nf3 Rc2 33. Nd6 Qg2# 0-1

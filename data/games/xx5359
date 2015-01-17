@@ -1,0 +1,22 @@
+[Event "Zurich Chess Challenge (Rapid)"]
+[Site "Zurich SUI"]
+[Date "2014.02.04"]
+[EventDate "2014.02.04"]
+[Round "1"]
+[Result "1-0"]
+[White "Fabiano Caruana"]
+[Black "Hikaru Nakamura"]
+[ECO "A62"]
+[WhiteElo "2781"]
+[BlackElo "2776"]
+[PlyCount "87"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. Nf3 O-O 6. g3 e6
+7. Bg2 exd5 8. cxd5 d6 9. O-O Re8 10. Bf4 a6 11. a4 h6 12. Qc1
+Kh7 13. Re1 Bf5 14. Nh4 Bc8 15. Qc2 Nh5 16. Bd2 Nd7 17. Nf5
+Bf8 18. Ne3 Rb8 19. a5 b5 20. axb6 Nxb6 21. Na4 Nxa4 22. Rxa4
+Ng7 23. Be4 Be7 24. Ba5 Qd7 25. Bc3 Qd8 26. Nc4 Bd7 27. Ra3
+Bb5 28. Na5 Qd7 29. Nc6 Rbc8 30. h4 Bf8 31. Bg2 Nh5 32. Kh2
+Bg7 33. Bh3 f5 34. e4 Kh8 35. exf5 Rxe1 36. Bxe1 Nf6 37. fxg6
+Ng4+ 38. Kg1 Qe8 39. Bc3 Bxc6 40. dxc6 h5 41. Bxg4 hxg4
+42. Qf5 Bxc3 43. Rxc3 Qe1+ 44. Kh2 1-0

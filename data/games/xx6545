@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.04"]
+[EventDate "2014.08.02"]
+[Round "3.59"]
+[Result "0-1"]
+[White "Catarino Domingos"]
+[Black "Jorge Viterbo Ferreira"]
+[ECO "B06"]
+[WhiteElo "2280"]
+[BlackElo "2413"]
+[PlyCount "40"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 a6 5. a4 b6 6. Bc4 e6
+7. O-O Ne7 8. Be3 Nd7 9. Qe2 h6 10. Ne1 Bb7 11. f4 O-O 12. Bd3
+c5 13. dxc5 bxc5 14. Nd1 d5 15. exd5 exd5 16. c3 d4 17. Bd2
+Re8 18. Kh1 Nf5 19. Qf2 Nf6 20. cxd4 Ng4 0-1

@@ -1,0 +1,19 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.2"]
+[Result "1-0"]
+[White "Alexander Moiseenko"]
+[Black "Aryan Tari"]
+[ECO "D85"]
+[WhiteElo "2707"]
+[BlackElo "2440"]
+[PlyCount "55"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Nb6 6. e3 Bg7
+7. f4 c5 8. dxc5 N6d7 9. Ne4 O-O 10. Nf3 Bxb2 11. Rb1 Bg7
+12. Bc4 Nc6 13. O-O Nf6 14. Neg5 h6 15. Nxf7 Rxf7 16. Ne5 e6
+17. Nxf7 Kxf7 18. Qc2 Qc7 19. f5 gxf5 20. Rxf5 Ke7 21. Rf4 Ne5
+22. Bc3 Bd7 23. Rxf6 Bxf6 24. Qh7+ Kd8 25. Qg8+ Ke7 26. Qxa8
+Bc8 27. Be2 Kf7 28. Qxa7 1-0

@@ -1,0 +1,28 @@
+[Event "Bundesliga"]
+[Site "Viernheim GER"]
+[Date "2014.02.22"]
+[EventDate "2013.10.12"]
+[Round "9"]
+[Result "1-0"]
+[White "Michael Mueller"]
+[Black "Nico Zwirs"]
+[ECO "A48"]
+[WhiteElo "2219"]
+[BlackElo "2265"]
+[PlyCount "145"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. h3 d6 6. Bc4 Nbd7
+7. O-O b6 8. Nbd2 Bb7 9. Qe2 a6 10. a4 Qe8 11. Rfd1 e5
+12. dxe5 dxe5 13. Bg5 Nc5 14. Bb3 Nh5 15. e4 h6 16. Be3 Nxe4
+17. Nxe4 Bxe4 18. a5 Nf4 19. Bxf4 exf4 20. axb6 cxb6 21. Rd6
+Bxb2 22. Ra2 Bg7 23. Rxb6 a5 24. Nd2 Qd8 25. Nc4 Bd5 26. Rb5
+a4 27. Rxa4 Rxa4 28. Bxa4 Bxg2 29. Kxg2 Qa8+ 30. Qf3 Qxa4
+31. Qb3 Qa8+ 32. Qf3 Qa4 33. Qb3 Qa8+ 34. Qf3 Qc8 35. Qd5 Qe6
+36. Qxe6 fxe6 37. Rc5 f3+ 38. Kg3 Bd4 39. Rc6 Rf6 40. h4 g5
+41. h5 Kf7 42. c3 Bxc3 43. Nd6+ Ke7 44. Nc8+ Kd7 45. Rxc3 e5
+46. Na7 e4 47. Nb5 Rf4 48. Na3 Rh4 49. Nc4 Ke6 50. Ne3 Rxh5
+51. Rc6+ Ke5 52. Ng4+ Kd5 53. Rc1 Rh4 54. Rd1+ Kc4 55. Ne3+
+Kc3 56. Nf5 Rf4 57. Nxh6 Kc2 58. Ra1 Kd2 59. Ng4 Rf5 60. Ne3
+Rb5 61. Rd1+ Kc3 62. Nd5+ Kc4 63. Nf6 Re5 64. Re1 Kd4 65. Re3
+Re6 66. Nh7 Ke5 67. Kg4 Rg6 68. Ra3 Rd6 69. Nxg5 Rd4 70. Kg3
+Rd1 71. Ra5+ Kd4 72. Ra4+ Kd5 73. Nxe4 1-0

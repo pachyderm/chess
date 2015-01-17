@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[EventDate "2014.08.02"]
+[Round "2.50"]
+[Result "0-1"]
+[White "Joseph Caluag"]
+[Black "Keshav Shrestha"]
+[ECO "C50"]
+[WhiteElo "?"]
+[BlackElo "2137"]
+[PlyCount "118"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. O-O d6 6. h3 Be6
+7. Bxe6 fxe6 8. d3 O-O 9. Na4 Bb6 10. Nxb6 axb6 11. c3 Qe8
+12. b4 h6 13. Be3 Nh5 14. g3 Qf7 15. Nh2 Qg6 16. Qg4 Qxg4
+17. Nxg4 Ra3 18. Rfc1 b5 19. Rc2 d5 20. Bc1 Ra4 21. a3 Rf3
+22. Ne3 d4 23. Kg2 Rf7 24. Ng4 Rd7 25. Bb2 Nf6 26. Nxf6+ gxf6
+27. c4 bxc4 28. Rxc4 Na7 29. Bc1 Kg7 30. f4 exf4 31. Bxf4 e5
+32. Bc1 Nb5 33. Rc2 Rd8 34. Kf2 Rda8 35. Ke2 c6 36. g4 Rxb4
+37. axb4 Rxa1 38. Kd2 Rb1 39. Rb2 Rxb2+ 40. Bxb2 Kg6 41. Ke2
+h5 42. Bc1 hxg4 43. hxg4 Nc7 44. Kf3 Ne6 45. Bd2 c5 46. b5 b6
+47. g5 Nxg5+ 48. Ke2 Ne6 49. Kd1 Nc7 50. Kc2 Nxb5 51. Kb3 Nd6
+52. Bc1 b5 53. Bd2 c4+ 54. Kc2 c3 55. Bc1 f5 56. Ba3 Nf7
+57. Kb3 fxe4 58. dxe4 Ng5 59. Bd6 Kf6 0-1

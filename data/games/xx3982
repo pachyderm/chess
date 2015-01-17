@@ -1,0 +1,28 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.12"]
+[EventDate "2014.08.02"]
+[Round "10.55"]
+[Result "0-1"]
+[White "Samir Nadir"]
+[Black "Thanadon Kulpruethanon"]
+[ECO "A43"]
+[WhiteElo "2141"]
+[BlackElo "2143"]
+[PlyCount "140"]
+
+1. d4 c5 2. Nf3 cxd4 3. Nxd4 Nf6 4. c4 g6 5. Nc3 Bg7 6. e4 d6
+7. Be2 O-O 8. O-O Nc6 9. Nc2 Be6 10. Bg5 Re8 11. Qd2 Rc8
+12. b3 Qa5 13. Rac1 Nd7 14. Na4 Qxd2 15. Bxd2 Nc5 16. Nxc5
+dxc5 17. Be3 b6 18. f4 Bb2 19. Rcd1 Rcd8 20. Kf2 Bc8 21. g4 e5
+22. f5 f6 23. h4 Bd4 24. Kg3 Bxe3 25. Nxe3 Nd4 26. Bd3 gxf5
+27. exf5 e4 28. Bb1 Bb7 29. Rf2 h6 30. Kf4 Kf7 31. Rg2 Re7
+32. g5 hxg5+ 33. hxg5 fxg5+ 34. Kxg5 Rg8+ 35. Kf4 Rxg2
+36. Nxg2 e3 37. Nxe3 Ne2+ 38. Kg5 Rxe3 39. Rd7+ Re7 40. Rd6
+Be4 41. Rf6+ Ke8 42. Bxe4 Rxe4 43. Rh6 Nd4 44. Rh8+ Kd7
+45. Rh7+ Re7 46. Rh1 Re2 47. Rh7+ Kd6 48. Rxa7 Rg2+ 49. Kf4
+Rf2+ 50. Ke4 Rxf5 51. b4 Re5+ 52. Kd3 Nc6 53. bxc5+ Kxc5
+54. Rc7 Rh5 55. Kc2 Rh2+ 56. Kb3 Kd6 57. Rg7 Na5+ 58. Kc3 Rxa2
+59. Rg6+ Kc5 60. Rg5+ Kc6 61. Rg6+ Kb7 62. Rg7+ Ka6 63. Rg5
+Ra4 64. Rg4 Rxc4+ 65. Rxc4 Nxc4 66. Kxc4 Ka5 67. Kc3 Ka4
+68. Kc4 b5+ 69. Kc3 Ka3 70. Kc2 b4 0-1

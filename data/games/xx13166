@@ -1,0 +1,25 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.05"]
+[EventDate "2014.08.02"]
+[Round "4.80"]
+[Result "1-0"]
+[White "Toby Brookfield"]
+[Black "Alexis Ruzigura"]
+[ECO "C25"]
+[WhiteElo "1889"]
+[BlackElo "?"]
+[PlyCount "117"]
+
+1. e4 e5 2. f4 d6 3. Nc3 c6 4. Bc4 Nf6 5. d3 b5 6. Bb3 Bg4
+7. Nf3 b4 8. Ne2 Bxf3 9. gxf3 Nbd7 10. Ng3 a5 11. fxe5 dxe5
+12. Ba4 Rc8 13. Be3 Nc5 14. Bb3 Nxb3 15. axb3 c5 16. Qe2 g6
+17. Rg1 h5 18. h4 Nh7 19. O-O-O Qxh4 20. d4 Qf6 21. dxe5 Qc6
+22. Qc4 h4 23. Ne2 a4 24. Nf4 a3 25. bxa3 bxa3 26. e6 fxe6
+27. Rxg6 Be7 28. Rxe6 a2 29. Qc3 Kf7 30. Rxc6 Ra8 31. Qc4+ Ke8
+32. Ra6 a1=Q+ 33. Rxa1 Rxa1+ 34. Kd2 Rxd1+ 35. Kxd1 Nf8
+36. Nh3 Nd7 37. f4 Rf8 38. Ke2 Rf6 39. Bf2 Rg6 40. Kf3 Nb6
+41. Qb5+ Nd7 42. Ng5 Rh6 43. Kg4 Rg6 44. Bxh4 Kd8 45. Kf3 Ke8
+46. Ke3 Rh6 47. Bg3 Rg6 48. Qc4 Rg7 49. Qe6 Kd8 50. Be1 Ke8
+51. Bc3 Rxg5 52. fxg5 Nf8 53. Qc8+ Kf7 54. Qf5+ Kg8 55. g6
+Nxg6 56. Qxg6+ Kf8 57. Bg7+ Kg8 58. Bh6+ Kh8 59. Qg7# 1-0

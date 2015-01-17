@@ -1,0 +1,20 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.14"]
+[EventDate "2014.08.02"]
+[Round "11.56"]
+[Result "0-1"]
+[White "Alejandro Montalvo Rosario"]
+[Black "Daniel Jose Queralto"]
+[ECO "D00"]
+[WhiteElo "2296"]
+[BlackElo "2122"]
+[PlyCount "62"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. c3 Nc6 5. Bd3 Qb6 6. b3 Bg4
+7. f3 Bd7 8. Ne2 Nh5 9. Bg5 e5 10. dxe5 Nxe5 11. Bc2 f6
+12. Bh4 O-O-O 13. Bf2 g5 14. O-O Be6 15. Nd2 Ng7 16. b4 cxb4
+17. cxb4 Bxb4 18. Rb1 Nc4 19. Nxc4 dxc4 20. Nd4 Qa5 21. Qe2
+Bf7 22. Be4 f5 23. Nxf5 Nxf5 24. Bxf5+ Qxf5 25. Rxb4 Qd3
+26. Qb2 c3 27. Qa3 c2 28. Qb2 Qxf1+ 29. Kxf1 Rd1+ 30. Ke2 c1=Q
+31. Qxh8+ Rd8 0-1

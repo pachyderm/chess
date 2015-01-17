@@ -1,0 +1,15 @@
+[Event "Norway Chess Tournament (Blitz)"]
+[Site "Flor & Fjaere NOR"]
+[Date "2014.06.02"]
+[EventDate "2014.06.02"]
+[Round "6.2"]
+[Result "1-0"]
+[White "Magnus Carlsen"]
+[Black "Fabiano Caruana"]
+[ECO "C07"]
+[WhiteElo "2881"]
+[BlackElo "2791"]
+[PlyCount "21"]
+
+1. d4 e6 2. e4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Nf6 6. exd5
+Qxd5 7. Nb5 Na6 8. Nc3 Qd8 9. a3 Be7 10. Qf3 O-O 11. Bxa6 1-0

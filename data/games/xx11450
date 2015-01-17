@@ -1,0 +1,19 @@
+[Event "Tata Steel (Group B)"]
+[Site "Wijk aan Zee NED"]
+[Date "2014.01.17"]
+[EventDate "2014.01.11"]
+[Round "6"]
+[Result "0-1"]
+[White "Merijn van Delft"]
+[Black "Radoslaw Wojtaszek"]
+[ECO "B90"]
+[WhiteElo "2430"]
+[BlackElo "2711"]
+[PlyCount "56"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5
+7. Nb3 Be6 8. Be3 Nbd7 9. f4 Rc8 10. Qf3 b5 11. f5 Bxb3
+12. cxb3 d5 13. exd5 Bb4 14. O-O-O O-O 15. Kb1 Bxc3 16. bxc3
+Rxc3 17. Qe2 Ne4 18. Qe1 Rc8 19. Rc1 Ndf6 20. Rxc8 Qxc8 21. g4
+Nxd5 22. Bg2 Nec3+ 23. Kb2 Nd1+ 24. Qxd1 Qc3+ 25. Kb1 Nxe3
+26. Qe2 Rd8 27. Rc1 Qd4 28. a3 e4 0-1

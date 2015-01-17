@@ -1,0 +1,25 @@
+[Event "Bundesliga"]
+[Site "Eppingen GER"]
+[Date "2014.04.06"]
+[EventDate "2013.10.12"]
+[Round "15"]
+[Result "0-1"]
+[White "Thomas Thiel"]
+[Black "Jan Hobusch"]
+[ECO "B10"]
+[WhiteElo "2296"]
+[BlackElo "2080"]
+[PlyCount "110"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Nc3 Nxd5 6. Nf3
+e6 7. d4 Bb4 8. Qc2 Nc6 9. Bd3 h6 10. O-O O-O 11. Rd1 Nce7
+12. Ne5 Bd7 13. a3 Bd6 14. Qe2 Rc8 15. Bd2 Bc6 16. Rac1 Nf6
+17. Bb1 Ned5 18. Ne4 Nxe4 19. Nxc6 Bxh2+ 20. Kh1 Qh4 21. Qxe4
+Bf4+ 22. Kg1 Qh2+ 23. Kf1 f5 24. Ne7+ Kh7 25. Rxc8 fxe4
+26. Bxe4+ g6 27. Rxf8 Kg7 28. Nxd5 Bxd2 29. Rd8 exd5 30. Bxd5
+Ba5 31. Rd7+ Kf6 32. Bf3 Qf4 33. Rxb7 Bb6 34. Rd7 Qf5 35. Rd6+
+Ke7 36. Rd5 Qc8 37. a4 Qc4+ 38. Kg1 Qxa4 39. Re5+ Kf6 40. g3
+Qb4 41. Kg2 Qxb2 42. Re2 Qb4 43. d5 Bc5 44. Re6+ Kf7 45. Rc6
+Bd6 46. Ra6 h5 47. Rxa7+ Kf6 48. Ra6 Kf5 49. Rc1 Bxg3 50. Rcc6
+Bh4 51. d6 Qd2 52. Rc5+ Kf6 53. d7+ Kg7 54. Rxg6+ Kxg6
+55. Be4+ Kh6 0-1

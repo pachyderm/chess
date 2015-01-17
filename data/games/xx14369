@@ -1,0 +1,26 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.57"]
+[Result "1-0"]
+[White "Pierre Gengler"]
+[Black "Persson Abrantes"]
+[ECO "C53"]
+[WhiteElo "2173"]
+[BlackElo "1986"]
+[PlyCount "127"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 h6 6. Nbd2 d6
+7. Nf1 a6 8. Bb3 Bg4 9. h3 Bh5 10. Ng3 Bg6 11. O-O Ba7 12. Nh4
+Ne7 13. Nxg6 Nxg6 14. Nf5 Kf8 15. Qf3 c6 16. h4 d5 17. h5 Nf4
+18. Bxf4 exf4 19. e5 Nxh5 20. Qxh5 g6 21. Qf3 gxf5 22. Qxf4
+Qg5 23. Qb4+ Qe7 24. Qf4 Qe6 25. d4 Rg8 26. Bc2 Rg5 27. g3 Ke7
+28. Kg2 Rag8 29. Rh1 h5 30. Rh3 Qg6 31. Rah1 Ke6 32. Bd1 Rh8
+33. Qe3 Bb6 34. f4 Rg4 35. Bxg4 fxg4 36. R3h2 Qc2+ 37. Kf1
+Qb1+ 38. Qe1 Qd3+ 39. Kg1 Qf5 40. Qd2 Qb1+ 41. Kf2 Qf5 42. Ke1
+Qe4+ 43. Qe2 Qb1+ 44. Qd1 Qe4+ 45. Kd2 c5 46. Qb3 Ba5 47. Qxb7
+Qxd4+ 48. Kc2 Qe4+ 49. Kc1 Qe3+ 50. Rd2 Qf3 51. Qxa6+ Kd7
+52. Rhd1 d4 53. Qxa5 Rc8 54. Qb5+ Kd8 55. Rxd4+ cxd4 56. Rxd4+
+Ke7 57. Qd7+ Kf8 58. Qxc8+ Kg7 59. Qf5 Qe3+ 60. Kc2 Qxg3
+61. e6 Qg2+ 62. Rd2 Qb7 63. exf7 Qe7 64. f8=B+ 1-0

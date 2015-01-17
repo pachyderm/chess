@@ -1,0 +1,24 @@
+[Event "Bundesliga"]
+[Site "Eppingen GER"]
+[Date "2014.04.05"]
+[EventDate "2013.10.12"]
+[Round "14"]
+[Result "1-0"]
+[White "Etienne Bacrot"]
+[Black "Csaba Balogh"]
+[ECO "D10"]
+[WhiteElo "2730"]
+[BlackElo "2632"]
+[PlyCount "103"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Nf3 Bf5 6. Ne5 Nbd7
+7. Qb3 Qc7 8. cxd5 Nxe5 9. dxe5 Nxd5 10. Nxd5 cxd5 11. Bd2 e6
+12. Rc1 Qd7 13. Be2 Be7 14. Ba5 Rc8 15. Rxc8+ Qxc8 16. Kd2 O-O
+17. Rc1 Qa8 18. Qc3 h6 19. a3 Re8 20. g3 Bg6 21. h4 Kh8 22. h5
+Be4 23. Bb6 Bd8 24. Bd4 Kg8 25. Qc5 Be7 26. Qc7 Bf8 27. f3 Bh7
+28. Bb6 f6 29. exf6 gxf6 30. Qf4 Kg7 31. Rc7+ Re7 32. Bc5 Rxc7
+33. Qxc7+ Kh8 34. Bxf8 Qxf8 35. Qxb7 Qc5 36. Qf7 Qc2+ 37. Ke1
+Qc1+ 38. Kf2 Qxb2 39. Qf8+ Bg8 40. Qxh6+ Bh7 41. Qf8+ Bg8
+42. h6 f5 43. Qg7+ Qxg7 44. hxg7+ Kxg7 45. Bxa6 Kf6 46. a4 Ke7
+47. a5 Kd6 48. Bb5 Bf7 49. f4 Bh5 50. a6 Kc7 51. Bd7 Bf7
+52. Ke1 1-0

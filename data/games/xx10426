@@ -1,0 +1,17 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[EventDate "2014.08.02"]
+[Round "1.1"]
+[Result "0-1"]
+[White "Alshouha Basil"]
+[Black "Alexander Grischuk"]
+[ECO "B50"]
+[WhiteElo "2135"]
+[BlackElo "2795"]
+[PlyCount "32"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Bc4 Nf6 5. Qe2 Nc6 6. c3 Bg4
+7. cxd4 Nxd4 8. Bxf7+ Kxf7 9. Qc4+ Ne6 10. Ng5+ Ke8 11. Nxe6
+Rc8 12. Qa4+ Qd7 13. Qxd7+ Nxd7 14. Nxg7+ Bxg7 15. Nd2 Ne5
+16. f3 Bd7 0-1

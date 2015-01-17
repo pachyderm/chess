@@ -1,0 +1,21 @@
+[Event "TCEC - Season 6 - Stage 3"]
+[Site "http://tcec.chessdom.com/"]
+[Date "2014.04.17"]
+[EventDate "2014.04.10"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Stockfish (Computer)"]
+[Black "Fire (Computer)"]
+[ECO "B90"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "78"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6
+7. Bb3 Be7 8. f4 Nc6 9. Be3 O-O 10. O-O d5 11. e5 Nd7 12. Qh5
+g6 13. Qh6 Re8 14. Nf3 Bf8 15. Qh3 Bg7 16. Ng5 h6 17. Nxf7
+Kxf7 18. f5 Ndxe5 19. fxe6+ Kg8 20. Nxd5 Bxe6 21. Nf6+ Qxf6
+22. Rxf6 Bxb3 23. Rd6 Bxc2 24. Bxh6 Nf7 25. Bxg7 Nxd6 26. Qh8+
+Kf7 27. Rf1+ Ke6 28. Qh3+ Bf5 29. g4 Be4 30. Rd1 Kd7 31. Qb3
+Nd8 32. Qc3 Nf7 33. Qf6 Kc6 34. Bh6 g5 35. a3 Rg8 36. Rc1+ Kd7
+37. Rd1 Kc6 38. Rc1+ Kd7 39. Rd1 Kc6 1/2-1/2

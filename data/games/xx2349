@@ -1,0 +1,25 @@
+[Event "Bundesliga"]
+[Site "Hamburg GER"]
+[Date "2014.02.22"]
+[EventDate "2013.10.12"]
+[Round "9"]
+[Result "0-1"]
+[White "Wouter Spoelman"]
+[Black "Lubomir Ftacnik"]
+[ECO "A15"]
+[WhiteElo "2578"]
+[BlackElo "2546"]
+[PlyCount "118"]
+
+1. c4 Nf6 2. g3 c6 3. Bg2 d5 4. Nf3 g6 5. b3 Bg7 6. Bb2 O-O
+7. d3 Nbd7 8. O-O Re8 9. Nc3 e5 10. cxd5 Nxd5 11. Nxd5 cxd5
+12. Rc1 e4 13. Nd4 Qb6 14. dxe4 dxe4 15. Qd2 Nf6 16. Rc4 Bd7
+17. e3 Rac8 18. Rfc1 Rxc4 19. Rxc4 Rc8 20. Rxc8+ Bxc8 21. Ne2
+Bf5 22. Be5 Ne8 23. Bxg7 Kxg7 24. Qd5 Nf6 25. Qe5 Qe6 26. Qd4
+Qd7 27. Nc3 Qxd4 28. exd4 Kf8 29. Kf1 Ke7 30. Ke2 b6 31. h3 h5
+32. Ke3 Ke6 33. Bf1 g5 34. Bc4+ Ke7 35. h4 Ng4+ 36. Ke2 gxh4
+37. gxh4 Nh6 38. Ke3 Bg6 39. Kf4 Nf5 40. Nxe4 Nxh4 41. d5 Nf5
+42. Ke5 Nd6 43. Nf6 Nxc4+ 44. bxc4 h4 45. d6+ Kd8 46. Kf4 Bd3
+47. Kg4 Bxc4 48. a3 b5 49. Kxh4 a5 50. Ne4 b4 51. axb4 a4
+52. b5 Bxb5 53. Nc5 a3 54. Nb3 Kd7 55. Kg5 Kxd6 56. Kf6 a2
+57. Na1 Kd5 58. Kxf7 Kc4 59. f4 Kc3 0-1

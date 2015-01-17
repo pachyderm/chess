@@ -1,0 +1,25 @@
+[Event "Riga Technical University Open"]
+[Site "Riga LAT"]
+[Date "2014.08.16"]
+[EventDate "2014.08.16"]
+[Round "1.9"]
+[Result "0-1"]
+[White "Jaan Narva"]
+[Black "Alexey Goganov"]
+[ECO "B40"]
+[WhiteElo "2247"]
+[BlackElo "2604"]
+[PlyCount "114"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. Qxd4 Nc6
+7. Qe4 f5 8. exf6 Nxf6 9. Qc2 Be7 10. Bd3 O-O 11. Bf4 Qe8
+12. Ng5 g6 13. h4 e5 14. Bg3 d5 15. Nd2 e4 16. Be2 Bf5 17. Qb3
+Na5 18. Qb5 Qxb5 19. Bxb5 a6 20. Be2 Nc6 21. Nb3 Rac8 22. Rd1
+Rfd8 23. Bf4 h6 24. Nh3 Ng4 25. f3 Bxh4+ 26. Kf1 Nge5 27. Bxh6
+exf3 28. gxf3 Nc4 29. Bc1 Bc2 30. Nf4 Bxd1 31. Bxd1 g5 32. Ng2
+d4 33. Nxh4 dxc3 34. Be2 Nd2+ 35. Kf2 gxh4 36. bxc3 Nxb3
+37. axb3 Ne5 38. Bg5 Rd5 39. Rxh4 Rxc3 40. Bf6 Rc2 41. Re4 Nc6
+42. Kg3 b5 43. f4 Rd6 44. Bg5 Rc3+ 45. Kh4 Nd4 46. Bh5 Re3
+47. Re5 Rxe5 48. fxe5 Re6 49. Bf6 Nxb3 50. Kg5 b4 51. Kf5 Nc5
+52. Bd1 Kf7 53. Bg5 b3 54. Be3 b2 55. Bc2 Rc6 56. Bb1 Ne6
+57. Ba2 Ke7 0-1

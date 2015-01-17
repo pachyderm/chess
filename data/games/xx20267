@@ -1,0 +1,27 @@
+[Event "Chess Olympiad"]
+[Site "Tromso NOR"]
+[Date "2014.08.06"]
+[EventDate "2014.08.02"]
+[Round "5.7"]
+[Result "0-1"]
+[White "Baris Esen"]
+[Black "Pavel Kotsur"]
+[ECO "E11"]
+[WhiteElo "2589"]
+[BlackElo "2559"]
+[PlyCount "134"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. g3 b6
+7. Bg2 Bb7 8. O-O c5 9. d5 exd5 10. Nh4 g6 11. Nb1 Nh5
+12. Bxd5 Bxd5 13. Qxd5 Nc6 14. Nf3 Nf6 15. Qd1 d5 16. Qa4 Na5
+17. Bh6 Re8 18. cxd5 Qxd5 19. Nc3 Qc4 20. Qxc4 Nxc4 21. Rab1
+Bf8 22. Bxf8 Kxf8 23. Rfc1 Rad8 24. Rc2 Rd7 25. Kf1 Ng4
+26. Kg1 Red8 27. h3 Nge5 28. Nxe5 Nxe5 29. Kf1 f5 30. Ke1 Kf7
+31. Rcc1 Re7 32. Rd1 Nf3+ 33. Kf1 Nd2+ 34. Ke1 Red7 35. Rbc1
+Ke6 36. h4 h6 37. Rc2 Nb3 38. Rxd7 Rxd7 39. e3 g5 40. hxg5
+hxg5 41. Ke2 g4 42. f3 gxf3+ 43. Kxf3 Ke5 44. g4 fxg4+
+45. Kxg4 Rd2 46. Rxd2 Nxd2 47. Kg3 Nc4 48. b4 Nxa3 49. bxc5 b5
+50. Kf3 b4 51. Na4 Nc4 52. Ke2 Kd5 53. Kd3 Ne5+ 54. Kc2 Kc4
+55. Kb2 Nd3+ 56. Kc2 Nxc5 57. Nb2+ Kd5 58. Nd1 a6 59. Nf2 a5
+60. Ng4 a4 61. Kb2 Nd3+ 62. Kc2 Kc4 63. e4 Kd4 64. Nf6 b3+
+65. Kb1 a3 66. Nd5 a2+ 67. Ka1 Ne1 0-1
