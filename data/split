@@ -1,0 +1,16 @@
+#!/usr/bin/python
+import fileinput
+
+count = 0
+f = None
+
+for line in fileinput.input():
+    if line.startswith("[Event "):
+        if f:
+            f.close()
+        f = open("file%.9d" % count, "w")
+        count += 1
+    if f:
+        f.write(line)
+
+f.close()

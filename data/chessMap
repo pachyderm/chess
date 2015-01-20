@@ -1,1 +1,1 @@
-{"type" : "map", "input" : "games", "image" : "pachyderm/chess", "command" : ["/bin/map"]}
+{"type" : "map", "input" : "all_games", "image" : "pachyderm/chess", "command" : ["/bin/map"]}
