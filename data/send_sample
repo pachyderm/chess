@@ -1,0 +1,16 @@
+#!/bin/sh
+post () {
+    curl -s -XPOST $1/file/$2 -T $2
+}
+
+for f in `ls sample/*`
+do
+    post $1 "$f" &
+    sleep .01
+done
+
+wait
+
+curl -s -XPOST $1/job/chessMap -T chessMap
+curl -s -XPOST $1/job/chessReduce -T chessReduce
+curl -s -XPOST '$1/commit?run'
