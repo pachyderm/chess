@@ -9,6 +9,7 @@ import (
 	"net/http"
 	"os/exec"
 	"strings"
+	"testing/iotest"
 )
 
 func runCrafty(game string, out io.Writer) error {
@@ -101,14 +102,14 @@ func handler(w http.ResponseWriter, r *http.Request) {
 	}
 	defer f.Close()
 	//defer os.Remove(f.Name())
-	_, err = io.Copy(f, r.Body)
+	_, err = io.Copy(f, iotest.NewReadLogger("MapIn", r.Body))
 	if err != nil {
 		log.Print(err)
 		http.Error(w, err.Error(), 500)
 		return
 	}
 
-	err = runCrafty(f.Name(), w)
+	err = runCrafty(f.Name(), iotest.NewWriteLogger("MapOut", w))
 	if err != nil {
 		log.Print(err)
 		http.Error(w, err.Error(), 500)
