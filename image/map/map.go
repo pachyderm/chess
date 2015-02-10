@@ -80,7 +80,7 @@ func runCrafty(game string, out io.Writer) error {
 			log.Print("Command had output on stderr.\n Cmd: ", strings.Join(c.Args, " "), "\nstderr: ", buf)
 		}
 
-		log.Print("Waiting for crafty...")
+		log.Print("Waiting for json conversion...")
 		err = c.Wait()
 		if err != nil {
 			log.Print(err)
@@ -93,6 +93,8 @@ func runCrafty(game string, out io.Writer) error {
 }
 
 func handler(w http.ResponseWriter, r *http.Request) {
+	fmt.Fprint(w, "TEST")
+	return
 	log.Print("Start")
 	f, err := ioutil.TempFile("", "game")
 	if err != nil {
