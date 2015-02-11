@@ -94,6 +94,7 @@ func runCrafty(game string, out io.Writer) error {
 
 func handler(w http.ResponseWriter, r *http.Request) {
 	log.Print("Start")
+
 	f, err := ioutil.TempFile("", "game")
 	if err != nil {
 		log.Print(err)
