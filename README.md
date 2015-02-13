@@ -25,3 +25,4 @@ to pfs. This container already exists in docker hub at `pachyderm/chess` but
 you can use the Dockerfile to create a container with your own jobs. To use
 your new jobs you'll need to change the image used in data/chessMap and
 data/chessReduce.
+
