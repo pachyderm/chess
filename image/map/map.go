@@ -2,19 +2,15 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
 	"log"
+	"math"
 	"net/http"
-	"os"
 
 	"github.com/jdoliner/uci"
 	"github.com/wfreeman/pgn"
 )
 
 var msPerMove int = 2000
-
-func handler(w http.ResponseWriter, r *http.Request) {
-}
 
 type Score struct {
 	Position        string   `json:"position"`
@@ -27,22 +23,28 @@ type Score struct {
 	WhiteElo        string   `json:"white-elo"`
 	BlackElo        string   `json:"black-elo"`
 	HalfMoves       int      `json:"half-moves"`
+	TotalHalfMoves  int      `json:"total-half-moves"`
+	Event           string   `json:"event"`
+	Result          string   `json:"result"`
+	Mover           string   `json:"result"`
 }
 
-func main() {
-	//log.Print("Listening on port 80...")
-	//http.HandleFunc("/", handler)
-	//log.Fatal(http.ListenAndServe(":80", nil))
-	f, err := os.Open("../../data/sample/xx0005")
-	if err != nil {
-		log.Fatal(err)
+func getScore(s uci.ScoreResult) int {
+	if s.Mate && s.Score > 0 {
+		return math.MaxInt32
+	} else if s.Mate && s.Score < 0 {
+		return math.MinInt32
+	} else {
+		return s.Score
 	}
-	defer f.Close()
-	ps := pgn.NewPGNScanner(f)
+}
+
+func handler(w http.ResponseWriter, r *http.Request) {
+	ps := pgn.NewPGNScanner(r.Body)
 
 	eng, err := uci.NewEngine("/usr/games/stockfish")
 	if err != nil {
-		log.Fatal(err)
+		http.Error(w, err.Error(), 500)
 	}
 
 	// set some engine options
@@ -53,18 +55,15 @@ func main() {
 		MultiPV: 4,
 	})
 
-	encoder := json.NewEncoder(os.Stdout)
+	encoder := json.NewEncoder(w)
 
 	// while there's more to read in the file
 	for ps.Next() {
 		// scan the next game
 		game, err := ps.Scan()
 		if err != nil {
-			log.Fatal(err)
+			http.Error(w, err.Error(), 500)
 		}
-
-		// print out tags
-		fmt.Println(game.Tags)
 
 		var score Score
 		// make a new board so we can get FEN positions
@@ -76,14 +75,16 @@ func main() {
 			resultOpts := uci.HighestDepthOnly
 			results, err := eng.Go("movetime", msPerMove, resultOpts)
 			if err != nil {
-				log.Fatal(err)
+				http.Error(w, err.Error(), 500)
 			}
 			scoreResult := results.Results[0]
 
 			if i > 0 {
-				score.PlayedMoveScore = (-1 * scoreResult.Score)
+				score.PlayedMoveScore = (-1 * getScore(scoreResult))
+				if score.BestMoves[0] == score.PlayedMove {
+					score.BestMoveScore = (-1 * getScore(scoreResult))
+				}
 				encoder.Encode(score)
-				log.Print("\n")
 			}
 			if i < len(game.Moves) {
 				// make the move on the board
@@ -93,17 +94,31 @@ func main() {
 
 				score =
 					Score{
-						Position:      b.String(),
-						PlayedMove:    move.String(),
-						BestMoves:     scoreResult.BestMoves,
-						BestMoveScore: scoreResult.Score,
-						White:         game.Tags["White"],
-						Black:         game.Tags["Black"],
-						WhiteElo:      game.Tags["WhiteElo"],
-						BlackElo:      game.Tags["BlackElo"],
-						HalfMoves:     i,
+						Position:       b.String(),
+						PlayedMove:     move.String(),
+						BestMoves:      scoreResult.BestMoves,
+						BestMoveScore:  getScore(scoreResult),
+						White:          game.Tags["White"],
+						Black:          game.Tags["Black"],
+						WhiteElo:       game.Tags["WhiteElo"],
+						BlackElo:       game.Tags["BlackElo"],
+						HalfMoves:      i,
+						TotalHalfMoves: len(game.Moves),
+						Event:          game.Tags["Event"],
+						Result:         game.Tags["Result"],
 					}
+				if i%2 == 0 {
+					score.Mover = "White"
+				} else {
+					score.Mover = "Black"
+				}
 			}
 		}
 	}
+}
+
+func main() {
+	log.Print("Listening on port 8080...")
+	http.HandleFunc("/", handler)
+	log.Fatal(http.ListenAndServe(":8080", nil))
 }
