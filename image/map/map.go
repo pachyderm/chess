@@ -68,6 +68,8 @@ func handler(w http.ResponseWriter, r *http.Request) {
 		var score Score
 		// make a new board so we can get FEN positions
 		b := pgn.NewBoard()
+
+		// we want one dummy move after the last one to make our loop easier
 		for i, move := range append(game.Moves, pgn.Move{}) {
 			// set the position on the board
 			eng.SetFEN(b.String())
@@ -118,7 +120,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
-	log.Print("Listening on port 80...")
+	log.Print("Listening on port 8080...")
 	http.HandleFunc("/", handler)
-	log.Fatal(http.ListenAndServe(":80", nil))
+	log.Fatal(http.ListenAndServe(":8080", nil))
 }
