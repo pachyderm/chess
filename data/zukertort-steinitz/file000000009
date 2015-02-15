@@ -1,0 +1,18 @@
+[Event "m New Orlean"]
+[Site "07"]
+[Date "1886.02.26"]
+[EventDate "?"]
+[Round "10"]
+[Result "1/2-1/2"]
+[White "Wilhelm Steinitz"]
+[Black "Johannes Zukertort"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "42"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7
+7.Bd3 O-O 8.Nc3 Nxe5 9.Rxe5 c6 10.b3 Re8 11.Ba3 Bf8 12.Re3
+Rxe3 13.fxe3 Ne4 14.Bxf8 Nxc3 15.Qh5 g6 16.Qe5 Qxf8 17.Qxc3
+Qg7 18.Qxg7+ Kxg7 19.e4 d6 20.Re1 Bd7 21.Kf2 Kg8 1/2-1/2
+

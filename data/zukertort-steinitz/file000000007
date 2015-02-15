@@ -1,0 +1,19 @@
+[Event "Ch World (match)"]
+[Site "New York (USA)"]
+[Date "1886.02.08"]
+[EventDate "?"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Wilhelm Steinitz"]
+[Black "Johannes Zukertort"]
+[ECO "C67"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5
+Be7 7. Bd3 O-O 8. Qh5 f5 9. Nc3 Nxe5 10. Rxe5 g6 11. Qf3 c6
+12. b3 Nf7 13. Re2 d5 14. Bb2 Bf6 15. Rae1 Qd6 16. Re8 Bd7
+17. Rxa8 Rxa8 18. Nd1 Ng5 19. Qe2 Re8 20. Qf1 Bxb2 21. Rxe8+
+Bxe8 22. Nxb2 1/2-1/2
+

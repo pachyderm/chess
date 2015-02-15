@@ -10,7 +10,7 @@ import (
 	"github.com/wfreeman/pgn"
 )
 
-var msPerMove int = 2000
+var msPerMove int = 300
 
 type Score struct {
 	Position        string   `json:"position"`
@@ -26,7 +26,7 @@ type Score struct {
 	TotalHalfMoves  int      `json:"total-half-moves"`
 	Event           string   `json:"event"`
 	Result          string   `json:"result"`
-	Mover           string   `json:"result"`
+	Mover           string   `json:"mover"`
 }
 
 func getScore(s uci.ScoreResult) int {
@@ -63,6 +63,9 @@ func handler(w http.ResponseWriter, r *http.Request) {
 		game, err := ps.Scan()
 		if err != nil {
 			http.Error(w, err.Error(), 500)
+		}
+		if game == nil {
+			continue
 		}
 
 		var score Score
@@ -110,9 +113,9 @@ func handler(w http.ResponseWriter, r *http.Request) {
 						Result:         game.Tags["Result"],
 					}
 				if i%2 == 0 {
-					score.Mover = "White"
+					score.Mover = game.Tags["White"]
 				} else {
-					score.Mover = "Black"
+					score.Mover = game.Tags["Black"]
 				}
 			}
 		}
