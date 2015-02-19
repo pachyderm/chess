@@ -1,5 +1,5 @@
 #!/bin/sh
 for f in `ls file*`
 do
-    curl -sS -XPOST localhost:8080 -T $f >"$f".out
+    curl -sS -XPOST localhost:8080 -T $f >out_"$f"
 done

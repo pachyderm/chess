@@ -6,11 +6,11 @@ import (
 	"math"
 	"net/http"
 
+	"github.com/jdoliner/pgn"
 	"github.com/jdoliner/uci"
-	"github.com/wfreeman/pgn"
 )
 
-var msPerMove int = 300
+var msPerMove int = 10000
 
 type Score struct {
 	Position        string   `json:"position"`
@@ -27,6 +27,7 @@ type Score struct {
 	Event           string   `json:"event"`
 	Result          string   `json:"result"`
 	Mover           string   `json:"mover"`
+	Date            string   `json:"date"`
 }
 
 func getScore(s uci.ScoreResult) int {
@@ -45,15 +46,21 @@ func handler(w http.ResponseWriter, r *http.Request) {
 	eng, err := uci.NewEngine("/usr/games/stockfish")
 	if err != nil {
 		http.Error(w, err.Error(), 500)
+		return
 	}
 
 	// set some engine options
-	eng.SetOptions(uci.Options{
+	err = eng.SetOptions(uci.Options{
 		Hash:    128,
 		Ponder:  false,
 		OwnBook: true,
-		MultiPV: 4,
+		MultiPV: 1,
+		Threads: 20,
 	})
+	if err != nil {
+		http.Error(w, err.Error(), 500)
+		return
+	}
 
 	encoder := json.NewEncoder(w)
 
@@ -75,25 +82,26 @@ func handler(w http.ResponseWriter, r *http.Request) {
 		// we want one dummy move after the last one to make our loop easier
 		for i, move := range append(game.Moves, pgn.Move{}) {
 			// set the position on the board
-			eng.SetFEN(b.String())
+			err := eng.SetFEN(b.String())
+			if err != nil {
+				http.Error(w, err.Error(), 500)
+				return
+			}
 			// print out FEN for each move in the game
 			resultOpts := uci.HighestDepthOnly
 			results, err := eng.Go("movetime", msPerMove, resultOpts)
 			if err != nil {
 				http.Error(w, err.Error(), 500)
+				return
 			}
 			scoreResult := results.Results[0]
+			log.Printf("%+v", scoreResult)
 
 			if i > 0 {
 				score.PlayedMoveScore = (-1 * getScore(scoreResult))
-				if score.BestMoves[0] == score.PlayedMove {
-					score.BestMoveScore = (-1 * getScore(scoreResult))
-				}
 				encoder.Encode(score)
 			}
 			if i < len(game.Moves) {
-				// make the move on the board
-				b.MakeMove(move)
 
 				// Set the score for the last move
 
@@ -111,11 +119,19 @@ func handler(w http.ResponseWriter, r *http.Request) {
 						TotalHalfMoves: len(game.Moves),
 						Event:          game.Tags["Event"],
 						Result:         game.Tags["Result"],
+						Date:           game.Tags["Date"],
 					}
 				if i%2 == 0 {
 					score.Mover = game.Tags["White"]
 				} else {
 					score.Mover = game.Tags["Black"]
+				}
+
+				// make the move on the board
+				err := b.MakeMove(move)
+				if err != nil {
+					http.Error(w, err.Error(), 500)
+					return
 				}
 			}
 		}
@@ -123,7 +139,8 @@ func handler(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
-	log.Print("Listening on port 8080...")
+	log.SetFlags(log.Lshortfile)
+	log.Print("Listening on port 80...")
 	http.HandleFunc("/", handler)
-	log.Fatal(http.ListenAndServe(":8080", nil))
+	log.Fatal(http.ListenAndServe(":80", nil))
 }
