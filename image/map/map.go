@@ -41,6 +41,11 @@ func getScore(s uci.ScoreResult) int {
 }
 
 func handler(w http.ResponseWriter, r *http.Request) {
+	defer func() {
+		if r := recover(); r != nil {
+			log.Println("Recovered in handler.", r)
+		}
+	}()
 	ps := pgn.NewPGNScanner(r.Body)
 
 	eng, err := uci.NewEngine("/usr/games/stockfish")
@@ -94,8 +99,19 @@ func handler(w http.ResponseWriter, r *http.Request) {
 				http.Error(w, err.Error(), 500)
 				return
 			}
+			if len(results.Results) == 0 {
+				results, err = eng.Go("movetime", 5*msPerMove, resultOpts)
+				if err != nil {
+					http.Error(w, err.Error(), 500)
+					return
+				}
+			}
+			if len(results.Results) == 0 {
+				log.Print("No results after 2 runs of engine, aborting game.")
+				http.Error(w, "No results after 2 runs of engine, aborting game.", 500)
+				return
+			}
 			scoreResult := results.Results[0]
-			log.Printf("%+v", scoreResult)
 
 			if i > 0 {
 				score.PlayedMoveScore = (-1 * getScore(scoreResult))

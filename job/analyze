@@ -1,1 +1,1 @@
-{"input" : "s3://pachyderm-data/chess", "type" : "map", "command" : ["/bin/map"], "image" : {{REPO_IMAGE}}, "parallel" : 100}
+{"input" : "s3://pachyderm-data/chess", "type" : "map", "command" : ["/bin/map"], "image" : {{REPO_IMAGE}}, "parallel" : 100, "timeout" : 1200}
