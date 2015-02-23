@@ -100,6 +100,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 				return
 			}
 			if len(results.Results) == 0 {
+				log.Print("Rerunning search...")
 				results, err = eng.Go("movetime", 5*msPerMove, resultOpts)
 				if err != nil {
 					http.Error(w, err.Error(), 500)
