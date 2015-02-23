@@ -60,7 +60,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 		Ponder:  false,
 		OwnBook: true,
 		MultiPV: 1,
-		Threads: 1,
+		Threads: 8,
 	})
 	if err != nil {
 		http.Error(w, err.Error(), 500)
