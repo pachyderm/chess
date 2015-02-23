@@ -10,7 +10,7 @@ import (
 	"github.com/jdoliner/uci"
 )
 
-var msPerMove int = 3000
+var msPerMove int = 1500
 
 type Score struct {
 	Position        string   `json:"position"`
@@ -60,7 +60,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 		Ponder:  false,
 		OwnBook: true,
 		MultiPV: 1,
-		Threads: 8,
+		Threads: 4,
 	})
 	if err != nil {
 		http.Error(w, err.Error(), 500)
