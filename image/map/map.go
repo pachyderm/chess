@@ -10,7 +10,7 @@ import (
 	"github.com/jdoliner/uci"
 )
 
-var msPerMove int = 1500
+var msPerMove int = 5000
 
 type Score struct {
 	Position        string   `json:"position"`
