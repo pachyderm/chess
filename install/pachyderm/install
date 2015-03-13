@@ -1,6 +1,6 @@
 #!/bin/sh
-# Install a git repo on a pfs cluster.
-# Run this from the route of your pfs repo.
+# Install a pipeline on a pfs cluster.
+# Run this from the rout of your pipeline repo
 ###############################################################################
 set -E          # pass trap handlers down to subshells
 #set -x         # execution tracing debug messages

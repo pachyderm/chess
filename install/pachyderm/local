@@ -1,0 +1,32 @@
+#!/bin/sh
+# Install a pipeline on a pfs cluster.
+# Run this from the rout of your pipeline repo
+###############################################################################
+set -E          # pass trap handlers down to subshells
+#set -x         # execution tracing debug messages
+
+USAGE="Usage: $0 [PORT]"
+
+# --- Options processing -------------------------------------------
+if [ $# -gt 1 ] ; then
+    echo $USAGE
+    exit 1;
+fi
+
+PORT=${1:-"650"}
+
+for d in data/sample/*
+do
+    name=$(basename $d)
+    curl -sS -XPOST "localhost:$PORT/file/chess/$name" -T $d
+done
+
+for j in job/*
+do
+    name=$(basename $j)
+    curl -sS -XPOST "localhost:$PORT/job/$name" -T $j
+done
+
+COMMIT=`curl -XPOST "localhost:$PORT/commit?run"`
+echo "Pipeline launched on commit: $COMMIT"
+echo "Output will be available at ~/.pfs/vol/comp-0-1/master/analyze"

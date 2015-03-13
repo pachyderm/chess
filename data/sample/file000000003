@@ -1,0 +1,18 @@
+[Event "analyse"]
+[Site "Rome, Italy"]
+[Date "1512.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Pedro Damiano"]
+[Black "NN"]
+[ECO "C40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "25"]
+
+1. e4 e5 2. Nf3 f6 3. Nxe5 fxe5 4. Qh5+ Ke7 5. Qxe5+ Kf7
+6. Bc4+ d5 7. Bxd5+ Kg6 8. f4 h6 9. f5+ Kh7 10. Bf7 Ne7
+11. Qg3 Nbc6 12. Qg6+ Nxg6 13. fxg6# 1-0
+
+
