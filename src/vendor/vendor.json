@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "GEnFG3yw4hvV+7AskvJ2YWMEij0=",
+			"path": "github.com/freeeve/pgn",
+			"revision": "7aab04331332659124a1b27eeaf4a048d88f597e",
+			"revisionTime": "2016-05-15T05:25:45Z"
+		},
+		{
+			"checksumSHA1": "P/69truZ+Hl7bugfAkxJJ6GNxdQ=",
+			"path": "github.com/freeeve/uci",
+			"revision": "7f6c8ab3e6cfa7308fdf2f3591e52c64a695f159",
+			"revisionTime": "2016-01-14T02:53:09Z"
+		}
+	],
+	"rootPath": "github.com/pachyderm/chess/src"
+}
