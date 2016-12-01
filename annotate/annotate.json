@@ -1,0 +1,21 @@
+{
+  "pipeline": {
+    "name": "annotate"
+  },
+  "transform": {
+    "cmd": [ "/annotate" ],
+    "image": "pachyderm/chess-annotate"
+  },
+  "parallelism_spec": {
+    "strategy": "CONSTANT",
+    "constant": "2"
+  },
+  "inputs": [
+    {
+      "repo": {
+        "name": "chess"
+      },
+      "method": "reduce"
+    }
+  ]
+}

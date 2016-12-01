@@ -1,19 +1,19 @@
 {
   "pipeline": {
-    "name": "annotate"
+    "name": "analyze"
   },
   "transform": {
-    "cmd": [ "/go/bin/annotate" ],
-    "image": "chess"
+    "cmd": [ "python", "/analyze.py" ],
+    "image": "pachyderm/chess-analyze"
   },
   "parallelism_spec": {
     "strategy": "CONSTANT",
-    "constant": "1"
+    "constant": "2"
   },
   "inputs": [
     {
       "repo": {
-        "name": "chess"
+        "name": "annotate"
       },
       "method": "reduce"
     }

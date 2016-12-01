@@ -1,6 +1,6 @@
 # Chess repo
 This repo contains code to perform distributed analysis on chess games (.pgn files).
-It was used to create this [article](https://medium.com/@jdoliner/when-grandmasters-blunder-a819860b883d).
+The analyses in [old_version](old_version) was used to create this [article](https://medium.com/@jdoliner/when-grandmasters-blunder-a819860b883d).
 
 # Overview
 ## data
