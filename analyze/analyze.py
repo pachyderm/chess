@@ -34,19 +34,21 @@ for root, dirs, filenames in os.walk(indir):
                     black.append([black_move, score_diff])
                     black_move += 1
 
+                threshold = 20
+
                 if parsed_move["played-move-score"] == 0:
                     result.append([overall_move_num, 0.5])
                     overall_move_num += 1
-                elif parsed_move["played-move-score"] > 0 and parsed_move["mover"] == parsed_move["white"]:
+                elif parsed_move["played-move-score"] > threshold and parsed_move["mover"] == parsed_move["white"]:
                     result.append([overall_move_num, 1])
                     overall_move_num += 1
-                elif parsed_move["played-move-score"] < 0 and parsed_move["mover"] == parsed_move["white"]:
+                elif parsed_move["played-move-score"] < -threshold and parsed_move["mover"] == parsed_move["white"]:
                     result.append([overall_move_num, 0])
                     overall_move_num += 1
-                elif parsed_move["played-move-score"] > 0 and parsed_move["mover"] == parsed_move["black"]:
+                elif parsed_move["played-move-score"] > threshold and parsed_move["mover"] == parsed_move["black"]:
                     result.append([overall_move_num, 0])
                     overall_move_num += 1
-                elif parsed_move["played-move-score"] < 0 and parsed_move["mover"] == parsed_move["black"]:
+                elif parsed_move["played-move-score"] < -threshold and parsed_move["mover"] == parsed_move["black"]:
                     result.append([overall_move_num, 1])
                     overall_move_num += 1
 
