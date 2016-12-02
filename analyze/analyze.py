@@ -50,6 +50,7 @@ for root, dirs, filenames in os.walk(indir):
                     result.append([overall_move_num, 1])
                     overall_move_num += 1
 
+        # Plot the results.
         whiteDF = pd.DataFrame(white, columns=["move", "score_diff"])
         blackDF = pd.DataFrame(black, columns=["move", "score_diff"])
         resultDF = pd.DataFrame(result, columns=["move", "result"])
@@ -77,4 +78,8 @@ for root, dirs, filenames in os.walk(indir):
 
         plt.tight_layout()
         plt.savefig('/pfs/out/' + game_file)
+
+        # Output the score_diffs.
+        whiteDF.to_csv("/pfs/out/white_" + game_file + ".csv")
+        blackDF.to_csv("/pfs/out/black_" + game_file + ".csv")
 

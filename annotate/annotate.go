@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"fmt"
 	"log"
 	"math"
 	"os"
@@ -49,6 +50,8 @@ func getScore(s uci.ScoreResult) int {
 
 func main() {
 	if err := filepath.Walk("/pfs/chess", func(path string, info os.FileInfo, err error) error {
+		fmt.Println(info.Name())
+
 		if info.IsDir() {
 			return nil
 		}
@@ -107,6 +110,9 @@ func main() {
 				if err != nil {
 					return err
 				}
+				if len(results.Results) == 0 {
+					continue
+				}
 				scoreResult := results.Results[0]
 
 				if i > 0 {
@@ -114,6 +120,8 @@ func main() {
 					encoder.Encode(score)
 				}
 				if i < len(game.Moves) {
+
+					fmt.Printf("move #: %d\n", i)
 
 					// Set the score for the last move
 
