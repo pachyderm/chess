@@ -19,8 +19,8 @@ for root, dirs, filenames in os.walk(indir):
             
             white_move = 1
             black_move = 1
-            overall_move_num = 1
-        
+            overall_move_num = 1.0
+
             for move in analyzed_game:
                 
                 parsed_move = json.loads(move)
@@ -34,21 +34,26 @@ for root, dirs, filenames in os.walk(indir):
                     black.append([black_move, score_diff])
                     black_move += 1
 
+                threshold = 30
+
                 if parsed_move["played-move-score"] == 0:
                     result.append([overall_move_num, 0.5])
-                    overall_move_num += 1
-                elif parsed_move["played-move-score"] > 0 and parsed_move["mover"] == parsed_move["white"]:
+                    overall_move_num += 0.5
+                elif parsed_move["played-move-score"] > threshold and parsed_move["mover"] == parsed_move["white"]:
                     result.append([overall_move_num, 1])
-                    overall_move_num += 1
-                elif parsed_move["played-move-score"] < 0 and parsed_move["mover"] == parsed_move["white"]:
+                    overall_move_num += 0.5
+                elif parsed_move["played-move-score"] < -threshold and parsed_move["mover"] == parsed_move["white"]:
                     result.append([overall_move_num, 0])
-                    overall_move_num += 1
-                elif parsed_move["played-move-score"] > 0 and parsed_move["mover"] == parsed_move["black"]:
+                    overall_move_num += 0.5
+                elif parsed_move["played-move-score"] > threshold and parsed_move["mover"] == parsed_move["black"]:
                     result.append([overall_move_num, 0])
-                    overall_move_num += 1
-                elif parsed_move["played-move-score"] < 0 and parsed_move["mover"] == parsed_move["black"]:
+                    overall_move_num += 0.5
+                elif parsed_move["played-move-score"] < -threshold and parsed_move["mover"] == parsed_move["black"]:
                     result.append([overall_move_num, 1])
-                    overall_move_num += 1
+                    overall_move_num += 0.5
+                else:
+                    result.append([overall_move_num, 0.5])
+                    overall_move_num += 0.5
 
         # Plot the results.
         whiteDF = pd.DataFrame(white, columns=["move", "score_diff"])
@@ -59,19 +64,19 @@ for root, dirs, filenames in os.walk(indir):
 
         axarr[0].plot(whiteDF["move"], whiteDF["score_diff"])
         axarr[0].set_title('White - ' + parsed_move["white"])
-        axarr[0].set_xlabel("White move number")
+        axarr[0].set_xlabel("move")
         axarr[0].set_ylabel("score delta (centipawns)")
         axarr[0].set_ylim([-200, 20])
 
         axarr[1].plot(blackDF["move"], blackDF["score_diff"])
         axarr[1].set_title('Black - ' + parsed_move["black"])
-        axarr[1].set_xlabel("Black move number")
+        axarr[1].set_xlabel("move")
         axarr[1].set_ylabel("score delta (centipawns)")
         axarr[1].set_ylim([-200, 20])
 
         axarr[2].plot(resultDF["move"], resultDF["result"])
-        axarr[2].set_title('Winning')
-        axarr[2].set_xlabel("Overall move number")
+        axarr[2].set_title('Winning (by at least 0.3 pawns)')
+        axarr[2].set_xlabel("move")
         axarr[2].set_ylim([-0.2, 1.2])
         axarr[2].set_yticks([0, 0.5, 1])
         axarr[2].set_yticklabels(["Black", "Even", "White"])
