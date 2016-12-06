@@ -48,7 +48,7 @@ resultsDF[player2] = resultsDF['game'].map(lambda x: results2[x])
 resultsDF.set_index('game', inplace=True)
 
 ax = resultsDF.plot(kind='bar', rot=0)
-ax.set_ylabel("0.5+ pawn blunders")
+ax.set_ylabel("1+ pawn blunders")
 ax.set_xlabel("game (* indicates a rapid game)")
 ax.set_xticks(range(0, last_game))
 ax.set_xticklabels(['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', 
